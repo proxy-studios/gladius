@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Aircraft" value="虚空港口"/>
+	<entry name="AstraMilitarum/AircraftDescription" value="该建筑能够生产飞行器, 并产出矿石和影响力."/>
+	<entry name="AstraMilitarum/AircraftFlavor" value="这片着陆场是专门为大型飞行器而设计 -- 几乎已经达到了系统内部的级别 -- 但随着无尽扭曲风暴的到来, 这里被再次用于接纳帝国的空军部队. 它与天盾的着陆垫非常类似, 有限的力场生成器能够保护停驻于地面的飞行器免受攻击."/>
+	<entry name="AstraMilitarum/Construction" value="劳工营"/>
+	<entry name="AstraMilitarum/ConstructionDescription" value="该建筑能够建造其他新建筑, 并产出影响力."/>
+	<entry name="AstraMilitarum/ConstructionFlavor" value="尽管整个帝国的管理是由政务部负责, 但军务部则专门为帝国卫队提供人力和物资. 军务部的一大主要任务就是负责修建各种设施, 比如机场或者轨道站. 进行该工作的可怜虫们将被分配至劳工营, 他们中的绝大多数都是因受到契约或刑罚约束的工人, 或者是被洗脑过的奴工. "/>
+	<entry name="AstraMilitarum/Energy" value="等离子发生器"/>
+	<entry name="AstraMilitarum/EnergyDescription" value="能够产生能量的建筑."/>
+	<entry name="AstraMilitarum/EnergyFlavor" value="虽然远古时期的人们可能已经掌握了分裂原子的技术, 但帝国的科技神甫们已经花费了数千年时间来让这个吸取能量的过程变得完美无瑕. 开核等离子发生器使用冷却剂灌注系统, 能够一次性稳定输出大约100拍瓦的功率长达100天 -- 这个数值大约是史上最大的裂变装置所能释放出能量的10,000倍."/>
+	<entry name="AstraMilitarum/Food" value="转基因农场"/>
+	<entry name="AstraMilitarum/FoodDescription" value="该建筑能够收获食物."/>
+	<entry name="AstraMilitarum/FoodFlavor" value="这些绿色的转基因食物能够轻松填饱肚子, 它们富含营养而且能够在大缸里生长 -- 但作为食物它却有不少缺点. 第一, 它根本就没什么味道可言. 第二, 它看上去就像一团绿色的胶. 第三, 它可以由任何有机物质生成, 甚至有传言说人类的尸体也包括在内."/>
+	<entry name="AstraMilitarum/Loyalty" value="帝国圣堂"/>
+	<entry name="AstraMilitarum/LoyaltyDescription" value="该建筑能够提高忠诚度."/>
+	<entry name="AstraMilitarum/LoyaltyFlavor" value="当地人对于帝国的崇拜可能显得比较阴暗并且充满了哥特式风格, 但这座圣堂确实一个神圣的地方. 这里以圣贤雕像作为装饰, 它是帝皇神圣意志的有力象征. 帝国圣堂能够为附近的民众带来鼓舞和启迪."/>
+	<entry name="AstraMilitarum/Headquarters" value="政务大教堂"/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="能够产生资源的指挥中心建筑."/>
+	<entry name="AstraMilitarum/HeadquartersFlavor" value="作为帝国殖民地的核心行政机构, 宏伟的大教堂正是官僚主义的象征. 一代又一代的官员在这里操劳一生, 他们所戳下的每一个印记都将决定着这片星系的命运. 俗话说, 审判庭可以烧死你, 阿斯塔特战会可以惩罚你 -- 但只有政务部才能够折磨你一辈子."/>
+	<entry name="AstraMilitarum/Heroes" value="天鹰圣殿"/>
+	<entry name="AstraMilitarum/HeroesDescription" value="该建筑能够生产英雄和影响力, 同时能够提高忠诚度."/>
+	<entry name="AstraMilitarum/HeroesFlavor" value="这只巨大的金属雄鹰不仅仅只是一尊雕像, 它是由宇宙飞船的残骸重新铸造而成, 能够为附近的人们不断地带来灵感和激励. 帝国的军队在天鹰的注视之下进行战斗, 他们在心中暗下决心, 因为自己将成为征服星系的最后一名英雄."/>
+	<entry name="AstraMilitarum/Housing" value="哈布块"/>
+	<entry name="AstraMilitarum/HousingDescription" value="该建筑能够提高人口上限."/>
+	<entry name="AstraMilitarum/HousingFlavor" value="经典的帝国建筑, 它们见证着整个帝国的历史. 这些建筑能够提供最低限度的庇护和舒适度, 不至于让帝国的人民流浪在街头. 随着殖民地的发展, 这些建筑有时候会直接在原地上兴建 -- 但更多的时候, 尤其是在其他遥远的星球, 它们将直接从殖民飞船上进行空投."/>
+	<entry name="AstraMilitarum/Infantry" value="帝国兵营"/>
+	<entry name="AstraMilitarum/InfantryDescription" value="该建筑能够生产步兵, 并提高人口上限和忠诚度."/>
+	<entry name="AstraMilitarum/InfantryFlavor" value="尽管训练中的帝国守卫新兵还没有遭受过来自阿斯塔特所带来的恐惧, 但军务部依然会将帝国的约束带给这些即将成为帝国守卫的男男女女. 在这里的兵营中, 看不到希望的应征者将被打造成帝国卫队 -- 他们将获得制服, 枪支, 甚至是一些训练."/>
+	<entry name="AstraMilitarum/Influence" value="沉思者基站"/>
+	<entry name="AstraMilitarum/InfluenceDescription" value="该建筑能够产生影响力."/>
+	<entry name="AstraMilitarum/InfluenceFlavor" value="自从铁人殒落以来, 人工智能技术一直遭受着人们的憎恨. 不过相比较而言, 这些服务于政务部的超级数据处理设备与远古时期的计算机甚至是火星科技神甫所使用的微处理器非常不同. 沉思者的运转充满着官僚主义作风, 它们的形式也是亘古不变. 直至现在, 它们的存储能力依然为每一个帝国世界所重视."/>
+	<entry name="AstraMilitarum/Ore" value="矿石提取器"/>
+	<entry name="AstraMilitarum/OreDescription" value="该建筑能够开采矿石."/>
+	<entry name="AstraMilitarum/OreFlavor" value="根据所处星球的不同, 对金属矿石以及珍贵矿物的开采将由控制古代机械的科技神甫或者是成千上万的劳工营工人所负责. 他们以这样的方式在战争中发挥着自己的作用."/>
+	<entry name="AstraMilitarum/Psykers" value="灵能者议会"/>
+	<entry name="AstraMilitarum/PsykersDescription" value="该建筑能够生产灵能者, 并产出能量和影响力."/>
+	<entry name="AstraMilitarum/PsykersFlavor" value="当扭曲风暴爆发时, 像和平时期那样利用灵能者 -- 用来进行远距离通信 -- 是毫无意义的. 同样, 如果无法抵达黑色舰船, 那么多余的灵能者也无法传送至泰拉, 并作为金色王座的祭品而牺牲掉. 他们中的绝大多数最终会遭到处决, 但只有少数能够被帝国所选中, 成为灵能惩戒者."/>
+	<entry name="AstraMilitarum/Research" value="战术办公室"/>
+	<entry name="AstraMilitarum/ResearchDescription" value="该建筑能够进行研究."/>
+	<entry name="AstraMilitarum/ResearchFlavor" value="想要成为帝国卫队中的官员是一件极为困难的事, 有时候甚至需要冒着生命危险. 不过一种最为安全的办法就是加入战术办公室, 在这里最具智慧的战术分析师将分析所有的军事行动并将参阅大量的建议. 他们同时也会记录自己现有的活动, 以方便后人进行学习."/>
+	<entry name="AstraMilitarum/Upgrades" value="狂热机械神教圣殿"/>
+	<entry name="AstraMilitarum/UpgradesDescription" value="该建筑能够生产科技神甫, 并能够产出研究."/>
+	<entry name="AstraMilitarum/UpgradesFlavor" value="如果不是拥有巨大的价值, 科技神甫们必然会因为崇拜'万能机械神'而遭到排挤. 取而代之的是一个默契; 科技神甫们公开承认帝皇就是他们的万能机械神, 并且内政部也同意不会过度干涉."/>
+	<entry name="AstraMilitarum/Vehicles" value="制造中心"/>
+	<entry name="AstraMilitarum/VehiclesDescription" value="该建筑能够生产地面载具, 并产出矿石和研究."/>
+	<entry name="AstraMilitarum/VehiclesFlavor" value="如果用'工厂'来形容帝国载具制造中心, 这就好比用小虫子来形容卡塔昌恶魔. 制造中心的环形结构异常巨大, 作为万能机械神的禁殿, 他的奇迹在此诞生 -- 各类战争载具将会从这里源源不断地驶出. 在内部, 卑微的仆从们永远也见不到外面的星球是什么样子, 因为他们将不断地为火星引擎奉献自己."/>
+	<entry name="CompendiumFlavor" value="从欧克兽人的杂乱窝棚, 到人类帝国容纳数十亿人口的区域, 到艾尔达漂浮在宇宙中的方舟世界, 再到太空死灵的远古石墓, 几乎所有的种族都会生产构筑体来满足他们的需要 -- 不论是为了建设, 寻求庇护, 或者仅仅只是为了荣耀. 可能只有贪婪寻找生物材料的泰伦虫族不需要永久的建筑, 取而代之的是各种半移动的分娩有机体..."/>
+	<entry name="Necrons/Aircraft" value="无名堤道"/>
+	<entry name="Necrons/AircraftDescription" value="该建筑能够生产飞行器, 并产出能量, 研究, 影响力并提高忠诚度."/>
+	<entry name="Necrons/AircraftFlavor" value="如果说太空死灵是宇宙中的恐惧之源, 那它们的飞行器所带来的恐惧几乎是双倍的. 灾镰战机和暗镰战机行动迅速而又坚硬无比, 它们对于对手而言相当致命. 太空死灵的飞行器将从苍凉而又巨大的岩石中发射出来, 它们将以压制性的进攻迅速消灭敌人."/>
+	<entry name="Necrons/Construction" value="奴隶石墓"/>
+	<entry name="Necrons/ConstructionDescription" value="该建筑能够建造其他新建筑, 同时产生影响力并提高忠诚度."/>
+	<entry name="Necrons/ConstructionFlavor" value="在太空死灵的社会中, 每个人都有自己的位置. 古贤者所塑造的弱小血肉种族在残破的庇护所中度日如年, 他们交出自己的食物, 接着被送往挖掘太空死灵那埋葬已久的墓穴, 并将它们从沉睡中唤醒过来."/>
+	<entry name="Necrons/Energy" value="能量核心"/>
+	<entry name="Necrons/EnergyDescription" value="该建筑能够产生能量."/>
+	<entry name="Necrons/EnergyFlavor" value="太空死灵的科技源自于能量核心, 它的力量甚至比人类帝国的等离子发生器还要强大 -- 毕竟太空死灵王朝依赖于此, 就如同其他种族依赖水和食物一样."/>
+	<entry name="Necrons/Loyalty" value="巴洛克神殿"/>
+	<entry name="Necrons/LoyaltyDescription" value="该建筑能够提高忠诚度."/>
+	<entry name="Necrons/LoyaltyFlavor" value="尽管石碑上铭刻着惧亡者的胜利和荣耀, 但这座神殿却记录着一个更加黑暗的故事.它讲述了太空死灵是如何转化为金属之躯以及如何被星神所征服, 沉默之王萨雷赫的背叛, 以及星神最终的毁灭. 哪怕是没有灵魂太空死灵, 来到这里也会变得肃然起敬."/>
+	<entry name="Necrons/Headquarters" value="皇家庭院"/>
+	<entry name="Necrons/HeadquartersDescription" value="能够产生资源的指挥中心建筑."/>
+	<entry name="Necrons/HeadquartersFlavor" value="太空死灵法老的王座和庭院显得宏伟而苍凉, 它是太空死灵中少数不以死亡崇拜而修建的建筑. 相反, 这里坚实的高墙恰恰反应出很久以前太空死灵们所遭受的致命辐射, 在当时他们还是弱小的血肉之躯."/>
+	<entry name="Necrons/Heroes" value="皇家金字塔"/>
+	<entry name="Necrons/HeroesDescription" value="该建筑能够生产英雄, 并且产生影响力并提高忠诚度."/>
+	<entry name="Necrons/HeroesFlavor" value="太空死灵法老和霸主们的坟墓. 最为忠诚和重要的仆从们在这里沉睡以等待宇宙中新一次的机会. 即使是现在, 伟大的英雄依然长眠于其核心之中, 等待主人的召唤."/>
+	<entry name="Necrons/Housing" value="庇护所"/>
+	<entry name="Necrons/HousingDescription" value="该建筑能够提高人口上限."/>
+	<entry name="Necrons/HousingFlavor" value="由于太空死灵不需要水, 食物和娱乐, 因此这些庇护所并不像人类的所居住的房子或者兽人的窝棚那样. 相反, 它们更像是兵营, 坟墓和工坊的结合体, 无数的地宫技师穿梭于蛰伏着的太空死灵战士之间, 不断地为它们进行维护和修理."/>
+	<entry name="Necrons/Infantry" value="召唤核心"/>
+	<entry name="Necrons/InfantryDescription" value="该建筑能够生产步兵和生物, 并且产出研究和影响力."/>
+	<entry name="Necrons/InfantryFlavor" value="彻底唤醒沉睡已久的太空死灵王朝是一件非常缓慢的事情, 因为它们几乎都需要进行修理. 召唤核心的地宫技师以及墓穴构造体不断地拯救召唤回城市的同胞 -- 将它们的剩余部分进行拆解并收集稀有的材料."/>
+	<entry name="Necrons/Influence" value="石碑"/>
+	<entry name="Necrons/InfluenceDescription" value="该建筑能够产生影响力."/>
+	<entry name="Necrons/InfluenceFlavor" value="这些由古老巨石和金属所制成的宏伟圆柱直指苍穹, 每一座都记录着太空死灵王朝及其法老们的统治历史. 哪怕是帝国最愚钝的子民在看到这些记录之后也会变得惶恐不安."/>
+	<entry name="Necrons/Ore" value="炼金采石场"/>
+	<entry name="Necrons/OreDescription" value="该建筑能够开采矿石."/>
+	<entry name="Necrons/OreFlavor" value="为了寻找能够让地宫技师维护修理活体金属以及太空死灵军队武器的稀有材料, 无数的奴隶生活在炼金采石场和熔炉并最终在这里死去. 尽管只有一小部分产出会被使用 -- 但这对于太空死灵们的生存至关重要."/>
+	<entry name="Necrons/Research" value="禁忌档案室"/>
+	<entry name="Necrons/ResearchDescription" value="该建筑能够进行研究."/>
+	<entry name="Necrons/ResearchFlavor" value="在衰落之前, 太空死灵的地宫技师就已经掌握了可怕的技术, 它们操纵物质和能量的能力对于低等种族来说简直就是魔法一般. 随着一代又一代地学习,  它们最终成为了不死之身, 而地宫技师密会也变得史无前例的强大 -- 但数千年的时间里它们却停滞不前. 在这些档案中, 密会一直在寻找着远古智慧, 而不是去发现新生宇宙的秘密."/>
+	<entry name="Necrons/Vehicles" value="多柱神庙"/>
+	<entry name="Necrons/VehiclesDescription" value="该建筑能够生产地面载具, 同时提高忠诚度."/>
+	<entry name="Necrons/VehiclesFlavor" value="这些高大的建筑内部拥有排列整齐的圆柱. 在这些柱子之间则停靠着太空死灵最为强大的战争机器. 未激活的末日方舟, 歼灭者炮艇, 符石巨塔和方尖碑整齐的排列在一起, 等待着领主召唤."/>
+	<entry name="Orks/Beasts" value="监工场"/>
+	<entry name="Orks/BeastsDescription" value="该建筑能够生产野兽, 同时产出食物并提高忠诚度."/>
+	<entry name="Orks/BeastsFlavor" value="兽人监工在欧克兽人社会中承担了很多繁重的工作, 包括监督屁精进行修建, 史奎格提供各种资源, 以及为史奎格提供食物并进行照料的鼻涕精. 然而在这些场地中它们还负责监督更大型的项目 -- 比如训练屁精枪队以及饲养巨型史格古巨兽."/>
+	<entry name="Orks/Colonizers" value="技师小院"/>
+	<entry name="Orks/ColonizersDescription" value="该建筑能够生产兽人技师与屁精大炮, 同时产出研究."/>
+	<entry name="Orks/ColonizersFlavor" value="兽人技师从来都不知道当灵感到来时自己会突然需要一些什么东西. 正是因为这个原因, 兽人技师的院子里堆满了破烂的载具, 机器和工具以备不时之需, 而可怜的屁精还在不断地往里面运东西."/>
+	<entry name="Orks/Construction" value="垃圾场"/>
+	<entry name="Orks/ConstructionDescription" value="该建筑能够建造其他新建筑, 同时产生影响力并提高人口上限."/>
+	<entry name="Orks/ConstructionFlavor" value="欧克兽人的建筑都是由废旧材料以及兽人技师不需要的垃圾所建成的. 屁精们可不懂什么建筑学, 只要它们打得好, 欧克兽人们就不在乎."/>
+	<entry name="Orks/Energy" value="动力小屋"/>
+	<entry name="Orks/EnergyDescription" value="该建筑能够产生能量."/>
+	<entry name="Orks/EnergyFlavor" value="似乎没有必要让欧克兽人近距离观察为世界提供能量的生成器是如何运转的. 这是因为兽人技师所生产出来的绝大多数技术都缺少关键部件, 基本上无法工作 -- 不知道欧克兽人们为何完全无视了这一点."/>
+	<entry name="Orks/Food" value="史奎格牧场"/>
+	<entry name="Orks/FoodDescription" value="该建筑能够收获食物."/>
+	<entry name="Orks/FoodFlavor" value="史奎格对于欧克兽人们的生存至关重要. 这些小小的生物种类繁多并伴随着每一名兽人, 而且还能够从社会和科学的角度奉献自己 -- 比如充当假发, 提供石油, 以及被做成食物."/>
+	<entry name="Orks/Loyalty" value="决斗坑"/>
+	<entry name="Orks/LoyaltyDescription" value="该建筑能够提高忠诚度."/>
+	<entry name="Orks/LoyaltyFlavor" value="欧克兽人所建立的统治从来都不是靠嘴巴, 而是通过暴力. 兽人老大或者是战争首领拥有更为巨大的体魄 -- 它们战斗的时间越长, 就会变得越大. 争夺统治或解决纠纷通常都会在这充满仪式感的决斗坑中进行, 同时为整个兽人群体带来娱乐. (然而一名很不幸地兽人却把这里跟另一个类似的地方 -- 兽人马桶给弄混淆了.)"/>
+	<entry name="Orks/Headquarters" value="首领高塔"/>
+	<entry name="Orks/HeadquartersDescription" value="能够产生资源的指挥中心建筑."/>
+	<entry name="Orks/HeadquartersFlavor" value="一旦战争首领聚集了一定规模的部队, 它就不能用仁慈的手段来教育兽人小子们了. 首领高塔既是首领生活的地方, 同时它也能在这里好好教训自己的手下."/>
+	<entry name="Orks/Heroes" value="指挥营"/>
+	<entry name="Orks/HeroesDescription" value="该建筑能够生产英雄, 同时产生影响力并提高忠诚度."/>
+	<entry name="Orks/HeroesFlavor" value="欧克兽人中的血斧部族有些刻意被其他同胞疏远, 它们算不上是'真正的兽人'. 这是因为在过去的一千年来它们与人类走得很近, 并且学会了一些非常'不兽人'的行为, 比如学会使用战术以及逃跑. 血斧指挥官们则更加智慧, 它们甚至学会使用伪装来给敌人惊喜."/>
+	<entry name="Orks/Housing" value="屁精小屋"/>
+	<entry name="Orks/HousingDescription" value="该建筑能够提高人口上限."/>
+	<entry name="Orks/HousingFlavor" value="有意思的是, 屁精小屋似乎要比欧克兽人的窝棚好上不少. 虽然从外面看上去屁精小屋摇摇晃晃, 破败不堪, 而里面是由蘑菇, 史奎格, 鼻涕精以及各种垃圾进行的装饰. 但至少从个性和自豪感的角度来说, 欧克兽人的窝棚是没有的."/>
+	<entry name="Orks/Infantry" value="砰砰仓库"/>
+	<entry name="Orks/InfantryDescription" value="该建筑能够生产步兵和行者, 同时提高忠诚度."/>
+	<entry name="Orks/InfantryFlavor" value="'什么东西比枪更好?' 一名欧克兽人问到. '更大的枪', 另一个回答. 在战斗开始前不久, 它们也依然相信比最大的枪更好的东西, 是一大堆的枪. 正如我们在这里看到的 -- 兽人技师制造出各种形状各种大小的枪支随意地堆放, 它们将在战斗开始前分发给兽人步兵和杀人罐头."/>
+	<entry name="Orks/Influence" value="怪异小子之柱"/>
+	<entry name="Orks/InfluenceDescription" value="该建筑能够产生影响力."/>
+	<entry name="Orks/InfluenceFlavor" value="欧克兽人中的灵能者被叫做怪异小子, 即便是在最宁静的日子里它们也整日处于危险之中, 因为它们需要不断地积累哇!能量 -- 站在部落中间大脑爆发出连锁反应是非常常见的. 这根巨大的金属柱子就是欧克兽人的巧妙答案, 只需把灵能者绑在柱子上, 然后把灵能爆发接地就行."/>
+	<entry name="Orks/Ore" value="挖掘机与熔炉"/>
+	<entry name="Orks/OreDescription" value="该建筑能够开采矿石."/>
+	<entry name="Orks/OreFlavor" value="当欧克兽人无法获得废料时, 它们就会命令小屁精奴隶去开采富含矿物的岩石. 尽管部族里的欧克兽人很乐意使用劳动力和鞭子, 但兽人技师们却使用荒谬而粗鲁的方法创造出了能够开采矿石的新发明, 当然那些不幸的小屁精操纵者们可就悲剧了."/>
+	<entry name="Orks/Research" value="思想容器"/>
+	<entry name="Orks/ResearchDescription" value="该建筑能够进行研究."/>
+	<entry name="Orks/ResearchFlavor" value="欧克兽人流传最广的传说莫过于它们消失已久的创造者, '脑男孩'. 欧克兽人们相信正是他将高度先进的科技融入到了他们的基因之中. 兽人技师和医师展现出了这种学识 -- 所以最适合把它们给锁进思想容器里, 直到想出好点子为止."/>
+	<entry name="Orks/Vehicles" value="急速狂热"/>
+	<entry name="Orks/VehiclesDescription" value="该建筑能够生产轮式载具及飞行器, 同时产生影响力."/>
+	<entry name="Orks/VehiclesFlavor" value="尽管欧克兽人们依然热爱战争和大爆炸, 但其中的有一些似乎对速度更加青睐. 他们像着了魔一样不断地改装自行车和飞机, 去掉上面所有的安全装置, 几乎想要直接坐在巨大的引擎上 --- 而且还要涂成红色. 为什么? 因为'红色速度更快'."/>
+	<entry name="SpaceMarines/Aircraft" value="发射台"/>
+	<entry name="SpaceMarines/AircraftDescription" value="该建筑能够生产飞行器, 同时产生征募和影响力."/>
+	<entry name="SpaceMarines/AircraftFlavor" value="这里停放着战团的攻击战斗机和运输机, 士兵们也将从这里开始他们无尽的远征. 要塞修道院的主力炮艇, 拦截机, 登陆艇以及强大的雷鹰炮艇都隐藏在位于发射台下方的机库中."/>
+	<entry name="SpaceMarines/Construction" value="轨道中继器"/>
+	<entry name="SpaceMarines/ConstructionDescription" value="该建筑能够建造其他新建筑, 并且产生影响力."/>
+	<entry name="SpaceMarines/ConstructionFlavor" value="在正常情况下, 各种传送技术主要用于输送部队往返于附近的飞船. 但在扭曲风暴时期, 轨道中继器充当着更为重要的角色, 即与低轨道战斗驳船进行通信并进行快速地面部署."/>
+	<entry name="SpaceMarines/Energy" value="生成器"/>
+	<entry name="SpaceMarines/EnergyDescription" value="该建筑能够产生能量."/>
+	<entry name="SpaceMarines/EnergyFlavor" value="尽管帝皇的光辉是每一个战团的力量来源, 但物理上的能量也同样需要. 不同的战团其生成器各不相同. 比如太空野狼战团就将巨大的水晶轴深入芬里斯的地下, 将其内部的热力转化成为要塞修道院所需要的无穷能量."/>
+	<entry name="SpaceMarines/GeneseedBunker" value="基因种子地堡"/>
+	<entry name="SpaceMarines/GeneseedBunkerDescription" value="该建筑能够储存战团的基因种子, 同时产生影响力."/>
+	<entry name="SpaceMarines/GeneseedBunkerFlavor" value="科技战士们运用机械之魂的秘密所打造出的这座地堡受到了很好地保护 -- 不论是物理上的, 电磁上的还是灵能上的. 它的修建耗费了数百名奴工的劳力, 但即使是战团的战士们不幸遇难, 这里的药剂师和基因种子能够最终...将其复活."/>
+	<entry name="SpaceMarines/Headquarters" value="大礼堂"/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="能够产生资源的指挥中心建筑."/>
+	<entry name="SpaceMarines/HeadquartersFlavor" value="每一座要塞修道院都拥有无数足以容纳好几支军队的大厅, 但同时也会拥有一座大礼堂, 这里才是战团最核心的地方. 奖杯, 圣物甚至是备受崇敬的宇宙飞船都将陈列在这里. 如果大礼堂的视野不足以让参观者惊讶地说不出话, 那么它的存在就是失败的."/>
+	<entry name="SpaceMarines/Heroes" value="隐修室"/>
+	<entry name="SpaceMarines/HeroesDescription" value="该建筑能够生产英雄, 同时产生影响力并提高忠诚度."/>
+	<entry name="SpaceMarines/HeroesFlavor" value="在少数需要所有成员都出席的仪式中, 隐修室能够为整个战团提供集会之处. 这是整个要塞修道院最为重要的地方 -- 这里存放着最为珍贵的圣物, 甚至是无比稀有的原体. 与此同时, 战团指挥官和英雄也会出现在这里."/>
+	<entry name="SpaceMarines/Housing" value="集体宿舍"/>
+	<entry name="SpaceMarines/HousingDescription" value="该建筑能够提高人口上限."/>
+	<entry name="SpaceMarines/HousingFlavor" value="尽管每一名战斗兄弟都拥有自己的单人居所, 但战团中那些不直接执行帝皇意志的成员只能栖身于分散在要塞修道院四处的公共房间. 包括仆从, 护士以及技师在内的支持人员把这里当作他们自己的家."/>
+	<entry name="SpaceMarines/Infantry" value="医务室"/>
+	<entry name="SpaceMarines/InfantryDescription" value="该建筑能够生产步兵, 同时产生研究并提高忠诚度."/>
+	<entry name="SpaceMarines/InfantryFlavor" value="医务室能够为受伤的战斗兄弟提供治疗支援, 同时也负责将新加入的成员培养成为真正的星际战士. 不过医务室的这两个功能相比另一个却显得微不足道 -- 它还负责保存战团的基因种子, 这些种子能够用来创造新的星际战士. 如果基因种子遗失, 意味着战团将会走向灭亡."/>
+	<entry name="SpaceMarines/Influence" value="同化大厅"/>
+	<entry name="SpaceMarines/InfluenceDescription" value="该建筑能够产生影响力."/>
+	<entry name="SpaceMarines/InfluenceFlavor" value="这是一处巨大的集会地点, 战团中的所有成员都能够聚集在此参加简报会, 仪式甚至是特殊的宴会. 在绝大多数要塞修道院中, 只有大礼堂的规模会超过这里."/>
+	<entry name="SpaceMarines/Loyalty" value="连队礼拜堂"/>
+	<entry name="SpaceMarines/LoyaltyDescription" value="该建筑能够提高忠诚度."/>
+	<entry name="SpaceMarines/LoyaltyFlavor" value="这里的牧师追求精神上的福祉, 他们需要确保每一名战士的纪律并且保持其心灵和精神上的纯洁. 为了适应这一要求, 每一个战团下属的10支连队都拥有自己的专属礼拜堂. 更大规模的仪式则会在隐修室举行."/>
+	<entry name="SpaceMarines/Requisitions" value="修道院餐厅"/>
+	<entry name="SpaceMarines/RequisitionsDescription" value="该建筑能够进行征募."/>
+	<entry name="SpaceMarines/RequisitionsFlavor" value="战团的厨房和战士们的每日饮食所需都容纳在这修道院餐厅之中. 为星际战士准备饮食其实是一件非常简单的事情, 只需在鸡尾酒里加入各种生化补充剂就能够确保他们进行持续战斗. 战斗兄弟们总是会在沉默中吃掉这些东西."/>
+	<entry name="SpaceMarines/Research" value="图书馆"/>
+	<entry name="SpaceMarines/ResearchDescription" value="该建筑能够进行研究."/>
+	<entry name="SpaceMarines/ResearchFlavor" value="虽然每一个战团都拥有专门的仓库来存放所记录的历史, 但图书馆则是他们最重要的指挥中心, 交流中心以及防御站点. 在这里, 星语者负责与外部进行通信, 而图书管理员和灵能者则负责看管, 保护并更新战团数个世纪以来的智慧结晶."/>
+	<entry name="SpaceMarines/Vehicles" value="军械库"/>
+	<entry name="SpaceMarines/VehiclesDescription" value="该建筑能够生产地面载具, 同时产生征募和研究."/>
+	<entry name="SpaceMarines/VehiclesFlavor" value="这里将生产星际战士们用于消灭异教徒和异种所需的各种武器, 从最简单的战斗小刀到可怕的圣物, 应有尽有. 军械大师密切关注着战团的武器装备 -- 只有他的基因版图才能够进入到这座巨大的武器和载具仓库."/>
+	<entry name="Tyranids/Aircraft" value="毛细塔"/>
+	<entry name="Tyranids/AircraftDescription" value="该建筑能够生产飞行巨兽单位, 产出研究并提高忠诚度和人口上限."/>
+	<entry name="Tyranids/AircraftFlavor" value="毛细塔是泰伦虫族征服力量的支柱, 它与人类的巢都一样巨大, 穿透了大气层. 在这里, 生物质从回收池中被抽取, 并通过吸食管道向所有轨道中的虫巢母舰提供营养. 通过这样的方式, 一整颗星球上的生物质和大气层都将被被全部吸收."/>
+	<entry name="Tyranids/Biomass" value="回收池"/>
+	<entry name="Tyranids/BiomassDescription" value="该建筑能够产生生物质."/>
+	<entry name="Tyranids/BiomassFlavor" value="回收池是泰伦虫族入侵的核心构造体之一, 它是一个冒着气泡并且充满了各种酸和酶的软骨池. 不论发生什么样的战争, 虫巢的撕裂虫都将源源不断地将收集到的生物质带回, 并在回收池进行溶解. 在通常情况下, 它将通过毛细塔连接等待着的虫巢舰队; 而在格雷迪厄斯, 生物质将会被储存或用于创造更多的部队."/>
+	<entry name="Tyranids/Construction" value="巨兽囊袋"/>
+	<entry name="Tyranids/ConstructionDescription" value="该建筑能够建造新的建筑物同时产生生物质以及提高人口上限."/>
+	<entry name="Tyranids/ConstructionFlavor" value="泰伦虫族的巢穴算不上是一座城市. 这里没有道路, 没有可以用来放置建筑物的真实地方. 城市中没有活物, 也没有什么东西可以穿过其中. 在虫巢意志的掌控下, 这里没有白天和黑夜."/>
+	<entry name="Tyranids/Headquarters" value="诺恩泡囊"/>
+	<entry name="Tyranids/HeadquartersDescription" value="能够产生资源的指挥中心建筑."/>
+	<entry name="Tyranids/HeadquartersFlavor" value="在进行泰伦虫族临时虫巢有机构建时, 诺恩泡囊永远是第一个被放置的生物结构. 马兰脑虫将虫巢放置在合适的位置并在其迅速生长时停留在附近. 很快, 虫巢就会开始管理并保护任何所连接的生物结构."/>
+	<entry name="Tyranids/Heroes" value="主产卵器"/>
+	<entry name="Tyranids/HeroesDescription" value="该建筑能够生产英雄单位, 产生生物质并提高忠诚度."/>
+	<entry name="Tyranids/HeroesFlavor" value="尽管虫兽都完全来自于孵化器那长长的孕囊, 但最高等的突触生物则占有了虫巢意志更多的资源, 以及最重要的, 精力. 每一只虫巢暴君, 恶妇兽以及首席武士都得到了虫巢意志的精心设计, 在完全控制和有效独立性上获得了完美平衡. 产卵器集中的传感质体能够保证这个过程万无一失."/>
+	<entry name="Tyranids/Housing" value="冬眠卵袋"/>
+	<entry name="Tyranids/HousingDescription" value="该建筑能够提高人口上限."/>
+	<entry name="Tyranids/HousingFlavor" value="过量的生物质和基因数据被简单地存储在这些生物结构厚重的腔壁中或者在其之间流动着. 但当一个生物长大后, 有时虫巢意志会认为关闭其所有功能但保留下来会更加有效, 新的卵袋就这样诞生了."/>
+	<entry name="Tyranids/Infantry" value="育虫巢"/>
+	<entry name="Tyranids/InfantryDescription" value="该建筑能够生产步兵单位和野兽, 同时产生生物质."/>
+	<entry name="Tyranids/InfantryFlavor" value="尽管诺恩虫后通常会负责生产所有泰伦虫族入侵所需要的生物, 但在母巢和虫巢舰队被物理隔离的情况下, 会使用一些特殊的构造体. 诸如迅猛兽这些较小的生物会在这些没有思维的巢穴中被生产和孕育."/>
+	<entry name="Tyranids/Influence" value="突触节点"/>
+	<entry name="Tyranids/InfluenceDescription" value="该建筑能够产生影响力."/>
+	<entry name="Tyranids/InfluenceFlavor" value="虫巢意志的力量并不会均匀地分布在所有的构造体中 -- 毕竟在某些地方, 需要集中精力. 在虫巢舰队中, 这些便是诺恩虫后. 在地面上, 这些突触充当着独立生物网络的有效临时备份, 这样虫巢意志就能够将精力集中在更多的目标上而不是简单地控制整个虫群."/>
+	<entry name="Tyranids/Loyalty" value="凝聚节点"/>
+	<entry name="Tyranids/LoyaltyDescription" value="该建筑能够提高忠诚度."/>
+	<entry name="Tyranids/LoyaltyFlavor" value="任何一名帝国学者, 都可能将凝聚节点和无线电塔之类的东西进行一个类比 --- 当然, 至少它的外观 (有点像蝙蝠的耳朵和兰花) 还是很适合用来传输的."/>
+	<entry name="Tyranids/Research" value="基因吸食器"/>
+	<entry name="Tyranids/ResearchDescription" value="该建筑能够产生研究."/>
+	<entry name="Tyranids/ResearchFlavor" value="尽管马兰脑虫负责从物理上收集基因数据, 但吸食器才是真正处理这些样本的构造体. 在吸食器凹凸不平的内部, 精妙的结构会对基因样本进行拆分, 在微观尺度上进行测试并用来进行新的创造. 如果有新的发现, 它将直接传达给诺恩泡囊, 进而通知虫巢意志."/>
+	<entry name="Tyranids/Thropes" value="孵化器"/>
+	<entry name="Tyranids/ThropesDescription" value="该建筑能够生产虫兽并产生研究."/>
+	<entry name="Tyranids/ThropesFlavor" value="并不是所有的泰伦虫族生物都是平等的; 诸如迅猛兽和刀虫只需要很少的精力和普通的资源, 但更复杂生物的构建和孕育则需要花费更多. 在像格雷迪厄斯上那样的孤立虫巢中, 这些被帝国称之为虫兽的各种支援生物 -- 毒烟虫, 脑虫和马兰脑虫 -- 都是从特殊的生物结构中诞生的."/>
+	<entry name="Tyranids/Vehicles" value="恐惧虫巢"/>
+	<entry name="Tyranids/VehiclesDescription" value="该建筑能够生产地面巨兽生物并产生生物质."/>
+	<entry name="Tyranids/VehiclesFlavor" value="一些虫巢意志的造物是由不同的生物构造所产生的, 因为在这个过程中需要花费大量的精力和资源. 其他的一些则拥有巨大的体型. 恐惧虫巢则能够容纳下那些对于育虫巢来说的大块头. 在这个高耸的巢穴中, 各种悬浮溶液伴随着骨头肆意流动着, 使得这些巨型生物的肌肉和骨骼能够分层生成."/>
+</language>

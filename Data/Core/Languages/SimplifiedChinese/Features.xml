@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="寒地"/>
+	<entry name="ArcticFlavor" value="在绝大多数人类居住的星球上, 极地气候一般都分布于南北两极. 然而在这里由于远古气候管理的存在, 你几乎无法预料冰冷的区域会出现在哪里."/>
+	<entry name="AstraMilitarumCity" value="帝国卫队城市"/>
+	<entry name="AstraMilitarumCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="AstraMilitarumCityFlavor" value="人类几乎快要塞满了这里, 但却并不意味着他们的行动受到了限制. 周围的地区已经因过度开采和污染呈现出毁坏之势, 但无数的人类工人, 机器和战士依然还在远处游荡, 似乎想要再一次改变这片曾经肥沃的土壤."/>
+	<entry name="Bedrock" value="基岩"/>
+	<entry name="BedrockDescription" value=""/>
+	<entry name="BedrockFlavor" value="数千年来, 格雷迪厄斯上的植物, 动物以及地形地貌发生了翻天覆地的变化 -- 然而都没有像泰伦虫族那样剧烈. 在这个区域内, 不但野生动物和植物被吞噬, 撕裂虫还将挖出所有的土壤, 只留下裸露的岩石. 只要有足够的时间, 泰伦虫族必然会把整个星球都变成这个样子."/>
+	<entry name="Brush" value="灌木丛"/>
+	<entry name="BrushFlavor" value="这片低矮的灌木丛里散落着人类居住以及异种入侵时所留下的碎石和残片. 尽管不起眼, 但这里对于基本生存来说已经算得上是足够富饶了."/>
+	<entry name="City" value="城市"/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="该地形将终止单位的移动并每回合造成伤害."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="Coast" value="海岸"/>
+	<entry name="CoastFlavor" value="这里是帝国渔场的废墟; 那里, 有一座帝国高官废弃的避暑别墅; 那边, 一群绝望而野蛮的人类幸存者, 则依靠着海洋勉强度日."/>
+	<entry name="CompendiumFlavor" value="在过去的四十亿年中, 格雷迪厄斯见证着无数文明的兴起和衰落. 惧亡者们率先在这里定居, 接着是古贤者, 它们的后代艾尔达人在这里与太空死灵进行了无数的战争. 而最近这些年来, 在欧克兽人到来这里之前, 它又曾经是年轻帝国的巢都世界. 这颗星球的表面依然保留着瓦解的痕迹 -- 过往的遗迹散布在星球的各个角落..."/>
+	<entry name="Desert" value="沙漠"/>
+	<entry name="DesertFlavor" value="在这片贫瘠的土地上, 除了生长缓慢的极端微生物以及外星无水生命形式外, 极低的降水量使得生物几乎无法存活. 不过这里的天空和土地是如此的清澈纯粹, 非常适合部署太阳能设备."/>
+	<entry name="FermentationPool" value="发酵池"/>
+	<entry name="FermentationPoolDescription" value="占领该特殊地形能够提高城市的增长率."/>
+	<entry name="FermentationPoolFlavor" value="这片看似清澈的水源似乎很受生物们的欢迎 -- 但可得小心游荡在四周的戈洛兽. 池中奇异的细菌已经腐蚀了这颗星球上的植物, 并使其散发出致命的吸引力. 更加高等的种族能够收集并提炼这些液体, 用于交易或者娱乐消费."/>
+	<entry name="Forest" value="森林"/>
+	<entry name="ForestFlavor" value="格雷迪厄斯上的森林能够保持终年迅速生长, 不断地蔓延以至于能够遮挡视线. 虽然这些植物看上去像树一样, 但它们却无比坚硬, 因它们能够从地下深处吸取矿石."/>
+	<entry name="Grassland" value="草地"/>
+	<entry name="GrasslandFlavor" value="不论是天然平原还是曾经受到邪恶扭曲能量洗礼的居住区, 这些土壤就是星球上最为肥沃的地方, 非常适合用来种植帝国所批准的作物."/>
+	<entry name="GroxPasture" value="戈洛兽牧场"/>
+	<entry name="GroxPastureDescription" value="占领该特殊地形能够提高城市的食物或征募产出."/>
+	<entry name="GroxPastureFlavor" value="外星人说起了戈洛兽的故事 -- 这些危险的畜牧动物在人类的土地上无处不在. 不管人类走到哪里, 这些强壮的戈洛兽就会跟随它们, 甚至是原本就出现在这里. 有些人开玩笑说, 戈洛兽才是古贤者最成功的造物."/>
+	<entry name="ImperialRuin" value="帝国废墟"/>
+	<entry name="ImperialRuinFlavor" value="入侵前的人类殖民地完全就是为防御和开采矿物而建造, 因此根本无法承受欧克兽人入侵所带来的破坏和恐惧. 很少有建筑会保留下来最终遭到风化, 看来这里曾经幸免于难."/>
+	<entry name="JokaeroTraderEncampment" value="太空猿猴商人营地"/>
+	<entry name="JokaeroTraderEncampmentDescription" value="允许英雄单位在这里购买和出售物品, 占领后还将提高城市的影响力产出."/>
+	<entry name="JokaeroTraderEncampmentFlavor" value="如果你对自己的生活毫无兴趣但又想找点儿刺激的话, 来跟太空猿猴们聊聊吧. 这些长着橘色皮毛的外星人拥有超越欧克兽人技师的创造力, 它们所创造的奇迹超乎你的想象 -- 但唯一的挑战在于, 你要如何找到它们并且安全地做出自己想要的东西..."/>
+	<entry name="LightBrush" value="小型灌木"/>
+	<entry name="NecronsCity" value="太空死灵城市"/>
+	<entry name="NecronsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="NecronsCityFlavor" value="狂乱的方尖碑, 石墓以及半埋的地窖让这座无序的城市看上去就像是古代人类的大墓地一般. 尽管远远谈不上荒芜, 相反这里充满着无数的太空死灵 -- 这些由金属打造的战士和机器最喜欢奴役其他有血肉的种族, 哪怕是在最坏的情况下, 也要使用瘟疫将其消灭殆尽."/>
+	<entry name="NecronTomb" value="太空死灵墓穴"/>
+	<entry name="NecronTombDescription" value="太空死灵城市部署点."/>
+	<entry name="NecronTombFlavor" value="在这片平淡的土地之下隐藏着一座巨大的墓地城市, 太空死灵们已经在此沉睡了数千年. 对于一个知晓正确协议的人来说, 将这座城市和它的居民从睡梦中唤醒是一件再简单不过的事情..."/>
+	<entry name="Ocean" value="海洋"/>
+	<entry name="OceanFlavor" value="谁知道在格雷迪厄斯那浩瀚的海洋之下隐藏着什么宝藏? 在珊瑚之中是否遗留着失踪已久的神器? 鉴于陆地上的资源还很丰富, 所以暂时还没有人去探索这些问题."/>
+	<entry name="OreField" value="矿场"/>
+	<entry name="OreFieldDescription" value="占领该特殊地形能够提高城市的矿石或征募产出."/>
+	<entry name="OreFieldFlavor" value="在有生命居住的世界中, 很少有地方会拥有暴露在外的丰富矿藏. 不过在这里, 强大的风暴已经将地表撕开, 任何发现它们的阵营都能够轻松地进行开采."/>
+	<entry name="OrkoidFungus" value="兽人真菌"/>
+	<entry name="OrkoidFungusDescription" value="该地形能够提高食物产出以及欧克兽人的治疗速率."/>
+	<entry name="OrkoidFungusFlavor" value="<string name='Traits/OrkoidFungusFlavor'/>"/>
+	<entry name="OrksCity" value="欧克兽人城市"/>
+	<entry name="OrksCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="OrksCityFlavor" value="相比其他种族, 这些聚集在一起的怪异窝棚还真算不上是一座城市, 但对于欧克兽人们来说这里已经算得上是非常高大上的地方了. 废弃的金属和石块堆砌起了一座巨大的垃圾场, 里面充斥着兽人们的决斗场, 深坑和散发着刺激气味的蘑菇."/>
+	<entry name="Outpost" value="前哨站"/>
+	<entry name="OutpostDescription" value="使控制前哨站的玩家获得少量资源加成."/>
+	<entry name="OutpostFlavor" value="格雷迪厄斯的悠久历史让这颗星球布满了来自其他星系的地质, 植物和动物群. 为了充分利用这些资源, 绝大多数文明都建立起了一个小型团队负责维护和收集, 同时设立临时前哨站来进行驻防."/>
+	<entry name="PromethiumRelayPipes" value="钷元素输送管道"/>
+	<entry name="PromethiumRelayPipesDescription" value="占领该特殊地形能够提高城市的能量产出."/>
+	<entry name="PromethiumRelayPipesFlavor" value="曾经, 这些由重型装甲包裹的管道能够将钷元素从位于地下的精炼厂输送至星球上人类居住的城市. 现在, 这些城市因遭受战争和混乱成为了废墟, 残留下的管道则能够被其他种族重新开采和利用."/>
+	<entry name="RecafLeaf" value="瑞卡弗之叶"/>
+	<entry name="RecafLeafDescription" value="占领该特殊地形能够提高城市的忠诚度."/>
+	<entry name="RecafLeafFlavor" value="生长在这片田地上的野生草药隐含着一个秘密 -- 它不仅是丰富的食物来源, 而且作为麻醉兴奋剂能够使有机生物种族在相当长的一段时间里不需要进行任何休息. 人类将其称之为'瑞卡弗'. 在被收集和处理后, 瑞卡弗将会分配给工人和奴隶使用, 以极大地提高他们的工作产出."/>
+	<entry name="River" value="河流"/>
+	<entry name="RiverFlavor" value="在穿过高山和田间后, 这条淡水河最终流向了大海. 步兵们对河流的慷慨馈赠并不在意, 他们所看重的是其天然的防御能力."/>
+	<entry name="Rocks" value="岩石"/>
+	<entry name="RocksFlavor" value="在这些因地震而裸露出来的峭壁上并没有发现有机生命体的痕迹, 但却是格雷迪厄斯上稀有矿物的绝佳来源."/>
+	<entry name="Ruin" value="沃尔遗迹"/>
+	<entry name="RuinDescription" value="提供探索奖励, 占领后将提高城市的研究产出."/>
+	<entry name="RuinFlavor" value="目前尚不清楚这是什么 -- 一些被时间所磨损的构造体从破碎的表面中显现出来, 似乎与稀有的神器一样是由非常坚固的材料所制作而成的. 通过仔细研究一定能够获得很多有用的东西 -- 或许它本身依然还存在着一些秘密."/>
+	<entry name="Savanna" value="大平原"/>
+	<entry name="SavannaFlavor" value="在人类和异种的废墟之上, 各种树木和草地肆无忌惮地生长着. 这里不仅是一片肥沃的土地, 同时也是这颗星球独有'矿物之树'的家园."/>
+	<entry name="Shard" value="沃尔碎片"/>
+	<entry name="ShardDescription" value="占领该特殊地形能够提高城市的矿石或征募以及能量产出."/>
+	<entry name="ShardFlavor" value="在扭曲风暴到来之前, 也就是人类统治这颗星球的时候, 这些巨大的裸露岩层吸引着无数人们的好奇心, 就和卡迪亚水晶塔一样. 然而当风暴降临之时, 这些曾经试图开采它们的愚昧种族却因某种无情的力量变得颤栗不安."/>
+	<entry name="SmokeScreen" value="烟雾屏障"/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="SpaceMarinesCity" value="星际战士城市"/>
+	<entry name="SpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="SpaceMarinesCityFlavor" value="在其他种族拥有城市的地方, 星际战士们却修建起了要塞修道院 -- 这里是要塞, 是教堂, 同时也是军械库. 阿斯塔特战会在这里招募新兵, 并运用帝皇所发明的古老而无情的技术将其改造."/>
+	<entry name="TelekineDome" value="心灵屏障"/>
+	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
+	<entry name="Tundra" value="苔原"/>
+	<entry name="TundraFlavor" value="这里的景象完全称得上是死气沉沉, 短暂的生长季节和低温使得人类在这里的存在变得极为困难. 尽管这里依然有食物, 但想要生存下去必须要具备水培或强化系统."/>
+	<entry name="TyranidsCity" value="泰伦虫族城市"/>
+	<entry name="TyranidsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="TyranidsCityFlavor" value="如果把这里形容为一座城市的话其实非常奇怪. 难道会有人把一群巨大的共生生物聚集在一起, 充满了各种小型生物, 而且还由诺恩虫后进行引导的地方称之为城市吗? 这里更像是一个人以及他的躯体而不是一座城市 -- 但如果非要说出一个所有种族都拥有的共同点的话, 那就是它们也能够根据自己的经验去解释和模仿所有的东西. 那么对于人类来说, 这里就是一座城市."/>
+	<entry name="Volcanic" value="火山"/>
+	<entry name="VolcanicFlavor" value="这里, 由混乱所引起的巨大地下压力引起了猛烈喷发. 对于那些喜欢拿自己的生命(或者是奴隶的生命)来冒险的种族来说, 这里绝对是开采矿石的富饶之地."/>
+	<entry name="WireWeed" value="铁线草"/>
+	<entry name="WireWeedDescription" value="该地形将终止单位的移动并每回合造成伤害."/>
+	<entry name="WireWeedFlavor" value="任何进入到这片荆棘之地的步兵都会痛苦不堪. 起初会是慢慢地, 然后越来越快, 越来越快, 这些具有生命力的杂草将会拉紧纤细而又锋利的枝叶, 围绕着那些不幸地入侵者."/>
+</language>

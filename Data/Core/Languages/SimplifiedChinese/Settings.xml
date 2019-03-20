@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="音频"/>
+	<entry name="Audio/AmbientVolume" value="环境音量"/>
+	<entry name="Audio/AmbientVolumeHint" value="调节环境音量."/>
+	<entry name="Audio/CinematicVolume" value="过场动画音量"/>
+	<entry name="Audio/CinematicVolumeHint" value="调节过场动画音量."/>
+	<entry name="Audio/EffectVolume" value="特效音量"/>
+	<entry name="Audio/EffectVolumeHint" value="调节特效音量"/>
+	<entry name="Audio/EnvironmentalProcessing" value="环境处理"/>
+	<entry name="Audio/EnvironmentalProcessingHint" value="处理混响, 反射, 声音遮蔽或干扰物体所造成的障碍等环境音效. 在没有环境音效的情况下, 听者可以分辨出每一个声源的方向, 但却难以确定声音距离的远近. 此外, 听者也无法知晓声源所处的环境."/>
+	<entry name="Audio/HRTF" value="HRTF音效"/>
+	<entry name="Audio/HRTFHint" value="使用HRTF进行混音.<br/><br/>在使用耳机时HRTF可以提供更好的空间敏锐度, 它通过专门的滤波器来模拟当声音从特定方向传来时听者的头部是如何对其造成影响的.<br/><br/>使用HRTF混音可能会导致AL将设备重新配置为特定的输出模式并限制一些可用的频率值.<br/><br/><style color='GUI/Yellow'/>警告: 尽管HRTF能够增强耳机效果, 但可能会增加资源消耗并且降低普通扬声器效果, 特别是拥有环绕声输出的情况."/>
+	<entry name="Audio/InterfaceVolume" value="界面音量"/>
+	<entry name="Audio/InterfaceVolumeHint" value="调节界面音量."/>
+	<entry name="Audio/MasterVolume" value="主音量"/>
+	<entry name="Audio/MasterVolumeHint" value="调节主音量."/>
+	<entry name="Audio/MusicVolume" value="音乐音量"/>
+	<entry name="Audio/MusicVolumeHint" value="调节音乐音量."/>
+	<entry name="General" value="总览"/>
+	<entry name="General/AnimationSpeed" value="动画速度"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="自动切换单位"/>
+	<entry name="General/AutoCycleUnitsHint" value="自动切换至下一个空闲单位."/>
+	<entry name="General/Language" value="语言"/>
+	<entry name="General/LanguageHint" value="选择文本语言.<br/><br/><style color='GUI/Red'/>需重启游戏以生效."/>
+	<entry name="General/ResetTips" value="重置提示"/>
+	<entry name="General/ResetTipsHint" value="重置游戏提示."/>
+	<entry name="General/ScrollAcceleration" value="滚动加速"/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="滚动速度"/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="动作自动滚动"/>
+	<entry name="General/ScrollToActionHint" value="镜头将自动滚向AI回合中出现的任何动作."/>
+	<entry name="General/ShowCinematics" value="显示过场动画"/>
+	<entry name="General/ShowCinematicsHint" value="显示游戏过场动画."/>
+	<entry name="General/ShowPerformance" value="显示性能"/>
+	<entry name="General/ShowPerformanceHint" value="显示性能信息. [Ctrl+F]"/>
+	<entry name="General/ShowSubtitles" value="显示字幕"/>
+	<entry name="General/ShowSubtitlesHint" value="在过场动画底部显示字幕."/>
+	<entry name="General/ShowTips" value="显示提示"/>
+	<entry name="General/ShowTipsHint" value="显示有用的游戏提示."/>
+	<entry name="Network" value="网络"/>
+	<entry name="Network/ListenPort" value="监听端口"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="远程地址"/>
+	<entry name="Network/RemotePort" value="远程端口"/>
+	<entry name="Video" value="视频"/>
+	<entry name="Video/AnisotropicFiltering" value="各向异性过滤"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="亮度"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="云影"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="对比度"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="深度雾"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="景深"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/DisplayMode" value="显示模式"/>
+	<entry name="Video/DisplayMode0" value="全屏 [Alt+Enter]"/>
+	<entry name="Video/DisplayMode1" value="窗口 [Alt+Enter]"/>
+	<entry name="Video/DisplayMode2" value="透明窗口"/>
+	<entry name="Video/DisplayModeHint" value="允许你修改游戏的显示模式. 窗口模式可能会导致性能降低.<br/><br/><style color='GUI/Yellow'/>窗口模式适合以最佳分辨率进行屏幕录像."/>
+	<entry name="Video/FixedTimeOfDay" value="每日固定时间"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="每日固定时间比例"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="抗锯齿"/>
+	<entry name="Video/FXAAHint" value="通过FXAA来使边缘柔化, 但可能会降低游戏性能. 依赖于显卡的计算能力."/>
+	<entry name="Video/Gamma" value="Gamma值"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/Resolution" value="分辨率"/>
+	<entry name="Video/ResolutionHint" value="允许你调整游戏的分辨率. 更高的分辨率能够提高游戏清晰度, 但会对性能有很大影响."/>
+	<entry name="Video/ShadowQuality" value="阴影质量"/>
+	<entry name="Video/ShadowQuality0" value="低"/>
+	<entry name="Video/ShadowQuality1" value="中"/>
+	<entry name="Video/ShadowQuality2" value="高"/>
+	<entry name="Video/ShadowQualityHint" value="决定用于渲染阴影的材质尺寸. 更高的阴影质量能够使阴影更加精致, 但需要更加强劲的图形显卡."/>
+	<entry name="Video/ShowGrid" value="显示网格"/>
+	<entry name="Video/ShowGridHint" value="显示地面网格."/>
+	<entry name="Video/TextureQuality" value="贴图质量"/>
+	<entry name="Video/TextureQuality0" value="低"/>
+	<entry name="Video/TextureQuality1" value="中"/>
+	<entry name="Video/TextureQuality2" value="高"/>
+	<entry name="Video/TextureQualityHint" value="决定游戏的材质尺寸大小. 更高的贴图质量能够使地形和单位显示更加精致, 但需要消耗更多的显存(VRAM).<br/><br/>低: 1 GB<br/>中: 2 GB<br/>高: 3 GB"/>
+	<entry name="Video/UIScale" value="UI缩放"/>
+	<entry name="Video/UIScale0" value="100%"/>
+	<entry name="Video/UIScale1" value="125%"/>
+	<entry name="Video/UIScale2" value="150%"/>
+	<entry name="Video/UIScale3" value="175%"/>
+	<entry name="Video/UIScale4" value="200%"/>
+	<entry name="Video/UIScaleHint" value="对用户界面进行缩放."/>
+	<entry name="Video/VerticalSynchronization" value="垂直同步"/>
+	<entry name="Video/VerticalSynchronization-1" value="自适应"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="无"/>
+	<entry name="Video/VerticalSynchronization1" value="规则"/>
+	<entry name="Video/VerticalSynchronizationHint" value="使游戏帧率与显示器刷新频率保持同步."/>
+</language>

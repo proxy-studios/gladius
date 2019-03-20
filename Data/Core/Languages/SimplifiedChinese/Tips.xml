@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="CompendiumFlavor" value="第41个千年对于任何种族来说都是不受欢迎的, 不论是人类或者异种 -- 这些提示能够更好地帮助你展开军事行动."/>
+	<entry name="Tip0" value="镜头"/>
+	<entry name="Tip0Description" value="欢迎体验格雷迪厄斯! 你可以通过点击鼠标左键并移动鼠标来移动镜头. 如果你觉得周围的环境视野变得合适, 请点击OK."/>
+	<entry name="Tip1" value="开始殖民"/>
+	<entry name="Tip1Description" value="该单位允许你建造城市, 并使其成为你在格雷迪厄斯所属阵营的核心. 为了建立你的首座城市, 请点击左下角的选择面板中&quot;<icon height='20' texture='Icons/Actions/FoundCity'/>建立城市&quot;按钮并选择一块空地. 请注意, 该动作将会消耗这个单位."/>
+	<entry name="Tip2" value="开始殖民(星际战士)"/>
+	<entry name="Tip2Description" value="星际战士会将绝大多数的关键设施部署在空间轨道上. 你的首座城市将成为在格雷迪厄斯故事章节中的核心, 为了建立它请点击左上方操作面板中的&quot;<icon height='20' texture='Icons/Actions/DeployCity'/>部署城市&quot;按钮并选择一块空地. 请注意, 星际战士只能够拥有一座城市."/>
+	<entry name="Tip3" value="结束回合按钮"/>
+	<entry name="Tip3Description" value="请尽情探索周围的一切吧. 每一个按钮和标签都会为你提示相关信息. 如果你不知道接下来该怎么做, 请点击位于屏幕右侧的红色任务按钮. 它将在当前回合结束前告诉你下一个任务重点是什么."/>
+	<entry name="Tip4" value="探索"/>
+	<entry name="Tip4Description" value="在游戏中充满了未知的宝藏和邪恶的生物. 随着探索的展开, 你将通过接收新的通知来发现更多信息. 探索某些地形容貌能够为你带来奖励, 但位于这些地方的敌人很有可能为你单位带来伤害. 请小心, 这个星球上的生物可能是冷酷无情的, 但如果你不去招惹它们的话, 它们自然也会放你一马."/>
+	<entry name="Tip5" value="移动"/>
+	<entry name="Tip5Description" value="移动所选择的单位, 你只需鼠标右键点击目的地即可. 按住鼠标右键不放则能够为你显示出单位的移动路径. 每个单位你只能移动一次."/>
+	<entry name="Tip6" value="治疗"/>
+	<entry name="Tip6Description" value="你的单位已经受到了<icon height='20' texture='Icons/Attributes/Damage'/>伤害, 并且极有可能在下一场战斗中死亡. 为了恢复其<icon height='20' texture='Icons/Attributes/Hitpoints'/>生命值, 单位必须保持静止并且不能参与到战斗中. 点击&quot;<icon height='20' texture='Icons/Actions/Heal'/> 治疗&quot;动作并等待单位完全恢复. 你可以将单位移动至城市中来提高治疗速度."/>
+	<entry name="Tip7" value="任务与胜利"/>
+	<entry name="Tip7Description" value="任务将会为你讲述所处阵营的种种故事. 完成任务的每一个阶段都会为你带来奖励, 达成最后的故事任务你就将赢得终极胜利. 然而 -- 这并不是唯一的途径 -- 消灭所有的敌方阵营你同样能够赢得胜利."/>
+	<entry name="Tip8" value="进攻"/>
+	<entry name="Tip8Description" value="选择一个单位并将鼠标悬停在敌人身上将为你显示非常重要的信息, 包括进攻方, 防御方, 他们的特质以及使用的武器, 同时还包括战斗预期的伤亡情况. 请注意并不是所有的武器都能够在全部范围内射击 -- 不可使用的武器将显示为灰色. 进攻, 反击或者使用其他的动作都会消耗单位的行动点数并使其上方的图标变成透明."/>
+	<entry name="Tip9" value="士气"/>
+	<entry name="Tip9Description" value="由于失去了附近的友方单位, 你的单位因<icon height='20' texture='Icons/Attributes/Morale'/>士气受到了沉重的一击. 这会极大地影响其战斗表现. 你可以进行等待, 或者击杀附近的异种来进行恢复!"/>
+	<entry name="Tip10" value="单位"/>
+	<entry name="Tip10Description" value="每个单位都拥有不同的数据以及属性, 特质, 技能和武器, 它们都拥有各自的范围和效果. 一些单位可能只拥有<icon height='20' texture='Icons/Traits/Melee'/>近战武器, 但<icon height='20' texture='Icons/Traits/MoveThroughCover'/>能够迅速穿越崎岖地形, 而其他单位可能拥有<icon height='20' texture='Icons/Actions/AuraOfFear'/>恐惧光环或者能够释放强大的<icon height='20' texture='Icons/Traits/Barrage'/>火炮轰炸. 你可以将鼠标移动至选择面板中的图标和按钮来获得更多所选单位的信息."/>
+	<entry name="Tip11" value="英雄"/>
+	<entry name="Tip11Description" value="这名强大的<icon height='20' texture='Icons/Traits/Hero'/>英雄单位能够施展消灭敌人或者保护盟友的强大技能. 点击&quot;<icon height='20' texture='Icons/Actions/LevelUp'/>升级&quot;按钮并选择你的第一个技能. 一些技能可能是被动效果, 或者拥有一定的<icon height='20' texture='Icons/Attributes/Cooldown'/>冷却时间. 所有的技能都能够升级多次并提高其使用效果."/>
+	<entry name="Tip12" value="物品"/>
+	<entry name="Tip12Description" value="英雄物品的获取可以通过探索发现, 任务奖励或者是在商店进行<icon height='20' texture='Icons/Actions/Shop'/>购买. 点击左上方无人认领的物品面板能够获得道具并将其分配给英雄. 获得物品后, 你可以像使用技能那样来任意使用. 你也可以通过拖拽的方式将物品分配给其他的英雄. 每位英雄同一时间所拥有的物品数量是有限的."/>
+	<entry name="Tip13" value="打开物品商店界面"/>
+	<entry name="Tip13Description" value="你的英雄已经来到了<icon height='20' texture='Icons/Actions/Shop'/>物品商店. 若要进行访问, 请点击&quot;<icon height='20' texture='Icons/Actions/Shop'/>商店&quot;按钮."/> 
+	<entry name="Tip14" value="物品商店界面"/>
+	<entry name="Tip14Description" value="在<icon height='20' texture='Icons/Actions/Shop'/>物品商店中你可以通过<icon height='20' texture='Icons/Attributes/Influence'/>影响力来换取物品. 你只需简单地点击希望购买或出售的物品即可. 请注意很多普通品质的物品拥有限定的<icon height='20' texture='Icons/Attributes/Uses'/>使用次数, 但太空猿猴们能够为你无限提供这些物品. 最为稀有和强大的物品称之为神器, 它们中的很多都无法通过购买获得, 并且入手的途径也无人知晓. "/>
+	<entry name="Tip15" value="打开城市界面"/>
+	<entry name="Tip15Description" value="你可以通过点击城市名称或者一座空城所在的地点来打开城市界面. 你也可以通过点击指挥中心或城市上方的图标来选择其防御力量. 所有的城市都拥有一定的火力并且能够在遭受进攻时展开防守. 确保不惜一切代价保卫它们 -- 如果失去了所有城市就意味着你被击败了!"/>
+	<entry name="Tip16" value="城市建筑"/>
+	<entry name="Tip16Description" value="这里列出了所有的建筑以及它们的可用动作. 请注意同一类型的所有建筑都会分组在一起并且同一时间只能执行一个动作. 尽管可以通过队列方式来依次实现多个动作, 但所需要消耗的全部资源将会立即扣除."/>
+	<entry name="Tip17" value="研究界面"/>
+	<entry name="Tip17Description" value="研究界面显示了所属阵营独一无二的科技树. 点击一项科技将选择当前研究的重点. 只有研究了同一层级的2项科技后你才能解锁后续的下一层级. 你可以在城市中建造额外的<icon height='20' texture='Icons/Buildings/AstraMilitarum/Research'/>研究建筑来加速研究. 请注意, 如果你改变了当前正在研究的科技那么当前所拥有的全部进度都将遗失."/> <!-- , while shift-clicking will queue up the research -->
+	<entry name="Tip18" value="城市资源"/>
+	<entry name="Tip18Description" value="城市只有不断地收集资源才能驱动战争机器. 城市界面将会显示相关的所有资源. 将鼠标悬停至每一种资源上方能够为你介绍更多信息."/>
+	<entry name="Tip19" value="占领土地"/>
+	<entry name="Tip19Description" value="在建造更多的建筑之前, 我们必须占领更多的土地. 点击&quot;<icon height='20' texture='Icons/Actions/AcquireTile'/>占领土地&quot;并选择在边境之外拥有1个或以上<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑空位的土地. 占领每一格土地需要消耗一定的回合数以及若干<icon height='20' texture='Icons/Attributes/Influence'/>影响力."/>
+	<entry name="Tip20" value="占领资源领地"/>
+	<entry name="Tip20Description" value="你已经占领一块特殊资源领地并且没有任何<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑空位. 尽管其他领地需要通过建筑以进行开采, 但特殊资源领地能够直接为你的城市提供其全部资源. "/>
+	<entry name="Tip21" value="建造资源建筑"/>
+	<entry name="Tip21Description" value="在军力扩张的同时, 你也别忘了注意自己的资源情况. 步兵建筑只能提供少量的资源. 为了保证战争机器的正常运转, 你需要建造专门的资源建筑. 建造资源建筑的方式与步兵建筑一样. 只要匹配, 领地上的资源将会自动加入到建筑物的产出之中. 请注意不要消耗光所有的资源, 否则建筑的工作效率将会降低."/>
+	<entry name="Tip22" value="建造步兵建筑"/>
+	<entry name="Tip22Description" value="城市中拥有免费的<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑空位: 这是一个扩大军力的绝佳时机. 请先从建造一座步兵生产建筑开始. 点击闪烁的建筑按钮并选择一个拥有<icon height='20' texture='Icons/Attributes/BuildingSlots'/>建筑空位的城市领地来开始建造. 这将消耗数轮时间才能完成."/>
+	<entry name="Tip23" value="生产步兵"/>
+	<entry name="Tip23Description" value="现在可以开始生产单位了. 你可以尽情地增加生产队列, 但请注意资源消耗. 由于这是一种单独的建筑类型, 因此其他建筑可以同时进行生产. 如果你额外建造了一座步兵生产建筑, 步兵将会以两倍的速度完成训练."/>
+	<entry name="Tip24" value="人口"/>
+	<entry name="Tip24Description" value="除了指挥中心之外, 所有的建筑都需要一个<icon height='20' texture='Icons/Attributes/PopulationLimit'/>人口才能正常运转. 你需要研究并建造<icon height='20' texture='Icons/Buildings/AstraMilitarum/Housing'/>房屋建筑来提高人口<icon height='20' texture='Icons/Attributes/Growth'/>增长和上限. 如果你遇到了因人口或资源短缺而出现的麻烦, 你可以选择禁用一些建筑来保证其他建筑全速运转. 点击&quot;-&quot;每个建筑分组旁边的按钮即可."/>
+	<entry name="Tip25" value="忠诚度"/>
+	<entry name="Tip25Description" value="城市的<icon height='20' texture='Icons/Attributes/Loyalty'/>忠诚度已经降低至0以下. 这会对建筑的运转效率带来极大地负面影响. 你需要建造一些能够提供忠诚度的建筑来让其保持在0以上, 同时为整个城市带来效率提升."/>
+	<entry name="Tip26" value="全局资源池"/>
+	<entry name="Tip26Description" value="一些重要资源, 比如<icon height='20' texture='Icons/Attributes/Food'/>食物, <icon height='20' texture='Icons/Attributes/Ore'/>矿石, <icon height='20' texture='Icons/Attributes/Energy'/>能量以及<icon height='20' texture='Icons/Attributes/Influence'/>影响力会不断积累并且全局共享. 每一座城市都将从同一个资源池中提供同时又消耗这些资源, 这允许你把精力集中在特定的城市上,或者是囤积资源以备不时之需."/>
+	<entry name="Tip27" value="城市法令"/>
+	<entry name="Tip27Description" value="法令能够作用于整个城市范围, 发布法令需要消耗影响力. 多个法令可以同时生效, 但每次只会持续一定的时间. 正确分配法令能够为你的游戏带来极大优势."/>
+	<entry name="Tip28" value="神器"/>
+	<entry name="Tip28Description" value="在格雷迪厄斯, 有一些东西拥有超凡的力量, 它们是古贤者科技的结晶. 一些神器可以购买得到, 更大的神器则需要从奴役者们的手中夺得. 一旦神器周围的单位被消灭, 你可以选择单位并通过右键点击来获得它. 另外, 神器不会受到伤害并且无法被摧毁."/>
+	<entry name="Tip29" value="特殊行动"/>
+	<entry name="Tip29Description" value="星际战士能够通过消耗影响力发布战略和战术行动. 执行这样的操作需要部署赎罪要塞 -- 这座静止的单位能够从临近的特殊地形中获得资源. 部署赎罪要塞是星际战士收集资源的关键."/>
+	<entry name="Tip30" value="静止单位"/>
+	<entry name="Tip30Description" value="一些单位虽然无法移动但依然能够执行动作. 如果它们拥有武器, 比如城市中的指挥中心, 那么就能发动攻击. 执行攻击命令只需鼠标右键点击敌人即可."/>
+	<entry name="Tip31" value="瓦尔遗迹"/>
+	<entry name="Tip31Description" value="瓦尔遗迹就在前方. 第一个探索遗迹的阵营将获得奖励. 一些遗迹能够提供强大的远古物品, 你的英雄能够在后期进行装备, 变得更加强大或者能够专门应对某些特定的敌人."/>
+	<entry name="Tip32" value="奴役"/>
+	<entry name="Tip32Description" value="你的单位被奴役者占领了! 杀掉它们来解救你的建筑!"/>
+	<entry name="Tip33" value="重型武器"/>
+	<entry name="Tip33Description" value="该步兵单位装备了重型武器. 如果该单位移动那么由步兵装备的重型武器将会受到命中准确度惩罚."/>
+	<entry name="Tip34" value="速射"/>
+	<entry name="Tip34Description" value="该单位装备了速射武器. 拥有速射武器的单位能够在近距离造成更多的伤害, 但依然可以在远处展开进攻. 在进攻前靠近一点显然是值得的."/>
+	<entry name="Tip35" value="巨型生物"/>
+	<entry name="Tip35Description" value="格雷迪厄斯居住着强大而恐怖的生物. 在挑战它们之前, 你肯定希望能够组织一支强大的力量."/>
+	<entry name="Tip36" value="格雷迪厄斯纲要"/>
+	<entry name="Tip36Description" value="纲要能够保存各种有用的游戏信息. 你可以在这里阅读有关阵营, 建筑, 单位, 提示等各种内容. 点击屏幕右上方的问号图标即可打开格雷迪厄斯纲要."/>
+	<entry name="Tip37" value="资源枯竭"/>
+	<entry name="Tip37Description" value="你的资源数量严重不足! 将鼠标移动至屏幕左上方看看到底发生了什么! 或许这能够帮助你禁用某座建筑, 修建一两座新的建筑, 或者是建立一座新的城市."/>
+	<entry name="Tip38" value="殖民地开拓 - 太空死灵"/>
+	<entry name="Tip38Description" value="墓穴蜘蛛能够帮助你在格雷迪厄斯上建立城市. 为了建造你的第一座城市, 请点击左下角选择面板中的&quot;<icon height='20' texture='Icons/Actions/FoundCity'/>建立城市&quot;按钮并选择一块拥有太空死灵墓穴的空地. 请注意执行该动作将会消耗该单位."/>
+	<entry name="Tip39" value="清理土地"/>
+	<entry name="Tip39Description" value="你已经占领了一块生长着<icon height='20' texture='Icons/Features/WireWeed'/>铁线草的土地. 这些如剃刀般锋利的杂草不仅会对单位造成伤害, 同时你也无法在这里进行建造. 为了清理该土地, 请执行&quot;<icon height='20' texture='Icons/Actions/ClearTile'/>清理土地&quot;动作并选择这块生长着铁线草的土地."/>
+	<entry name="Tip40" value="脆弱单位"/>
+	<entry name="Tip40Description" value="诸如卫兵这样的单位是非常脆弱的. 基于此, 最好的建议是让多个这样单位靠近在一起让其相互协助 -- 特别是在探索未知区域的时候."/>
+	<entry name="Tip41" value="祝你好运!"/>
+	<entry name="Tip41Description" value="现在你已经学会如何生产新的单位, 维持经济并且已经掌握了游戏的基本概念. 在不断交互的过程中你会获得更多的提示和建议, 但现在是时候让你独自一人探索格雷迪厄斯并寻找它的秘密了.  生存并不会与生俱来, 但只有英雄才能赢得最后的胜利."/>
+	<entry name="Tip42" value="获得物品"/>
+	<entry name="Tip42Description" value="点击左上方的无主之物面板即可获得物品并将其转移给英雄. 获得物品后, 你可以像使用技能那样自由使用物品. 你也可以通过拖拽的方式将其转移给其他英雄. 每名英雄同一时间能够拥有的物品数量是有限的."/>
+	<entry name="Tip43" value="地形"/>
+	<entry name="Tip43Description" value="地形会以多种方式来影响单位. 森林和帝国废墟会增加地面单位的移动消耗并让其难以被发现和命中. 地形高度差也可能会导致无法很好地进行攻击. 标记为红色的土地表示你可以在当前位置向敌人发起进攻."/> <!-- Click OK and hover over a tile marked with a red outline. -->
+	<entry name="Tip44" value="单位技能"/>
+	<entry name="Tip44Description" value="一些单位拥有额外的技能, 能够在战斗中为你带来优势. 点击相应按钮即可使用技能, 同时需要使用鼠标左键来选择目标. 使用技能会消耗单位的行动点数以及所有的移动, 因此在本轮中单位将无法进行其他的移动或者攻击动作."/>
+	<entry name="Tip45" value="守护射击"/>
+	<entry name="Tip45Description" value="装备了远程武器并且拥有剩余动作点数的单位将在敌人进入其攻击范围内后自动施展<icon height='20' texture='Icons/Actions/Overwatch'/>守护射击. 当敌人处于<icon height='20' texture='Icons/Traits/Stealth'/>隐身状态时除外."/>
+	<entry name="Tip46" value="资源前哨站"/>
+	<entry name="Tip46Description" value="将单位移动至拥有特殊资源的土地之上能够对其进行占领. 在建造资源前哨站后, 你的资源产出会有一定的提升, 并且能够使位于其之上的单位提高伤害减免和治疗速率. 请务必保护好你的前哨站, 否则它将被其他阵营或者格雷迪厄斯上的野生生物所占有."/>
+	<entry name="Tip47" value="运输 - 装载"/>
+	<entry name="Tip47Description" value="该单位能够运送步兵单位. 将单位移动至运输单位所在的地点即可进行装载. 已经装载的单位通常情况下无法在同一回合内进行卸载."/>
+	<entry name="Tip48" value="运输 - 卸载"/>
+	<entry name="Tip48Description" value="你已经装载了一个单位. 点击需要卸载的单位并为其选择目标地点. 你也可以通过拖拽的方式自由安排装载栏位."/>
+	<entry name="Tip49" value="本能行为"/>
+	<entry name="Tip49Description" value="如果没有处在突触生物或泰伦虫族城市中时, 很多泰伦虫族都会受到本能行为的影响. 比如迅猛兽拥有<icon height='20' texture='Icons/Traits/Tyranids/InstinctiveBehaviourLurk'/>潜伏本能行为, 使得它们每回合都会损失士气. 你可以利用单位所拥有的<icon height='20' texture='Icons/Actions/Tyranids/InstinctiveBehaviourOverride'/>压制本能行为技能来暂时移除负面效果."/>
+	<entry name="Tip50" value="回收"/>
+	<entry name="Tip50Description" value="城市中的泰伦虫族单位可以通过回收来重新获得生物质并加速建筑的生产. 点击&quot;<icon height='20' texture='Icons/Actions/Tyranids/ReclaimUnit'/>回收单位&quot;来显示每一种单位的回收数值并选择一个目标. 回收过程能够立即完成并且能够与生产同时进行."/>
+	<entry name="Tip51" value="吞食星球"/>
+	<entry name="Tip51Description" value="泰伦虫族城市将消耗所占领土地上的所有<icon height='20' texture='Icons/Attributes/Biomass'/>生物质. 生物质在添加至你的资源池之后会永远消失. <icon height='20' texture='Icons/Units/Tyranids/Malanthrope'/> 马兰脑虫作为泰伦虫族经济的核心, 能够在整个格雷迪厄斯的土地上消耗生物质, 不论远近."/>
+	
+<!-- Zone of control: trigger when an enemy is 2 away, after attacking and healing has been shown. -->
+<!-- Set rally point (when unit count above 3?). -->
+<!-- Waaagh! -->
+<!-- Rapid Rise -->
+<!-- Necrodermis Repair -->
+<!-- Rename units, rename city. -->
+<!-- New Game Screen tips. -->
+<!-- Query Space Marines to deploy city before ending turn -- end turn button. -->
+
+<!-- Flyers. -->
+<!-- Hero death -- resurrect, items when hero below 50%. -->
+</language>

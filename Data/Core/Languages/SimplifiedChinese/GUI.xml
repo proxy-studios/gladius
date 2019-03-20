@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="(Turn)" value="(%1% 回合)"/>
+	<entry name="(Turns)" value="(%1% 回合)"/>
+	<entry name="AchievementsDisabled" value="成就已禁用."/>
+	<entry name="AI" value="AI"/>
+	<entry name="AITurn" value="敌方回合"/>
+	<entry name="Actions" value="动作"/>
+	<entry name="AddPlayerHint" value="添加一名玩家."/>
+	<entry name="Advanced" value="高级"/>
+	<entry name="All" value="全部"/>
+	<entry name="Artefact" value="神器"/>
+	<entry name="AttackEstimate" value="攻击预测"/>
+	<entry name="Attributes" value="属性"/>
+	<entry name="Back" value="返回"/>
+	<entry name="Basic" value="基础"/>
+	<entry name="Battle" value="战斗"/>
+	<entry name="Buildings" value="建筑"/>
+	<entry name="CannotDisembarkThisTurn" value="该回合无法卸载."/>
+	<entry name="Cancel" value="取消"/>
+	<entry name="Cargo" value="货物"/>
+	<entry name="Charges" value="使用次数"/>
+	<entry name="Chat" value="聊天"/>
+	<entry name="ChooseResearch" value="选择研究"/>
+	<entry name="ChooseResearchHint" value="选择你的研究重点[空格]."/>
+	<entry name="CityResources" value="城市资源"/>
+	<entry name="ClaimItemOnlyWithHero" value="获取物品前请先选择英雄单位."/>
+	<entry name="ClearNotifications" value="清除通知"/>
+	<entry name="ClearNotificationsHint" value="清除所有通知[空格]."/>
+	<entry name="Compendium" value="格雷迪厄斯纲要"/>
+	<entry name="Connect" value="连接"/>
+	<entry name="ConsumesAction" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Actions'/>消耗动作<style color='Default'/>"/>
+	<entry name="ConsumesMovement" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Movement'/>消耗移动<style color='Default'/>"/>
+	<entry name="Continue" value="继续"/>
+	<entry name="Cooldown" value="冷却时间"/>
+	<entry name="Copy" value="复制"/>
+	<entry name="Cost" value="消耗"/>
+	<entry name="Credits" value="致谢"/>
+	<entry name="Debug" value="调试"/>
+	<entry name="Defeated" value="战败"/>
+	<entry name="Delete" value="删除"/>
+	<entry name="DirectConnect" value="直接连接"/>
+	<entry name="DisableBuildingHint" value="禁用该类型的一座建筑, 并释放其已分配的人口至其他建筑中."/>
+	<entry name="DisableTips" value="禁用提示"/>
+	<entry name="DisableTipsHint" value="停止弹出提示. 你可以在设置面板中重新启用."/>
+	<entry name="DismissReports" value="解散全部 (%1%)"/>
+	<entry name="DLC" value="DLC"/>
+	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% DLC尚未安装."/>
+	<entry name="Economy" value="经济"/>
+	<entry name="Edicts" value="法令"/>
+	<entry name="Elite" value="精英"/>
+	<entry name="EnableBuildingHint" value="启用该类型的一座建筑, 并为其分配人口."/>
+	<entry name="EndTurn" value="结束回合"/>
+	<entry name="EndTurnHint" value="结束你的回合[空格]."/>
+	<entry name="Enter" value="进入"/>
+	<entry name="EstimatedCasualties" value="预计%1%/%2%伤亡"/>
+	<entry name="Events" value="事件"/>
+	<entry name="ExecuteQueuedOrders" value="执行命令队列 (%1%)"/>
+	<entry name="ExecuteQueuedOrdersHint" value="执行上一轮的命令队列[空格]."/>
+	<entry name="ForceEndTurnHint" value="结束你的回合[Ctrl+空格]."/>
+	<entry name="ExitCity" value="离开城市"/>
+	<entry name="ExitCityHint" value="离开城市界面[空格]."/>
+	<entry name="ExitToMainMenu" value="退回主菜单"/>
+	<entry name="ExitToDesktop" value="退出至桌面"/>
+	<entry name="Explored" value="已探索"/>
+	<entry name="Factions" value="阵营"/>
+	<entry name="Features" value="地形"/>
+	<entry name="Full" value="完全"/>
+	<entry name="GameBrowser" value="游戏浏览器"/>
+	<entry name="GameLobby" value="游戏大厅"/>
+	<entry name="Games" value="游戏"/>
+	<entry name="HoldKeyToKeepVisible" value="按住Ctrl键以保持可见."/>
+	<entry name="HoldKeyToShowOpponentAttack" value="按住Alt键以显示对手的攻击."/>
+	<entry name="Host" value="主机"/>
+	<entry name="Inaccessible" value="无法访问"/>
+	<entry name="IncompatibleVersion" value="版本不匹配"/>
+	<entry name="IntroductionGame" value="新手教程"/>
+	<entry name="IntroductionGameHint" value="在最简单的难度下使用星际战士体验游戏教学关卡."/>
+	<entry name="InviteFriend" value="邀请好友"/>
+	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/>Steam只有在你的资料设定(游戏详细信息)为非私密时才能发送好友邀请."/>
+	<entry name="InviteFriendDisabledHint" value="主机没有运行在Steam版本或Steam匹配不可用."/>
+	<entry name="Invulnerable" value="无敌"/>
+	<entry name="ItemShop" value="物品商店"/>
+	<entry name="Items" value="物品"/>
+	<entry name="Join" value="加入"/>
+	<entry name="JustOneMoreTurn" value="等等! 再... 来... 一... 回合..."/>
+	<entry name="LastPing" value="上一个Ping值"/>
+	<entry name="LevelHint" value="%1%/%2% 经验值<br/>(%3% 死亡经验值)"/>
+	<entry name="Load" value="载入"/>
+	<entry name="LoadGame" value="载入游戏"/>
+	<entry name="MainMenu" value="主菜单"/>
+	<entry name="Menu" value="菜单"/>
+	<entry name="Military" value="军事"/>
+	<entry name="Minimap" value="小地图"/>
+	<entry name="Mixer" value="混合器"/>
+	<entry name="Mods" value="模组"/>
+	<entry name="Multiplayer" value="多人玩家"/>
+	<entry name="Name" value="名称"/>
+	<entry name="New" value="新建"/>
+	<entry name="NewGame" value="新游戏"/>
+	<entry name="NewGameHint" value="选择你的阵营并自定义世界参数."/>
+	<entry name="NewSavedGame" value="新的保存游戏"/>
+	<entry name="NoChargesRemaining" value="无可用使用次数."/>
+	<entry name="NoFreeItemSlots" value="无可用物品栏位."/>
+	<entry name="NoResearchSelected" value="未选择研究"/>
+	<entry name="NoValidTargets" value="无有效目标."/>
+	<entry name="NotEnoughResources" value="资源不足."/>
+	<entry name="NotReady" value="尚未准备就绪"/>
+	<entry name="Objectives" value="目标"/>
+	<entry name="ObjectivesCompleted" value="目标已完成"/>
+	<entry name="OK" value="OK"/>
+	<entry name="OnCooldown" value="冷却中."/>
+	<entry name="Operations" value="操作"/>
+	<entry name="OrderCity" value="命令城市 (%1%)"/>
+	<entry name="OrderCityHint" value="选择下一个空闲城市[空格]."/>
+	<entry name="OrderUnits" value="命令单位(%1%)"/>
+	<entry name="OrderUnitsHint" value="选择下一个空闲单位[空格]."/>
+	<entry name="Overwrite" value="覆盖"/>
+	<entry name="Parameters" value="参数"/>
+	<entry name="Passive" value="被动"/>
+	<entry name="PassiveAction" value="被动动作"/>
+	<entry name="Paste" value="粘贴"/>
+	<entry name="PatchNotes" value="补丁说明"/>
+	<entry name="Player" value="玩家"/>
+	<entry name="Players" value="玩家"/>
+	<entry name="PleaseWait" value="请等待..."/>
+	<entry name="PleaseWaitHint" value="请等待其他玩家."/>
+	<entry name="Quests" value="任务"/>
+	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> 半径: %1%格"/>
+	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> 半径: %1%格"/>
+	<entry name="Random" value="随机"/>
+	<entry name="Randomize" value="随机"/>
+	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> 范围: 自身"/>
+	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> 范围: %1%格"/>
+	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> 范围: %1% -- %2%格"/>
+	<entry name="Ready" value="准备"/>
+	<entry name="Refresh" value="刷新"/>
+	<entry name="RemovePlayerHint" value="移除玩家."/>
+	<entry name="RenameHint" value="点击以重新命名."/>
+	<entry name="(Required)" value="(需要%1%)"/>
+	<entry name="RequiredLevel" value="需要等级: %1%"/>
+	<entry name="Requires" value="需求"/>
+	<entry name="RequiresAction" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Actions'/>需要动作<style color='Default'/>"/>
+	<entry name="RequiresMovement" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Movement'/>需要移动<style color='Default'/>"/>
+	<entry name="Research" value="研究"/>
+	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% 已积累"/>
+	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% 来自建筑"/>
+	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% 来自城市"/>
+	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% 来自毁灭"/>
+	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% 来自难度"/>
+	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% 来自地形"/>
+	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% 来自忠诚度"/>
+	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% 来自人口"/>
+	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% 来自资源短缺"/>
+	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% 来自土地"/>
+	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% 来自单位"/>
+	<entry name="ResourceLimit" value="<icon texture='GUI/Bullet'/>%1% 限制"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% 每回合"/>
+	<entry name="ResourceShortageTitle" value="资源短缺"/>
+	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% 短缺"/>
+	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% 总计"/>
+	<entry name="RestartScenario" value="重新开始场景"/>
+	<entry name="Rewards" value="奖励"/>
+	<entry name="RewardsReceived" value="奖励已获得"/>
+	<entry name="QuickSelectFaction" value="快速选择阵营."/>
+	<entry name="Quit" value="退出"/>
+	<entry name="Quests" value="任务"/>
+	<entry name="Save" value="保存"/>
+	<entry name="SaveGame" value="保存游戏"/>
+	<entry name="Scenarios" value="场景"/>
+	<entry name="Scores" value="得分"/>
+	<entry name="SelectCityHint" value="选择城市."/>
+	<entry name="SelectColorHint" value="选择颜色."/>
+	<entry name="SelectDifficultyHint" value="选择难度."/>
+	<entry name="SelectFaction" value="选择阵营"/>
+	<entry name="SelectFactionHint" value="选择阵营."/>
+	<entry name="SelectNextCityHint" value="选择下一座城市."/>
+	<entry name="SelectPreviousCityHint" value="选择上一座城市."/>
+	<entry name="SelectTeamHint" value="选择队伍."/>
+	<entry name="SelectUnitHint" value="选择单位."/>
+	<entry name="Settings" value="设置"/>
+	<entry name="SinglePlayer" value="单人游戏"/>
+	<entry name="SkipCity" value="忽略城市 (1/%1%)"/>
+	<entry name="SkipCityHint" value="忽略城市[空格].<br/>[Tab]: 选择下一座空闲城市.<br/>[Shift+Tab]: 选择上一座空闲城市."/>
+	<entry name="SkipUnit" value="忽略单位 (1/%1%)"/>
+	<entry name="SkipUnitHint" value="忽略该单位 [空格].<br/>[Tab]: 选择下一个空闲单位.<br/>[Shift+Tab]: 选择上一个空闲单位."/>
+	<entry name="Start" value="开始"/>
+	<entry name="Team" value="队伍"/>
+	<entry name="Team0" value="无队伍"/>
+	<entry name="Team0Hint" value="无队伍: 进行单人游戏; 无法结盟."/>
+	<entry name="Team1" value="队伍A"/>
+	<entry name="Team2" value="队伍B"/>
+	<entry name="Team3" value="队伍C"/>
+	<entry name="Team4" value="队伍D"/>
+	<entry name="Team5" value="队伍E"/>
+	<entry name="Team6" value="队伍F"/>
+	<entry name="Team7" value="队伍G"/>
+	<entry name="Team8" value="队伍H"/>
+	<entry name="Technology" value="科技"/>
+	<entry name="Tier" value="层级"/>
+	<entry name="Tip" value="提示"/>
+	<entry name="Tips" value="提示"/>
+	<entry name="Total" value="总计"/>
+	<entry name="Traits" value="特质"/>
+	<entry name="Turn" value="回合"/>
+	<entry name="UnitsKilled" value="%2% %1%消灭于格雷迪厄斯"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
+	<entry name="UnitsKilledByPlayer" value="你已消灭: %2%"/>
+	<entry name="UnclaimedItems" value="无主之物"/>
+	<entry name="Unexplored" value="未探索"/>
+	<entry name="Units" value="单位"/>
+	<entry name="Unready" value="未准备"/>
+	<entry name="Upgrades" value="升级"/>
+	<entry name="Upkeep" value="维护费"/>
+	<entry name="VS" value="VS"/>
+	<entry name="Victorious" value="胜利"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>哇! 等级<style name='Default'/><br/>每个等级的哇! 能够使欧克兽人单位的伤害提高或降低 5%% (最多 +/-25%%). 哇! 等级会根据已积累的影响力以及影响力维护费决定, 并且会在每回合开始前刷新.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% 伤害)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="Weapons" value="武器"/>
+	<entry name="XOutOfY" value="%1%/%2%"/>
+	<entry name="You" value="你"/>
+	<entry name="YourName" value="你的名称"/>
+</language>

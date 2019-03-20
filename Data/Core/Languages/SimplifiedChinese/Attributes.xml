@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Generic -->
+	<entry name="Accuracy" value="准确度"/>
+	<entry name="AccuracyDescription" value="每一点准确度将使命中几率提高约8%."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="动作点数"/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="最大动作点数"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="动作"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="单位能够执行动作(包括反击)的次数. 使用一次动作可能会消耗所有的移动."/>
+	<entry name="AdditionalMembersHit" value="额外攻击次数"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Armor" value="护甲"/>
+	<entry name="ArmorDescription" value="降低从武器和技能受到的<icon height='20' texture='Icons/Attributes/Damage'/>伤害.<br/><br/>每一点护甲将使受到的伤害降低大约8%. 但武器和技能会根据护甲穿透数值来无视一定数量的护甲."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorPenetration" value="护甲穿透"/>
+	<entry name="ArmorPenetrationDescription" value=""/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="攻击"/>
+	<entry name="AttacksDescription" value=""/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="Biomass" value="生物质"/>
+	<entry name="BiomassIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassCost" value="生物质消耗"/>
+	<entry name="BiomassCostIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassOnConsume" value="生物质"/>
+	<entry name="BiomassOnConsumeIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BuildingSlots" value="建筑栏位"/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="CargoSlots" value="货物栏位"/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="需要货物栏位"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CircumstanceMeleeDamage" value="环境近战伤害"/>
+	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="CityDamageReduction" value="城市伤害减免"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityRadius" value="城市半径"/>
+	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="ConstructionCost" value="建造消耗"/>
+	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
+	<entry name="ConsumedActionPoints" value="动作消耗"/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="移动消耗"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="冷却时间"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
+	<entry name="Damage" value="伤害"/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageDescription" value=""/>
+	<entry name="DamageFromHitpoints" value="目标生命伤害"/>
+	<entry name="DamageFromHitpoints" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="受到伤害"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTakenByGroupSizeFactor" value="群体规模受伤"/>
+	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Energy" value="能量"/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="能量消耗"/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="ExperienceGainRate" value="经验获取速率"/>
+	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="FeelNoPainDamageReduction" value="无视痛苦伤害减免"/>
+	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="FlankingDamageFactor" value="侧翼伤害"/>
+	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Food" value="食物"/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="食物消耗"/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="Growth" value="增长"/>
+	<entry name="GrowthHint" value="<style name='Title'/>Growth<br/><style name='Default'/>显示城市发展的速度. 一旦积累到足够的增长率, 人口只会提高1. 当人口快要接近上限时增长率将会降低."/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="GrowthFactor" value="增长"/>
+	<entry name="GrowthFactorIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HeroDamageReduction" value="英雄伤害减免"/>
+	<entry name="HeroDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="HealingRate" value="治疗速率"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="Hitpoints" value="生命值"/>
+	<entry name="HitpointsDescription" value="死亡前能够承受的最大<icon height='20' texture='Icons/Attributes/Damage'/>伤害."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFraction" value="生命值"/>
+	<entry name="HitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="最大生命值"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsPerMoraleLoss" value="士气损失生命值"/>
+	<entry name="HitpointsPerMoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Influence" value="影响力"/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="影响力消耗"/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombat" value="战斗影响力"/>
+	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombatFromUpkeepFactor" value="维护费因素战斗影响力"/>
+	<entry name="InfluencePerCombatFromUpkeepFactorIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerDamage" value="伤害影响力"/>
+	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerExperience" value="经验影响力"/>
+	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="无敌伤害减免"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="物品栏位"/>
+	<entry name="ItemSlotsHint" value="<style name='Title'/>Item Slots<br/><style name='Default'/>"/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="等级"/>
+	<entry name="LevelDescription" value="单位的等级.<br/><br/>每提升一个等级单位的<icon height='20' texture='Icons/Attributes/Hitpoints'/> 生命值和<icon height='20' texture='Icons/Attributes/Damage'/>伤害将提高5%, 同时<icon height='20' texture='Icons/Attributes/Morale'/> 士气提高10%."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="最大等级"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="生命窃取"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFactor" value="生命窃取"/>
+	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="忠诚度"/>
+	<entry name="LoyaltyHint" value="<style name='Title'/>Loyalty<br/><style name='Default'/>显示人口追随你的决心. 每一点忠诚度将使城市资源产出提高或降低2%. 每一个为正数的忠诚度点数将使城市资源产出提高1%, 负数忠诚度将使其降低2% (最低 -50%). 每建立一座城市都会使所有城市的忠诚度降低6."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyPerCity" value="每个城市忠诚度"/>
+	<entry name="LoyaltyPerCityIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MeleeAccuracy" value="近战准确度"/>
+	<entry name="MeleeAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="MeleeArmorPenetration" value="近战护甲穿透"/>
+	<entry name="MeleeArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="MeleeAttacks" value="近战攻击"/>
+	<entry name="MeleeAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="MeleeDamage" value="近战伤害"/>
+	<entry name="MeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MeleeDamageReduction" value="近战伤害减免"/>
+	<entry name="MeleeDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="MeleeDamageTaken" value="所受近战伤害"/>
+	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MinDamageFromHitpointsFraction" value="目标生命值最小伤害"/>
+	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Morale" value="士气"/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleDescription" value="单位的精神状态.<br/><br/><icon texture='GUI/Bullet'/>士气低于50%单位将会发生<icon height='20' texture='Icons/Traits/Shaken'/>动摇, 造成的伤害降低25%.<br/><icon texture='GUI/Bullet'/>士气低于25%单位将会<icon height='20' texture='Icons/Traits/Broken'/>崩溃, 造成的伤害降低50%."/>
+	<entry name="MoraleRegeneration" value="士气恢复"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactor" value="士气损失"/>
+	<entry name="MoraleLossFactorIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="最大士气"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="移动"/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementDescription" value="一回合内单位能够移动的格数.<br/><br/><icon texture='GUI/Bullet'/>崎岖的地形需要消耗1点以上的移动点数.<br/><icon texture='GUI/Bullet'/>移动至敌人旁边将会结束当前移动."/>
+	<entry name="MovementCost" value="移动消耗"/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="最大移动"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Ore" value="矿石"/>
+	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCost" value="矿石消耗"/>
+	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCostHint" value="<style name='Title'/>Ore Cost<br/><style name='Default'/>"/>
+	<entry name="OrePerKillValue" value="每次击杀矿石数值"/>
+	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="Population" value="人口"/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationHint" value="<style name='Title'/>人口<br/><style name='Default'/>可以使城市中的建筑正常运转. 如果所需要的人口超过了当前人口, 则建筑的资源产出将会降低."/>
+	<entry name="PopulationLimit" value="人口上限"/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLimitHint" value="<style name='Title'/>人口上限<br/><style name='Default'/>表明城市所能容纳的最大人口数量."/>
+	<entry name="Production" value="生产"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionHint" value="<style name='Title'/>生产<br/><style name='Default'/>表明建筑物生产的速度."/>
+	<entry name="ProductionCost" value="生产消耗"/>
+	<entry name="ProductionCostIcon" value="<icon height='20' texture='Icons/Attributes/ProductionCost'/>"/>
+	<entry name="Range" value="射程"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value=""/>
+	<entry name="RangeMax" value="最大射程"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="最小射程"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="远程准确度"/>
+	<entry name="RangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="RangedArmorPenetration" value="远程护甲穿透"/>
+	<entry name="RangedArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="RangedDamage" value="远程伤害"/>
+	<entry name="RangedDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedDamageReduction" value="远程伤害减免"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RangedDamageReductionBypass" value="远程伤害减免忽略"/>
+	<entry name="RangedDamageTaken" value="所受远程伤害"/>
+	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RequiredActionPoints" value="必需动作点数"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="必需移动"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Requisitions" value="征募"/>
+	<entry name="RequisitionsIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsCost" value="征募消耗"/>
+	<entry name="RequisitionsCostIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="Research" value="研究"/>
+	<entry name="ResearchCost" value="研究消耗"/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchHint" value="<style name='Title'/>研究<br/><style name='Default'/>能够让你发现新的科技."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerExperience" value="研究每经验"/>
+	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="Sight" value="视野"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="单位能够看见的最远距离.<br/><br/>视线会因森林, 烟雾, 悬崖等地形特征而降低."/>
+	<entry name="SlotsRequired" value="需要栏位"/>
+	<entry name="TargetArmor" value="目标护甲"/>
+	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="Turns" value="回合"/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="WitchfireDamageReduction" value="巫火伤害减免"/>
+	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	
+	<!-- Faction-specific -->
+	<entry name="BiomassHint" value="<style name='Title'/>生物质<br/><style name='Default'/>用于维系城市中的人口, 建造建筑物以及产生和维护单位."/>
+	<entry name="EnergyHint" value="<style name='Title'/>能量<br/><style name='Default'/>用于维持建筑, 同时生产和维护特殊单位."/>
+	<entry name="FoodHint" value="<style name='Title'/>食物<br/><style name='Default'/>用于维持城市人口, 同时生产和维护生物单位."/>
+	<entry name="OreHint" value="<style name='Title'/>矿石<br/><style name='Default'/>用于建造建筑, 同时生产和维护机械单位."/>
+	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>影响力<br/><style name='Default'/>用于占领并维持城市土地, 发布法令以及招募强大的英雄单位并购买其物品."/>
+	<entry name="Necrons/EnergyHint" value="<style name='Title'/>能量<br/><style name='Default'/>用于建造建筑并生产单位."/>
+	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>影响力<br/><style name='Default'/>用于占领并维持城市土地, 使用特殊技能以及招募强大的英雄单位并购买其物品."/>
+	<entry name="Necrons/OreHint" value="<style name='Title'/>矿石<br/><style name='Default'/>用于维持城市人口, 以及维护建筑和单位."/>
+	<entry name="Orks/InfluenceHint" value="<style name='Title'/>影响力<br/><style name='Default'/>用于占领并维持城市土地, 维持哇!以及招募强大的英雄单位并购买其物品."/>
+	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>影响力<br/><style name='Default'/>用于占领并维持城市土地, 执行战术行动以及招募强大的英雄单位并为其购买物品."/>
+	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>征募<br/><style name='Default'/>用于维持城市人口, 建造建筑以及生产和维护单位."/>
+	<entry name="Tyranids/InfluenceHint" value="<style name='Title'/>影响力<br/><style name='Default'/>用于占领并维持城市领地, 维护建筑物, 获得特殊技能以及招募强大的英雄单位和购买其物品."/>
+</language>

@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="发现星际战士, 指挥官. 通信频道已打开."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="发现总政委. 准备靠近."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="长官, 很高兴见到一位了解盔甲价值的人, 长官!"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommanderCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="发现异种构造体."/>
+	<entry name="AstraMilitarum/Baneblade:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Attack#0" value="执行攻击方案."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#1" value="目标已捕获."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#2" value="射击弹药1-11, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:AttackCount" value="3"/>
+	<entry name="AstraMilitarum/Baneblade:Broken#0" value="准备撤退, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Cover#0" value="不知道是为什么, 但坦克已经做好掩护, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="发现叛徒, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="发现异种, 长官. 准备好告诉它们真正的金属怪物是什么."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="区域内发现绿皮, 长官. 它们谁也别想把我们做成头锤!"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="发现敌对阿斯塔特战会. 凋零之刃未出现."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="长官, 建议迅速撤退. 我们无法保证这架载具能够承受抵抗."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="受损严重, 长官. 建议返回火星进行修整."/>
+	<entry name="AstraMilitarum/Baneblade:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Idle#0" value="正在记录, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#1" value="正在检查弹药筒, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#2" value="敌人太弱了, 长官. 我们会帮助它们更快地战败."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#3" value="正在数铆钉, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#4" value="等我长大了, 我想成为一架地狱之锤. 长官."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#5" value="你听说了凡斯史塔布斯损失了一百辆毒刃坦克吗, 长官? 真是太不小心了."/>
+	<entry name="AstraMilitarum/Baneblade:IdleCount" value="6"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="准备重新占领格雷迪厄斯, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="守卫集结中, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="长官, 无意冒犯, 但那个科技神甫好像没起到什么作用. "/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="我们会把地下探索留给步兵去完成. 长官."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="我们会击退异种, 请放心, 长官."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="卡斯特兰! 我们需要火力增援, 长官!"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="决不后退, 长官! 但无论如何, 我们也无法确定这个东西是不是真的退后了."/>
+	<entry name="AstraMilitarum/Baneblade:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Victory#0" value="目标已清除, 长官. 重新填装火炮."/>
+	<entry name="AstraMilitarum/Baneblade:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="建议进行移动, 长官; 车组成员无法处理这些铁线草."/>
+	<entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="发现友方阿斯塔特成员, 赞美帝皇!"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="发现政委. 很高兴他来到了前线... 虽然离我们这儿有些远."/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="炮弹对它毫无办法. 它究竟是用什么做成的?"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="哪怕只是看着它, 我们也感受到了净化."/>
+	<entry name="AstraMilitarum/Basilisk:ArtefactCount" value="2"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#0" value="坐标已接收, 解决方案已确定. 开火.#"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#1" value="炮火连天."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#2" value="小心别打着监靶员."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#3" value="目标已起火. 幸亏我们回到了这里!"/>
+	<entry name="AstraMilitarum/Basilisk:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/Basilisk:Broken#0" value="扔下枪赶紧跑!"/>
+	<entry name="AstraMilitarum/Basilisk:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Cover#0" value="完美的炮击地点. 敌人不会发现我们来了."/>
+	<entry name="AstraMilitarum/Basilisk:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="我们永远为叛徒准备好了礼物 -- 来自帝皇愤怒的132mm火炮."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="铁皮人? 15km开外是阻截它们的最佳距离."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="啊, 绿皮们. 这座加农炮就是为它们准备的."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="叛变的星际战士? 不知道他们的信仰能不能承受得住高爆炸弹?"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="那是什么? 保持距离, 兄弟们."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="乘员舱被击穿... 现在这里一片狼藉."/>
+	<entry name="AstraMilitarum/Basilisk:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#0" value="你听说过毒蜥里的圣徒吗? 他刚被册封. 你知道吗?"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#1" value="蝎尾狮可干不了毒蜥火炮的活儿."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#2" value="我很替那些倒在前线呻吟的人感到可怜... 但我可不想加入他们."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#3" value="请告诉我们什么时候可以发起进攻."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#4" value="战争中什么也没有发生...但这种情况又在不断发生."/>
+	<entry name="AstraMilitarum/Basilisk:IdleCount" value="5"/>
+	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="有什么东西在向我们... 开火?"/>
+	<entry name="AstraMilitarum/Basilisk:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Victory#0" value="把敌人送进坟墓, 哈!"/>
+	<entry name="AstraMilitarum/Basilisk:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="生化草? 我是说这并不是什么绝佳的射击地点, 就好像是在大裂隙里一样..."/>
+	<entry name="AstraMilitarum/Basilisk:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="战士老大!"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="我们是忠诚的牛格林."/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="大家伙?"/>
+	<entry name="AstraMilitarum/Bullgryn:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="牛格林正在战斗, 老大."/>
+	<entry name="AstraMilitarum/Bullgryn:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="欧格林可没有那么难对付."/>
+	<entry name="AstraMilitarum/Bullgryn:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="已经潜伏在草丛."/>
+	<entry name="AstraMilitarum/Bullgryn:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="等等, 谁才是为帝皇而战? 我们还是他们?"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="咬不动铁皮. 可恶."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="欧克兽人. 不过, 长得帅, 又聪明. 跟我们一样."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="帝皇的子嗣? 我们要跟他们战斗?!"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="呐, 我不知道它们是什么. "/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="噢."/>
+	<entry name="AstraMilitarum/Bullgryn:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="他们的骨头尝起来... 像是聪明的家伙."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="一只欧格林趴在死去的欧克兽人胸口. 呃... 两只! 两只欧格林..."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="正在打磨我们的武器, 长官."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="我们将听从命令行事. 但你什么也没有说."/>
+	<entry name="AstraMilitarum/Bullgryn:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="等等... 我们该走哪条路?"/>
+	<entry name="AstraMilitarum/Bullgryn:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="什么? 我们赢了?"/>
+	<entry name="AstraMilitarum/Bullgryn:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:WireWeed#0" value="嗷, 我的腿!"/>
+	<entry name="AstraMilitarum/Bullgryn:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="赞美帝皇, 阿斯塔特在此!"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="昂首挺胸, 还有大肚子, 这就是总政委."/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="那是什么东西做成的... 异种?"/>
+	<entry name="AstraMilitarum/Guardsman:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#0" value="有人看清楚我们攻击的目标了吗?"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#1" value="敌人在前, 政委在后..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#2" value="把能用的都招呼上!"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#3" value="真希望克里德在这儿..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#4" value="激光火炮不要停, 我们马上就成功了."/>
+	<entry name="AstraMilitarum/Guardsman:AttackCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#0" value="我并没有签署这个!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#1" value="小伙子们快跑, 希望别被政委发现了!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#2" value="他们正在大开杀戒! 我们无法反击!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#3" value="这是一个血腥的死亡世界!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#4" value="增援在哪里? 在哪里-!"/>
+	<entry name="AstraMilitarum/Guardsman:BrokenCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Cover#0" value="退回到战壕, 感谢帝皇."/>
+	<entry name="AstraMilitarum/Guardsman:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="奴役者? 噢, 帝皇保佑我们."/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="来自普罗斯佩罗的大虫子 -- 别让它们靠近灵能者!"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="混乱! 这里?"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="我们完了, 长官."/>
+	<entry name="AstraMilitarum/Guardsman:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#0" value="为了金色王座...!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#1" value="为了基里曼, 为了帝皇!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#2" value="有多高, 长官?"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#3" value="这是恶战前的宁静."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#4" value="就是玩游戏而已, 长官, 政委说这对提升士气有好处."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#5" value="我们将生命奉献给守卫, 长官. 非常艰难."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#6" value="清楚地收到了您的命令, 长官!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#7" value="长官, 是的, 长官!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#8" value="当心, 政委来了!"/>
+	<entry name="AstraMilitarum/Guardsman:IdleCount" value="9"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="我们依然不敢相信我们活下来了. 这么多..."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="让战斗小队一起回来了, 长官."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="一座新的城市? 我们确定 -- 不, 长官, 并不是质疑您的命令, 长官!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="那些风暴让我的脑袋疼得厉害 -- 我们会永远被困在这里吗?"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="他们攻进了城市! 退后!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="我的母亲总是说, '永远也不要相信科技神甫'. 她说得没错, 我的妈妈."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="可以祷告吗? 噢, 帝皇, 噢, 基里曼, 保佑我们."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="指挥官, 我们正节节败退."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="勇气, 小伙子们, 勇气."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="如果继续站在这里, 敌人肯定会向我们开火. 如果逃跑, 政委会崩了我们的脑袋!"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="有好一点的武器吗, 拜托?"/>
+	<entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#0" value="政委, 长官, 是否可以庆祝?"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#1" value="哈! 我感觉就像是干掉了一名泰坦."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#2" value="为了纪念卡迪亚和克里德..."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#3" value="我们赢了..? 我们赢了!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#4" value="哇, 书里写的没错! 对付这些异种太轻松了!"/>
+	<entry name="AstraMilitarum/Guardsman:VictoryCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="长官, 这些草, 是活的!"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="指挥官, 指挥中心发现了友方星际战士."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="能在战场里见到您真高兴, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="危险的异种神器就在城市附近, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Attack#0" value="区域控制维护中."/>
+	<entry name="AstraMilitarum/Headquarters:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Broken#0" value="破釜沉舟命令已发布."/>
+	<entry name="AstraMilitarum/Headquarters:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Cover#0" value="一座城市... 要如何... 掩护?"/>
+	<entry name="AstraMilitarum/Headquarters:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="叛徒们正接近城市, 长官!"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="太空死灵部队靠近中."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="危险的绿皮来了, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="星际战士接近中. 如果闯进来他们会清洗整座城市."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="警告: 侦测到极度危险的异种."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="基础设施受到持续损害!"/>
+	<entry name="AstraMilitarum/Headquarters:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Idle#0" value="守卫轮岗."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#1" value="永远保持谨慎."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#2" value="谁在玩塔罗牌? 赶紧拿走."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#3" value="大家都闭嘴了, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="后退到防守地点, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Victory#0" value="城市守住了, 长官."/>
+	<entry name="AstraMilitarum/Headquarters:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="把城市建立在铁线草上会不会不太好?"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="阿斯塔特与我们并肩作战."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="政委在哪吃午饭? 真是个傻问题. 呵呵."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="如果我们不能朝那个东西开火, 那我也没什么兴趣了."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="有人能看看目标是不是还在那儿?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="注意后坐力!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="猛烈的炮火!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="让我们把对面炸开花!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="如果激光武器也切不开..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AttackCount" value="5"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="退后, 狗东西, 退后!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="正如他们说的: 掩护好你的迫击炮, 迫击炮也会掩护你."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="可恶的叛徒. 给他们点儿颜色看看!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="让我们看看它们的金属壳里面是什么."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="向绿皮开火真是一种浪费."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="如果要向星际战士射击的话, 记得一定要打中才行."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="把这些怪物打到异次元里去!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="我没时间流血了."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="你知道修好激光加农炮上的刺刀要多久吗?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="异种朝我们来了."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="有什么东西在等着我们..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="我们就像坦克一样能够准确命中目标."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="我们不应该受到攻击, 长官."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="死亡, 显而易见."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="肮脏的异种陷阱."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="天使与我们同在."/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="有人能够帮助我们保持警惕挺好的."/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Artefact#0" value="奇怪的东西."/>
+	<entry name="AstraMilitarum/Hydra:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Attack#0" value="让天空保持纯净."/>
+	<entry name="AstraMilitarum/Hydra:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Broken#0" value="退回高地."/>
+	<entry name="AstraMilitarum/Hydra:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Cover#0" value="完美的掩护."/>
+	<entry name="AstraMilitarum/Hydra:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="都是帝国子民, 但他们怀有二心."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="奇怪的飞行机器, 但又如此致命."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="绿皮们的飞行器非常粗糙, 但很有效."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="能不能把雷鹰打下来? 让我们来试试!"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="漂浮不是飞行, 你们这些恐怖的怪物."/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Hurt#0" value="我们守卫着天空, 而你却看守着我们."/>
+	<entry name="AstraMilitarum/Hydra:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Idle#0" value="云层巡视中, 长官."/>
+	<entry name="AstraMilitarum/Hydra:Idle#1" value="光晕, 星空, 真是漂亮..."/>
+	<entry name="AstraMilitarum/Hydra:Idle#2" value="这里的星空非常震撼."/>	
+	<entry name="AstraMilitarum/Hydra:Idle#3" value="这颗星球拥有着无与伦比的日落. 长官."/>
+	<entry name="AstraMilitarum/Hydra:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Hydra:Shaken#0" value="有人想要打垮我们, 长官."/>
+	<entry name="AstraMilitarum/Hydra:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Victory#0" value="空中清理完毕, 长官."/>
+	<entry name="AstraMilitarum/Hydra:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="来自地面的纠缠, 长官."/>
+	<entry name="AstraMilitarum/Hydra:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="帝国堡垒报告, 阿斯塔特战会出现在周围 -- 他们是友方单位."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="见到毒刃非常激动, 长官. 尤其是它们的炮筒指着另一个方向."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="帝国堡垒时刻坚守, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="帝国堡垒报告, 附近发现了异种神器."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="帝国堡垒正在部署军事设施."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="帝国堡垒失败了, 重复, 帝国堡垒失败了."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="帝国堡垒报告, 叛徒正在附近移动."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="帝国堡垒报告, 太空死灵正在移动."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="帝国堡垒报告, 发现欧克兽人."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="帝国堡垒报告... 帝皇保佑我们... 阿斯塔特战会."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="帝国堡垒报告, 发现异种 -- 是奴役者, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="帝国堡垒报告 -- 不确定我们是否能够扛得住, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="时刻警惕着, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="保持警惕."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="帝国堡垒报告 -- 没有什么可以报告的."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="全部都安静了, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="长官, 你听得到吗? 我们正受到攻击."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="帝国堡垒正在坚守, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="生化野草正在指挥中心蔓延, 长官."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="星际战士加入了我们! 他们真不错."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="另一名高贵的家伙. 为什么只有雅瑞克得到了自己的毒刃坦克加农炮?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="守卫神器. 乐意效劳."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="给他们送去一些可爱的炮弹, 长官."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="很遗憾, 长官, 我们不得不撤退."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="在树林中, 设置埋伏, 长官."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="明天之前, 我们必将卸下异教徒们的骨头.."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="啊, 我们最喜欢的目标 -- 太空死灵."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="准备自毁 -- 欧克兽人对黎曼鲁斯坦克非常感兴趣."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="这座加农炮能够让星际战士悲痛不已. "/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="敌对异种 -- 不要让它们靠近."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="哇, 那东西直接贯穿了护甲!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="这黎曼鲁斯坦克还能开吗?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="正在标记中."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="坦克驾驶中."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="希望帕斯克还开的动坦克."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="坦克被击中!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="全宇宙最受欢迎坦克的又一次胜利!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="生化野草, 唯一比黎曼鲁斯更为常见的东西."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="我们永远欢迎忠诚的阿斯塔特... 如果感到惊喜的话."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="啊, 一名同志."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="异种污秽. 我们应该烧了它."/>
+	<entry name="AstraMilitarum/LordCommissar:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="干掉它们, 或者让我来干掉你!"/>
+	<entry name="AstraMilitarum/LordCommissar:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="不能让别人看到我喜欢这个!"/>
+	<entry name="AstraMilitarum/LordCommissar:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="战术要求我们隐藏起来, 但这不利于士气."/>
+	<entry name="AstraMilitarum/LordCommissar:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="叛徒! 肮脏的东西! 你必将接受帝皇正义的审判!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="铁皮怪物. 把它们熔了拿来做子弹. "/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="绿皮暴徒. 帝国的铁拳对它们会很有效."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="叛徒们亵渎了帝皇最骄傲的创造. 我们必须将它们从星系中抹去."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="异种的恐怖, 在我的脑海中回荡!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="这不过是一个小伤口."/>
+	<entry name="AstraMilitarum/LordCommissar:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="散播正义让我疲惫不堪."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="无所事事做不出任何成就."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="配给减半. 这就是为什么我看上去有些憔悴."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="凯恩会做些什么呢?"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="副官! 再清理一次!"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="履行你的职责, 以 - 噢, 我总是忘了这一点. "/>
+	<entry name="AstraMilitarum/LordCommissar:IdleCount" value="6"/>
+	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="我感到一股精神占据了我."/>
+	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="为我的部队设立了榜样."/>
+	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="站在生化草里虽然很蠢, 但很勇敢."/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="一些阿斯塔特成员出现在这里. 友方单位."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="幸亏有战斗机支援."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="发现高价值目标."/>
+	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="炸飞它."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="只要你看得见, 我们就能打的着."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="没有炸不开的大门."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="狂轰滥炸."/>
+	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="我们要坠毁了!"/>
+	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="如果飞低一点儿的话, 还要掩护做什么."/>
+	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="我们失去了三个引擎, 机舱已经被打出好几个洞, 燃料也在不断泄露..."/>
+	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="即兴演讲我可不在行."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="我发誓, 我听到这些炸弹说话了."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="谁知道怎么降落在这些东西上吗?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="勤加练习. 正如书中所说的."/>
+	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="迅速转移至高处地带 -- 这里的伏击到处都是."/>
+	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="最近的目标在哪里?"/>
+	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="我感觉到...他们是好样的."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="一个被绝对主义扭曲的灵魂...有意思."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="这些小玩具是用古老的骨头做成的."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="你的灵魂将会熊熊燃烧..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="我感到帝皇正注视着我."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="以他的名义灼烧着你."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AttackCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="他的光辉, 他的光辉在哪里?"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="隐藏的心才是智慧的心."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="显而易见, 我们不是一条路上的人."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="我感受不到它们的任何气息. 什么也没有."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="一股 -- 如此强烈的爱慕情绪."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="这钢铁般的信仰... 然而仅仅是表面上的."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="我觉得它饿了, 似乎想要吞噬我们的灵魂."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="血肉模糊而已."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="即使穿过这片风暴, 我也能看到他的光辉."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="我知道你在想什么..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="无聊的人做无聊的事."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="宁愿死在这里也比在黑船上好."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="正如帝皇的塔罗牌所预示的那样."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="这是有生命的东西, 尽管看上去又奇怪又血腥."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="巨大的垫肩, 星际战士的标志!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="能让我回到前线吗?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="哇哦, 你该看看这个!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Attack#0" value="火力全开!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Broken#0" value="我的长腿正在奔跑!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Cover#0" value="躲在树或者什么后面."/>
+	<entry name="AstraMilitarum/ScoutSentinel:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarum#0" value="可恶, 这就是我们, 但是是坏的那一种."/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Necrons#0" value="铁壳人, 喂!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Orks#0" value="我看见了红色的眼睛, 正打量着我身上的每一部分!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarines#0" value="啊, 什么? 要跟他们战斗? 现在我们是坏人了?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="呃... 那是来自泰拉的什么东西?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Hurt#0" value="呵, 有人给我切了一个新的天窗."/>
+	<entry name="AstraMilitarum/ScoutSentinel:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#0" value="我是不是, 你懂的, 应该做点儿什么?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#1" value="这些腿都立起来了."/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#2" value="想象一下那里有什么, 等待着被发现!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#3" value="让我们动起来!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Shaken#0" value="放我出去!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Victory#0" value="一直坚信我们必将成立. 继续!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeed#0" value="让我走得再快一些, 这些东西快要扎进腿里了."/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="如果他们没有兰德袭击者, 那我选择退出."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="噢... 多么漂亮的东西."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Artefact#0" value="如果这不是敌人的盔甲, 那我一点儿也不好奇."/>
+	<entry name="AstraMilitarum/TankCommander:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#0" value="轰! 哈哈哈!"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#1" value="靠近一点! 你懂的..."/>
+	<entry name="AstraMilitarum/TankCommander:Attack#2" value="开火! 下一个! 全部干掉! "/>
+	<entry name="AstraMilitarum/TankCommander:Attack#3" value="开火! 哈哈哈!"/>
+	<entry name="AstraMilitarum/TankCommander:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/TankCommander:Broken#0" value="不, 不要退后! 这儿谁负责?"/>
+	<entry name="AstraMilitarum/TankCommander:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Cover#0" value="一次伏击, 我喜欢."/>
+	<entry name="AstraMilitarum/TankCommander:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="叛徒! 异教徒... 他们没有坦克吗?"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Necrons#0" value="符石巨塔, 这可是个挑战."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="呃, 我们应该把毁灭者加农炮带上才对."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarines#0" value="叛徒! 不过他们好像不知道犀牛运兵车哪一边才是前面."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobot#0" value="哦, 他们不喜欢那样的装甲."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Hurt#0" value="向我开火, 让他们忙起来."/>
+	<entry name="AstraMilitarum/TankCommander:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Idle#0" value="笨脑袋总比死脑袋强. 哈!"/>
+	<entry name="AstraMilitarum/TankCommander:Idle#1" value="擦亮我的勋章."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#2" value="你什么意思, 进去? 我得看看."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#3" value="我渴望行动."/>
+	<entry name="AstraMilitarum/TankCommander:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/TankCommander:Shaken#0" value="不知道这位老奶奶能否接受更多这样的东西."/>
+	<entry name="AstraMilitarum/TankCommander:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Victory#0" value="敌人最好的位置就是处在你的掌控之下."/>
+	<entry name="AstraMilitarum/TankCommander:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:WireWeed#0" value="嘿, 那些杂草刮花了我的喷漆!"/>
+	<entry name="AstraMilitarum/TankCommander:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissar#0" value="很高兴已经超出了那位狂热者的管辖权."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Artefact#0" value="拆解是一件非常诱人的事情."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="战斗中. "/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Broken#0" value="血肉之身如此孱弱, 必须撤退."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Cover#0" value="敌人的命中率极大地降低了."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarum#0" value="令人恼怒."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Necrons#0" value="万能机械神真正追随者的形态, 通常都沾有肮脏异种的灵魂."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Orks#0" value="原始人. 不要让它们靠近我们神圣的机器."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarines#0" value="很遗憾."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobot#0" value="一个神圣遗迹! 降低对它的伤害."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayer#0" value="技术异端? 在这儿. 不太可能."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayerCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Hurt#0" value="需要修理."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="正在使用圣洁药膏."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#1" value="正在检查沉思者."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#2" value="正在举行机械仪式."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#3" value="正在恢复机械之魂."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Shaken#0" value="万能机械神与我同在."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Victory#0" value="情理之中."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="生化杂草真有意思. 我们必须进行复制."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TempestusScion" value="AstraMilitarum/Guardsman"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarines#0" value="下面有什么亮晶晶的东西!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomber#0" value="我们必须齐心协力!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomberCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Artefact#0" value="有人看到那是什么了吗? 哇!"/>
+	<entry name="AstraMilitarum/Thunderbolt:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Attack#0" value="不要盲目射击! 节约弹药!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Broken#0" value="准备回家."/>
+	<entry name="AstraMilitarum/Thunderbolt:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Cover#0" value="只有云层可以掩护我们."/>
+	<entry name="AstraMilitarum/Thunderbolt:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarum#0" value="一群叛徒. 这里到处都是目标."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:Orks#0" value="欧克兽人. 它们脑袋着火的速度太快啦."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="星际战士. 他们把更多的时间花在了装饰盔甲上, 而不是战斗."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/Psychneuein#0" value="有谁喜欢超大号的蜜蜂吗?"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Hurt#0" value="唔, 第二名可没有积分奖励."/>
+	<entry name="AstraMilitarum/Thunderbolt:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#0" value="我渴望战斗."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#1" value="不要把时间浪费在思考上."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#2" value="在这里就好像是在公园里散布."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#3" value="你可以当我的僚机, 随时都行."/>
+	<entry name="AstraMilitarum/Thunderbolt:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Thunderbolt:Shaken#0" value="让我们转身, 燃烧!"/>
+	<entry name="AstraMilitarum/Thunderbolt:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Victory#0" value="胜利可不光只有奇妙的飞行."/>
+	<entry name="AstraMilitarum/Thunderbolt:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Artefact#0" value="不, 说真的, 我不能捡那个东西."/>
+	<entry name="AstraMilitarum/Valkyrie:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Attack#0" value="释放我们的怒火."/>
+	<entry name="AstraMilitarum/Valkyrie:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Broken#0" value="我们就是这样来得快去得也快!"/>
+	<entry name="AstraMilitarum/Valkyrie:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarum#0" value="到处都是奴隶."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Necrons#0" value="铁皮人来得挺快."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Orks#0" value="绿皮出现了."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarines#0" value="我可没有签署与星际战士对抗的命令!"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Hurt#0" value="这里太热了, 热得停不下来!"/>
+	<entry name="AstraMilitarum/Valkyrie:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#0" value="可以征用一下扬声器吗?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#1" value="可恶, 什么时候才能行动?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#2" value="这安静的气氛快要把我杀死了."/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#3" value="我们绝不停歇, 直至死亡."/>
+	<entry name="AstraMilitarum/Valkyrie:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Valkyrie:Shaken#0" value="我们不想上前线! 快让我们出去!"/>
+	<entry name="AstraMilitarum/Valkyrie:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Victory#0" value="敌人已击毙, 请开始拆解."/>
+	<entry name="AstraMilitarum/Valkyrie:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="我们感到...安心."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="来自黑船的兄弟们..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsykerCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="邪恶中的邪恶."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#0" value="加把油, 一起粉碎他们."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="一段小小的尾声送给这些可悲的人."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#2" value="以及, 作为一体, 我们欢呼雀跃."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="简单的灵魂风暴将伴随着歌声, 让他们四分五裂."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Broken#0" value="我们沉没, 我们失落."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Cover#0" value="这是视线的屏障, 不是心灵的屏障."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarum#0" value="亲人和朋友, 最终走向了罪恶."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Necrons#0" value="没什么, 这里什么也没有."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="另一个集体的意志...只不过是外星人."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="帝皇的私生子们..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/Psychneuein#0" value="丰腴的化身, 等待诞下更多的恐怖."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Hurt#0" value="不谐之音到来, 我们支离破碎."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#0" value="视线以外, 它们存在. 异次元风暴."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#1" value="距离他的光芒是如此遥远."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#2" value="我们必将坚持到最后."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#3" value="星球在向我们低语."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Shaken#0" value="我们的和声终结, 安魂曲临近."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Victory#0" value="什么样的挽歌适合这些像牛一样死去的敌人?"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeed#0" value="银色的长蛇缠绕着我们, 刺痛着我们."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeedCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Attack#0" value="战斗协议"/>
+	<entry name="Necrons/CanoptekScarab:AttackCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Broken#0" value="伤害协议"/>
+	<entry name="Necrons/CanoptekScarab:BrokenCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Hurt#0" value="持续伤害."/>
+	<entry name="Necrons/CanoptekScarab:HurtCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Idle#0" value="维护协议."/>
+	<entry name="Necrons/CanoptekScarab:Idle#1" value="低功耗模式."/>
+	<entry name="Necrons/CanoptekScarab:Idle#2" value="正在照料受伤同伴."/>
+	<entry name="Necrons/CanoptekScarab:Idle#3" value="我们已经等待了千万年. 我们将会... 继续等待."/>
+	<entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
+	<entry name="Necrons/CanoptekScarab:Shaken#0" value="建议规避."/>
+	<entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Victory#0" value="入侵已制止."/>
+	<entry name="Necrons/CanoptekScarab:VictoryCount" value="1"/>
+	<entry name="Necrons/CanoptekSpyder" value="Necrons/CanoptekScarab"/>
+	<entry name="Necrons/Cryptek:Attack#0" value="死吧, 畜生."/>
+	<entry name="Necrons/Cryptek:Attack#1" value="世间法则背叛了你."/>
+	<entry name="Necrons/Cryptek:Attack#2" value="你永远不会明白到底是什么杀死了你."/>
+	<entry name="Necrons/Cryptek:AttackCount" value="3"/>
+	<entry name="Necrons/Cryptek:Broken#0" value="千万年的学习, 让我终于明白了什么叫做恐惧."/>
+	<entry name="Necrons/Cryptek:BrokenCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="古老敌人的奴隶."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="伙伴? 或许它们需要我的服务..."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="血肉与武器, 融为一体. 佩服."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="自我改进的奴隶. 或许有解剖的价值."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Cryptek:Hurt#0" value="真有趣, 它们竟然伤害到了我."/>
+	<entry name="Necrons/Cryptek:HurtCount" value="1"/>
+	<entry name="Necrons/Cryptek:Idle#0" value="解剖还是保留? 啊, 一个永恒的难题."/>
+	<entry name="Necrons/Cryptek:Idle#1" value="你还记得...梦境吗? 我记得."/>
+	<entry name="Necrons/Cryptek:Idle#2" value="如果有需要, 我能够让原子分裂."/>
+	<entry name="Necrons/Cryptek:Idle#3" value="还有很多需要学习, 所以我坐在这里了."/>
+	<entry name="Necrons/Cryptek:IdleCount" value="4"/>
+	<entry name="Necrons/Cryptek:Shaken#0" value="或许古贤者的造物拥有特别的东西."/>
+	<entry name="Necrons/Cryptek:ShakenCount" value="1"/>
+	<entry name="Necrons/Cryptek:Victory#0" value="所有挑战我们的生命都已终结."/>
+	<entry name="Necrons/Cryptek:VictoryCount" value="1"/>
+	<entry name="Necrons/DestroyerLord" value="Necrons/Lord"/>
+	<entry name="Necrons/DoomScythe:Attack#0" value="袭击这些奴隶."/>
+	<entry name="Necrons/DoomScythe:AttackCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Broken#0" value="我们必须离开."/>
+	<entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Hurt#0" value="它们...竟然?"/>
+	<entry name="Necrons/DoomScythe:HurtCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Idle#0" value="转圈圈."/>
+	<entry name="Necrons/DoomScythe:Idle#1" value="演习中."/>
+	<entry name="Necrons/DoomScythe:Idle#2" value="正在观测地平线."/>
+	<entry name="Necrons/DoomScythe:Idle#3" value="已注意."/>
+	<entry name="Necrons/DoomScythe:IdleCount" value="4"/>
+	<entry name="Necrons/DoomScythe:Shaken#0" value="受到伤害?"/>
+	<entry name="Necrons/DoomScythe:ShakenCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Victory#0" value="敌人不堪一击."/>
+	<entry name="Necrons/DoomScythe:VictoryCount" value="1"/>
+	<entry name="Necrons/DoomsdayArk" value="Necrons/AnnihilationBarge"/>
+	<entry name="Necrons/Headquarters" value="Necrons/Monolith"/>
+	<entry name="Necrons/HeavyDestroyer:Attack#0" value="生命就是我们的敌人!"/>
+	<entry name="Necrons/HeavyDestroyer:AttackCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Broken#0" value="死亡就是我们的胜利!"/>
+	<entry name="Necrons/HeavyDestroyer:BrokenCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="碾碎这些孱弱的血肉!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="我们自己, 一个值得骄傲的敌人!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="净化这些真菌杂种!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="帝皇的爪牙!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Hurt#0" value="苦痛驱使我们前进!"/>
+	<entry name="Necrons/HeavyDestroyer:HurtCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#0" value="我们就是虚无!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#1" value="我们饥渴难耐!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#2" value="我们必须改进, 以摧毁一切!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#3" value="我们为何亘古不变? 我们为何不开始杀戮?!"/>
+	<entry name="Necrons/HeavyDestroyer:IdleCount" value="4"/>
+	<entry name="Necrons/HeavyDestroyer:Shaken#0" value="为什么它们还没死?"/>
+	<entry name="Necrons/HeavyDestroyer:ShakenCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Victory#0" value="它们死了! 但远远不够!"/>
+	<entry name="Necrons/HeavyDestroyer:VictoryCount" value="1"/>
+	<entry name="Necrons/Immortal" value="Necrons/Warrior"/>
+	<entry name="Necrons/Lord:Attack#0" value="感受太空死灵的力量!"/>
+	<entry name="Necrons/Lord:Attack#1" value="骄傲地在我手中消亡."/>
+	<entry name="Necrons/Lord:Attack#2" value="谁敢挑战我?"/>
+	<entry name="Necrons/Lord:Attack#3" value="你将学会什么叫做服从!"/>
+	<entry name="Necrons/Lord:AttackCount" value="4"/>
+	<entry name="Necrons/Lord:Broken#0" value="我的不朽者在哪里? 卫兵?"/>
+	<entry name="Necrons/Lord:BrokenCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="一群蜉蝣, 注定活不过一天."/>
+	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="什么! 对手, 竟然出现在我的皇冠世界?!"/>
+	<entry name="Necrons/Lord:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:Orks#0" value="一群畜生! 当然, 它们还无法主宰这个世界."/>
+	<entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="如此智慧, 如此年轻. 但他们活不长了."/>
+	<entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Lord:Hurt#0" value="他们烧坏了我的披风? 毁灭他们!"/>
+	<entry name="Necrons/Lord:HurtCount" value="1"/>
+	<entry name="Necrons/Lord:Idle#0" value="良心只是一个词, 但它让强者保持克制."/>
+	<entry name="Necrons/Lord:Idle#1" value="先知, 终将被我消灭."/>
+	<entry name="Necrons/Lord:Idle#2" value="我应该先做什么, 我们什么时候才能掌管这个世界?"/>
+	<entry name="Necrons/Lord:IdleCount" value="3"/>
+	<entry name="Necrons/Lord:Shaken#0" value="死亡无法在我身上留下任何痕迹."/>
+	<entry name="Necrons/Lord:Shaken#1" value="古贤者把他们训练得很不错."/>
+	<entry name="Necrons/Lord:ShakenCount" value="2"/>
+	<entry name="Necrons/Lord:Victory#0" value="在绝望中死亡."/>
+	<entry name="Necrons/Lord:VictoryCount" value="1"/>
+	<entry name="Necrons/Monolith:Attack#0" value="已部署粒子鞭笞."/>
+	<entry name="Necrons/Monolith:AttackCount" value="1"/>
+	<entry name="Necrons/Monolith:Broken#0" value="缓慢地... 撤退."/>
+	<entry name="Necrons/Monolith:BrokenCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="发现人类."/>
+	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="敌对王朝."/>
+	<entry name="Necrons/Monolith:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="发现欧克兽人."/>
+	<entry name="Necrons/Monolith:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="发现强化人类."/>
+	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Monolith:Hurt#0" value="护甲穿刺, 成员受伤."/>
+	<entry name="Necrons/Monolith:HurtCount" value="1"/>
+	<entry name="Necrons/Monolith:Idle#0" value="正在引导永恒之门."/>
+	<entry name="Necrons/Monolith:Idle#1" value="正在生成不解之秘."/>
+	<entry name="Necrons/Monolith:Idle#2" value="正在解析奇特数值."/>
+	<entry name="Necrons/Monolith:Idle#3" value="正在重建基础粒子."/>
+	<entry name="Necrons/Monolith:Idle#4" value="正在读取方舟记忆体."/>
+	<entry name="Necrons/Monolith:Idle#5" value="正在制作网格样条."/>
+	<entry name="Necrons/Monolith:IdleCount" value="6"/>
+	<entry name="Necrons/Monolith:Shaken#0" value="遭受攻击. 选择让步."/>
+	<entry name="Necrons/Monolith:ShakenCount" value="1"/>
+	<entry name="Necrons/Monolith:Victory#0" value="敌人已被终结. 毫无悬念."/>
+	<entry name="Necrons/Monolith:VictoryCount" value="1"/>
+	<entry name="Necrons/NightScythe" value="Necrons/DoomScythe"/>
+	<entry name="Necrons/Obelisk" value="Necrons/Monolith"/>
+	<entry name="Necrons/TesseractVault:Attack#0" value="感受星神的怒火!"/>
+	<entry name="Necrons/TesseractVault:AttackCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Broken#0" value="我快要自由了!"/>
+	<entry name="Necrons/TesseractVault:BrokenCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="让我对抗太空死灵? 愚蠢的生物."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="卑微的野兽."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="他们的命是我的了."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Hurt#0" value="我的囚牢变得脆弱..."/>
+	<entry name="Necrons/TesseractVault:HurtCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Idle#0" value="哨兵, 圣甲虫... 这些都是我的?"/>
+	<entry name="Necrons/TesseractVault:Idle#1" value="噢, 让我自由?"/>
+	<entry name="Necrons/TesseractVault:Idle#2" value="这座监牢无法束缚我."/>
+	<entry name="Necrons/TesseractVault:Idle#3" value="我竟是如此...渺小. 我曾是星神!"/>
+	<entry name="Necrons/TesseractVault:Idle#4" value="我是一名星神. 我要摧毁你的心智."/>
+	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
+	<entry name="Necrons/TesseractVault:Shaken#0" value="是的, 摧毁我的囚牢..."/>
+	<entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Victory#0" value="远远不够. 除非所有的生命都是我的."/>
+	<entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
+	<entry name="Necrons/TombBlade:Attack#0" value="疾风一般的袭击."/>
+	<entry name="Necrons/TombBlade:AttackCount" value="1"/>
+	<entry name="Necrons/TombBlade:Broken#0" value="分散, 退后."/>
+	<entry name="Necrons/TombBlade:BrokenCount" value="1"/>
+	<entry name="Necrons/TombBlade:Hurt#0" value="低水平火力. 战士已牺牲."/>
+	<entry name="Necrons/TombBlade:HurtCount" value="1"/>
+	<entry name="Necrons/TombBlade:Idle#0" value="不要一直站着."/>
+	<entry name="Necrons/TombBlade:Idle#1" value="正在编写攻击例程."/>
+	<entry name="Necrons/TombBlade:Idle#2" value="空间...我们记得."/>
+	<entry name="Necrons/TombBlade:Idle#3" value="正在测试象限推斥器."/>
+	<entry name="Necrons/TombBlade:IdleCount" value="4"/>
+	<entry name="Necrons/TombBlade:Shaken#0" value="受到攻击. 不可思议, 我们受到了攻击."/>
+	<entry name="Necrons/TombBlade:ShakenCount" value="1"/>
+	<entry name="Necrons/TombBlade:Victory#0" value="敌人...溃不成军."/>
+	<entry name="Necrons/TombBlade:VictoryCount" value="1"/>
+	<entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
+	<entry name="Necrons/TriarchPraetorian:Attack#0" value="第一条法则...不要站在三圣卫队之前."/>
+	<entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Broken#0" value="最后一条法则...不要选择战斗."/>
+	<entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="啊, 原始人. 我们曾经是他们的神."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="另一个王朝? 来者不善."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="无法驯化, 野蛮人."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="值得敬佩的对手. 作为尊敬, 我们必须杀死他们."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Hurt#0" value="我们就是法则!"/>
+	<entry name="Necrons/TriarchPraetorian:HurtCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#0" value="你想知道法则的内容吗?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#1" value="第一条规则, 荣誉."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#2" value="第二条规则, 骄傲."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#3" value="第三条规则...我该分享这条数据吗?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#4" value="第五十七条规则...遵守所有规则."/>
+	<entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
+	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="复活是如此的...沉重负担."/>
+	<entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Victory#0" value="我们并不觉得高兴."/>
+	<entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
+	<entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
+	<entry name="Necrons/Warrior:Artefact#0" value="古贤者的恐惧 -- 在我们的皇冠世界? 他们怎么敢?"/>
+	<entry name="Necrons/Warrior:ArtefactCount" value="1"/>
+	<entry name="Necrons/Warrior:Attack#0" value="把你的神经一根一根切断, 一点一点拆解, 会很疼吗?"/>
+	<entry name="Necrons/Warrior:Attack#1" value="正在战斗."/>
+	<entry name="Necrons/Warrior:Attack#2" value="历史将遗忘它们."/>
+	<entry name="Necrons/Warrior:Attack#3" value="抵抗...令人厌烦."/>
+	<entry name="Necrons/Warrior:AttackCount" value="4"/>
+	<entry name="Necrons/Warrior:Broken#0" value="伤害模拟已执行99%."/>
+	<entry name="Necrons/Warrior:Broken#1" value="我们的单位被分散. 必须撤退."/>
+	<entry name="Necrons/Warrior:Broken#2" value="已初始化召回协议."/>
+	<entry name="Necrons/Warrior:Broken#3" value="我们需要遵从墓穴的召唤."/>
+	<entry name="Necrons/Warrior:Broken#4" value="您的命令无法执行, 我的主人."/>
+	<entry name="Necrons/Warrior:BrokenCount" value="5"/>
+	<entry name="Necrons/Warrior:Cover#0" value="利用掩护."/>
+	<entry name="Necrons/Warrior:CoverCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="如此孱弱的肉体, 适合成为奴隶."/>
+	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="我们的同胞, 出现在错误的地点."/>
+	<entry name="Necrons/Warrior:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="无赖的生化武器. 但确实有效."/>
+	<entry name="Necrons/Warrior:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="血肉, 包裹在如同我们的形态之中. 不可小觑."/>
+	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="有机, 巨大, 虫子. 也许是泰伦虫族的祖先?"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="古贤者的副作用? 传感器可信度降低至30%."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="人类会嘲弄我们吗? 如此令人失望的复制品."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="传感器失效! 未知, 未知, 未知."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="有机体种族的威胁."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="Necrons/Warrior:Hurt#0" value="伤害超出预期... 召回协议?"/>
+	<entry name="Necrons/Warrior:HurtCount" value="1"/>
+	<entry name="Necrons/Warrior:Idle#0" value="所有系统运转正常."/>
+	<entry name="Necrons/Warrior:Idle#1" value="诅咒欺诈者...直到永远."/>
+	<entry name="Necrons/Warrior:Idle#2" value="已初始化空闲协议."/>
+	<entry name="Necrons/Warrior:Idle#3" value="正在停机."/>
+	<entry name="Necrons/Warrior:Idle#4" value="这具金属躯体...如此奇异."/>
+	<entry name="Necrons/Warrior:Idle#5" value="强大的机器, 孱弱的身体."/>
+	<entry name="Necrons/Warrior:Idle#6" value="我们已经等待了千年...还将继续等待下去."/>
+	<entry name="Necrons/Warrior:IdleCount" value="7"/>
+	<entry name="Necrons/Warrior:QuestStory0#0" value="搜寻古贤者的痕迹."/>
+	<entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory1#0" value="三圣卫队还是地宫技师? 我们的力量正不断增长."/>
+	<entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory2#0" value="无知者应该怜悯星神的诅咒."/>
+	<entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory3#0" value="追踪这些古贤者的小玩意儿? 遵命...我的主人."/>
+	<entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory4#0" value="三圣卫队在哪里?"/>
+	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory5#0" value="墨菲特兰? 信使! 欺诈者! 灵魂的窃贼!"/>
+	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
+	<entry name="Necrons/Warrior:Shaken#0" value="低等种族早就屁滚尿流了."/>
+	<entry name="Necrons/Warrior:Shaken#1" value="三圣卫队并没有告诉我们这个."/>
+	<entry name="Necrons/Warrior:Shaken#2" value="这不可能.我们竟然...失败了?"/>
+	<entry name="Necrons/Warrior:Shaken#3" value="我们凌驾于恐惧之上."/>
+	<entry name="Necrons/Warrior:ShakenCount" value="4"/>
+	<entry name="Necrons/Warrior:Victory#0" value="可以接受的损失. 这是他们的损失."/>
+	<entry name="Necrons/Warrior:Victory#1" value="正如所预期的那样, 我们才是胜利者."/>
+	<entry name="Necrons/Warrior:Victory#2" value="已终结."/>
+	<entry name="Necrons/Warrior:Victory#3" value="为了沉默之王, 为了我的主人."/>
+	<entry name="Necrons/Warrior:Victory#4" value="我的主人, 敌人是如此的脆弱."/>
+	<entry name="Necrons/Warrior:Victory#5" value="古贤者竟然创造出如此脆弱的肉体."/>
+	<entry name="Necrons/Warrior:Victory#6" value="他们必将知道太空死灵和恐惧."/>
+	<entry name="Necrons/Warrior:Victory#7" value="如此轻松就获得胜利...令人不悦."/>
+	<entry name="Necrons/Warrior:VictoryCount" value="8"/>
+	<entry name="Neutral/Ambull:Attack#0" value="Roekoe!"/>
+	<entry name="Neutral/Ambull:AttackCount" value="1"/>
+	<entry name="Neutral/Ambull:Broken#0" value="Kurr."/>
+	<entry name="Neutral/Ambull:BrokenCount" value="1"/>
+	<entry name="Neutral/Ambull:Hurt#0" value="Rou rou."/>
+	<entry name="Neutral/Ambull:HurtCount" value="1"/>
+	<entry name="Neutral/Ambull:Idle#0" value="Guru Guru"/>
+	<entry name="Neutral/Ambull:Idle#1" value="Grl Grl"/>
+	<entry name="Neutral/Ambull:Idle#2" value="Curcuurucu"/>
+	<entry name="Neutral/Ambull:Idle#3" value="Oo ho oo ho"/>
+	<entry name="Neutral/Ambull:IdleCount" value="4"/>
+	<entry name="Neutral/Ambull:Shaken#0" value="Burukk"/>
+	<entry name="Neutral/Ambull:ShakenCount" value="1"/>
+	<entry name="Neutral/Ambull:Victory#0" value="Uuu"/>
+	<entry name="Neutral/Ambull:VictoryCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Attack#0" value="KYKYLIKY..."/>
+	<entry name="Neutral/CatachanDevil:AttackCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Broken#0" value="KUKELEKU"/>
+	<entry name="Neutral/CatachanDevil:BrokenCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Hurt#0" value="CHICHIRICHI"/>
+	<entry name="Neutral/CatachanDevil:HurtCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Idle#0" value="ke-kok-o"/>
+	<entry name="Neutral/CatachanDevil:Idle#1" value="kok-ko-o"/>
+	<entry name="Neutral/CatachanDevil:Idle#2" value="ko-ko-o"/>
+	<entry name="Neutral/CatachanDevil:Idle#3" value="ko-ke-koko"/>
+	<entry name="Neutral/CatachanDevil:IdleCount" value="4"/>
+	<entry name="Neutral/CatachanDevil:Shaken#0" value=""/>
+	<entry name="Neutral/CatachanDevil:ShakenCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Victory#0" value="Kckeliku!"/>
+	<entry name="Neutral/CatachanDevil:VictoryCount" value="1"/>
+	<entry name="Neutral/Enslaver:Attack#0" value="Heiiii..."/>
+	<entry name="Neutral/Enslaver:AttackCount" value="1"/>
+	<entry name="Neutral/Enslaver:Broken#0" value="Oummm"/>
+	<entry name="Neutral/Enslaver:BrokenCount" value="1"/>
+	<entry name="Neutral/Enslaver:Hurt#0" value="Harrhm"/>
+	<entry name="Neutral/Enslaver:HurtCount" value="1"/>
+	<entry name="Neutral/Enslaver:Idle#0" value="HmmMmm."/>
+	<entry name="Neutral/Enslaver:Idle#1" value="Mmmhmmm."/>
+	<entry name="Neutral/Enslaver:Idle#2" value="Tct tct."/>
+	<entry name="Neutral/Enslaver:Idle#3" value="Chhrrr."/>
+	<entry name="Neutral/Enslaver:IdleCount" value="4"/>
+	<entry name="Neutral/Enslaver:Shaken#0" value="Hrhrhrh"/>
+	<entry name="Neutral/Enslaver:ShakenCount" value="1"/>
+	<entry name="Neutral/Enslaver:Victory#0" value="mmmMMM!"/>
+	<entry name="Neutral/Enslaver:VictoryCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Attack#0" value="目标已发现, 数据匠."/>
+	<entry name="Neutral/KastelanRobot:AttackCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Broken#0" value="命令不完整, 请参照协议."/>
+	<entry name="Neutral/KastelanRobot:BrokenCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Hurt#0" value="需要维修, 数据匠. 是否输入?"/>
+	<entry name="Neutral/KastelanRobot:HurtCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Idle#0" value="输入?"/>
+	<entry name="Neutral/KastelanRobot:Idle#1" value="数据未找到?"/>
+	<entry name="Neutral/KastelanRobot:Idle#2" value="即将执行空闲协议, 5,4,3-"/>
+	<entry name="Neutral/KastelanRobot:Idle#3" value="守护攻击!"/>
+	<entry name="Neutral/KastelanRobot:IdleCount" value="4"/>
+	<entry name="Neutral/KastelanRobot:Shaken#0" value="检测到非连续数据!"/>
+	<entry name="Neutral/KastelanRobot:ShakenCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Victory#0" value="目标原子化. 参数可控."/>
+	<entry name="Neutral/KastelanRobot:VictoryCount" value="1"/>
+	<entry name="Neutral/KrootHound:Attack#0" value="Hoeea!"/>
+	<entry name="Neutral/KrootHound:Attack#1" value="Hrrrr!"/>
+	<entry name="Neutral/KrootHound:AttackCount" value="2"/>
+	<entry name="Neutral/KrootHound:Broken#0" value="owoooo"/>
+	<entry name="Neutral/KrootHound:BrokenCount" value="1"/>
+	<entry name="Neutral/KrootHound:Hurt#0" value="uhuu"/>
+	<entry name="Neutral/KrootHound:HurtCount" value="1"/>
+	<entry name="Neutral/KrootHound:Idle#0" value="oou"/>
+	<entry name="Neutral/KrootHound:Idle#1" value="cha-cha"/>
+	<entry name="Neutral/KrootHound:Idle#2" value="oauh ouah"/>
+	<entry name="Neutral/KrootHound:Idle#3" value="guf guf"/>
+	<entry name="Neutral/KrootHound:IdleCount" value="4"/>
+	<entry name="Neutral/KrootHound:Shaken#0" value="yu-yu-yuuu"/>
+	<entry name="Neutral/KrootHound:ShakenCount" value="1"/>
+	<entry name="Neutral/KrootHound:Victory#0" value="Oooahh!"/>
+	<entry name="Neutral/KrootHound:VictoryCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Attack#0" value="鲜血献给嗜血之神"/>
+	<entry name="Neutral/LordOfSkulls:AttackCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Broken#0" value="主人, 我让你失望了."/>
+	<entry name="Neutral/LordOfSkulls:BrokenCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Hurt#0" value="我的鲜血献给神明."/>
+	<entry name="Neutral/LordOfSkulls:HurtCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Idle#0" value="撕扯, 碎裂, 死亡."/>
+	<entry name="Neutral/LordOfSkulls:Idle#1" value="死吧, 死吧, 死吧."/>
+	<entry name="Neutral/LordOfSkulls:Idle#2" value="颅骨, 脊柱, 尖叫."/>
+	<entry name="Neutral/LordOfSkulls:Idle#3" value="溺毙在鲜血中."/>
+	<entry name="Neutral/LordOfSkulls:Idle#4" value="必须... 消灭."/>
+	<entry name="Neutral/LordOfSkulls:IdleCount" value="5"/>
+	<entry name="Neutral/LordOfSkulls:Shaken#0" value="我无所畏惧!"/>
+	<entry name="Neutral/LordOfSkulls:ShakenCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Victory#0" value="鲜血! 为了! 恐虐!"/>
+	<entry name="Neutral/LordOfSkulls:VictoryCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Attack#0" value="Zzzz!"/>
+	<entry name="Neutral/Psychneuein:AttackCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Broken#0" value="Zzzee!"/>
+	<entry name="Neutral/Psychneuein:BrokenCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Hurt#0" value="Zzzaaa."/>
+	<entry name="Neutral/Psychneuein:HurtCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Idle#0" value="Zzzm"/>
+	<entry name="Neutral/Psychneuein:Idle#1" value="Zzzth. Zzzth."/>
+	<entry name="Neutral/Psychneuein:Idle#2" value="Zzzaaa. Zzzm."/>
+	<entry name="Neutral/Psychneuein:Idle#3" value="Zzzthzzz."/>
+	<entry name="Neutral/Psychneuein:IdleCount" value="4"/>
+	<entry name="Neutral/Psychneuein:Shaken#0" value="Zzzm!"/>
+	<entry name="Neutral/Psychneuein:ShakenCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Victory#0" value="ZZZZ!"/>
+	<entry name="Neutral/Psychneuein:VictoryCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Attack#0" value="为万能机械神而死!"/>
+	<entry name="Neutral/TechpriestBetrayer:AttackCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Broken#0" value="失败概率, 100%"/>
+	<entry name="Neutral/TechpriestBetrayer:BrokenCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Hurt#0" value="运作机能受损."/>
+	<entry name="Neutral/TechpriestBetrayer:HurtCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="测试中..."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="关闭它...打开它..."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#2" value="已使用膏剂."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="伺服头骨的好材料...俘获完成."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="已获得神器..."/>
+	<entry name="Neutral/TechpriestBetrayer:IdleCount" value="5"/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#0" value="我必须活下来!"/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#1" value="必须通知火星."/>
+	<entry name="Neutral/TechpriestBetrayer:ShakenCount" value="2"/>
+	<entry name="Neutral/TechpriestBetrayer:Victory#0" value="逃离就是唯一的胜利."/>
+	<entry name="Neutral/TechpriestBetrayer:VictoryCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Attack#0" value="为了教派!"/>
+	<entry name="Neutral/NeophyteHybrid:Attack#1" value="来自魔术家的命令."/>
+	<entry name="Neutral/NeophyteHybrid:Attack#2" value="吞噬者来了."/>
+	<entry name="Neutral/NeophyteHybrid:AttackCount" value="3"/>
+	<entry name="Neutral/NeophyteHybrid:Broken#0" value="普里默斯在哪?"/>
+	<entry name="Neutral/NeophyteHybrid:BrokenCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Hurt#0" value="三圣卫队保佑我们!"/>
+	<entry name="Neutral/NeophyteHybrid:HurtCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Idle#0" value="它来了, 弟兄们."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#1" value="暗影临近."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#2" value="魔术家预示着一次无比的饥饿."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#3" value="当那一天来临, 我们将义无反顾."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#4" value="差不多了."/>
+	<entry name="Neutral/NeophyteHybrid:IdleCount" value="5"/>
+	<entry name="Neutral/NeophyteHybrid:Shaken#0" value="我们就是一坨可怜的肉, 真的."/>
+	<entry name="Neutral/NeophyteHybrid:ShakenCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Victory#0" value="他们将成为女王的盘中餐!"/>
+	<entry name="Neutral/NeophyteHybrid:VictoryCount" value="1"/>
+	<entry name="Orks/Battlewagon:Attack#0" value="喔, 哒哒, 嘿!"/>
+	<entry name="Orks/Battlewagon:Attack#1" value="红色才更厉害!"/>
+	<entry name="Orks/Battlewagon:Attack#2" value="碾碎他们!"/>
+	<entry name="Orks/Battlewagon:Attack#3" value="边跑边打!"/>
+	<entry name="Orks/Battlewagon:AttackCount" value="4"/>
+	<entry name="Orks/Battlewagon:Broken#0" value="把这玩意转过来!"/>
+	<entry name="Orks/Battlewagon:Broken#1" value="可恶! 快让这玩意动起来!"/>
+	<entry name="Orks/Battlewagon:BrokenCount" value="2"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="人类! 统统干掉!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="把它们当做破烂捡回去!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="是你们! 来一场真正的战斗吧!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="碾死那些小鸟们!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Orks/Battlewagon:Hurt#0" value="这玩意有多少个轮子?"/>
+	<entry name="Orks/Battlewagon:HurtCount" value="1"/>
+	<entry name="Orks/Battlewagon:Idle#0" value="我说了, 这玩意要是有俩引擎会怎么样?"/>
+	<entry name="Orks/Battlewagon:Idle#1" value="谁有红色喷漆吗?"/>
+	<entry name="Orks/Battlewagon:Idle#2" value="要再快一点, 老大! 再快一点!"/>
+	<entry name="Orks/Battlewagon:Idle#3" value="突-突!"/>
+	<entry name="Orks/Battlewagon:IdleCount" value="4"/>
+	<entry name="Orks/Battlewagon:Shaken#0" value="这玩意没有弹簧吗?"/>
+	<entry name="Orks/Battlewagon:Shaken#1" value="拿去喂屁精的货色!"/>
+	<entry name="Orks/Battlewagon:Shaken#2" value="这都是给你们准备的!"/>
+	<entry name="Orks/Battlewagon:ShakenCount" value="3"/>
+	<entry name="Orks/Battlewagon:Victory#0" value="哇! 兽人!"/>
+	<entry name="Orks/Battlewagon:VictoryCount" value="1"/>
+	<entry name="Orks/Boy:Attack#0" value="再用力一点!"/>
+	<entry name="Orks/Boy:Attack#1" value="哒哒, 哒哒, 哒哒!"/>
+	<entry name="Orks/Boy:Attack#2" value="嗬-嗬-嗬, 这就是生命!"/>
+	<entry name="Orks/Boy:Attack#3" value="哇!"/>
+	<entry name="Orks/Boy:Attack#4" value="哪里可以战斗?"/>
+	<entry name="Orks/Boy:AttackCount" value="5"/>
+	<entry name="Orks/Boy:Broken#0" value="啊! 我完了."/>
+	<entry name="Orks/Boy:Broken#1" value="每一个兽人都怕他!"/>
+	<entry name="Orks/Boy:Broken#2" value="家里有只史奎格在做饭...回头见!"/>
+	<entry name="Orks/Boy:Broken#3" value="呐... 呐, 呐, 呐."/>
+	<entry name="Orks/Boy:Broken#4" value="跑跑跑!"/>
+	<entry name="Orks/Boy:BrokenCount" value="5"/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="人类! 他们有好东西."/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="罐头怪. 他们永远都不会死!"/>
+	<entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="啊, 又一个哇! 现在我们知道会有一场精彩的战斗了."/>
+	<entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="'多少只腿来着? 今天的晚餐有着落了."/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="噢, 当心!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="哈欠! 跟这些罐头人打架有什么意思?"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="噢, 臭东西来了? 接下来会有一场精彩的战斗!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="吵闹的东西! 当心, 它们会钻进你的身体然后 -- 嘭!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="Orks/Boy:Hurt#0" value="等等, 我脑子不好使了. 谁带了锤子和钉子?"/>
+	<entry name="Orks/Boy:Hurt#1" value="它完了! 嗬嗬. 把它的牙齿弄下来."/>
+	<entry name="Orks/Boy:Hurt#2" value="那是我的手臂?"/>
+	<entry name="Orks/Boy:Hurt#3" value="我们是最强大的!"/>
+	<entry name="Orks/Boy:HurtCount" value="4"/>
+	<entry name="Orks/Boy:Idle#0" value="是老大! 你想要什么, 老大?"/>
+	<entry name="Orks/Boy:Idle#1" value="越多的火药意味着越多的大枪. 越多的大枪越多的乐趣!"/>
+	<entry name="Orks/Boy:Idle#2" value="呐, 伙计, 这是我的史奎格. 用你自己的去!"/>
+	<entry name="Orks/Boy:Idle#3" value="嗨老大, 发生什么事了?"/>
+	<entry name="Orks/Boy:Idle#4" value="一只绿色的史奎格, 坐在墙上. 两只..."/>
+	<entry name="Orks/Boy:Idle#5" value="这把切肉斧还不够大!"/>
+	<entry name="Orks/Boy:Idle#6" value="今天打谁?"/>
+	<entry name="Orks/Boy:Idle#7" value="谁想跟我打一架?"/>
+	<entry name="Orks/Boy:Idle#8" value="这是什么?"/>
+	<entry name="Orks/Boy:IdleCount" value="9"/>
+	<entry name="Orks/Boy:QuestStory0#0" value="搞哥在上, 我们的老大太无聊了. 有什么架可以打吗?"/>
+	<entry name="Orks/Boy:QuestStory0Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory1#0" value="让那个怪异小子离远点儿, 我们可不想脑袋爆炸."/>
+	<entry name="Orks/Boy:QuestStory1Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory2#0" value="谁会住在地下? 那里没有架可以打."/>
+	<entry name="Orks/Boy:QuestStory2Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory3#0" value="你想让我们收很多垃圾? 没问题, 老大."/>
+	<entry name="Orks/Boy:QuestStory3Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory4#0" value="让我们把那座城镇涂成红色, 老大, 嘿-嘿-嘿."/>
+	<entry name="Orks/Boy:QuestStory4Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory5#0" value="我一个人吃不下史奎格巨兽, 老大, 它们的毛会卡住我的牙齿."/>
+	<entry name="Orks/Boy:QuestStory5Count" value="1"/>
+	<entry name="Orks/Boy:Shaken#0" value="你自己去打吧, 老大."/>
+	<entry name="Orks/Boy:Shaken#1" value="我得来点儿真菌啤酒刺激一下."/>
+	<entry name="Orks/Boy:Shaken#2" value="我想活下去! 我还有别的架要打!"/>
+	<entry name="Orks/Boy:Shaken#3" value="这一点儿也不兽人范."/>
+	<entry name="Orks/Boy:ShakenCount" value="4"/>
+	<entry name="Orks/Boy:Victory#0" value="你想来一次金属一般的死亡吗?"/>
+	<entry name="Orks/Boy:Victory#1" value="唯一不像兽人的地方是, 太容易被打败了."/>
+	<entry name="Orks/Boy:Victory#2" value="开火, 开火, 开火, 嘭. 耶!"/>
+	<entry name="Orks/Boy:Victory#3" value="嗬-嗬-嗬!"/>
+	<entry name="Orks/Boy:Victory#4" value="我没啥兴趣, 你呢?"/>
+	<entry name="Orks/Boy:Victory#5" value="喂, 站起来! 我们还没打够呢!"/>
+	<entry name="Orks/Boy:Victory#6" value="兽人为两件事而生! 打架, 胜利, 还有算术!"/>
+	<entry name="Orks/Boy:Victory#7" value="我踩. 我踩. 我踩."/>
+	<entry name="Orks/Boy:Victory#8" value="这些家伙被打坏了, 老大. 还有别的架可以打吗?"/>
+	<entry name="Orks/Boy:VictoryCount" value="9"/>
+	<entry name="Orks/BurnaBommer:Attack#0" value="准备飞行, 老大!"/>
+	<entry name="Orks/BurnaBommer:AttackCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Broken#0" value="放大让我看看那是谁!"/>
+	<entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Hurt#0" value="有大洞飞得更快, 对吧?"/>
+	<entry name="Orks/BurnaBommer:HurtCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Idle#0" value="盘旋, 盘旋, 盘旋..."/>
+	<entry name="Orks/BurnaBommer:Idle#1" value="往上上上上飞, 往下下下下坠..."/>
+	<entry name="Orks/BurnaBommer:Idle#2" value="兽人技师敢坐飞机吗..."/>
+	<entry name="Orks/BurnaBommer:Idle#3" value="燃烧还是轰炸, 这会是个问题吗?"/>
+	<entry name="Orks/BurnaBommer:IdleCount" value="4"/>
+	<entry name="Orks/BurnaBommer:Shaken#0" value="可恶, 再给我们一次机会!"/>
+	<entry name="Orks/BurnaBommer:ShakenCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Victory#0" value="哇! 吃了它!"/>
+	<entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
+	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
+	<entry name="Orks/Deffkopta:Attack#0" value="尝尝切肉斧的厉害!"/>
+	<entry name="Orks/Deffkopta:AttackCount" value="1"/>
+	<entry name="Orks/Deffkopta:Broken#0" value="噢, 我有点儿头晕..."/>
+	<entry name="Orks/Deffkopta:BrokenCount" value="1"/>
+	<entry name="Orks/Deffkopta:Hurt#0" value="喂, 你得站起来我才能跟你打架!"/>
+	<entry name="Orks/Deffkopta:HurtCount" value="1"/>
+	<entry name="Orks/Deffkopta:Idle#0" value="早上我好像闻到了什么奇怪的味道."/>
+	<entry name="Orks/Deffkopta:Idle#1" value="我们是应该打架呢还是打架呢?"/>
+	<entry name="Orks/Deffkopta:Idle#2" value="真是无聊."/>
+	<entry name="Orks/Deffkopta:Idle#3" value="我很好奇这玩意能倒着飞吗?"/>
+	<entry name="Orks/Deffkopta:IdleCount" value="4"/>
+	<entry name="Orks/Deffkopta:Shaken#0" value="这玩意得多少根棍子才能撑起来? 呃."/>
+	<entry name="Orks/Deffkopta:ShakenCount" value="1"/>
+	<entry name="Orks/Deffkopta:Victory#0" value="这场战争总有一天会结束..."/>
+	<entry name="Orks/Deffkopta:VictoryCount" value="1"/>
+	<entry name="Orks/FlashGitz" value="Orks/Boy"/>
+	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="像个史奎格, 哇哦!"/>
+	<entry name="Orks/GargantuanSquiggoth:AttackCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Broken#0" value="呐, 你这只笨蛋史奎格, 走这儿."/>
+	<entry name="Orks/GargantuanSquiggoth:BrokenCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Hurt#0" value="别告诉他自己已经死了."/>
+	<entry name="Orks/GargantuanSquiggoth:HurtCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#0" value="这儿, 史奎格, 在这儿挖."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#1" value="很好, 史奎格."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#2" value="坏蛋. 竟然吐了. 坏蛋!"/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#3" value="停下! 不能打它."/>
+	<entry name="Orks/GargantuanSquiggoth:IdleCount" value="4"/>
+	<entry name="Orks/GargantuanSquiggoth:Shaken#0" value="没事, 史奎格, 继续吃."/>
+	<entry name="Orks/GargantuanSquiggoth:ShakenCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Victory#0" value="史奎格真棒! 该吃饭了!"/>
+	<entry name="Orks/GargantuanSquiggoth:VictoryCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Attack#0" value="哒哒, 哒哒!"/>
+	<entry name="Orks/Gorkanaut:Attack#1" value="我踩, 我踩!"/>
+	<entry name="Orks/Gorkanaut:AttackCount" value="2"/>
+	<entry name="Orks/Gorkanaut:Broken#0" value="我被打坏了!"/>
+	<entry name="Orks/Gorkanaut:BrokenCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Hurt#0" value="嘿, 别打了! 你知道这玩意值多少吗?"/>
+	<entry name="Orks/Gorkanaut:HurtCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Idle#0" value="我们能再粘些大枪上去吗? 拜托?"/>
+	<entry name="Orks/Gorkanaut:Idle#1" value="我感受到了搞哥的力量!"/>
+	<entry name="Orks/Gorkanaut:Idle#2" value="如果再钉些铁皮上去的话, 它会更厉害吗?"/>
+	<entry name="Orks/Gorkanaut:Idle#3" value="我好像把晚餐丢这儿了. 上个星期的时候."/>
+	<entry name="Orks/Gorkanaut:IdleCount" value="4"/>
+	<entry name="Orks/Gorkanaut:Shaken#0" value="它不怕我们!"/>
+	<entry name="Orks/Gorkanaut:ShakenCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Victory#0" value="哇! 干掉了铁皮人"/>
+	<entry name="Orks/Gorkanaut:VictoryCount" value="1"/>
+	<entry name="Orks/Headquarters:Attack#0" value="终于, 可以开火了."/>
+	<entry name="Orks/Headquarters:AttackCount" value="1"/>
+	<entry name="Orks/Headquarters:Broken#0" value="老大, 帮帮我们!"/>
+	<entry name="Orks/Headquarters:BrokenCount" value="1"/>
+	<entry name="Orks/Headquarters:Hurt#0" value="它们在攻击堡垒, 老大!"/>
+	<entry name="Orks/Headquarters:HurtCount" value="1"/>
+	<entry name="Orks/Headquarters:Idle#0" value="防守! 哇!在哪里?"/>
+	<entry name="Orks/Headquarters:Idle#1" value="谁里谁是老大?"/>
+	<entry name="Orks/Headquarters:Idle#2" value="收到报告!"/>
+	<entry name="Orks/Headquarters:Idle#3" value="躲在墙后可不是兽人作风."/>
+	<entry name="Orks/Headquarters:IdleCount" value="4"/>
+	<entry name="Orks/Headquarters:Shaken#0" value="兽人绝不逃跑!"/>
+	<entry name="Orks/Headquarters:ShakenCount" value="1"/>
+	<entry name="Orks/Headquarters:Victory#0" value="哇! 胜利!"/>
+	<entry name="Orks/Headquarters:VictoryCount" value="1"/>
+	<entry name="Orks/KillaKan" value="Orks/Gorkanaut"/>
+	<entry name="Orks/Meganob" value="Orks/Boy"/>
+	<entry name="Orks/Mek:Attack#0" value="把弹药统统打光!"/>
+	<entry name="Orks/Mek:AttackCount" value="1"/>
+	<entry name="Orks/Mek:Broken#0" value="有些东西需要修理."/>
+	<entry name="Orks/Mek:BrokenCount" value="1"/>
+	<entry name="Orks/Mek:Hurt#0" value="我的护盾被打破了!"/>
+	<entry name="Orks/Mek:HurtCount" value="1"/>
+	<entry name="Orks/Mek:Idle#0" value="我觉得我可以做一些特别的东西..."/>
+	<entry name="Orks/Mek:Idle#1" value="这, 把东西递给我. 呐, 我打它的时候你拿稳了..."/>
+	<entry name="Orks/Mek:Idle#2" value="想象一下五根管子的大机枪. 耶."/>
+	<entry name="Orks/Mek:Idle#3" value="唔. 杀人罐头不起作用. 得弄些更大的屁精, 更小的钉子."/>
+	<entry name="Orks/Mek:IdleCount" value="4"/>
+	<entry name="Orks/Mek:Shaken#0" value="毛哥没有勇气, 这不可能!"/>
+	<entry name="Orks/Mek:ShakenCount" value="1"/>
+	<entry name="Orks/Mek:Victory#0" value="哇! 兽人技师靠脑子取胜!"/>
+	<entry name="Orks/Mek:VictoryCount" value="1"/>
+	<entry name="Orks/MekGun:Attack#0" value="用这挺大炮攻击, 兽人老大先生!"/>
+	<entry name="Orks/MekGun:AttackCount" value="1"/>
+	<entry name="Orks/MekGun:Broken#0" value="每一只屁精都是为了自己!"/>
+	<entry name="Orks/MekGun:BrokenCount" value="1"/>
+	<entry name="Orks/MekGun:Hurt#0" value="死了好多屁精."/>
+	<entry name="Orks/MekGun:HurtCount" value="1"/>
+	<entry name="Orks/MekGun:Idle#0" value="屁精最聪明, 屁精最棒棒."/>
+	<entry name="Orks/MekGun:Idle#1" value="离远点儿. 我们有大枪. 最棒的."/>
+	<entry name="Orks/MekGun:Idle#2" value="嘿, 别碰那东西!"/>
+	<entry name="Orks/MekGun:Idle#3" value="肮脏的兽人技师."/>
+	<entry name="Orks/MekGun:IdleCount" value="4"/>
+	<entry name="Orks/MekGun:Shaken#0" value="别打我们了, 我们不跑!"/>
+	<entry name="Orks/MekGun:ShakenCount" value="1"/>
+	<entry name="Orks/MekGun:Victory#0" value="屁精, 我是说, 兽人是最棒的, 是吧老大?"/>
+	<entry name="Orks/MekGun:VictoryCount" value="1"/>
+	<entry name="Orks/Painboy:Attack#0" value="嘿-嘿, 战地手术!"/>
+	<entry name="Orks/Painboy:AttackCount" value="1"/>
+	<entry name="Orks/Painboy:Broken#0" value="医生先撤!"/>
+	<entry name="Orks/Painboy:BrokenCount" value="1"/>
+	<entry name="Orks/Painboy:Hurt#0" value="我得把这玩意重新弄回去. 等一会."/>
+	<entry name="Orks/Painboy:HurtCount" value="1"/>
+	<entry name="Orks/Painboy:Idle#0" value="呐, 老大, 来装上一个新的手臂如何?"/>
+	<entry name="Orks/Painboy:Idle#1" value="张开了. 然后说哇!"/>
+	<entry name="Orks/Painboy:Idle#2" value="到底什么才叫做'疯狂'啊?"/>
+	<entry name="Orks/Painboy:Idle#3" value="需要大一点儿的史奎格."/>
+	<entry name="Orks/Painboy:IdleCount" value="4"/>
+	<entry name="Orks/Painboy:Shaken#0" value="这儿, 那个不对."/>
+	<entry name="Orks/Painboy:ShakenCount" value="1"/>
+	<entry name="Orks/Painboy:Victory#0" value="看着这一切...真棒啊."/>
+	<entry name="Orks/Painboy:VictoryCount" value="1"/>
+	<entry name="Orks/Tankbusta" value="Orks/Boy"/>
+	<entry name="Orks/Warboss:Attack#0" value="谁是最牛逼的兽人.哇!当然是我."/>
+	<entry name="Orks/Warboss:AttackCount" value="1"/>
+	<entry name="Orks/Warboss:Broken#0" value="我采用了战术, 就是这样."/>
+	<entry name="Orks/Warboss:BrokenCount" value="1"/>
+	<entry name="Orks/Warboss:Hurt#0" value="哦, 你竟然不知道我是谁?"/>
+	<entry name="Orks/Warboss:HurtCount" value="1"/>
+	<entry name="Orks/Warboss:Idle#0" value="无所事事. 可恶!"/>
+	<entry name="Orks/Warboss:Idle#1" value="哪里可以打架?"/>
+	<entry name="Orks/Warboss:Idle#2" value="又把史奎格当午餐?"/>
+	<entry name="Orks/Warboss:Idle#3" value="我想打一架!"/>
+	<entry name="Orks/Warboss:Idle#4" value="你没让史奎格靠近我的超级盔甲吧, 屁精?"/>
+	<entry name="Orks/Warboss:IdleCount" value="5"/>
+	<entry name="Orks/Warboss:Shaken#0" value="我们马上就会回来, 变得更强."/>
+	<entry name="Orks/Warboss:ShakenCount" value="1"/>
+	<entry name="Orks/Warboss:Victory#0" value="为什么能赢, 因为我在这里!"/>
+	<entry name="Orks/Warboss:VictoryCount" value="1"/>
+	<entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
+	<entry name="Orks/Weirdboy:Attack#0" value="噢噢噢噢... 我来了."/>
+	<entry name="Orks/Weirdboy:AttackCount" value="1"/>
+	<entry name="Orks/Weirdboy:Broken#0" value="让我离开这里!"/>
+	<entry name="Orks/Weirdboy:BrokenCount" value="1"/>
+	<entry name="Orks/Weirdboy:Hurt#0" value="快要爆了!"/>
+	<entry name="Orks/Weirdboy:HurtCount" value="1"/>
+	<entry name="Orks/Weirdboy:Idle#0" value="吐泡泡."/>
+	<entry name="Orks/Weirdboy:Idle#1" value="毛哥在说话, 搞哥在散步."/>
+	<entry name="Orks/Weirdboy:Idle#2" value="异次元中的阴影..!"/>
+	<entry name="Orks/Weirdboy:Idle#3" value="在格雷迪厄斯, 我们等待着最终决战."/>
+	<entry name="Orks/Weirdboy:IdleCount" value="4"/>
+	<entry name="Orks/Weirdboy:Shaken#0" value="搞哥和毛哥会惩罚你们!"/>
+	<entry name="Orks/Weirdboy:ShakenCount" value="1"/>
+	<entry name="Orks/Weirdboy:Victory#0" value="嗬-嗬, 哇!"/>
+	<entry name="Orks/Weirdboy:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Attack#0" value="我们可不光会治疗."/>
+	<entry name="SpaceMarines/Apothecary:AttackCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Broken#0" value="我不能放弃基因种子!"/>
+	<entry name="SpaceMarines/Apothecary:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarum#0" value="不值得轻视."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Necrons#0" value="无情的恶魔."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Orks#0" value="绿皮! 我们也可以像他们一样自己长出四肢吗."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarines#0" value="反目的兄弟, 并不是叛徒. 我依然会恢复他们的基因种子."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Hurt#0" value="给我自己打上补丁."/>
+	<entry name="SpaceMarines/Apothecary:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Idle#0" value="听候命令."/>
+	<entry name="SpaceMarines/Apothecary:Idle#1" value="医生从不需要休息."/>
+	<entry name="SpaceMarines/Apothecary:Idle#2" value="练习使用回收器."/>
+	<entry name="SpaceMarines/Apothecary:Idle#3" value="基因种子腺体已连接..."/>
+	<entry name="SpaceMarines/Apothecary:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Apothecary:Shaken#0" value="好消息! 我还没死."/>
+	<entry name="SpaceMarines/Apothecary:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Victory#0" value="他们死了! 不知道这会不会是我生命中最美好的时刻!"/>
+	<entry name="SpaceMarines/Apothecary:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/AssaultSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/Captain:Attack#0" value="死在我的手上, 你会感到欣慰!"/>
+	<entry name="SpaceMarines/Captain:Attack#1" value="常常爆矢枪的厉害吧."/>
+	<entry name="SpaceMarines/Captain:Attack#2" value="为了帝皇!"/>
+	<entry name="SpaceMarines/Captain:Attack#3" value="为了帝皇!"/>
+	<entry name="SpaceMarines/Captain:Attack#4" value="基里曼在等待."/>
+	<entry name="SpaceMarines/Captain:Attack#5" value="信仰就是我的护盾!"/>
+	<entry name="SpaceMarines/Captain:AttackCount" value="6"/>
+	<entry name="SpaceMarines/Captain:Broken#0" value="帝皇保佑我们!"/>
+	<entry name="SpaceMarines/Captain:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarum#0" value="背叛者. 不值一提."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Necrons#0" value="拔起它们的墓穴! 碾碎这机械恐怖!"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Orks#0" value="帝皇想要让我们永远与这场绿色的瘟疫战斗吗?"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarines#0" value="背叛者. 战士们, 拿起你们的武器, 我们将为荣耀而战."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Hurt#0" value="它是如何击穿我的护甲?"/>
+	<entry name="SpaceMarines/Captain:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Idle#0" value="我应该冲在最前方."/>
+	<entry name="SpaceMarines/Captain:Idle#1" value="鼓舞人心的演讲从不会被记录."/>
+	<entry name="SpaceMarines/Captain:Idle#2" value="我们必须拯救人类."/>
+	<entry name="SpaceMarines/Captain:Idle#3" value="为何在这? 在格雷迪厄斯? 我们正在接受测试吗?"/>
+	<entry name="SpaceMarines/Captain:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Captain:Shaken#0" value="我不会屈服于任何人!"/>
+	<entry name="SpaceMarines/Captain:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Victory#0" value="所有的敌人都已经倒在金色王座之下!"/>
+	<entry name="SpaceMarines/Captain:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Attack#0" value="接受牧杖的祝福吧!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#1" value="我会让你相信!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#2" value="为统治者而战!"/>
+	<entry name="SpaceMarines/Chaplain:AttackCount" value="3"/>
+	<entry name="SpaceMarines/Chaplain:Broken#0" value="谁也不允许后退!"/>
+	<entry name="SpaceMarines/Chaplain:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Hurt#0" value="尽管承受着敌人的伤害, 但我绝不倒下."/>
+	<entry name="SpaceMarines/Chaplain:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Idle#0" value="死亡并不可怕, 可怕的是我们的使命尚未完成."/>
+	<entry name="SpaceMarines/Chaplain:Idle#1" value="为帝皇奉献你的生命, 这一切都是值得的."/>
+	<entry name="SpaceMarines/Chaplain:Idle#2" value="只要敌人还活着, 就没有和平可言."/>
+	<entry name="SpaceMarines/Chaplain:Idle#3" value="我们藐视一切."/>
+	<entry name="SpaceMarines/Chaplain:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Chaplain:Shaken#0" value="对于一名战士来说, 唯一的罪恶就是胆怯."/>
+	<entry name="SpaceMarines/Chaplain:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Victory#0" value="信念才是更为坚强的东西."/>
+	<entry name="SpaceMarines/Chaplain:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#0" value="每一次都是新的杀戮, 这一次也不例外."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#1" value="为了战团!"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#2" value="嗬...又是一场战争."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#3" value="一万年的战争..."/>
+	<entry name="SpaceMarines/Dreadnought:AttackCount" value="4"/>
+	<entry name="SpaceMarines/Dreadnought:Broken#0" value="千年之后, 我终于知道该什么时候撤退了."/>
+	<entry name="SpaceMarines/Dreadnought:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="我的机甲...被击中了."/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#1" value="守护祷言, 牧师?"/>
+	<entry name="SpaceMarines/Dreadnought:HurtCount" value="2"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#0" value="一座行走的墓穴..."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#1" value="战争真的是永恒吗?"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#2" value="睡觉...还是做梦. 这就是问题所在."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#3" value="谁在叫我?"/>
+	<entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Dreadnought:Shaken#0" value="恐惧永不老去."/>
+	<entry name="SpaceMarines/Dreadnought:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Dreadnought:Victory#0" value="战团的历史再一次被书写."/>
+	<entry name="SpaceMarines/Dreadnought:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/FortressOfRedemption" value="SpaceMarines/Headquarters"/>
+	<entry name="SpaceMarines/Headquarters:Attack#0" value="我们的防御坚不可摧."/>
+	<entry name="SpaceMarines/Headquarters:Attack#1" value="蠢货, 竟敢攻击阿斯塔特战会的要塞."/>
+	<entry name="SpaceMarines/Headquarters:Attack#2" value="堡垒指挥官出现了. 开火."/>
+	<entry name="SpaceMarines/Headquarters:Attack#3" value="为什么不在前门走走呢?"/>
+	<entry name="SpaceMarines/Headquarters:AttackCount" value="4"/>
+	<entry name="SpaceMarines/Headquarters:Broken#0" value="我们的战团. 永不. 陨落."/>
+	<entry name="SpaceMarines/Headquarters:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="守住地平线. 敌人来了."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Necrons#0" value="太空亡灵来了. 将它们一网打尽."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Orks#0" value="又是绿皮? 准备爆矢枪!"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarines#0" value="侦察兵正在与背叛者们较火. 愚蠢的叛徒, 在这里?"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Hurt#0" value="堡垒已被攻破, 重复, 堡垒已被攻破."/>
+	<entry name="SpaceMarines/Headquarters:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Idle#0" value="前线一片寂静."/>
+	<entry name="SpaceMarines/Headquarters:Idle#1" value="指挥官, 一切准备就绪."/>
+	<entry name="SpaceMarines/Headquarters:Idle#2" value="祷言将在隐修室被解读."/>
+	<entry name="SpaceMarines/Headquarters:Idle#3" value="奴隶们正在全力工作, 长官."/>
+	<entry name="SpaceMarines/Headquarters:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Headquarters:Shaken#0" value="召集所有单位返回堡垒!"/>
+	<entry name="SpaceMarines/Headquarters:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Victory#0" value="入侵者已被消灭. 他们怎么敢?"/>
+	<entry name="SpaceMarines/Headquarters:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Attack#0" value="武器正在瞄准."/>
+	<entry name="SpaceMarines/Hunter:AttackCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Broken#0" value="正在撤出阵地."/>
+	<entry name="SpaceMarines/Hunter:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Hurt#0" value="护甲被穿透."/>
+	<entry name="SpaceMarines/Hunter:Hurt#1" value="遭遇小型攻击."/>
+	<entry name="SpaceMarines/Hunter:Hurt#2" value="履带被击中了."/>
+	<entry name="SpaceMarines/Hunter:HurtCount" value="3"/>
+	<entry name="SpaceMarines/Hunter:Idle#0" value="沉思者正处于工作序列."/>
+	<entry name="SpaceMarines/Hunter:Idle#1" value="正在呼唤机械之魂."/>
+	<entry name="SpaceMarines/Hunter:Idle#2" value="正在修理."/>
+	<entry name="SpaceMarines/Hunter:IdleCount" value="3"/>
+	<entry name="SpaceMarines/Hunter:Shaken#0" value="乘员有些慌乱, 长官."/>
+	<entry name="SpaceMarines/Hunter:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Victory#0" value="敌人已经丢盔弃甲."/>
+	<entry name="SpaceMarines/Hunter:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/LandRaider" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/LandSpeeder" value="SpaceMarines/ScoutBiker"/>
+	<entry name="SpaceMarines/Librarian:Attack#0" value="让我凝视你的未来... 啊. 它太短暂了."/>
+	<entry name="SpaceMarines/Librarian:Attack#1" value="我有一件礼物. 不分享一下的话未免显得小气..."/>
+	<entry name="SpaceMarines/Librarian:Attack#2" value="指尖轻触...灰飞烟灭."/>
+	<entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
+	<entry name="SpaceMarines/Librarian:Broken#0" value="我听见守护神, 在我的耳畔哀嚎."/>
+	<entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Hurt#0" value="比起永恒的伤害, 躯体的痛苦算不了什么."/>
+	<entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Idle#0" value="毋庸置疑."/>
+	<entry name="SpaceMarines/Librarian:Idle#1" value="我毫不惧怕异次元风暴."/>
+	<entry name="SpaceMarines/Librarian:Idle#2" value="异次元风暴... 有时候痛苦太过于强烈."/>
+	<entry name="SpaceMarines/Librarian:Idle#3" value="当一切结束... 我们将响应召唤."/>
+	<entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Librarian:Shaken#0" value="知识库并未记录..."/>
+	<entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Victory#0" value="他们的失败早已注定."/>
+	<entry name="SpaceMarines/Librarian:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Predator" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/ScoutBiker:Attack#0" value="迅猛的攻击."/>
+	<entry name="SpaceMarines/ScoutBiker:AttackCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Broken#0" value="移动至安全距离."/>
+	<entry name="SpaceMarines/ScoutBiker:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Hurt#0" value="我们的护甲无法抵挡."/>
+	<entry name="SpaceMarines/ScoutBiker:HurtCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Idle#0" value="无所事事的侦察兵毫无价值."/>
+	<entry name="SpaceMarines/ScoutBiker:IdleCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Shaken#0" value="我们必须保持移动."/>
+	<entry name="SpaceMarines/ScoutBiker:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Victory#0" value="又一次迅速的胜利."/>
+	<entry name="SpaceMarines/ScoutBiker:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Attack#0" value="空中支援来了."/>
+	<entry name="SpaceMarines/StormravenGunship:AttackCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Broken#0" value="返回基地."/>
+	<entry name="SpaceMarines/StormravenGunship:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#0" value="小心防空火力."/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#1" value="引擎丢失!"/>
+	<entry name="SpaceMarines/StormravenGunship:HurtCount" value="2"/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#0" value="有何指示?"/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#1" value="转圈圈, 寻找目标."/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#2" value="苍穹之眼."/>
+	<entry name="SpaceMarines/StormravenGunship:IdleCount" value="3"/>
+	<entry name="SpaceMarines/StormravenGunship:Shaken#0" value="就好像飞跃了一座山峰, 哎哟."/>
+	<entry name="SpaceMarines/StormravenGunship:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Victory#0" value="下面已经空无一物."/>
+	<entry name="SpaceMarines/StormravenGunship:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/StormtalonGunship" value="SpaceMarines/StormravenGunship"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Artefact#0" value="那个奇怪的异种设备是什么?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:ArtefactCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#0" value="尝尝我的爆矢枪!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#1" value="消灭敌人!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#2" value="为了帝国的荣耀!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="我就是你的救赎!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="星际战士, 进攻!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="尝尝帝皇的愤怒吧!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="我们是基里曼之拳."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="你污染了这个世界, 垃圾!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:AttackCount" value="8"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="退后, 准备防守!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#1" value="战斗至最后一刻!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#2" value="保护基因种子!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#3" value="帝皇抛弃了我们!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#4" value="我们为战团带来了耻辱!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:BrokenCount" value="5"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Cover#0" value="帝皇只会保佑懂得保护自己的人."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:CoverCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarum#0" value="即便是盟友, 这些守卫也值得信任."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Necrons#0" value="远古亡者的恐惧? 哈! 人心有比这更加黑暗的事情."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Orks#0" value="你们竟敢入侵我们的家园, 绿皮渣滓?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarines#0" value="背叛者, 在我们的家园世界?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="恶魔! 保持距离, 瞄准它们的腿."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="可悲的傀儡操纵者 -- 智库在哪里?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="我们自己的造物倒戈相向."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="邪恶的混沌, 在这, 在我们的星球上? 召集审判庭!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Psychneuein#0" value="星际战士们, 封闭战甲, 阻挡侵袭."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#0" value="我们将坚持到最后一刻."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="我们...永不...陷落!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:HurtCount" value="2"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#0" value="烧死异端."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#1" value="我渴望战斗."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="让它们来吧...我已经等得不耐烦了."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="如此多的异种... 如此稀缺的弹药."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#4" value="我们是帝皇之拳."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#5" value="我们战斗, 我们胜利."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#6" value="我们不能染指这些异种神器, 长官."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#7" value="有何指示, 长官?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:IdleCount" value="8"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="弹药量低... 必须精打细算了."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1#0" value="智库说守卫不值得相信 -- 我们无非是奉命行事而已."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="家园世界... 恐惧肆虐?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3#0" value="研究异种? 帝皇在上, 这是阿斯塔特的教条吗?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4#0" value="我无所畏惧, 哪怕是远古毁灭装置."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5#0" value="基因种子会拯救我们 -- 一定会!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="...心灵太过渺小, 从不怀疑."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#1" value="穿过黑暗, 我们必将胜利."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#2" value="吾乃坚不可摧之盾, 为抵抗黑暗而生."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="我...相信帝皇. 信念至胜!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#4" value="虽然我们让敌人喘息, 但依然不足以消除恐惧."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:ShakenCount" value="5"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#0" value="所有的异种和背叛者终将凋零, 永远地消失在这个星系."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="为了维护领主指挥官的秩序."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="死在我们手中亦是一种荣耀."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="以帝皇的名义."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="我的铁拳代表着战团, 横扫一切."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="帝国的敌人终将被全部消灭."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="没有敌人的毁灭就没有我们的救赎."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="我们用血肉之躯铸造帝皇之复仇."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:VictoryCount" value="8"/>
+	<entry name="SpaceMarines/Terminator" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/ThunderfireCannon" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/Vindicator" value="SpaceMarines/Hunter"/>
+	<entry name="Tyranids/Carnifex:Attack#0" value="Krrkkk!"/>
+	<entry name="Tyranids/Carnifex:Attack#1" value="Rrrr!"/>
+	<entry name="Tyranids/Carnifex:Attack#2" value="Nnnnn!"/>
+	<entry name="Tyranids/Carnifex:Attack#3" value="Srrr!"/>
+	<entry name="Tyranids/Carnifex:Attack#4" value="Krk!"/>
+	<entry name="Tyranids/Carnifex:Attack#5" value="Rrrr!"/>
+	<entry name="Tyranids/Carnifex:Attack#6" value="Nrrrrr!"/>
+	<entry name="Tyranids/Carnifex:Attack#7" value="Vrrrk!"/>
+	<entry name="Tyranids/Carnifex:AttackCount" value="8"/>
+	<entry name="Tyranids/Carnifex:Broken#0" value="...mmmm..."/>
+	<entry name="Tyranids/Carnifex:Broken#1" value="...thhhh..."/>
+	<entry name="Tyranids/Carnifex:Broken#2" value="...phhhh..."/>
+	<entry name="Tyranids/Carnifex:Broken#3" value="...sssss..."/>
+	<entry name="Tyranids/Carnifex:BrokenCount" value="4"/>
+	<entry name="Tyranids/Carnifex:EnemyFaction:Necrons#0" value="Nrnnnnn."/>
+	<entry name="Tyranids/Carnifex:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Hurt#0" value="Sssssss!"/>
+	<entry name="Tyranids/Carnifex:HurtCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Idle#0" value="Krrck."/>
+	<entry name="Tyranids/Carnifex:Idle#1" value="Nrrrk."/>
+	<entry name="Tyranids/Carnifex:Idle#2" value="Rrrc."/>
+	<entry name="Tyranids/Carnifex:Idle#3" value="Kckckc."/>
+	<entry name="Tyranids/Carnifex:IdleCount" value="4"/>
+	<entry name="Tyranids/Carnifex:Shaken#0" value="Rrhhrrr"/>
+	<entry name="Tyranids/Carnifex:ShakenCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Victory#0" value="Hwlllllll!"/>
+	<entry name="Tyranids/Carnifex:Victory#1" value="Iaiaiaia!"/>
+	<entry name="Tyranids/Carnifex:Victory#2" value="Ulululu!"/>
+	<entry name="Tyranids/Carnifex:Victory#3" value="Phphph!"/>
+	<entry name="Tyranids/Carnifex:Victory#4" value="Ulllllla!"/>
+	<entry name="Tyranids/Carnifex:VictoryCount" value="5"/>
+	<entry name="Tyranids/Exocrine" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Gargoyle" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Haruspex" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Headquarters" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/HiveCrone" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/HiveTyrant" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Hormagaunt" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Lictor" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Malanthrope" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Ravener" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Termagant" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Tervigon" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Trygon" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/TyranidPrime" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Tyrannofex" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Warrior" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Zoanthrope" value="Tyranids/Carnifex"/>
+</language>

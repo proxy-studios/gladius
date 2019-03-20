@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectingToServer" value="服务器连接中 ..."/>
+	<entry name="ConnectionLost" value="连接已断开."/>
+	<entry name="GameLoaded" value="游戏已载入"/>
+	<entry name="GameSaved" value="游戏已保存"/>
+	<entry name="IncompatibleVersion" value="游戏版本不匹配."/>
+	<entry name="Kicked" value="你已经被踢出了服务器."/>
+	<entry name="MasterServerUnreachable" value="无法连接主服务器."/>
+	<entry name="MissingDLC" value="缺少DLC."/>
+	<entry name="NetworkError" value="网络错误"/>
+	<entry name="NoFreeSlots" value="服务器无可用位置."/>
+	<entry name="NoGames" value="当前无可用的公共游戏.<br/>是否新建?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>无有效目标"/>
+	<entry name="PlayerJoined" value="%1%已加入."/>
+	<entry name="PlayerLeft" value="%1%已离开."/>
+	<entry name="PleaseEnterYourName" value="请输入你的名字."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>请等待"/>
+	<entry name="ReceivingInfo" value="信息接收中..."/>
+	<entry name="RetrievingServerList" value="服务器列表获取中..."/>
+	<entry name="ScreenShotSaved" value="截图已保存"/>
+	<entry name="ScreenShotSaveError" value="截图保存错误"/>
+	<entry name="ServerInfo" value="服务器信息"/>
+	<entry name="ServerUnreachable" value="无法连接服务器.<br/><br/>为了提高连接性, 请确保开启路由器UPnP功能或者将%1%端口转发至你的设备上."/>
+	<entry name="SelectTarget" value="选择目标"/>
+</language>

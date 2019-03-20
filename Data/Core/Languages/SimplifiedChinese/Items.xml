@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AegisHarness" value="神盾护套"/>
+	<entry name="AegisHarnessDescription" value="格挡单位受到的伤害以及下一次敌方施展的灵能攻击效果."/>
+	<entry name="AegisHarnessFlavor" value="以灵能传导丝线为材料并配以六边形网格结构, 神盾盔甲几乎是帝国之中抵抗灵能攻击最有效的装备了. 远征的恶魔审判庭成员正是凭借着它来清除宇宙中的混乱污染."/>
+	<entry name="AdamantiumWeaveVest" value="艾德曼合金胸甲"/>
+	<entry name="AdamantiumWeaveVestDescription" value="提高单位的护甲."/>
+	<entry name="AdamantiumWeaveVestFlavor" value="如果你想要一件东西坚不可摧, 那么使用艾德曼合金绝对是最佳选择. 这种特殊的金属能够用来制作终结者盔甲以及泰坦, 是人类目前已知最为坚固的材料. 尽管只使用了很少的数量, 但足以让这件胸甲获得超强的防护能力."/>
+	<entry name="ArmaplasBracers" value="阿玛普拉斯护腕"/>
+	<entry name="ArmaplasBracersDescription" value="提高单位的护甲."/>
+	<entry name="ArmaplasBracersFlavor" value="这些腕部护具所使用的材料与帝国壳体盔甲一致, 能够轻微提高穿戴者的生存能力. 不过, 其内置的战术沉思者能够更好地协助穿戴者在下一场战斗中存活下来."/>
+	<entry name="BlightGrenade" value="凋零手雷"/>
+	<entry name="BlightGrenadeDescription" value="每回合对目标敌方单位造成伤害."/>
+	<entry name="BlightGrenadeFlavor" value="像凋零手雷那样利用武器散播疾病, 在远古历史中算得上是犯下战争罪了. 但纳戈尔麾下的混沌战士们经常自己制作这类武器, 哪怕是盔甲上只有一丁点破损, 致命的病毒也会马上乘虚而入."/>
+	<entry name="BlindGrenade" value="致盲手雷"/>
+	<entry name="BlindGrenadeDescription" value="降低目标敌方单位的准确度."/>
+	<entry name="BlindGrenadeFlavor" value="致盲手雷比一般的闪光弹复杂得多, 除了释放浓密的灰色烟雾外, 它还加入了红外遮挡物, 光谱电磁辐射和谷壳来捣乱敌人的扫描器. 闪光手雷大范围的干扰能够使任何形式的直接攻击在短时间内失效."/>
+	<entry name="CombatStimulant" value="战斗兴奋剂"/>
+	<entry name="CombatStimulantDescription" value="提高单位的伤害."/>
+	<entry name="CombatStimulantFlavor" value="诸如狂怒药剂和杀戮药剂这类的战斗兴奋剂会让绝大多数的生物感到恐惧, 因为它们的生产和测试往往伴随着无辜者的死亡(特别是那些萨涅斯的狂热者们). 尽管如此, 帝国军队经常将其发放给惩戒军团以及令人闻风丧胆的埃弗萨刺客."/>
+	<entry name="CompendiumFlavor" value="在被占领的数千年时间里, 尽管格雷迪厄斯的地表会经常不断地冒出有用的材料和资源, 但很多独特的物品也会同时被发现. 无数星际商人被吸引到这里, 其中甚至包括神秘的太空猿猴. 最近发生的骚乱和扭曲风暴再一次搅动着这颗星球的表面, 更多奇怪的东西出现了. 谁知道太空猿猴们的下一个发现会是什么?"/>
+	<entry name="ConcealedWeaponSystem" value="隐匿武器系统"/>
+	<entry name="ConcealedWeaponSystemDescription" value="提高单位的攻击."/>
+	<entry name="ConcealedWeaponSystemFlavor" value="将武器隐藏起来并不是什么新概念, 但只有隐匿武器系统能够真正地将凶器神不知鬼不觉地暗藏起来 -- 可以作为服装, 珠宝甚至是生物材料. 这样的'惊喜'大大提高了隐匿武器系统的作用."/>
+	<entry name="EnduranceImplant" value="耐力移植体"/>
+	<entry name="EnduranceImplantDescription" value="提高单位的移动."/>
+	<entry name="EnduranceImplantFlavor" value="一类非比寻常的太空猿猴装置, 能够进入宿主并优化其生物系统. 该移植体的使用者会发现自己不知疲倦, 能够跑得更快, 战斗更加持久, 并变得越来越强大 -- 直至身体因承受不住而倒下. "/>
+	<entry name="ForbiddenKnowledge" value="禁忌学识"/>
+	<entry name="ForbiddenKnowledgeDescription" value="提高单位的等级."/>
+	<entry name="ForbiddenKnowledgeFlavor" value="这一盒黑色的石头上铭刻着大量的古代符文, 可能属于殖民者, 或者是古贤者. 谁知道上面包含着什么? 一个古老的秘密? 致命的陷阱? 被认为是失落已久的奇迹? 来自邪神的邪恶力量? 只有足够勇敢的人才敢打开它, 并揭晓其中的一切..."/>
+	<entry name="JokaeroDigitalWeapon" value="星际猿猴数字化武器"/>
+	<entry name="JokaeroDigitalWeaponDescription" value=""/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="拥有强大威力的小型武器, 通常会伪装成珠宝首饰. 这件武器是由类似于灵长类的异种制造而成, 很显然它们对于科技的理解像是出于本能一般. 直到现在, 帝国也依然无法复制这些数字化的武器."/>
+	<entry name="LightningGauntlet" value="闪电手甲"/>
+	<entry name="LightningGauntletDescription" value="提高单位下一次近战攻击的伤害."/>
+	<entry name="LightningGauntletFlavor" value="手甲上的利爪由艾德曼合金打造而成, 其上闪耀出的蓝色光辉意味着这是一件强大的能量武器. 闪电之爪通常会装备在终结者盔甲上, 但对于单只手甲来说其体积足够小, 能够为普通的战士所携带."/>
+	<entry name="ManCatcher" value="捕获者"/>
+	<entry name="ManCatcherDescription" value="降低目标敌方单位的移动和准确度."/>
+	<entry name="ManCatcherFlavor" value="一件古老的俘虏装置. 其高耸的尖刺能够粗暴地阻止任何试图逃跑的囚犯并将他们切成两半. 尽管多数人认为这是一件非常原始的武器, 但少数审判官们则认为这种简单而又暴力的方法能够起到其他方式所达不到的效果."/>
+	<entry name="MourningBladeOfLazaerek" value="拉扎瑞克的哀嚎之刃"/>
+	<entry name="MourningBladeOfLazaerekDescription" value="使单位的所有近战武器获得爆炸效果."/>
+	<entry name="MourningBladeOfLazaerekFlavor" value="尽管火鹰战团已经于963.M41消失在扭曲空间之中, 但他们的一些遗物依然还保留着. 这把利斧被认为是属于与战团领袖史迪波拉扎瑞克的武器, 他曾指挥火鹰战团参与了巴达布战争."/>
+	<entry name="PoweredBolas" value="强化套索"/>
+	<entry name="PoweredBolasDescription" value="降低目标敌方单位的移动和准确度."/>
+	<entry name="PoweredBolasFlavor" value="在帝国的萨凡纳世界, 当地的部队经常采用这些从戈洛兽牧民那里学来的传统装置. 尾端的三个重物虽然不会造成什么伤害 -- 但它们却能够将猎物紧紧地缠绕住."/>
+	<entry name="PoweredGauntlet" value="强化手甲"/>
+	<entry name="PoweredGauntletDescription" value="提高单位的近战伤害."/>
+	<entry name="PoweredGauntletFlavor" value="虽然看上去不过是一副简单的钢手套, 但正如政务部所说, '买者自负' -- 正是由于太空猿猴的科技将其强化, 使得它能够与帝国和欧克兽人所使用的大型强化全套和强化利爪相匹配."/>
+	<entry name="RecoveryPackage" value="恢复包"/>
+	<entry name="RecoveryPackageDescription" value="恢复单位的生命值."/>
+	<entry name="RecoveryPackageFlavor" value="这套医疗装置的出现没有什么理由可言, 也许只是因为某只拥有医疗本能的太空猿猴或者欧克兽人医师吧. 但不管怎么说, 没人怀疑它的效果. 不论什么样的受伤, 你都能从中某个贴错标签的包裹获得治疗."/>
+	<entry name="StunGrenade" value="眩晕手雷"/>
+	<entry name="StunGrenadeDescription" value="阻止目标敌方单位动作."/>
+	<entry name="StunGrenadeFlavor" value="眩晕手雷的设计思路相当古老, 它将巨大的爆炸和闪光结合在一起, 能够使区域内的战斗人员短暂失去行动能力."/>
+	<entry name="TemporaryShield" value="临时护盾"/>
+	<entry name="TemporaryShieldDescription" value="提高单位的护甲."/>
+	<entry name="TemporaryShieldFlavor" value="便携式护盾发生器对于绝大多数种族来说是非常稀有的, 因为制作它需要高超的技巧和稀有的资源. 虽然便携式护盾发生器的使用时间有限, 但它的效果足以抵挡最为强大的攻击."/>
+	<entry name="VolcanisShroud" value="火山裹布"/>
+	<entry name="VolcanisShroudDescription" value="使单位获得巫火伤害减免."/>
+	<entry name="VolcanisShroudFlavor" value="尽管这件破败的耐热护甲原本是为在危险的巢都世界进行工业生产而准备的, 但人们意外地发现它还能够抵挡灵能攻击. 到底是什么东西赋予了它这种能力到目前也无人知晓, 因为大家都担心对其进行逆向拆解会损坏这不可思议的特效."/>
+	<entry name="ZoatHideJerkin" value="人龙皮革上衣"/>
+	<entry name="ZoatHideJerkinDescription" value="提高单位的生命值以及治疗速度."/>
+	<entry name="ZoatHideJerkinFlavor" value="人龙是接受基因改造的泰伦虫族奴隶, 它们已经消失在宇宙中数个世代. 尽管它们以非同寻常智力和感召力闻名于世, 但那密实的鳞片皮肤也使得人龙成为了可怕的对手. 人龙皮护甲现在已经非常稀有了, 但对于战场上的勇士们来说获得它绝对是一种恩赐."/>
+</language>

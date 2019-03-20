@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="<style name='ShadowedHeading'/>城市增长<br/><style name='Default'/>%1%已增长至%2%人口."/>
+	<entry name="FactionDefeated" value="阵营已被击败"/>
+	<entry name="FactionDiscovered" value="已发现阵营"/>
+	<entry name="FactionDiscoveredSummary" value="<style name='ShadowedHeading'/>已发现阵营<br/><style name='Default'/>%1%."/>
+	<entry name="FeatureExploredSummary" value="<style name='ShadowedHeading'/>已探索地形<br/><style name='Default'/>%1%已提供%2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>已发现地形<br/><style name='Default'/>%1%."/>
+	<entry name="LordOfSkullsAppearedSummary" value="<style name='ShadowedHeading'/>%1%已出现"/>
+	<entry name="LordOfSkullsDisappearedSummary" value="<style name='ShadowedHeading'/>%1%已消失"/>
+	<entry name="PlayerLost" value="失败!"/>
+	<entry name="PlayerLostSummary" value="<style name='ShadowedHeading'/>Faction Defeated<br/><style name='Default'/>%1% · %2% %3%被击败!"/>
+	<entry name="PlayerWon" value="胜利!"/>
+	<entry name="PlayerWonSummary" value="<style name='ShadowedHeading'/>Faction Victorious<br/><style name='Default'/>%1% · %2% %3%获得胜利!"/>
+	<entry name="ProductionCompletedSummary" value="<style name='ShadowedHeading'/>生产已完成<br/><style name='Default'/>%1% 已生产%2%."/>
+	<entry name="QuestAdded" value="任务已添加"/>
+	<entry name="QuestCompleted" value="任务已完成"/>
+	<entry name="QuestUpdated" value="任务已更新"/>
+	<entry name="RegionDiscoveredSummary" value="<style name='ShadowedHeading'/>区域已发现<br/><style name='Default'/>%1%."/>
+	<entry name="ResearchCompleted" value="研究已完成"/>
+	<entry name="TileAcquiredSummary" value="<style name='ShadowedHeading'/>获得土地<br/><style name='Default'/>%1% 已获得 %2%."/>
+	<entry name="TileCapturedSummary" value="<style name='ShadowedHeading'/>土地已占领<br/><style name='Default'/>%1% 已占领 %2%."/>
+	<entry name="TileClearedSummary" value="<style name='ShadowedHeading'/>土地已清理<br/><style name='Default'/>%1% 已清理 %2% 在 %3%."/>
+	<entry name="UnitAffectedSummary" value="<style name='ShadowedHeading'/>技能已使用<br/><style name='Default'/>%1% 已使用 %2% 在 %3%."/>
+	<entry name="UnitAttackedSummary" value="<style name='ShadowedHeading'/>单位已攻击<br/><style name='Default'/>%1% 已攻击<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="<style name='ShadowedHeading'/>单位已获得<br/><style name='Default'/>%1% 已获得<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="<style name='ShadowedHeading'/>单位已杀死<br/><style name='Default'/>%1% 已杀死<br/>%2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>单位已发现<br/><style name='Default'/>%1%."/>
+</language>

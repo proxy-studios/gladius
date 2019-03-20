@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdditionalAnimations" value="附加动画"/>
+	<entry name="AdditionalGraphics" value="附加图像"/>
+	<entry name="AdditionalProgramming" value="附加程序"/>
+	<entry name="AdditionalWriting" value="附加文本"/>
+	<entry name="Administration" value="管理"/>
+	<entry name="Chairman" value="主席"/>
+	<entry name="CreativeDirector" value="创意总监"/>
+	<entry name="CustomerSupport" value="客户支持"/>
+	<entry name="DesignAndProgramming" value="设计与程序"/>
+	<entry name="DevelopedBy" value="开发: %1%"/>
+	<entry name="DevelopmentDirector" value="研发总监"/>
+	<entry name="Fonts" value="字体"/>
+	<entry name="FrenchLocalisation" value="法语翻译"/>
+	<entry name="GermanLocalisation" value="德语翻译"/>
+	<entry name="GraphicsAndAnimations" value="图像与动画"/>
+	<entry name="IntroCinematics" value="开场动画"/>
+	<entry name="MediaRelations" value="媒体关系"/>
+	<entry name="JuniorProductManager" value="初级产品经理"/>
+	<entry name="Libraries" value="库"/>
+	<entry name="Manual" value="手册"/>
+	<entry name="ManualLayout" value="手册布局"/>
+	<entry name="MarketingDirector" value="市场总监"/>
+	<entry name="Music" value="音乐"/>
+	<entry name="OperationsDirector" value="运营总监"/>
+	<entry name="Producers" value="制作人"/>
+	<entry name="ProductManagers" value="产品经理"/>
+	<entry name="ProductionDesign" value="产品设计"/>
+	<entry name="ProductionLead" value="产品引领"/>
+	<entry name="ProductionTeam" value="产品团队"/>
+	<entry name="PublishedBy" value="发行: %1%"/>
+	<entry name="RussianLocalisation" value="俄语翻译"/>
+	<entry name="Sound" value="声效"/>
+	<entry name="SpanishLocalisation" value="西班牙语翻译"/>
+	<entry name="SpecialThanks" value="特别感谢"/>
+	<entry name="TechnicalDirector" value="技术总监"/>
+	<entry name="Translation" value="翻译"/>
+	<entry name="VoiceActors" value="配音演员"/>
+	<entry name="WarhammerBy" value="战锤 40,000: %1%"/>
+	<entry name="WebDevelopment" value="网页开发"/>
+	<entry name="Writing" value="文本"/>
+</language>

@@ -1,0 +1,377 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Baneblade" value="毒刃坦克"/>
+	<entry name="AstraMilitarum/BanebladeDescription" value="拥有毁灭性火力的超重型坦克."/>
+	<entry name="AstraMilitarum/BanebladeFlavor" value="毒刃坦克是帝国装甲部队霸权的象征, 在数千年的战争中这些战争机器获得了无数的荣耀. 超强的火力, 厚重的装甲 以及能够带来惊人速度的超强动力, 在任何战斗中这款坦克都是非常致命的敌人."/>
+	<entry name="AstraMilitarum/Basilisk" value="毒蜥自行火炮"/>
+	<entry name="AstraMilitarum/BasiliskDescription" value="远距离火炮坦克单位."/>
+	<entry name="AstraMilitarum/BasiliskFlavor" value="在帝国卫队的作战中, 毒蜥自行火炮能够将无数城市夷为平地, 让世界化为灰烬. 毒蜥自行火炮拥有超长的射程, 其装备的撼地者加农炮是它最具标志性的特征."/>
+	<entry name="AstraMilitarum/Bullgryn" value="牛格林"/>
+	<entry name="AstraMilitarum/BullgrynDescription" value="重型近战步兵单位."/>
+	<entry name="AstraMilitarum/BullgrynFlavor" value="牛格林们身着定制壳体盔甲, 装备着简陋的武器, 拥有亚人类的身体和韧性. 在战场上这些单位能够为友军提供强大的掩护, 同时吸引大量的敌方火力."/>
+	<entry name="AstraMilitarum/Guardsman" value="卫兵"/>
+	<entry name="AstraMilitarum/GuardsmanDescription" value="轻型步兵单位."/>
+	<entry name="AstraMilitarum/GuardsmanFlavor" value="从卡塔昌的丛林到卡迪亚战火纷飞的堡垒世界, 卑微的卫兵是帝国卫队铁甲般的核心力量."/>
+	<entry name="AstraMilitarum/Headquarters" value="<string name='Buildings/AstraMilitarum/Headquarters'/>"/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="代表城市防御能力的指挥中心单位."/>
+	<entry name="AstraMilitarum/HeadquartersFlavor" value="<string name='Buildings/AstraMilitarum/HeadquartersFlavor'/>"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="重武器小队"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="用于应对重型装甲目标的步兵单位."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadFlavor" value="步兵重型武器一般需要两名成员进行操作; 一名负责射击, 另一名负责填充弹药. 如果有需要的话他们能够随时重新部署武器."/>
+	<entry name="AstraMilitarum/Hydra" value="九头蛇防空坦克"/>
+	<entry name="AstraMilitarum/HydraDescription" value="适合反制空中目标的快速坦克单位."/>
+	<entry name="AstraMilitarum/HydraFlavor" value="不论是面对如闪电般迅捷的异种战斗机, 或者是邪恶的皮翼怪兽, 九头蛇防控坦克绝对是对付空中敌人的最佳选择. 九头蛇防控坦克独特的预知逻辑控制如同掠食者野兽一般, 能够迅速地搜寻并锁定目标."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint" value="帝国堡垒"/>
+	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="常规防御工事单位."/>
+	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="帝国堡垒是一座壮观的巨型建筑, 由厚重的钢筋混凝土和帝国忠实仆人的遗体所组成. 由于建造相对容易, 因此在一些星球的大陆上会出现堡垒连接而成的网络. 帝国堡垒足以承受轨道打击和炮火轰炸, 很少有武器能够凭借一次攻击就能够对其造成损伤. 正因为如此, 这些堡垒往往都是星球防御策略的重要组成部分."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank" value="黎曼鲁斯战斗坦克"/>
+	<entry name="AstraMilitarum/LemanRussBattleTankDescription" value="重型装甲主战坦克单位."/>
+	<entry name="AstraMilitarum/LemanRussBattleTankFlavor" value="黎曼鲁斯战斗坦克是铁血力量的最好证明. 它们是帝国装甲部队的中流砥柱, 其不可阻挡的前进脚步已经让数十亿帝国敌人遭受灭顶之灾."/>
+	<entry name="AstraMilitarum/LordCommissar" value="总政委"/>
+	<entry name="AstraMilitarum/LordCommissarDescription" value="能够为附近友方单位带来增益特效的英雄单位."/>
+	<entry name="AstraMilitarum/LordCommissarFlavor" value="在监督办公室的成员中, 有着很多拥有传奇经历的英雄人物. 总政委将会告诉大家什么是帝国为之奋斗的目标."/>
+	<entry name="AstraMilitarum/MarauderBomber" value="劫掠者轰炸机"/>
+	<entry name="AstraMilitarum/MarauderBomberDescription" value="用于清除地面目标的超重型轰炸机."/>
+	<entry name="AstraMilitarum/MarauderBomberFlavor" value="劫掠者轰炸机拥有坚固的机身和惊人的载荷, 是帝国重型轰炸机的典型代表. 强劲的发动机以及巨大的油箱不仅赋予了它更加宽广的作战半径, 同时还能够保证轰炸机中队在补给不足时依然能够正常运行."/>
+	<entry name="AstraMilitarum/PrimarisPsyker" value="高阶灵能者"/>
+	<entry name="AstraMilitarum/PrimarisPsykerDescription" value="拥有毁灭性灵能的英雄单位."/>
+	<entry name="AstraMilitarum/PrimarisPsykerFlavor" value="尽管被不少迷信之人认为是恐怖女巫的化身, 但对于任何指挥官来说高阶灵能者都是一笔颇有价值的财富. 尽管一直遭到监督办公室的怀疑, 但不得不承认他们所拥有的实力确实远超灵能学院里的低等级成员."/>
+	<entry name="AstraMilitarum/ScoutSentinel" value="侦查哨兵"/>
+	<entry name="AstraMilitarum/ScoutSentinelDescription" value="专门用于侦查的轻甲步行者单位."/>
+	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="哨兵拥有极快地移动能力, 通常会用来侦查地形并提供近距离的步兵火力支援. 在惊人速度和机动灵活性的帮助下, 它们能够穿过一些装甲载具无法通过的地形. 特别地, 这些轻甲侦查哨兵通常会被安排在战争前线, 负责突击或发动点对点袭击."/>
+	<entry name="AstraMilitarum/TankCommander" value="坦克指挥官"/>
+	<entry name="AstraMilitarum/TankCommanderDescription" value="本身拥有强大力量并且能够强化附近友方坦克单位的英雄单位."/>
+	<entry name="AstraMilitarum/TankCommanderFlavor" value="坦克指挥官乘坐强大的黎曼鲁斯战斗坦克杀向战场. 他们与坦克化为一体, 拥有丰富的装甲战争知识. 坦克指挥官是坚硬如钢铁的王牌, 他将领导整个战斗小队发挥出最大的潜力."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer" value="科技神甫工程师"/>
+	<entry name="AstraMilitarum/TechpriestEnginseerDescription" value="能够支援载具以及建立新城市的步兵单位."/>
+	<entry name="AstraMilitarum/TechpriestEnginseerFlavor" value="科技神甫工程师忠诚地管理着帝国的载具. 凭借二进制祈祷和神秘的仪式, 工程师们能够修复机器之魂所受到的损伤. 正是由于工程师们的勤奋维护, 帝国卫队才不至于陷入没有重装载具使用的窘境."/>
+	<entry name="AstraMilitarum/TempestusScion" value="风暴军"/>
+	<entry name="AstraMilitarum/TempestusScionDescription" value="精英震击步兵单位."/>
+	<entry name="AstraMilitarum/TempestusScionFlavor" value="对于常规部队而言, 帝国风暴军就是恐惧和怨恨的化身 --- 但诸如'荣耀男孩'和'大玩具战士'这样的昵称却并不罕见. 然而, 这样的积怨对于风暴军本身来说并不算什么. 他们在秘密行动和快速穿插战术打击上接受过专门的训练, 他们确信自己所做的每一件事都是为了帝国的荣耀."/>
+	<entry name="AstraMilitarum/Thunderbolt" value="雷霆箭"/>
+	<entry name="AstraMilitarum/ThunderboltDescription" value="行动迅速的重型战斗机单位."/>
+	<entry name="AstraMilitarum/ThunderboltFlavor" value="雷霆箭重型战斗机结合了毁灭性的攻击潜能与优雅的速度和机动性, 是帝国海军大气层内战斗机的主要组成部分. 雷霆箭是真正的主力, 其坚固而可靠的设计赢得了包括对手在内无数人的尊重."/>
+	<entry name="AstraMilitarum/Valkyrie" value="瓦尔基里"/>
+	<entry name="AstraMilitarum/ValkyrieDescription" value="全能型空中运输单位."/>
+	<entry name="AstraMilitarum/ValkyrieFlavor" value="瓦尔基里是装备有精良武器的双引擎攻击机. 坚固的装甲和全能的载荷结合飞机强大的引擎和稳定的操控, 使得它能够很好地胜任战场上的任何角色."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker" value="玄标灵能者"/>
+	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="专门用于施加减益效果的灵能步兵单位."/>
+	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="玄标灵能者将扭曲之力转化成为了帝国霸权的致命武器. 来自灵能学院的他们无法自我控制萌发的强大力量, 从个人角度来说, 这种类型的灵能者是无法预知的, 也是极不安全的. 不过在协作指挥下, 这些恐怖变异体所带来的价值是相当宝贵的."/>
+	<entry name="CompendiumFlavor" value="纵览第41个千年的历史, 不少人都会认为宇宙处于冲突和混乱之中. 然而这并不正确 -- 帝国绝大多数子民都在安稳中生老病死, 只有那些加入帝国军队并远离家乡, 与邪恶野兽进行战斗的军人们才会体会到死亡所带来的恐怖. 但也正是因为如此, 整个帝国才能维持其和平."/>
+	<entry name="Necrons/AnnihilationBarge" value="歼灭者炮艇"/>
+	<entry name="Necrons/AnnihilationBargeDescription" value="反步兵载具单位."/>
+	<entry name="Necrons/AnnihilationBargeFlavor" value="歼灭者炮艇是太空死灵最受青睐的反步兵支援平台. 在霸主的指挥下, 歼灭者炮艇将再一次发挥它的威力, 陪伴着墓穴世界大军投入到战争中去. 每一艘炮艇都配备了双联特斯拉毁灭者 -- 这座能够发射弧形闪电的巨型能量加农炮对于轻甲目标来说是非常致命的."/>
+	<entry name="Necrons/CanoptekScarab" value="墓穴圣甲虫"/>
+	<entry name="Necrons/CanoptekScarabDescription" value="以数量优势消灭敌人的近战虫群单位."/>
+	<entry name="Necrons/CanoptekScarabFlavor" value="墓穴圣甲虫以庞大的数量横扫战场, 它们将无情地吞噬任何阻挡在前面的一切. 圣甲虫能够将物质分解为原始能量, 然后再将其重组成为新的形态. 在墓穴中, 这是一个清洁和建造的过程, 然而在战场上它将会是一股恐怖的毁灭力量."/>
+	<entry name="Necrons/CanoptekSpyder" value="墓穴蜘蛛"/>
+	<entry name="Necrons/CanoptekSpyderDescription" value="能够建立新城市的巨型支援单位."/>
+	<entry name="Necrons/CanoptekSpyderFlavor" value="虽然从本质上来说墓穴蜘蛛是一种自动化的无人机, 但它也同时是一名强大敌人. 大量的自修复阵列和备份系统 -- 这对于耐久性来说至关重要 -- 能够为抵御敌人的伤害带来充足的防护. 而反过来, 任何徘徊在墓穴蜘蛛触及范围内的敌人将会被直接生吞, 无数的机械工具和钳子将会立即将其分解殆尽."/>
+	<entry name="Necrons/Cryptek" value="地宫技师"/>
+	<entry name="Necrons/CryptekDescription" value="拥有强大支援技能的英雄单位."/>
+	<entry name="Necrons/CryptekFlavor" value="地宫技师能够将宇宙的力量屈从于它们的意志, 所创造出不可思议的科技和绝密武器能够让任何军队和世界灰飞烟灭. 时间, 物质和空间就是它们的玩物, 地宫技师能够操纵敌人的原子结构, 甚至是以改变自然法则的方式来抹杀站在面前的一切."/>
+	<entry name="Necrons/DestroyerLord" value="毁灭者领主"/>
+	<entry name="Necrons/DestroyerLordDescription" value="拥有超强近战能力的英雄单位."/>
+	<entry name="Necrons/DestroyerLordFlavor" value="毁灭者领主是同类中最为疯狂的那一个, 相比普通的毁灭者来说它们保留了更高的智力, 并能够利用它来不断地寻求毁灭宇宙. 诚然, 在这样一个充斥着灭绝暴力的星系中, 毁灭者领主的存在印证了什么才是真正恐怖的东西. 有人会以杀戮为乐趣, 或者是为了侍奉某些邪恶之神, 但毁灭者领主之所以追寻血腥远征仅仅是因为它们能够这样做而已."/>
+	<entry name="Necrons/DoomScythe" value="末日之镰"/>
+	<entry name="Necrons/DoomScytheDescription" value="全能型战斗机单位."/>
+	<entry name="Necrons/DoomScytheFlavor" value="末日之镰是惊骇和恐惧的使者. 这些超音速战斗机永远冲锋在太空死灵大军的最前方, 能够利用战略数据栈实现自我管控. 不论是作为大规模入侵的先导, 消灭敌方飞行器, 或者是向战略目标发起压倒性的攻击, 末日之镰的驾驶员将以无情而精准的手法圆满地完成任务."/>
+	<entry name="Necrons/DoomsdayArk" value="末日方舟"/>
+	<entry name="Necrons/DoomsdayArkDescription" value="拥有毁灭性强大火力的载具单位."/>
+	<entry name="Necrons/DoomsdayArkFlavor" value="以压倒性的火力取得胜利是太空死灵最为常见的一种战略思想, 末日方舟就是其最好的例证. 尽管从外表上看来很是脆弱, 但作为自行式能量加农炮的末日方舟拥有如此巨大的破坏能力, 以至于一次射击就能够轻松扭转战局."/>
+	<entry name="Necrons/Headquarters" value="<string name='Buildings/Necrons/Headquarters'/>"/>
+	<entry name="Necrons/HeadquartersDescription" value="代表城市防御能力的指挥中心单位."/>
+	<entry name="Necrons/HeadquartersFlavor" value="<string name='Buildings/Necrons/HeadquartersFlavor'/>"/>
+	<entry name="Necrons/HeavyDestroyer" value="重装毁灭者"/>
+	<entry name="Necrons/HeavyDestroyerDescription" value="强大的反装甲步兵单位."/>
+	<entry name="Necrons/HeavyDestroyerFlavor" value="配备了巨型高斯加农炮的重装毁灭者能够带来恐怖的能量爆炸. 这些重型装甲单位不断地在疮痍的战场上搜寻着目标, 武器能量核心所散发出的光芒将会不断地回荡. 当重装毁灭者瞄准了敌人, 那么也就意味着战场上只剩下了猎人和猎物, 以及杀戮."/>
+	<entry name="Necrons/Immortal" value="不朽者"/>
+	<entry name="Necrons/ImmortalDescription" value="中等射程装甲步兵单位."/>
+	<entry name="Necrons/ImmortalFlavor" value="在被进行生物转化前, 不朽者曾是惧亡者麾下的精英战士, 它们永远冲锋在征服星系的最前线. 在从活体金属中得到重生后, 现在的不朽者成为了墓穴世界大军中一股令人闻风丧胆的力量. 如果说普通的太空死灵战士是敌人枪火下的炮灰, 那么不朽者对于霸主而言则拥有极高的价值, 需要谨慎地进行部署在相应的地方. 不朽者拥有厚重的武器和装甲, 在完成主人的意志前没有什么可以阻挡它们. 在各种碾压式的进攻或者报复性地反击中, 不朽者总是出现在最核心的位置."/>
+	<entry name="Necrons/Lord" value="领主"/>
+	<entry name="Necrons/LordDescription" value="拥有全面能力的标志性英雄单位."/>
+	<entry name="Necrons/LordFlavor" value="尽管从地位和实力的角度来看, 太空死灵的领主不及霸主或是法老, 但它们依然拥有强大的力量并会永远出现在机械大军的最前方. 领主独立于它们的君主, 它们是狡诈的领袖和无情的指挥官, 专注于毁灭敌人并寻求属于个人的荣耀."/>
+	<entry name="Necrons/Monolith" value="符石巨塔"/>
+	<entry name="Necrons/MonolithDescription" value="拥有永恒之门的重型装甲火力掠行艇单位."/>
+	<entry name="Necrons/MonolithFlavor" value="符石巨塔是拥有巨大破坏潜力的古代战争纪念碑. 当它那巨大的轮廓出现在战场上时, 整个敌方军队都将在高斯武器的炮火以及粒子鞭的攻击下化为灰烬."/>
+	<entry name="Necrons/NightScythe" value="暗夜之镰"/>
+	<entry name="Necrons/NightScytheDescription" value="空中运输单位."/>
+	<entry name="Necrons/NightScytheFlavor" value="暗夜之镰是太空死灵最受青睐的入侵工具, 能够将太空死灵直接传送至战场. 超强的机动性保证了它能够轻松躲避轨道防御和拦截, 并迅速拉开与敌人之间的距离. 暗夜之镰能够如鬼魅般地穿过外围防御, 并将入侵部队部署在敌人的大后方."/>
+	<entry name="Necrons/Obelisk" value="方尖碑"/>
+	<entry name="Necrons/ObeliskDescription" value="拥有强大防空能力的超重型掠行艇单位."/>
+	<entry name="Necrons/ObeliskFlavor" value="方尖碑徘徊在战场的低空, 反重力引擎所发出的沉闷蜂鸣声让敌人深深地感到恐惧. 黑色的闪电流淌在发光的外壳之上, 方尖碑所呈现出的是一种黑暗而宏伟的景象. 然而随着方尖碑的武器缓缓出现, 特斯拉电球让周围的一切都化为灰烬时, 留给人们的只剩下了恐惧."/>
+	<entry name="Necrons/TesseractVault" value="超正方体墓穴"/>
+	<entry name="Necrons/TesseractVaultDescription" value="拥有一系列毁灭能力的的超重型掠行艇单位."/>
+	<entry name="Necrons/TesseractVaultFlavor" value="只有像太空死灵这样无情而自私的种族才会考虑使用超正方体墓穴来达成更宏伟的目标 -- 尽管本身就是一种强大的战争武器, 但这些浮空监狱所展现出来的是一种无法估量的巨大威胁."/>
+	<entry name="Necrons/TombBlade" value="墓穴之刃"/>
+	<entry name="Necrons/TombBladeDescription" value="快速侦查单位."/>
+	<entry name="Necrons/TombBladeFlavor" value="这些反重力飞船虽然是由被奴役的太空死灵战士操作, 但实际上引导它的却是极为复杂的导航程序. 墓穴之刃拥有极快地速度和敏捷性, 任何想要活下去的飞行员都不会选择跟它比试比试."/>
+	<entry name="Necrons/TranscendentCtan" value="超然星神"/>
+	<entry name="Necrons/TranscendentCtanDescription" value="拥有一系列毁灭能力的巨型生物."/>
+	<entry name="Necrons/TranscendentCtanFlavor" value="超然星神是曾经星神的回响, 在太空死灵的背叛下它们留下的能量残余被束缚在了超正方体迷宫之中. 古老的科技迫使它们追寻太空死灵主人的意志, 尽管受到了压迫和束缚, 超然星神依然拥有着巨大的力量."/>
+	<entry name="Necrons/TriarchPraetorian" value="三圣卫队"/>
+	<entry name="Necrons/TriarchPraetorianDescription" value="精英跳跃步兵单位."/>
+	<entry name="Necrons/TriarchPraetorianFlavor" value="三圣卫队是太空死灵古老律法的守护者, 这些无与伦比的战士将守卫历代王朝的延续并保证古老惧亡者代码的首要地位."/>
+	<entry name="Necrons/TriarchStalker" value="三圣追猎者"/>
+	<entry name="Necrons/TriarchStalkerDescription" value="全能型步行者单位."/>
+	<entry name="Necrons/TriarchStalkerFlavor" value="三圣追猎者如同一只巨大的蜘蛛, 它是由高阶三圣卫队所指挥的毁灭性武器. 当三圣追猎者行进时, 它能够以极快地速度来保证其步态平稳. 事实上, 三圣追猎者能够以迅速而精准地穿越几乎所有地形, 这对于低等种族的步行者单位来说几乎是不可能实现的."/>
+	<entry name="Necrons/Warrior" value="太空死灵战士"/>
+	<entry name="Necrons/WarriorDescription" value="基础步兵单位."/>
+	<entry name="Necrons/WarriorFlavor" value="尽管残留一丝意识, 太空死灵战士依然是可怕的敌人. 装备了远古能量武器的它们能够通过高斯掠夺者的火力轻松摧毁敌人, 同时其金属躯体将会在受到伤害后进行自我修复."/>
+	<entry name="Neutral/Artefacts/Accuracy" value="万千幻影"/>
+	<entry name="Neutral/Artefacts/AccuracyDescription" value="能够提高准确度的静止神器单位."/>
+	<entry name="Neutral/Artefacts/AccuracyFlavor" value="在这个方尖碑的暗色金属内部, 是一个蛋壳色的内部装饰. 第一位探险家报告称自己曾有过一种自己被逐个原子逐个原子所分解的感觉. 不久之后, 其他成员开始出现幻觉, 而这些幻觉却又是那样的准确, 无数的攻击向着盟友们袭来."/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDevice" value="远古毁灭装置"/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDeviceDescription" value="足以摧毁整个星球的可移动神器单位."/>
+	<entry name="Neutral/Artefacts/AncientExterminatusDeviceFlavor" value="这个箱子大小的设备当然算不上真正的'毁灭' -- 但技术军士的改造下, 赋予了它能够从极远地敌方彻底摧毁战场大片区域的能力."/>
+	<entry name="Neutral/Artefacts/Armor" value="晶体反射器"/>
+	<entry name="Neutral/Artefacts/ArmorDescription" value="能够提高护甲的静止神器单位."/>
+	<entry name="Neutral/Artefacts/ArmorFlavor" value="激活后, 反射器的顶部裂开并喷射出巨大的彩虹碎片漩涡, 散布在整个格雷迪厄斯的大气层之中. 这一景象分散了敌人的注意, 它们开始变得愉悦而盲目 -- 并奇迹般地转移了针对我方部队的攻击."/>
+	<entry name="Neutral/Artefacts/ArmorPenetration" value="迷幻卸稳器"/>
+	<entry name="Neutral/Artefacts/ArmorPenetrationDescription" value="能够提高护甲穿透的静止神器单位."/>
+	<entry name="Neutral/Artefacts/ArmorPenetrationFlavor" value="当这件神器出现时, 整个星球都发出了神秘的轰隆声. 所有的技术人员都报告了一种奇怪的现象, 似乎原子本身正在分崩离析. 他们可以运用在你的部队中 -- 但敌人永远也不会知道为什么自己的士兵是如此容易被打败."/>
+	<entry name="Neutral/Artefacts/Damage" value="古贤者神器"/>
+	<entry name="Neutral/Artefacts/DamageDescription" value="能够提高伤害的静止神器单位."/>
+	<entry name="Neutral/Artefacts/DamageFlavor" value="这件神器显然出自古贤者之手, 但尽管如此, 它却没有立刻显现出效果 -- 直到战斗来临, 一场灵能风暴震动着异次元风暴, 所有活着的种族都感到自己被一股狂乱的嗜血力量驱使着. 即便是没有灵魂的太空死灵也变得不安起来, 它们似乎已经洞悉了远古敌人的秘密."/>
+	<entry name="Neutral/Artefacts/Healing" value="远古农作物系统"/>
+	<entry name="Neutral/Artefacts/HealingDescription" value="每回合恢复生命值的静止神器单位."/>
+	<entry name="Neutral/Artefacts/HealingFlavor" value="虽然长得像是一枚被挖空的卵, 但这件神器却含有一系列古老的食用植物和相关的水培设备, 足以吸引任何一位古代收藏家的眼球. 神器的处理单元从底部引出了各种栓轴和导管, 从中流出的粘稠糖浆能够滋养各种生物, 哪怕对于活体金属来说, 这也是一种完美的润滑剂."/>
+	<entry name="Neutral/Artefacts/Hitpoints" value="移动全息投影仪"/>
+	<entry name="Neutral/Artefacts/HitpointsDescription" value="能够提高生命值的静止神器单位."/>
+	<entry name="Neutral/Artefacts/HitpointsFlavor" value="这座全息投影仪虽然看上去像块石头, 但它绝不是你所想象的那样. 你可以将全息投影仪的能力部署在附近的单位上, 极大地提高他们的生存能力, 因为敌人的射击和轰炸将失去应有的作用."/>
+	<entry name="Neutral/Artefacts/Loyalty" value="海妖法师"/>
+	<entry name="Neutral/Artefacts/LoyaltyDescription" value="能够提高忠诚度的静止神器单位."/>
+	<entry name="Neutral/Artefacts/LoyaltyFlavor" value="这件神器上的多个腔体在微风的吹拂下不断地震动, 发出了如同风铃般的声音. 任何听到这个声音的人都会感到无比的舒适和放松, 就好像母亲的手轻轻地放在他们的肩膀上."/>
+	<entry name="Neutral/Artefacts/Movement" value="远古开拓者"/>
+	<entry name="Neutral/Artefacts/MovementDescription" value="能够提高移动的静止神器单位."/>
+	<entry name="Neutral/Artefacts/MovementFlavor" value="这件奇怪的神器摸上去像是一把武器 -- 但它不会对任何活体生物起作用. 相反, 它却能够以树叶以及非生命体作为目标, 迅速地将其侵蚀. 这就意味着, 一旦控制这个神器, 它便能够在远处为部队清理出一条行进的道路."/>
+	<entry name="Neutral/Artefacts/Sight" value="全频谱分析仪"/>
+	<entry name="Neutral/Artefacts/SightDescription" value="能够提高视野的静止神器单位."/>
+	<entry name="Neutral/Artefacts/SightFlavor" value="通过这件神器能够进入到一个巨型房间中, 获得附近区域的地理数据, 读数以及全息图表. 聪明的指挥官会使用它来搜寻敌人, 并将目标信息传递给己方部队."/>
+	<entry name="Neutral/Artefacts/TileDamage" value="星云分配器"/>
+	<entry name="Neutral/Artefacts/TileDamageDescription" value=""/>
+	<entry name="Neutral/Artefacts/TileDamageFlavor" value="在这件神器满布着的栓套和管道中流淌着一种能够向四周喷洒的黏质糖浆. 很快, 被喷洒出的物质瞬间蒸发 -- 在原地留下一整个区域的厚重风暴."/>
+	<entry name="Neutral/Artefacts/Units" value="远古奴工"/>
+	<entry name="Neutral/Artefacts/UnitsDescription" value=""/>
+	<entry name="Neutral/Artefacts/UnitsFlavor" value="这位古老的工人与帝国奴工有些类似, 除了有些像是不知疲倦的机器工人 -- 但它不论是规模还是能力都远远地超过了帝国奴工们, 这也使得所有的种族都非常重视它强大的建造和武器修建能力."/>
+	<entry name="Neutral/Artefacts/VaulControlDevice" value="瓦尔控制器"/>
+	<entry name="Neutral/Artefacts/VaulControlDeviceDescription" value="能够控制沉默之王礼物的可移动神器单位."/>	
+	<entry name="Neutral/Artefacts/VaulControlDeviceFlavor" value="如今没有任何生物能够创造出这样的设备. 只有地宫技师-- 在经过了漫长的学习后 -- 才能够了解古贤者的技术并对其进行稳定控制."/>	
+	<entry name="Neutral/Artefacts/VaulSentry" value="瓦尔哨卫"/>
+	<entry name="Neutral/Artefacts/VaulSentryDescription" value=""/>
+	<entry name="Neutral/Artefacts/VaulSentryFlavor" value="为了应对泰伦虫族的威胁, 这件由古贤者材料所制成的拱状物体显得细腻而轻盈, 但却拥有着超乎寻常的弹性. 不知为何, 在它周围的异次元风暴的强度会有所增加, 并且随着时间推移能够对所有的生命体造成伤害."/>
+	<entry name="Neutral/Ambull" value="地穴兽"/>
+	<entry name="Neutral/AmbullDescription" value="能够每回合恢复生命值的强大格斗单位."/>
+	<entry name="Neutral/AmbullFlavor" value="地穴兽是一种近似于猿类的异种. 原本生活在卢特麦金泰尔九号沙漠世界的它们很快地蔓延至了整个人类帝国世界(大概是因为驯化失败的原因). 地穴兽是一类地下种族, 它们能够迅速穿过冰层, 沙地或者岩石, 能够挖掘隧道来作为自己的家."/>
+	<entry name="Neutral/CatachanDevil" value="卡塔昌恶魔"/>
+	<entry name="Neutral/CatachanDevilDescription" value="极具毁灭力量的单位, 凭借鲁莽的怒火吓退敌人或者与之交战."/>
+	<entry name="Neutral/CatachanDevilFlavor" value="这些来自卡塔昌世界的恶魔在外型上与蝎子非常相似, 拥有节肢般的身体以及带有毒针的尾巴. 成年卡塔昌恶魔的体长能够达到三十米, 六十只灵巧的足部能够使其以极快地速度穿越任何地形. 在进行捕食的时候, 卡塔昌恶魔会用锋利的爪子将猎物撕碎或者使用倒钩将其撞晕, 接着它们就会慢慢开始享受美食的乐趣."/>
+	<entry name="Neutral/CatachanDevilLair" value="卡塔昌恶魔巢穴"/>
+	<entry name="Neutral/CatachanDevilLairDescription" value="能够不断刷新卡塔昌恶魔的常规建筑物单位."/>
+	<entry name="Neutral/Enslaver" value="奴役者"/>
+	<entry name="Neutral/EnslaverDescription" value="能够控制敌人的心魄, 极度危险."/>
+	<entry name="Neutral/EnslaverFlavor" value="传说在天堂之战中, 古贤者创造出了新的种族来试图击败星神 -- 包括柯洛克, 艾尔达, 人类等等. 他们中的绝大部分被称之为奴役者. 这些跨维度的生物能够迅速奴役新的种族, 也因此加速了古贤者的殒落. 现在, 尽管奴役者很少发起入侵, 但如果不能迅速终结掉的话那么这样的入侵将会是非常具有毁灭性的."/>
+	<entry name="Neutral/KastelanRobot" value="卡斯特兰机器人"/>
+	<entry name="Neutral/KastelanRobotDescription" value="拥有超高耐久力的重型装甲战斗机器人单位."/>
+	<entry name="Neutral/KastelanRobotFlavor" value="卡斯特兰机器人是战争中的古老怪物, 这些冰冷的巨人只会无情地执行主人的命令. 它们是移动着的远古遗迹, 同时也非常致命 -- 周围的空气会因能量的流动而发出声响, 被反重力场弹回的子弹所发出的光芒就如同一个金色的笼子一样. 不论敌人隐藏在哪里, 磷粉爆炸和钷元素焚烧都能够将其消灭殆尽, 不论是什么地方, 它们的铁拳都会将其夷为平地. 这样的暴力就是万能机械神信仰的最好证明, 同时也能够为敌人带来十足的威慑力."/>
+	<entry name="Neutral/KrootHound" value="克鲁特猎犬"/>
+	<entry name="Neutral/KrootHoundDescription" value="非常敏捷的掠食者单位, 在森林里尤其危险."/>
+	<entry name="Neutral/KrootHoundFlavor" value="克鲁特拥有极高的灵活性, 能够在吞食其他种族后吸收其基因数据. 但也正是如此, 有时孤立的克鲁特群体会陷入进化的死胡同. 克鲁特猎犬的存在就是一个很好的例证."/>
+	<entry name="Neutral/LordOfSkulls" value="颅骨之主"/>
+	<entry name="Neutral/LordOfSkullsDescription" value="几乎无人可挡的战争引擎, 能够将所有的敌人消灭殆尽."/>
+	<entry name="Neutral/LordOfSkullsFlavor" value="伴随着巨大的轰鸣声, 出现在战场上的颅骨之主让一切敌人都变得渺小. 它的体内流淌着嗜血者的狂怒精魄, 以杀戮者的沸腾血液作为动力, 阻挡在这座邪恶战争引擎面前的人只有死路一条. 它强大的火力能够让敌人的遗体不复存在, 要么淹没在炽热的血腥喷射中, 要么被直接掩埋在颅骨之雨下. 当掠过敌人的队伍时, 守护神引擎能够让它以惊人的速度和技巧咆哮着挥舞利斧. 只需轻轻一挥, 所有的敌人将会被横扫击飞, 坦克和怪兽就如同玩具一般. 即便是重踏机甲或者泰坦这样的战争引擎在它的面前都显得笨拙无比, 因为颅骨之主能够轻松劈下它们的四肢, 在炽热的火焰中撕裂它们的装甲躯体. 几乎没有战士能够在面对颅骨之主时活下来, 因为它是绝对的毁灭机器."/>
+	<entry name="Neutral/NeophyteHybrid" value="新教徒混种"/>
+	<entry name="Neutral/NeophyteHybridDescription" value="擅长伏击的远程步兵单位."/>
+	<entry name="Neutral/NeophyteHybridFlavor" value="每一名教徒都拥有坚强的意志和体魄 -- 尽管经历了无数的艰苦劳动, 但体内的异种基因却支持着他们保持强大的体力和迅速的反应能力. 新教徒并不是至高长者外在的意志延伸; 正如他们的领袖所告诫的那样, 他们所受到的祝福并不只有躯体, 还有灵魂. 这些第三代和第四代混种经常被误以为是人类 -- 有些甚至能够狡猾地渗透到帝国卫队中去. 当教派开始发动进攻, 这些新教徒就会露出其真正的面目. 他们从下水道, 地下墓穴和幽暗的军营中源源不断地涌来, 如此众多的数量能够让新教徒仅仅花费几个小时的代价就能够控制整个行星的防御."/>
+	<entry name="Neutral/Psychneuein" value="食灵怪"/>
+	<entry name="Neutral/PsychneueinDescription" value="能够感染受害者的空中异次元单位."/>
+	<entry name="Neutral/PsychneueinFlavor" value="食灵怪是一种对异次元非常敏感的稀有生物, 它们能够穿梭于古贤者的网道之间, 因此食灵怪的身影已经遍布全宇宙. 平行进化使得它们产生了类似于黄蜂般的外形, 但成熟体拥有极强的力量, 速度, 韧性以及传说中控制非实体物质的能力. 这一切使得食灵怪非常具有威胁."/>
+	<entry name="Neutral/TechpriestBetrayer" value="科技神甫背叛者"/>	
+	<entry name="Orks/Battlewagon" value="战斗堡垒"/>
+	<entry name="Orks/BattlewagonDescription" value="重甲运输载具单位."/>
+	<entry name="Orks/BattlewagonFlavor" value="不论是把它当作伐木火炮要塞, 鲜红色的战车还是装饰着艳俗欧克兽人雕文的铁锈桶, 战斗堡垒都是一座由垃圾制成的机动单位, 能够将大量的绿皮成员送入战场. 虽然每一个战斗堡垒都不尽相同, 但它们从最本质来说还是属于装甲攻击载具. 这些强大的坦克能够为团队挥出一记重拳(带点点儿铁锈), 很好地扼制住敌人的咽喉."/>
+	<entry name="Orks/Boy" value="兽人小子"/>
+	<entry name="Orks/BoyDescription" value="拥有出色近战能力的基础步兵单位."/>
+	<entry name="Orks/BoyFlavor" value="兽人小子是任何团队中的核心以及灵魂. 它们以极大地数量投身于战斗中, 就如同绿色的山崩一般能够瞬间摧毁敌人. 兽人小子擅长与敌人展开近距离战斗并能够带来非常血腥的破坏. 兽人小子拥有不算火爆的脾气以及强健的体魄, 这显然是对其低下智力而进行的补偿."/>
+	<entry name="Orks/BurnaBommer" value="焚燃轰炸机"/>
+	<entry name="Orks/BurnaBommerDescription" value="能够将掩体中的大规模步兵阵型轻松消灭的快速轻型装甲轰炸机."/>
+	<entry name="Orks/BurnaBommerFlavor" value="焚燃轰炸机是欧克兽人追求速度, 火力以及制造能够结合这两个特点的杀人机器所留下的副产品. 焚燃轰炸机塞满了燃烧弹和火箭弹, 当它低空掠过战场, 敌人的步兵就将立刻被包围在烈焰之中."/>
+	<entry name="Orks/Dakkajet" value="大枪攻击机"/>
+	<entry name="Orks/DakkajetDescription" value="适合反制地面单位的快速轻甲飞行器单位."/>
+	<entry name="Orks/DakkajetFlavor" value="大枪攻击机穿梭在战火纷飞的天空之中, 那巨大的推进器将会留下一道道厚重的黑烟. 尽管不像其他种族的飞机那样灵活, 但大枪攻击机依然能够以令人难以置信的速度飞行, 使得其成为了空战中非常难以对付的敌人. "/>
+	<entry name="Orks/Deffkopta" value="兽人直升机"/>
+	<entry name="Orks/DeffkoptaDescription" value="能够飞跃障碍物的全能型单位."/>
+	<entry name="Orks/DeffkoptaFlavor" value="兽人直升机嗡嗡作响, 穿过战场时会留下一道漆黑的烟雾. 当它们盘旋在敌人上方时, 这些恶魔般的兽人飞行机器就会向目标倾泻火炮和炸弹. 当兽人直升机摇摇晃晃地离开并搜寻下一个新目标时, 留在原地的就只剩下火焰和被鲜血溅满的弹坑."/>
+	<entry name="Orks/FlashGitz" value="怪枪小子"/>
+	<entry name="Orks/FlashGitzDescription" value="远程步兵单位."/>
+	<entry name="Orks/FlashGitzFlavor" value="在所有最富有但最令人讨厌的战争种族中, 怪枪小子以其肆无忌惮的海盗行为和破坏行为让无数人为之唾弃. 作为欧克兽人们的雇佣兵, 怪枪小子非常乐意看到自己那华丽的工具箱和威力惊人的大枪让众多兽人小子嫉妒不已. 尽管喜欢炫耀, 但怪枪小子却能够给战争首领带来足够的杀戮力量. 对于怪枪小子而言, 不论是枪战还是登陆行动它们都是非常致命的, 一群小子同时开火必然会引发巨大的灾难. 充满能量子弹充斥在空气之中, 任何胆敢阻挡它们的人最终都会被怪枪小子踩在脚下."/>
+	<entry name="Orks/GargantuanSquiggoth" value="史格古巨兽"/>
+	<entry name="Orks/GargantuanSquiggothDescription" value="能够碾碎敌人并充当运输载具的大型恐怖野兽."/>
+	<entry name="Orks/GargantuanSquiggothFlavor" value="史格古巨兽是兽人形态的怪兽, 它那强健的身体里除了肌肉和暴脾气以外什么也没有. 虽然史格古巨兽与弱小的史奎格是远亲, 但它们如此巨大的身体足以摧毁各种坦克甚至是建筑. 欧克兽人会骑在它的背上并不断地驱使它, 暴怒着冲进战场里的史格古巨兽足以让地面上的敌人胆战心惊."/>
+	<entry name="Orks/Gorkanaut" value="搞哥机甲"/>
+	<entry name="Orks/GorkanautDescription" value="能够向敌人倾泻死亡和毁灭的大型重甲步行者单位."/>
+	<entry name="Orks/GorkanautFlavor" value="搞哥机甲是所有欧克兽人都渴望获得的东西. 它巨大, 坚硬, 响亮而充满破坏性, 其结实的轮廓显得极其威严. 从巨大的兽人造型再到所装备的野蛮武器, 搞哥机甲体现了搞哥那毫不掩饰的野蛮以及它干净利落的战争方式. 搞哥机甲从本质上来说都一套超重型装甲, 除了拥有各类强大火力外, 它还配备了一个如杀人罐头大小的装甲利爪."/>
+	<entry name="Orks/Headquarters" value="<string name='Buildings/Orks/Headquarters'/>"/>
+	<entry name="Orks/HeadquartersDescription" value="代表一座城市防御能力的指挥中心单位."/>
+	<entry name="Orks/HeadquartersFlavor" value="<string name='Buildings/Orks/HeadquartersFlavor'/>"/>
+	<entry name="Orks/KillaKan" value="杀人罐头"/>
+	<entry name="Orks/KillaKanDescription" value="能够灼烧敌人的轻甲步行者单位."/>
+	<entry name="Orks/KillaKanFlavor" value="杀人罐头的屁精操作员能够将自己的技巧和武器结合起来, 谁要是挡在路上那可就倒大霉了. 尽管身处在一个十英寸高的杀人机器中, 罐头里的操作员依然保留着屁精们的懦弱. 所以它们相信只有数量足够庞大才能保证安全, 但却又会在遭受攻击时表现得非常神经质. 发现危险急得团团转, 或者是整个被冻住, 这种情况对于杀人罐头来说并不少见."/>
+	<entry name="Orks/Meganob" value="超重装老大"/>
+	<entry name="Orks/MeganobDescription" value="重型步兵单位."/>
+	<entry name="Orks/MeganobFlavor" value="那些最为富有并最具战斗力的老大在向兽人技师购买一套超级护甲后, 就成为了超重装老大. 由活塞驱动并覆盖了防护板的护甲能够让穿戴者成为行走的坦克, 虽然价格不菲, 但它绝对是绿皮社会地位的终极象征. 虽然不少欧克兽人都嘲笑超重装老大穿着这么厚的护甲, 但恐怕只有最无聊的那一个才会在听到后作出反应. 坦克的直接炮轰都不太可能击倒超重装老大, 不过这必然会使其变得更加暴躁. 对于很多人来说, 在与愤怒的超重装老大相遇的时候, 只有跑得比它快才有机会活下来."/>
+	<entry name="Orks/Mek" value="兽人技师"/>
+	<entry name="Orks/MekDescription" value="能够修理载具并建立新城市的步兵单位."/>
+	<entry name="Orks/MekFlavor" value="如果没有兽人技师, 欧克兽人们也就不会拥有灯光, 电力, 运输甚至是枪(当然卫不卫生那是另一码事). 每当欧克兽人需要进行制造的时候, 不论是崭新的机枪还是老大的新坐骑, 他们都会寻找兽人技师. 除此之外, 有多余牙齿的欧克兽人会找到最近的兽人技师, 希望他们能够修复自己损坏东西, 或者是进行一些定制. 客户能够得到自己想要的东西那可真是太阳从西边出来了, 但不管兽人技师能够拿出什么, 至少在速度上还是相当之快的."/>
+	<entry name="Orks/MekGun" value="屁精大炮"/>
+	<entry name="Orks/MekGunDescription" value="装甲防空单位."/>
+	<entry name="Orks/MekGunFlavor" value="屁精大炮的咆哮声预示着敌人的生命已经走向了终结. 毁灭的能量伴随着爆炸, 这些巨大而坚硬火炮足以摧毁最为坚固的目标. 要知道, 任何有自尊心的欧克兽人都不会落下任何一场战斗, 而在这个时候操作大炮的重任就交给了屁精们."/>
+	<entry name="Orks/Painboy" value="剧痛小子"/>
+	<entry name="Orks/PainboyDescription" value="能够治疗并强化友方步兵的英雄单位."/>
+	<entry name="Orks/PainboyFlavor" value="剧痛小子又被其他欧克兽人叫做医师, 它们类似于绿皮社会中的外科医生和牙医. 它们被驱使于对活体生物进行探索性的手术研究, 就如同兽人技师钻研那些机器一样. 这些扭曲, 疯狂的剧痛小子通常从头到脚都覆盖着血块, 不论对于朋友还是敌人来说都是一种威胁."/>
+	<entry name="Orks/Tankbusta" value="坦克破坏者"/>
+	<entry name="Orks/TankbustaDescription" value="适合反制重甲目标的步兵单位."/>
+	<entry name="Orks/TankbustaFlavor" value="坦克破坏者是一群以摧毁装甲战斗载具为乐趣的兽人. 它们的目标就是干掉最大最危险的坦克, 这也是狩猎游戏中最为原始的本能."/>
+	<entry name="Orks/Warboss" value="战争首领"/>
+	<entry name="Orks/WarbossDescription" value="能够以近战攻击碾碎敌人并鼓舞友方的英雄单位."/>
+	<entry name="Orks/WarbossFlavor" value="欧克兽人战争首领是部族中最强大, 最坚韧, 最大声, 同时也是最暴力的角色. 这些巨大的绿皮怪物能够在战斗中攫取大量的战利品, 意味着他们身上的武器和装备要比其他成员的更加精良. 战争首领在部族中拥有绝对权力, 毕竟在绿皮的社会里谁的拳头大谁就是老大."/>
+	<entry name="Orks/Warbuggy" value="战斗越野车"/>
+	<entry name="Orks/WarbuggyDescription" value="快速侦查载具单位."/>
+	<entry name="Orks/WarbuggyFlavor" value="欧克兽人能够利用手边的任何垃圾来制造出轻便快速, 同时又装备了大型枪支的载具. 绝大多数的战斗越野车需要一名兽人司机和另一名炮手操作, 也许还会在上面挂一两个屁精来找点儿乐子. 这类越野车绝大多数都很脆弱, 毕竟欧克兽人所追求的是速度, 数量以及威力更猛的武器. 战斗越野车能够以超高的速度包围敌人, 欧克兽人一边不停地把脑袋向后甩一边肆意地开火射击, 就跟疯狂小子一样."/>
+	<entry name="Orks/Weirdboy" value="怪异小子"/>
+	<entry name="Orks/WeirdboyDescription" value="拥有全能型灵能力量的英雄单位."/>
+	<entry name="Orks/WeirdboyFlavor" value="怪异小子是所有欧克兽人中最能够与灵能保持协调一致的. 他们所发射出的异次元能量爆炸能够在瞬间将敌人融化. 怪异小子能够无意识地引导附近绿皮生物的心灵释放, 即便是两名兽人小子之间的吃史奎格比赛所发散的能量波也能够被其侦测和吸收. 如果怪异小子无法找到释放能量的途径就会导致头部发生爆炸, 这确实是相当的不方便."/>
+	<entry name="SpaceMarines/Apothecary" value="药剂师"/>
+	<entry name="SpaceMarines/ApothecaryDescription" value="能够治疗友方步兵的步兵单位."/>
+	<entry name="SpaceMarines/ApothecaryFlavor" value="这些勇敢的战地医生所面临的是残酷的战争, 他们能够治愈哪怕是最为严重的伤害. 在战斗激励药水和抗凝血剂的帮助下, 受伤的弟兄们能够以最快的速度重新投入战斗. 与此同时, 药剂师还会将帝皇的恩典给予那些需要帮助的人, 他们能够提取含有基因种子的细胞腺体, 让星际战士的血脉得以延续下去."/>
+	<entry name="SpaceMarines/AssaultSpaceMarine" value="星际战士突击者"/>
+	<entry name="SpaceMarines/AssaultSpaceMarineDescription" value="能够利用火箭背包克服地形障碍的近战步兵单位."/>
+	<entry name="SpaceMarines/AssaultSpaceMarineFlavor" value="喷射背包涡轮引擎所发出的轰鸣预示着星际战士突击者们的到来. 这些手持爆矢枪的勇士从天而降, 能够像飓风一样摧毁他们的敌人. 哀嚎着的敌人将会被战靴踩在脚下, 链锯剑会残忍地撕扯他们的胸膛. 结束杀戮后不久, 星际战士突袭着们就将继续前进, 而留在他们身后的只有敌方战线上的撕裂伤口."/>
+	<entry name="SpaceMarines/Captain" value="连长"/>
+	<entry name="SpaceMarines/CaptainDescription" value="拥有杰出近战能力的传奇英雄单位."/>
+	<entry name="SpaceMarines/CaptainFlavor" value="在前线的炮火声中, 冲在最前方的星际战士连长无疑给他的兄弟们树立了勇敢的榜样. 每一名连长都是极富技巧的战士, 这些经历过无数战争洗礼的老兵在整个职业生涯中消灭了数不清的敌人."/>
+	<entry name="SpaceMarines/Chaplain" value="牧师"/>
+	<entry name="SpaceMarines/ChaplainDescription" value="能够提升士气和忠诚度的狂热英雄单位."/>
+	<entry name="SpaceMarines/ChaplainFlavor" value="如果你看到了星际战士牧师那灾祸般的凝视, 那么这意味着你已经离死亡不远了. 这些集战士和牧师为一体的恐怖角色将会出现在战况最为激烈的地方, 他们将极大地鼓舞并提高勇士们的战斗."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarine" value="星际战士破坏者"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineDescription" value="能够摧毁重型战争机器的步兵单位."/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineFlavor" value="当破坏者们开始射击, 战场上就会响起狂怒的轰鸣声. 不论什么样的目标, 什么样的情况, 破坏者小队都能够凭借强大的火力在瞬间消灭敌人. 即使是强大的战争引擎也无法抵挡这群支援部队的致命攻击, 它们会在破坏者的炮火下发生爆炸并被摧毁殆尽."/>
+	<entry name="SpaceMarines/Dreadnought" value="无畏机甲"/>
+	<entry name="SpaceMarines/DreadnoughtDescription" value="通过近战攻击碾碎敌人的重型步行者单位."/>
+	<entry name="SpaceMarines/DreadnoughtFlavor" value="无畏机甲的出现让大地都为之颤动. 强大的铁拳和炽热的重型武器赋予了这座装甲战争引擎轻松毁灭敌人的能力."/>
+	<entry name="SpaceMarines/FortressOfRedemption" value="赎罪要塞"/>
+	<entry name="SpaceMarines/FortressOfRedemptionDescription" value="能够从附近特殊地形中收集资源的防御工事."/>
+	<entry name="SpaceMarines/FortressOfRedemptionFlavor" value="赎罪要塞那高耸的防护墙足以抵挡任何星球规模的入侵. 坚实的防护足以无视任何传统形式的火力, 而下部堡垒附属物和掩体能够容纳整个战团的战士. 黑暗天使战团曾经在大远征中首次使用了它们, 而后续无数的帝国军事行动也证明了它们无与伦比的可靠性."/>
+	<entry name="SpaceMarines/Headquarters" value="<string name='Buildings/SpaceMarines/Headquarters'/>"/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="代表城市防御能力的指挥中心单位."/>
+	<entry name="SpaceMarines/HeadquartersFlavor" value="<string name='Buildings/SpaceMarines/HeadquartersFlavor'/>"/>
+	<entry name="SpaceMarines/Hunter" value="猎手"/>
+	<entry name="SpaceMarines/HunterDescription" value="专门用于反制空中单位的坦克单位."/>
+	<entry name="SpaceMarines/HunterFlavor" value="从猎手那巨大的炮膛中发射的天矛导弹将发出怒吼咆哮, 不断地搜寻任何胆敢侵犯帝皇领空的敌人. 在每一枚导弹的中心位置都有一名奴工负责进行引导, 而即便导弹错过了目标, 硬件专家也会迅速做出调整, 使其回到正轨上来."/>
+	<entry name="SpaceMarines/LandRaider" value="兰德袭击者"/>
+	<entry name="SpaceMarines/LandRaiderDescription" value="大型装甲运输单位."/>
+	<entry name="SpaceMarines/LandRaiderFlavor" value="随着强大的兰德袭击者踏入战场, 地面为之震颤, 敌人也在恐慌中四散而去. 这座高贵的战争引擎配备了大型装甲, 几乎无人可以阻挡. 兰德袭击者能够轻松突破城墙并向敌人倾泻愤怒的炮火. 拥有炽热能量的射线猛然击向敌人的坦克, 在击穿装甲后瞬间化为了一团火球. 每当兰德突袭者出现在战场, 这里的死亡数量就会越来越高, 特别是当坦克突击遭到阻截, 阿斯塔特战会驾驶者也会成为屠杀的牺牲品."/>
+	<entry name="SpaceMarines/LandSpeeder" value="兰德速攻艇"/>
+	<entry name="SpaceMarines/LandSpeederDescription" value="能够穿越水域的移动悬浮载具单位."/>
+	<entry name="SpaceMarines/LandSpeederFlavor" value="兰德速攻艇能够以极快的速度和敏捷性出现在战场. 不论是负责搜寻城市废墟, 狭窄的峡谷, 甚至是穿越茂密的森林, 兰德速攻艇都能够凭借其无与伦比的操作性完美胜任. 在星际战士的操作下兰德速攻艇获得了更加强大的能力, 强化装甲和重型武器让其更为致命."/>
+	<entry name="SpaceMarines/Librarian" value="智库"/>
+	<entry name="SpaceMarines/LibrarianDescription" value="拥有全能型灵能力量的英雄单位."/>
+	<entry name="SpaceMarines/LibrarianFlavor" value="他们的眼睛熊熊燃烧, 他们的双拳汹涌着异次元的巨大能量, 星际战士智库出现在战场便意味着敌人将会遭受灭顶之灾. 有些人选择以强大的力量粉碎敌人, 有些人选择操纵时间本身, 或者是赋予其他成员强大的活力, 但所有的智库们都选择了战斗, 这些强大的灵能者将誓死捍卫人类."/>
+	<entry name="SpaceMarines/Predator" value="掠食者"/>
+	<entry name="SpaceMarines/PredatorDescription" value="主战坦克单位."/>
+	<entry name="SpaceMarines/PredatorFlavor" value="掠食者坦克是一种迅捷而野蛮的战斗载具, 能够为星际战士战团带来充足的火力支援. 这款战斗坦克的重型爆矢枪和自动加农炮对于步兵和轻甲单位来说如同梦魇一般的存在, 而配备了激光加农炮的掠食者更是能够轻松摧毁任何装甲单位."/>
+	<entry name="SpaceMarines/ScoutBiker" value="摩托侦察兵"/>
+	<entry name="SpaceMarines/ScoutBikerDescription" value="快速侦查单位."/>
+	<entry name="SpaceMarines/ScoutBikerFlavor" value="摩托侦查兵在第41个千年里的战场上驰骋, 能够以极高的速度和机动性包抄敌人并予以消灭. 摩托侦察兵能够不断刺探敌人的弱点并评估其作战意图, 在确认能够发动攻击后, 刺耳的枪声就会激烈地咆哮起来."/>
+	<entry name="SpaceMarines/StormravenGunship" value="风暴渡鸦炮艇"/>
+	<entry name="SpaceMarines/StormravenGunshipDescription" value="拥有重型火力和装甲的空中运输单位."/>
+	<entry name="SpaceMarines/StormravenGunshipFlavor" value="风暴渡鸦炮艇配备了多样化的武器装备, 更像是飞行坦克而不是传统的飞船. 风暴渡鸦炮艇是阿斯塔特战会最为全能的飞行器, 它们快速, 灵活, 可靠, 拥有强大的火力和充足的运输能力, 能够很好地胜任各种战斗角色."/>
+	<entry name="SpaceMarines/StormtalonGunship" value="风暴之爪炮艇"/>
+	<entry name="SpaceMarines/StormtalonGunshipDescription" value="空中拦截及对地攻击单位."/>
+	<entry name="SpaceMarines/StormtalonGunshipFlavor" value="风暴之爪炮艇拥有极快的速度和敏捷性, 使得它成为了空中拦截和地面攻击的绝佳选择. 只需轻轻按下扳机, 风暴之爪炮艇的驾驶员就能通过各种导弹, 能量箭和激光爆炸清除目标. 与此同时, 风暴之爪炮艇超高的速度足以保证其躲避敌人的炮火."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine" value="星际战士战术师"/>
+	<entry name="SpaceMarines/TacticalSpaceMarineDescription" value="全能型步兵单位."/>
+	<entry name="SpaceMarines/TacticalSpaceMarineFlavor" value="如果需要确保目标被抓获, 战术小队就会发起狂风暴雨般的攻击. 如果阵线需要固守, 这些英勇的战士们绝对不会后退一步, 他们将举起武器战斗至最后一刻. 配备了爆矢枪和手雷的战术小队是非常全能的战略资源."/>
+	<entry name="SpaceMarines/Terminator" value="终结者"/>
+	<entry name="SpaceMarines/TerminatorDescription" value="能够反制所有地面敌人的重甲步兵单位."/>
+	<entry name="SpaceMarines/TerminatorFlavor" value="终结者几乎是无敌和顽强的象征, 他们所承担的是一些极为困难的任务. 无论是对敌人堡垒的心脏地带发起无支援打击, 或者是徒步狩猎超重型战争机器, 这些来自第一老兵连的英雄们都能够很好地胜任."/>
+	<entry name="SpaceMarines/ThunderfireCannon" value="雷霆之火加农炮"/>
+	<entry name="SpaceMarines/ThunderfireCannonDescription" value="装备了能够提供远程火力支援加农炮的步兵单位."/>
+	<entry name="SpaceMarines/ThunderfireCannonFlavor" value="这些巨大的四管火炮拥有出色的静态防御能力. 它们能够以极快地速度射击和填装, 通过连续不断地炮火轰炸将敌人化为灰烬. 面对如此压制性的火力, 恐怕只有勇敢者或者傻瓜才会继续前进."/>
+	<entry name="SpaceMarines/Vindicator" value="维护者"/>
+	<entry name="SpaceMarines/VindicatorDescription" value="拥有毁灭性近程加农炮的重型坦克单位."/>
+	<entry name="SpaceMarines/VindicatorFlavor" value="作为攻城坦克的维护者配备了威力巨大的毁灭者加农炮, 足以将任何目标在瞬间化为灰烬. 维护者非常受到帝国之拳的青睐, 他们经常使用这些坦克进行编队战斗并依靠其强大的火力摧毁堡垒, 碉堡和掩体."/>
+	<entry name="Tyranids/Carnifex" value="刽子手"/>
+	<entry name="Tyranids/CarnifexDescription" value="拥有毁灭性近战能力的巨兽生物单位."/>
+	<entry name="Tyranids/CarnifexFlavor" value="刽子手是毁灭的代名词, 这些怪物拥有厚重的甲壳质以及结识的外星肌肉组织. 它们是虫巢舰队战士中最难对付同时也是最致命的生物之一, 被创造出来就是为了能够在集群战斗中冲在最前线. 尽管虫巢意志已经创造出了更加巨大的战士有机体, 但很少由刽子手能够在体型和力量方面获得平衡, 也不是拥有纯粹的破坏性潜能."/>
+	<entry name="Tyranids/Doom" value="末日"/>
+	<entry name="Tyranids/DoomDescription" value=""/>
+	<entry name="Tyranids/DoomFlavor" value="末日似乎是虫巢意志一次性完成的创作, 拥有超高的难度. 它是一种如同吸血鬼般的特殊脑虫, 以灵能为食. 它的头骨与长脊柱相连, 而肋骨一般的爪子从身体侧面伸出, 灵能力量围绕这些身体结构并发出刺耳的声音. 在战斗中, 末日能够利用自己独特的身体使用灵能并从周围吸收生命之力. 这个生物就如同吞噬了无限回路中的灵魂进而单独摧毁了艾尔达人的马兰太世界一样令人感到恐惧."/>
+	<entry name="Tyranids/Exocrine" value="离子炮虫"/>
+	<entry name="Tyranids/ExocrineDescription" value="巨兽炮兵单位."/>
+	<entry name="Tyranids/ExocrineFlavor" value="离子炮虫凭借其致命的远程伤害能力让无数敌人闻风丧胆. 这种生物最显著的特点就是背负着一挺生化加农炮, 在发射前会发出刺耳的尖啸声, 以便让猎物在被灼热的等离子体吞噬前有足够的时间来意识到自己的处境."/>
+	<entry name="Tyranids/Gargoyle" value="石像鬼"/>
+	<entry name="Tyranids/GargoyleDescription" value="拥有跳跃能力的步兵单位."/>
+	<entry name="Tyranids/GargoyleFlavor" value="泰伦虫族在发动攻击之前会有无数的石像鬼出现在空中, 它们拍打着翅膀冲向敌人, 遮蔽了太阳并使用钻肉枪喷洒死亡. 翅膀所带来的机动性能够让石像鬼获得独一无二的狩猎优势. 无论泰伦虫族攻击哪一颗行星, 抵抗者都会惊恐地望向空中, 因为他们知道每一个影子所代表着的都是即将发起进攻的石像鬼."/>
+	<entry name="Tyranids/Haruspex" value="巨嘴兽"/>
+	<entry name="Tyranids/HaruspexDescription" value="拥有抓握之舌的巨兽生物单位."/>
+	<entry name="Tyranids/HaruspexFlavor" value="泰伦虫族巨嘴兽是一种凶猛的野兽, 能够以一种令人作呕的方式消耗生物质. 由于需要满足无限的饥饿感, 巨嘴兽拥有无比贪婪的食欲. 很少有人会愚蠢地站在巨嘴兽前面, 因为它能够在极短的时间内吞掉一整个团的士兵. 任何无法被巨嘴兽一口吞食的猎物都会被其巨大的爪子抓住, 然后被轻而易举地撕扯和粉碎."/>
+	<entry name="Tyranids/Headquarters" value="指挥中心"/>
+	<entry name="Tyranids/HeadquartersDescription" value="代表着一座城市防御力量的指挥中心单位."/>
+	<entry name="Tyranids/HeadquartersFlavor" value="<string name='Buildings/Tyranids/HeadquartersFlavor'/>"/>
+	<entry name="Tyranids/HiveCrone" value="天巫"/>
+	<entry name="Tyranids/HiveCroneDescription" value="善于应对空中目标的突触飞行单位."/>
+	<entry name="Tyranids/HiveCroneFlavor" value="天巫是一种飞行巨兽, 泰伦虫族会利用它们来占据空中优势. 这是一种完美适应空中战斗的生物, 能够像技艺精湛的喷气式战斗机的飞行员那样熟练地将敌人的飞机从空中击落."/>
+	<entry name="Tyranids/HiveTyrant" value="虫巢暴君"/>
+	<entry name="Tyranids/HiveTyrantDescription" value="拥有恐怖灵能力量的飞行突触英雄单位."/>
+	<entry name="Tyranids/HiveTyrantFlavor" value="虫巢暴君是泰伦虫群的指挥官, 它们将执行虫巢的意志. 尽管从个体上表现出多样的身体特征, 但所有的虫巢暴君都是巨大而令人感到恐惧的怪物, 甚至超越了无畏机甲. 它们异常强健, 能够轻松粉各种障碍物. 这种巨兽身体上的每一个部位都是为了杀戮而诞生, 甚至包括保护身体的几丁质镀层. 一名虫群暴君在任何距离下都是强大的对手."/>
+	<entry name="Tyranids/Hormagaunt" value="刀虫"/>
+	<entry name="Tyranids/HormagauntDescription" value="基础近战步兵单位."/>
+	<entry name="Tyranids/HormagauntFlavor" value="刀虫是恶毒而极度专注的掠食者, 它们会一刻不停地追捕其猎物. 依靠其强大的后腿, 刀虫以跳跃的方式穿过战场, 无视其伤口和疲惫, 直到追上猎物并用镰刀般的爪子将其撕裂."/>
+	<entry name="Tyranids/Lictor" value="利卡特"/>
+	<entry name="Tyranids/LictorDescription" value="潜行步兵单位."/>
+	<entry name="Tyranids/LictorFlavor" value="利卡特是高度特殊化的虫巢武士形态, 专门用来扮演泰伦虫族先锋部队中的侦察角色. 利卡特通常出现在虫群的最前方寻找着最佳的攻击机会. 即便是在恶劣的地形上利卡特也能没有声响地迅速移动, 通过能够变色的甲壳让肉眼很难发现它们. 利卡特能够在发起攻击前一直保持潜行状态, 它们可以在受害者毫无察觉的情况下等待数天时间, 预示着一场看不见的灾难即将到来."/>
+	<entry name="Tyranids/Malanthrope" value="马兰脑虫"/>
+	<entry name="Tyranids/MalanthropeDescription" value="消耗土地并建立新城市的支援型单位."/>
+	<entry name="Tyranids/MalanthropeFlavor" value="马兰脑虫是泰伦虫族中非常少见的. 这是因为它们并不是真正的战士有机体, 因此在战斗中往往很难看到它们. 事实上, 这些拥有漂浮能力的生物往往出现在泰伦虫族进攻之后; 它们通常只会在敌人被击败, 虫群开始不断吞噬星球的生物质时才会被创造出来. 有幸能够看到马兰脑虫的幸存者带来了一个令人毛骨悚然的故事. 这些巨型生物在横尸遍野的战场上漂浮移动着, 但不同于疯狂吞噬一切的其他虫子, 马兰脑虫似乎在有目的地进行搜索 -- 但具体是什么没人能够知道."/>
+	<entry name="Tyranids/Ravener" value="贪食虫"/>
+	<entry name="Tyranids/RavenerDescription" value="为近距离战斗而生的迅捷野兽单位."/>
+	<entry name="Tyranids/RavenerFlavor" value="贪食虫是贪婪的掠食者, 它们如蛇形般的身体被吞噬一切的饥饿所驱使着. 扭曲的肌肉组织赋予了这些怪兽恐怖的速度. 贪食虫可以在眨眼之间通过小型障碍物, 在大型障碍物之间奔驰, 甚至能够能够在沼泽地中滑行. 贪食虫流线型的躯体允许其在地表下进行长距离掘地, 然后突然出现在敌人的阵地之前, 然后用利爪撕碎一切目标."/>
+	<entry name="Tyranids/Termagant" value="迅猛兽"/>
+	<entry name="Tyranids/TermagantDescription" value="基础步兵单位."/>
+	<entry name="Tyranids/TermagantFlavor" value="迅猛兽是敏捷而狡诈的生物. 它们是虫巢意志麾下体型最小的战士之一, 最初被创造出来是为了搜寻飞船中的入侵者. 而在行星入侵种, 迅猛兽能够依靠四条腿快速前进, 同时通过生物武器进行攻击 -- 通常是钻肉枪 -- 被紧紧地抓在前肢上."/>
+	<entry name="Tyranids/Tervigon" value="恶妇兽"/>
+	<entry name="Tyranids/TervigonDescription" value="能够孵化大量迅猛兽的突触英雄单位."/>
+	<entry name="Tyranids/TervigonFlavor" value="恶妇兽是一种巨型突触生物, 高耸的甲壳能够很好地保护其鼓胀的腹部. 尽管拥有一系列恐怖的生物武器, 从能够轻松撕碎猎物的巨型爪子, 到能够进行发射的剃刀尖刺, 但恶妇兽真正的威胁在于...它们是一个活着的孵化器, 在其臃肿的体内数十个迅猛兽正在沉睡着. 恶妇兽可以任意进行生产, 进而唤醒体内的迅猛兽."/>
+	<entry name="Tyranids/Trygon" value="掘蟒"/>
+	<entry name="Tyranids/TrygonDescription" value="能够从地下发起进攻的巨型生物单位."/>
+	<entry name="Tyranids/TrygonFlavor" value="掘蟒是一种巨大的蛇形生物, 体型甚至超过了刽子手. 这类怪物拥有厚重的装甲, 从头到尾都覆盖着强化甲板. 当掘蟒移动时, 这些强化甲板会产生生物静电荷, 这股强大的力量最终将会汇聚在其前肢部分. 掘蟒能够引导这股力量成为致命的高压放电 -- 在被闪电弧击中的猎物很快就会化为一堆烧焦的骨头."/>
+	<entry name="Tyranids/Tunnel" value="母巢"/>
+	<entry name="Tyranids/TunnelDescription" value="允许单位在母巢之间通过管道移动."/>
+	<entry name="Tyranids/TunnelFlavor" value="不论泰伦虫族走到哪里, 负责构成虫巢的植物都会伴随它们同行. 这些植物巨大的根部能够穿过任何的土壤, 矿物或者岩石, 能够使泰伦虫族能够在区域之间移动时不会被发现."/>
+	<entry name="Tyranids/TyranidPrime" value="首席武士"/>
+	<entry name="Tyranids/TyranidPrimeDescription" value="能够强化友方武士的恐怖突触英雄单位."/>
+	<entry name="Tyranids/TyranidPrimeFlavor" value="首席武士是虫巢武士种的最强者, 它们更快, 更强壮也更加聪明. 首席武士是天生的致命杀手."/>
+	<entry name="Tyranids/Tyrannofex" value="暴虐兽"/>
+	<entry name="Tyranids/TyrannofexDescription" value="能够摧毁重型载具的远程巨型生物单位."/>
+	<entry name="Tyranids/TyrannofexFlavor" value="毫无疑问, 巨大的暴虐兽就是为了毁灭而存在的 -- 它生来就是为了横扫战场进而毁灭世界. 这些外星巨兽不顾一切地向猎物发起死亡冲锋, 能够用无情的生物武器击溃敌人的阵线. 阻止屠杀的唯一方式就是杀死野兽, 但暴虐兽如同战斗堡垒一般坚韧, 只有最具威力的弹药才会对它造成威胁. 暴虐兽被包裹在坚硬的甲壳中, 它与任何由钢铁制造或者由传统技术所创造的战争引擎一样桀骜不驯."/>
+	<entry name="Tyranids/Warrior" value="虫巢武士"/>
+	<entry name="Tyranids/WarriorDescription" value="全能型突触步兵单位."/>
+	<entry name="Tyranids/WarriorFlavor" value="虫巢武士是所有虫巢意志生物形态中最具有适应性的. 它们是来自黑暗梦魇的生物, 是不可阻挡的杀戮机器. 脉动的血液, 尖锐的牙齿和闪闪发光的眼睛所带来的是无与伦比的恐惧. 虫巢武士的身高是人类的两倍, 并且由厚重的甲壳所保护. 或许会有人认为这类生物行动缓慢, 然而恰恰相反, 虫巢武士的行动就如同挥舞的鞭子一样迅速."/>
+	<entry name="Tyranids/Zoanthrope" value="脑虫"/>
+	<entry name="Tyranids/ZoanthropeDescription" value="拥有毁灭性灵能力量的突触步兵单位."/>
+	<entry name="Tyranids/ZoanthropeFlavor" value="脑虫之所以被创造出来就是为了专门驾驭虫群意志的灵能力量, 并且它们的整个身体都是为了这个目的而存在的. 在必要时, 脑虫可以用来扩展虫巢意志的突触控制范围, 利用其巨大的脑容量将其旨意传达给下一级生物. "/>
+	
+	<!-- Unique quest character names. -->
+	<entry name="Necrons/EliteTesseractVault" value="奥术漏管"/>	
+	<entry name="Necrons/RebelLord" value="无尽者尼扎恩"/>
+	<entry name="Neutral/EliteKastelan" value="二十面体12-Aglax"/>
+	<entry name="Orks/EliteWarboss" value="虫巢灾祸"/>
+	<entry name="SpaceMarines/RebelFortressOfRedemption" value="虫巢暴君的撤退"/>
+	<entry name="Tyranids/MeleeCamp" value="瓦尔之牙"/>
+	<entry name="Tyranids/RangedCamp" value="瓦尔之脊"/>
+	<entry name="Tyranids/FlyingCamp" value="瓦尔之眼"/>
+	<entry name="Tyranids/DoomLictor1" value="诺恩利爪"/>
+	<entry name="Tyranids/DoomLictor2" value="末日利爪"/>
+	
+</language>

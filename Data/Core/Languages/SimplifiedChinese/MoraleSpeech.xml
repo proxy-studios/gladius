@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarumBroken0" value="&quot;我并没有签署这个!&quot;"/>
+	<entry name="AstraMilitarumBroken1" value="&quot;他们正在消灭我们! 我们无法进行反击!&quot;"/>
+	<entry name="AstraMilitarumBroken2" value="&quot;多么美妙的死亡世界! &quot;"/>
+	<entry name="AstraMilitarumBroken3" value="&quot;增援在哪里! 在哪里-&quot;"/>
+	<entry name="AstraMilitarumBroken4" value="&quot;快跑伙计们, 希望被别政委发现了!&quot;"/>
+	<entry name="AstraMilitarumBrokenCount" value="5"/>
+	<entry name="AstraMilitarumShaken0" value="&quot;可以祈祷吗? 噢, 帝皇, 噢 基里曼, 保佑我们. &quot;"/>
+	<entry name="AstraMilitarumShaken1" value="&quot;噢, 见鬼. 能不能来点儿给力的武器?&quot;"/>
+	<entry name="AstraMilitarumShaken2" value="&quot;指挥官, 我们正在后退.&quot;"/>
+	<entry name="AstraMilitarumShaken3" value="&quot;我们留下来必然会死. 但如果逃跑, 将军会把我们枪毙!&quot;"/>
+	<entry name="AstraMilitarumShaken4" value="&quot;鼓起勇气, 伙计们, 鼓起勇气. &quot;"/>
+	<entry name="AstraMilitarumShakenCount" value="5"/>
+	<entry name="NecronsBroken0" value="&quot;召回协议已初始化.&quot;"/>
+	<entry name="NecronsBroken1" value="&quot;伤害模拟器运行至99%.&quot;"/>
+	<entry name="NecronsBroken2" value="&quot;我们的单位已分散. 撤退.&quot;"/>
+	<entry name="NecronsBroken3" value="&quot;你的命令不可能完成, 大人.&quot;"/>
+	<entry name="NecronsBroken4" value="&quot;我们将遵从墓穴的召唤.&quot;"/>
+	<entry name="NecronsBrokenCount" value="5"/>
+	<entry name="NecronsShaken0" value="&quot;我们无畏恐惧. &quot;"/>
+	<entry name="NecronsShaken1" value="&quot;劣等种族必然会逃跑.&quot;"/>
+	<entry name="NecronsShaken2" value="&quot;古贤者把他们训练得很好.&quot;"/>
+	<entry name="NecronsShaken3" value="&quot;The Triarchs did not brief us on this.&quot;"/>
+	<entry name="NecronsShaken4" value="&quot;这不可能. 我们...失败了?&quot;"/>
+	<entry name="NecronsShakenCount" value="5"/>
+	<entry name="NeutralBrokenCount" value="0"/>
+	<entry name="NeutralShakenCount" value="0"/>
+	<entry name="OrksBroken0" value="&quot;It's evry Ork fer 'imself!&quot;"/>
+	<entry name="OrksBroken1" value="&quot;I fink I remembered something in my digs... back soon!&quot;"/>
+	<entry name="OrksBroken2" value="&quot;不.... 不, 不, 不.&quot;"/>
+	<entry name="OrksBroken3" value="&quot;啊! I'm off.&quot;"/>
+	<entry name="OrksBroken4" value="&quot;... 跑 跑 跑!&quot;"/>
+	<entry name="OrksBrokenCount" value="5"/>
+	<entry name="OrksShaken0" value="&quot;I ain't going near dem fings!&quot;"/>
+	<entry name="OrksShaken1" value="&quot;Go 'it 'im yerself, Boss.&quot;"/>
+	<entry name="OrksShaken2" value="&quot;That ain't Orky.&quot;"/>
+	<entry name="OrksShaken3" value="&quot;我得来点儿真菌啤酒压压惊.&quot;"/>
+	<entry name="OrksShaken4" value="&quot;我可不是Makari, 我想活下去!&quot;"/>
+	<entry name="OrksShakenCount" value="5"/>
+	<entry name="SpaceMarinesBroken0" value="&quot;帝皇放弃了我们!&quot;"/>
+	<entry name="SpaceMarinesBroken1" value="&quot;保护好基因种子!&quot;"/>
+	<entry name="SpaceMarinesBroken2" value="&quot;后退, 准备防守!&quot;"/>
+	<entry name="SpaceMarinesBroken3" value="&quot;战斗至最后一人!&quot;"/>
+	<entry name="SpaceMarinesBroken4" value="&quot;我们成为了战团的耻辱!&quot;"/>
+	<entry name="SpaceMarinesBrokenCount" value="5"/>
+	<entry name="SpaceMarinesShaken0" value="&quot;冲破黑暗, 我们必将获得胜利.&quot;"/>
+	<entry name="SpaceMarinesShaken1" value="&quot;我... 相信帝皇. 为了信仰!&quot;"/>
+	<entry name="SpaceMarinesShaken2" value="&quot;我是坚不可破的护盾, 我为抵抗黑暗而生.&quot;"/>
+	<entry name="SpaceMarinesShaken3" value="&quot;...blessed is the mind too small for doubt.&quot;"/>
+	<entry name="SpaceMarinesShaken4" value="&quot;Whilst our enemies draw breath, we cannot afford fear.&quot;"/>
+	<entry name="SpaceMarinesShakenCount" value="5"/>
+</language>
