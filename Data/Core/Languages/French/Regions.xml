@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Climate0Name0" value="Champs de Ryme"/>
+	<entry name="Climate0Name1" value="Domaine de Whytout"/>
+	<entry name="Climate0Name2" value="Givre gris"/>
+	<entry name="Climate0Name3" value="L'étendue d'Oth"/>
+	<entry name="Climate0Name4" value="Undrah"/>
+	<entry name="Climate0Name5" value="Le Cikle"/>
+	<entry name="Climate0Name6" value="Blanche banquise"/>
+	<entry name="Climate0Name7" value="Gelith"/>
+	<entry name="Climate0Name8" value="Pointe de Aldsnoes"/> 
+	<entry name="Climate0Name9" value="Lent grésil"/>
+	<entry name="Climate0Name10" value="Les peaux de Icetongue"/>
+	<entry name="Climate0Name11" value="La côte de Cristal"/>
+	<entry name="Climate0Name12" value="La nostalgie glacée"/>
+	<entry name="Climate0Name13" value="Taiga et Tundra"/>
+	<entry name="Climate0Name14" value="Le Gelisol aride"/>
+	<entry name="Climate0Name15" value="Isthme Cryosphère"/>
+	<entry name="Climate0Name16" value="Crête Zastrugi"/>
+	<entry name="Climate0Name17" value="Les mers Polynya"/>
+	<entry name="Climate0Name18" value="La côte de diamant"/>
+	<entry name="Climate0Name19" value="La faille glacée"/>
+	<entry name="Climate0NameCount" value="20"/>
+	<entry name="Climate1Name0" value="Le désert Sansea"/>
+	<entry name="Climate1Name1" value="Sables Ssithith"/>
+	<entry name="Climate1Name2" value="Le Jumes"/>
+	<entry name="Climate1Name3" value="Oá"/>
+	<entry name="Climate1Name4" value="Sicahara"/>
+	<entry name="Climate1Name5" value="Les murmures"/>
+	<entry name="Climate1Name6" value="Désert des os séchés"/>
+	<entry name="Climate1Name7" value="Mer des vagues de pierre"/>
+	<entry name="Climate1Name8" value="Paachlip"/>
+	<entry name="Climate1Name9" value="Soleil de mort"/>
+	<entry name="Climate1Name10" value="Vallées de la sécheresse"/>
+	<entry name="Climate1Name11" value="Bonewalks du Primarche"/>
+	<entry name="Climate1Name12" value="Oasis de poussière"/>
+	<entry name="Climate1Name13" value="Sablier des Anciens"/>
+	<entry name="Climate1Name14" value="Aarth dévasté"/>
+	<entry name="Climate1Name15" value="Sierra Malmaison"/>
+	<entry name="Climate1Name16" value="Faille des sables solitaire"/>
+	<entry name="Climate1Name17" value="Les terres en friche"/>
+	<entry name="Climate1Name18" value="Le val des os"/>
+	<entry name="Climate1Name19" value="La faille des tombes"/>
+	<entry name="Climate1NameCount" value="20"/>
+	<entry name="Climate2Name0" value="Hugid"/>
+	<entry name="Climate2Name1" value="Canopée silencieuse"/>
+	<entry name="Climate2Name2" value="Grand Loamsent"/>
+	<entry name="Climate2Name3" value="Bois du coeur"/>
+	<entry name="Climate2Name4" value="Forêt de Xylhoem"/>
+	<entry name="Climate2Name5" value="Vertkoes"/>
+	<entry name="Climate2Name6" value="Vie profonde"/>
+	<entry name="Climate2Name7" value="Bagoda impériale"/>
+	<entry name="Climate2Name8" value="Illhid"/>
+	<entry name="Climate2Name9" value="Rhivome"/>
+	<entry name="Climate2Name10" value="Canopée de Altemorra"/>
+	<entry name="Climate2Name11" value="Jungle des griffes"/>
+	<entry name="Climate2Name12" value="Soheil sauvage"/>
+	<entry name="Climate2Name13" value="Paradis du poux"/>
+	<entry name="Climate2Name14" value="Jardins des perdus"/>
+	<entry name="Climate2Name15" value="Jungle de la racine noire"/>
+	<entry name="Climate2Name16" value="Désert maudit"/>
+	<entry name="Climate2Name17" value="Le buisson louche"/>
+	<entry name="Climate2Name18" value="Le Chaparral infini"/>
+	<entry name="Climate2Name19" value="Toile de lianes"/>
+	<entry name="Climate2Name20" value="Bosquet de bruyère"/>
+	<entry name="Climate2Name21" value="Le labyrinthe des lianes"/>
+	<entry name="Climate2NameCount" value="22"/>
+	<entry name="Climate3Name0" value="Souffle de cendres"/>
+	<entry name="Climate3Name1" value="Les montagnes Skythick"/>
+	<entry name="Climate3Name2" value="Tremlan impérial"/>
+	<entry name="Climate3Name3" value="La chaîne Ackrak"/>
+	<entry name="Climate3Name4" value="Nouveau Magvent"/>
+	<entry name="Climate3Name5" value="Pyrign"/>
+	<entry name="Climate3Name6" value="La mer de pierre"/>
+	<entry name="Climate3Name7" value="Bave et tâche"/>
+	<entry name="Climate3Name8" value="Pluie de rocs"/>
+	<entry name="Climate3Name9" value="Ignava"/>
+	<entry name="Climate3Name10" value="Nova mont brûlé"/>
+	<entry name="Climate3Name11" value="Passage des tombes de Calderon"/>
+	<entry name="Climate3Name12" value="Trône des Anciens"/>
+	<entry name="Climate3Name13" value="Montagne rouge"/>
+	<entry name="Climate3Name14" value="Tor agité"/>
+	<entry name="Climate3Name15" value="Le rocher scintillant"/>
+	<entry name="Climate3Name16" value="Les terres infernales"/>
+	<entry name="Climate3Name17" value="Holochar"/>
+	<entry name="Climate3Name18" value="Braises de la Caust"/>
+	<entry name="Climate3Name19" value="La crête ardente"/>
+	<entry name="Climate3Name20" value="Le Riolite Lahar"/>
+	<entry name="Climate3NameCount" value="21"/>	
+</language>

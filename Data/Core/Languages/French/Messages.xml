@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectingToServer" value="Connexion au serveur ..."/>
+	<entry name="ConnectionLost" value="Connexion perdue."/>
+	<entry name="GameLoaded" value="Jeu chargé"/>
+	<entry name="GameSaved" value="Jeu sauvegardé"/>
+	<entry name="IncompatibleVersion" value="Version du jeu incompatible."/>
+	<entry name="Kicked" value="Vous avez été expulsé have been kicked du serveur."/>
+	<entry name="MasterServerUnreachable" value="Ne peut se connecter au serveur maître."/>
+	<entry name="NetworkError" value="Erreur réseau"/>
+	<entry name="NoFreeSlots" value="Pas d'emplacement disponible sur le serveur."/>
+	<entry name="NoGames" value="Pas de parties publiques ouvertes.<br/>En commencer une ?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Pas de cible valide"/>
+	<entry name="PlayerJoined" value="%1% a rejoint."/>
+	<entry name="PlayerLeft" value="%1% est parti."/>
+	<entry name="PleaseEnterYourName" value="Veuillez indiquer votre nom."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Veuillez patienter"/>
+	<entry name="ReceivingInfo" value="Réception des infos ..."/>
+	<entry name="RetrievingServerList" value="Récupération liste serveur ..."/>
+	<entry name="ScreenShotSaved" value="Capture d'écran enregistrée"/>
+	<entry name="ScreenShotSaveError" value="Erreur enregistrement capture d'écran"/>
+	<entry name="ServerInfo" value="Info serveur"/>
+	<entry name="ServerUnreachable" value="Ne peut se connecter au serveur.<br/><br/>Pour améliorer la connectivité, assurez-vous d'avoir activé UPnP sur votre routeur ou d'avoir renvoyé le port %1% vers votre équipement."/>
+	<entry name="SelectTarget" value="Sélectionner cible"/>
+</language>

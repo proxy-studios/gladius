@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="<style name='ShadowedHeading'/>Croissance de la cité<br/><style name='Default'/>%1% augmente à %2% population."/>
+	<entry name="FactionDefeated" value="Faction vaincue"/>
+	<entry name="FactionDiscovered" value="Faction découverte"/>
+	<entry name="FactionDiscoveredSummary" value="<style name='ShadowedHeading'/>Faction découverte<br/><style name='Default'/>%1%."/>
+	<entry name="FeatureExploredSummary" value="<style name='ShadowedHeading'/>Élément exploré<br/><style name='Default'/>%1% fournit %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Élément découvert<br/><style name='Default'/>%1%."/>
+	<entry name="LordOfSkullsAppearedSummary" value="<style name='ShadowedHeading'/>%1% est apparu<br/>"/>
+	<entry name="LordOfSkullsDisappearedSummary" value="<style name='ShadowedHeading'/>%1% a disparu"/>
+	<entry name="PlayerLost" value="Défaite !"/>
+	<entry name="PlayerLostSummary" value="%1% (%2% %3%) vaincu !"/>
+	<entry name="PlayerWon" value="Victoire !"/>
+	<entry name="PlayerWonSummary" value="%1% (%2% %3%) victorieux !"/>
+	<entry name="ProductionCompletedSummary" value="<style name='ShadowedHeading'/>Production terminée<br/><style name='Default'/>%1% a produit  %2%."/>
+	<entry name="QuestAdded" value="Quête ajoutée"/>
+	<entry name="QuestCompleted" value="Quête terminée"/>
+	<entry name="QuestUpdated" value="Quête mise à jour"/>
+	<entry name="RegionDiscoveredSummary" value="<style name='ShadowedHeading'/>Région découverte<br/><style name='Default'/>%1%."/>
+	<entry name="ResearchCompleted" value="Recherche terminée"/>
+	<entry name="TileAcquiredSummary" value="<style name='ShadowedHeading'/>Case obtenue<br/><style name='Default'/>%1% a obtenu %2%."/>
+	<entry name="TileCapturedSummary" value="<style name='ShadowedHeading'/>Case prise<br/><style name='Default'/>%1% a pris %2%."/>
+	<entry name="TileClearedSummary" value="<style name='ShadowedHeading'/>Case nettoyée<br/><style name='Default'/>%1% a nettoyé %2% on %3%."/>
+	<entry name="UnitAffectedSummary" value="<style name='ShadowedHeading'/>Compétence utilisée<br/><style name='Default'/>%1% a utilisé %2% sur %3%."/>
+	<entry name="UnitAttackedSummary" value="<style name='ShadowedHeading'/>Unité attaquée<br/><style name='Default'/>%1% attaqué<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="<style name='ShadowedHeading'/>Unité capturée<br/><style name='Default'/>%1% capturé<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="<style name='ShadowedHeading'/>Unité tuée<br/><style name='Default'/>%1% tué<br/>%2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Unité découverte<br/><style name='Default'/>%1%."/>
+</language>

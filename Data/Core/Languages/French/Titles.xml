@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Vétérans de Miral"/>
+	<entry name="AstraMilitarum1" value="Irréguliers de Kathur"/>
+	<entry name="AstraMilitarum2" value="Garde des déserts du Nurth"/>
+	<entry name="AstraMilitarum3" value="Poing de fer de Stygia"/>
+	<entry name="AstraMilitarum4" value="Légion de pierre de Praedis-Zeta"/>
+	<entry name="AstraMilitarum5" value="Montagnards du monde de Hamman"/>
+	<entry name="AstraMilitarum6" value="Savants de Perlia"/>
+	<entry name="AstraMilitarum7" value="Vengeurs de Cadia"/>
+	<entry name="AstraMilitarum8" value="Mémoire de Tanith"/>
+	<entry name="AstraMilitarum9" value="Ceux de Ioline"/>
+	<entry name="AstraMilitarum10" value="Assiégeurs de Lelithar"/>
+	<entry name="AstraMilitarum11" value="Hommes de Tourmalid"/>
+	<entry name="AstraMilitarumCount" value="12"/>
+	<entry name="Necrons0" value="Anciens pionniers"/>
+	<entry name="Necrons1" value="Harpies dorées"/>
+	<entry name="Necrons2" value="Haute garde"/>
+	<entry name="Necrons3" value="Élus du suzerain"/>
+	<entry name="Necrons4" value="Les anatomistes "/>
+	<entry name="Necrons5" value="Iota de l'essaim infini"/>
+	<entry name="Necrons6" value="Langues de l'Imposteur"/>
+	<entry name="Necrons7" value="Damnation du Flagelleur"/>
+	<entry name="Necrons8" value="Braises de l'Enflammé"/>
+	<entry name="Necrons9" value="Ombres de l'Étranger"/>
+	<entry name="Necrons10" value="Aube du Porteur de la Nuit"/>
+	<entry name="NecronsCount" value="11"/>
+	<entry name="Orks0" value="La bande de cinglés"/>
+	<entry name="Orks1" value="Les Madboyz de Mork"/>
+	<entry name="Orks2" value="Gitz sournois"/>
+	<entry name="Orks3" value="Lé grand Boyz"/>
+	<entry name="Orks4" value="Lé dépouilleurs"/>
+	<entry name="Orks5" value="Gorky Boyz"/>
+	<entry name="Orks6" value="Garde Goff"/>
+	<entry name="Orks7" value="Gorkas Blood Axe"/>
+	<entry name="Orks8" value="Graftas Deathskull"/>
+	<entry name="Orks9" value="Foule éclair Bad Moon"/>
+	<entry name="Orks10" value="Snakebite tueurs de Wyrm"/>
+	<entry name="Orks11" value="Fous du volant Evil Sunz"/>
+	<entry name="OrksCount" value="12"/>
+	<entry name="SpaceMarines0" value="Garde indomptable"/>
+	<entry name="SpaceMarines1" value="Fiers tacticiens"/>
+	<entry name="SpaceMarines2" value="Vénérés vétérans"/>
+	<entry name="SpaceMarines3" value="Gardiens par l'honneur"/>
+	<entry name="SpaceMarines4" value="Défenseurs de Gladius"/>
+	<entry name="SpaceMarines5" value="Les Immortels"/>
+	<entry name="SpaceMarines6" value="Crux Terminatus"/>
+	<entry name="SpaceMarines7" value="Lauriers Imperialis"/>
+	<entry name="SpaceMarines8" value="Honneur du sniper"/>
+	<entry name="SpaceMarines9" value="Spirale majeure"/>
+	<entry name="SpaceMarines10" value="Sceau de pureté"/>
+	<entry name="SpaceMarines11" value="Opus Machina"/>
+	<entry name="SpaceMarinesCount" value="12"/>
+	<entry name="Tyranids0" value="Les pures souches"/>
+	<entry name="Tyranids1" value="Les Yeux de la Norne"/>
+	<entry name="Tyranids2" value="Rejetons Cnidocystes"/>
+	<entry name="Tyranids3" value="Moissonneurs autophages"/>
+	<entry name="Tyranids4" value="Meute acrosomique"/>
+	<entry name="Tyranids5" value="Foule lysosomique"/>
+	<entry name="Tyranids6" value="Horreurs flagelloïdes"/>
+	<entry name="Tyranids7" value="Piloïdes crochus"/>
+	<entry name="Tyranids8" value="Fainéants thylakoïdes"/>
+	<entry name="Tyranids9" value="Éventreurs symbiotes"/>
+	<entry name="Tyranids10" value="Chasseurs maigres"/>
+	<entry name="Tyranids11" value="La myriade inspirée"/>
+	<entry name="TyranidsCount" value="12"/>
+</language>

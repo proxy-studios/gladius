@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Ananke"/>
+	<entry name="AstraMilitarum1" value="Villae Alea"/>
+	<entry name="AstraMilitarum2" value="Legomenon"/>
+	<entry name="AstraMilitarum3" value="Ariston"/>
+	<entry name="AstraMilitarum4" value="Ourania"/>
+	<entry name="AstraMilitarum5" value="Theon"/>
+	<entry name="AstraMilitarum6" value="Vicus Phobos"/>
+	<entry name="AstraMilitarum7" value="Chrysophorous"/>
+	<entry name="AstraMilitarum8" value="Généfaute"/>
+	<entry name="AstraMilitarum9" value="Heureka"/>
+	<entry name="AstraMilitarum10" value="Moenia Creed"/>
+	<entry name="AstraMilitarum11" value="Municipium Celestine"/>
+	<entry name="AstraMilitarum12" value="Urbs Cawl"/>
+	<entry name="AstraMilitarum13" value="Asticus Greyfax"/>
+	<entry name="AstraMilitarum14" value="Paradisus Macharius"/>
+	<entry name="AstraMilitarum15" value="Oppidum Viridium"/>
+	<entry name="AstraMilitarum16" value="Tenax"/>
+	<entry name="AstraMilitarum17" value="Civitus Polypus"/>
+	<entry name="AstraMilitarumCount" value="18"/>
+	<entry name="Necrons0" value="Lecton Kopt"/>
+	<entry name="Necrons1" value="Le destin d'Abyda"/> 
+	<entry name="Necrons2" value="Obol Hermonkh"/>
+	<entry name="Necrons3" value="Unkhi Sayr"/>
+	<entry name="Necrons4" value="Nekhakh Bakyr"/>
+	<entry name="Necrons5" value="Az Ptek Sanakht"/>
+	<entry name="Necrons6" value="Iah Khabimh"/>
+	<entry name="Necrons7" value="Abdu Khmun"/>
+	<entry name="Necrons8" value="Tanis Ta"/>
+	<entry name="Necrons9" value="Szar Agorekh"/> 
+	<entry name="Necrons10" value="Shabt Mandrekh"/>
+	<entry name="Necrons11" value="Tramun Szekh"/>
+	<entry name="Necrons12" value="Ftan Heka"/>
+	<entry name="Necrons13" value="Echaton Djet"/>
+	<entry name="Necrons14" value="Bakenkhon"/>
+	<entry name="Necrons15" value="Hierakon Khar"/>
+	<entry name="Necrons16" value="D'kan Mephet"/>
+	<entry name="Necrons17" value="Gorod'tyr"/>
+	<entry name="NecronsCount" value="18"/>
+	<entry name="Orks0" value="Lé Chutes"/>
+	<entry name="Orks1" value="Lé Bénêts"/>
+	<entry name="Orks2" value="Grottville"/>
+	<entry name="Orks3" value="C'te rocher"/>
+	<entry name="Orks4" value="Ki s'en fou ?"/>
+	<entry name="Orks5" value="Nazdreg été la"/>
+	<entry name="Orks6" value="Garaghak"/>
+	<entry name="Orks7" value="Wazzdakka"/>
+	<entry name="Orks8" value="La place du Boss"/>
+	<entry name="Orks9" value="Le Klub Dakka"/>
+	<entry name="Orks10" value="C'te Truk"/>
+	<entry name="Orks11" value="'Ome"/>
+	<entry name="Orks12" value="Dokville"/>
+	<entry name="Orks13" value="Fork Gork"/>
+	<entry name="Orks14" value="Portes du Gar"/>
+	<entry name="Orks15" value="Griffe du rok"/> 
+	<entry name="Orks16" value="L'tas"/>
+	<entry name="Orks17" value="L'empire dé z'Orks"/>
+	<entry name="OrksCount" value="18"/>
+	<entry name="SpaceMarines0" value="Forteresse de Dorn"/>
+	<entry name="SpaceMarines1" value="Primaris Revenant"/>
+	<entry name="SpaceMarines2" value="Forge de Vulkan"/>
+	<entry name="SpaceMarines3" value="Le clocher"/>
+	<entry name="SpaceMarines4" value="Pavillons de Corax"/>
+	<entry name="SpaceMarines5" value="Helbrecht"/>
+	<entry name="SpaceMarines6" value="Oubliettes du fidèle"/>
+	<entry name="SpaceMarines7" value="La citadelle Umbran"/>
+	<entry name="SpaceMarines8" value="Pater Fidelium"/>
+	<entry name="SpaceMarines9" value="Fureur d'Azrael"/>
+	<entry name="SpaceMarines10" value="Chute de Tantaline"/>
+	<entry name="SpaceMarines11" value="Repos du Primarche"/>
+	<entry name="SpaceMarines12" value="Chapelle de l'Adytum"/>
+	<entry name="SpaceMarines13" value="Cor Imperii"/>
+	<entry name="SpaceMarines14" value="Arx Mortifer"/>
+	<entry name="SpaceMarines15" value="Castellum Capitalis"/>
+	<entry name="SpaceMarines16" value="Regia Funestes"/>
+	<entry name="SpaceMarines17" value="Rempart stygien"/>
+	<entry name="SpaceMarinesCount" value="18"/>
+</language>

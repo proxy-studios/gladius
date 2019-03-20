@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AegisHarness" value="Harnais Aegis"/>
+	<entry name="AegisHarnessDescription" value="Bloque les dégâts et les effets de la prochaine attaque psychique ennemie contre l'unité."/>
+	<entry name="AegisHarnessFlavor" value="Constitué de filaments psycho-conductifs et de sceaux hexagrammiques, l'armure Aegis représente peut-être la plus efficace défense de l'Imperium contre les attaques psychiques. Plus fréquemment utilisée par l'Ordo Malleus de l'Inquisition lors de ses croisades pour purger la souillure du Chaos dans la galaxie."/>
+	<entry name="AdamantiumWeaveVest" value="Veste tissée en Adamantium"/>
+	<entry name="AdamantiumWeaveVestDescription" value="Augmente l'armure de l'unité."/>
+	<entry name="AdamantiumWeaveVestFlavor" value="Quand vous voulez rendre quelque chose invulnérable, vous le fabriquez avec de l'adamantium. Utilisé dans la construction des armures Terminator et des Titans, c'est le plus solide matériau connu par l'homme. Cette veste en utilise seulement de minuscules quantité, tissée avec du plastacier et de la céramite, mais c'est assez pour la rendre extrêmement résistante."/>
+	<entry name="ArmaplasBracers" value="Brassards Armaplas"/>
+	<entry name="ArmaplasBracersDescription" value="Augmente l'armure de l'unité."/>
+	<entry name="ArmaplasBracersFlavor" value="Fait du même matériau que l'armure Carapace impériale, cet ensemble de protège-bras augmente légèrement la capacité de survie du porteur. Ce sont toutefois les cogitators tactiques intégrés qui donnent au porteur un plus grand espoir de vivre jusqu'au prochain combat."/>
+	<entry name="BlightGrenade" value="Grenade Fléau"/>
+	<entry name="BlightGrenadeDescription" value="Occasionne des dégâts à chaque tour à l'unité ennemie ciblée."/>
+	<entry name="BlightGrenadeFlavor" value="L'utilisation des maladies contenues dans les Grenades Fléau était un crime de guerre dans l'histoire ancienne. Les exemples modernes sont rares, mais les Marines du Chaos de Nurgle fabriquent souvent leurs propres grenades, avec des shrapnels forçant des agents pathogènes mortels dans la moindre fissures d'une armure."/>
+	<entry name="BlindGrenade" value="Grenade aveuglante"/>
+	<entry name="BlindGrenadeDescription" value="Réduit la précision de l'unité ennemie ciblée."/>
+	<entry name="BlindGrenadeFlavor" value="Les grenades aveuglantes sont une version plus complexe des grenades fumigènes, qui relâchent un dense nuage de fumée gris foncée, de même que des déflecteurs infrarouges, un large spectre de radiations électromagnétiques et des paillettes pour perturber les scanners ennemis. La vaste gamme d'interférence rend la plupart des attaques directes à travers le nuage impossible pendant un court moment."/>
+	<entry name="CombatStimulant" value="Stimulant de combat"/>
+	<entry name="CombatStimulantDescription" value="Augmente les dégâts de l'unité."/>
+	<entry name="CombatStimulantFlavor" value="Les stimulants de combat comme le Frénéson ou l'Assaut sont considérés avec dégoût par la plupart des races, étant donné que leur fabrication et la phase de tests nécessitent souvent la liquidation de victimes innocentes (particulièrement si des cultes Slaanesh sont impliqués). Malgré cela, les forces impériales en distribue régulièrement aux légions pénales et aux tant redoutés Assassins Eversor."/>
+	<entry name="CompendiumFlavor" value="Bien que la surface de Gladius fut régulièrement ratissée de tous matériaux et ressources utiles pendant les millénaires de son occupation, elle rejette toujours des objets uniques, attirant de nombreux marchands itinérants, incluant les mystérieux Jokaero. Le récent grabuge et les tempêtes warp ont remué de nouveau la surface détruite et rejeté toutes sortes d'étranges objets. Qui sait que ce que les Jokaeros trouveront ensuite ?"/>
+	<entry name="ConcealedWeaponSystem" value="Système d'armes dissimulées"/>
+	<entry name="ConcealedWeaponSystemDescription" value="Augmente les attaques de l'unité."/>
+	<entry name="ConcealedWeaponSystemFlavor" value="Cacher une arme n'est pas une idée nouvelle, mais un vrai système d'armes dissimulées rend indétectable jusqu'au moment de l'utilisation -- que ce soit avec des vêtements, des bijoux ou même des éléments biologiques. L'élément de surprise augmente beaucoup l'efficacité."/>
+	<entry name="EnduranceImplant" value="Implant d'endurance"/>
+	<entry name="EnduranceImplantDescription" value="Augmente le mouvement de l'unité."/>
+	<entry name="EnduranceImplantFlavor" value="Un équipement Jokaero atypique, cet implant s'insinue dans l'organisme hôte, pour optimiser ses systèmes biologiques. Son utilisateur deviendra infatigable, capable de courir plus vite, combattre plus longtemps, et de manière générale toute activité -- jusqu'à ce que son corps surmené finisse par céder, bien entendu."/>
+	<entry name="ForbiddenKnowledge" value="Savoir interdit"/>
+	<entry name="ForbiddenKnowledgeDescription" value="Augmente le niveau de l'unité."/>
+	<entry name="ForbiddenKnowledgeFlavor" value="Cette boîte de pierre noire est gravé de beaucoup d'anciennes runes, datant possiblement de l'Exodite, peut-être des Anciens. Qui sait ce qu’elle contient ? Des secrets chuchotés depuis des siècles ? Des pièges mortels ? Les miracles d'une connaissance depuis longtemps perdue ? Le pouvoir impie de dieux impies ? Seul une âme assez courageuse pour l'ouvrir et le découvrir par elle-même pourra le savoir..."/>
+	<entry name="JokaeroDigitalWeapon" value="Arme digitale Jokaero"/>
+	<entry name="JokaeroDigitalWeaponDescription" value=""/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="Outils de mort miniaturisés d'une puissance remarquable, couramment dissimulés dans des bijoux, et créés par une race de simili-primates xénos avec visiblement une compréhension instinctive de la technologie. L'Imperium n'a, jusqu'à présent, pas été capable de reproduire la fabrication de ces digi-armes."/>
+	<entry name="LightningGauntlet" value="Gantelet foudroyant"/>
+	<entry name="LightningGauntletDescription" value="Augmente les dégâts de l'unité jusqu'à la prochaine attaque en mêlée."/>
+	<entry name="LightningGauntletFlavor" value="Avec des griffes créées à partir d'adamantium et la lueur bleue d'une arme de Puissance, les griffes foudroyantes sont normalement seulement montés sur les armures Terminator. Néanmoins quelques rares gantelets peuvent être trouvés et être d'une taille permettant l'utilisation par un guerrier normal."/>
+	<entry name="ManCatcher" value="Attrappe-homme"/>
+	<entry name="ManCatcherDescription" value="Réduit le mouvement et la précision de l'unité ennemie ciblée."/>
+	<entry name="ManCatcherFlavor" value="Un ancien équipement de capture dont le collier à pointes dissuade brutalement son prisonnier de tenter de s'échapper, et peut aussi délier sa langue. Bien que la plupart considère qu'il s'agit d'une arme trop primitive, une poignée d'inquisiteurs sont convaincus que le barbarisme le plus simple donne des résultats que des méthodes plus contemporaines ne peuvent pas obtenir."/>
+	<entry name="MourningBladeOfLazaerek" value="Lame pleureuse de Lazaerek"/>
+	<entry name="MourningBladeOfLazaerekDescription" value="Accorde un effet de souffle à toutes les armes de mêlée de l'unité."/>
+	<entry name="MourningBladeOfLazaerekFlavor" value="Peu survécurent quand un saut apparemment désastreux vit les derniers survivants du chapitre des Fire Hawks se perdre dans le warp en 963.M41, mais quelques supposées reliques demeurent encore. Cette hache aurait appartenu à leur amer grand maître, Stibor Lazaerek, dont les rangs du chapitre sous son commandement furent décimés durant les rébellions mortelles de la guerre Badab."/>
+	<entry name="PoweredBolas" value="Bolas propulsés"/>
+	<entry name="PoweredBolasDescription" value="Réduit le mouvement et la précision de l'unité ennemie ciblée."/>
+	<entry name="PoweredBolasFlavor" value="Dans les mondes de savane de l'Imperium, les forces locales adoptent souvent ces équipements traditionnels, pris aux éleveurs locaux de Grox. Ces trois poids propulsés à la fin d'un câble font peu de dégâts -- mais empêtrent si bien la cible que l'on peut s'en occuper à loisir."/>
+	<entry name="PoweredGauntlet" value="Gantelet de puissance"/>
+	<entry name="PoweredGauntletDescription" value="Augmente les dégâts en mêlée de l'unité."/>
+	<entry name="PoweredGauntletFlavor" value="Cela peut ressembler à un simple gant en acier, avec de la technologie disposée au hasard partout dessus. Pourtant, comme dit l'Administratum, 'caveat emptor' -- soyez vigilant car la technologie Jokaero à l'intérieur en fait l'équivalent des grands poings de puissance et griffes de puissance utilisés par les forces impériales et orks."/>
+	<entry name="RecoveryPackage" value="Paquetage de guérison"/>
+	<entry name="RecoveryPackageDescription" value="Restaure les points de vie de l'unité."/>
+	<entry name="RecoveryPackageFlavor" value="Ce medkit a été assemblé avec peu de bon sens, peut-être par un Jokaero ou un Dok Fou Ork avec un sens inné de la médecine, mais il n'y a aucun doute sur l'efficacité de son contenu. Quel que soit la blessure, il y a un paquet soigneusement mal étiqueté qui permettra de la soigner."/>
+	<entry name="StunGrenade" value="Grenade étourdissante"/>
+	<entry name="StunGrenadeDescription" value="Empêche d'agir l'unité ennemi ciblée."/>
+	<entry name="StunGrenadeFlavor" value="D'une conception ancienne, les grenades étourdissantes utilisent la combinaison d'une bruyante explosion et d'un brillant éclair pour temporairement handicaper tous les combattants dans la zone du souffle."/>
+	<entry name="TemporaryShield" value="Bouclier temporaire"/>
+	<entry name="TemporaryShieldDescription" value="Augmente l'armure de l'unité."/>
+	<entry name="TemporaryShieldFlavor" value="Les générateurs de boucliers portables sont assez rares parmi la plupart des races, étant donné les capacités techniques et les ressources rares nécessaires pour les produire. Ils s'épuisent aussi rapidement, mais leur capacité à arrêter net même les plus puissantes attaques les rendent inestimables."/>
+	<entry name="VolcanisShroud" value="Voile volcanique"/>
+	<entry name="VolcanisShroudDescription" value="Accorde à l'unité une réduction aux dégâts type witchfire."/>
+	<entry name="VolcanisShroudFlavor" value="Bien que cette armure thermorésistante cabossée ait été conçue à l'origine pour des travaux industriels au plus profond et dans les couches les plus dangereuses des mondes-ruches, par un heureux hasard elle étouffe aussi les attaques psychiques. Jusqu'à présent, quoi que ce soit qui donne au voile cette qualité n'a pas encore été identifié, par peur que l'ingénierie inversée puisse briser cet étrange enchantement."/>
+	<entry name="ZoatHideJerkin" value="Justaucorps en peau de Zoat"/>
+	<entry name="ZoatHideJerkinDescription" value="Augmente les points de vie et le rythme de guérison de l'unité."/>
+	<entry name="ZoatHideJerkinFlavor" value="Les Zoats, une race esclave génétiquement modifiée sous la coupe des Tyranides, ont été tout sauf absent de la galaxie pendant des générations. Bien que renommés pour leur intelligence rare et leur charisme, leur dense peau écaillée en a aussi fait des adversaires effroyablement résistants. Les armures en peau de Zoat sont en voie de disparition désormais, mais une vraie bénédiction sur le champ de bataille."/>
+</language>

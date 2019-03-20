@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ArtefactDensity" value="Densité des artefacts"/>
+	<entry name="ArtefactDensity0" value="Très basse"/>
+	<entry name="ArtefactDensity1" value="Basse"/>
+	<entry name="ArtefactDensity2" value="Moyenne"/>
+	<entry name="ArtefactDensity3" value="Haute"/>
+	<entry name="ArtefactDensity4" value="Très haute"/>
+	<entry name="Difficulty" value="Difficulté"/>
+	<entry name="Difficulty0" value="Triviale"/>
+	<entry name="Difficulty0AstraMilitarum" value="Conscrit"/>
+	<entry name="Difficulty0Necrons" value="Écorché"/>
+	<entry name="Difficulty0Orks" value="Squig"/>
+	<entry name="Difficulty0Random" value="Impuissant"/>
+	<entry name="Difficulty0SpaceMarines" value="Néophyte"/>
+	<entry name="Difficulty0Hint" value="%1%: désavantage modéré en loyauté."/>
+	<entry name="Difficulty1" value="Très Facile"/>
+	<entry name="Difficulty1AstraMilitarum" value="Garde"/>
+	<entry name="Difficulty1Necrons" value="Guerrier"/>
+	<entry name="Difficulty1Orks" value="Grot"/>
+	<entry name="Difficulty1Random" value="Faible"/>
+	<entry name="Difficulty1SpaceMarines" value="Frère de bataille"/>
+	<entry name="Difficulty1Hint" value="%1%: petit désavantage en loyauté."/>
+	<entry name="Difficulty2" value="Facile"/>
+	<entry name="Difficulty2AstraMilitarum" value="Sergent"/>
+	<entry name="Difficulty2Necrons" value="Immortel"/>
+	<entry name="Difficulty2Orks" value="Gars"/>
+	<entry name="Difficulty2Random" value="Faible"/>
+	<entry name="Difficulty2SpaceMarines" value="Sergent"/>
+	<entry name="Difficulty2Hint" value="%1%: aucun avantage ou désavantage."/>
+	<entry name="Difficulty3" value="Moyenne"/>
+	<entry name="Difficulty3AstraMilitarum" value="Commissaire"/>
+	<entry name="Difficulty3Necrons" value="Triarche prétorien"/>
+	<entry name="Difficulty3Orks" value="Nob"/>
+	<entry name="Difficulty3Random" value="Normal"/>
+	<entry name="Difficulty3SpaceMarines" value="Capitaine"/>
+	<entry name="Difficulty3Hint" value="%1%: petit avantage en loyauté."/>
+	<entry name="Difficulty4" value="Difficile"/>
+	<entry name="Difficulty4AstraMilitarum" value="Général"/>
+	<entry name="Difficulty4Necrons" value="Cryptek"/>
+	<entry name="Difficulty4Orks" value="Boss"/>
+	<entry name="Difficulty4Random" value="Costaud"/>
+	<entry name="Difficulty4SpaceMarines" value="Maître de chapitre"/>
+	<entry name="Difficulty4Hint" value="%1%: avantage modéré en loyauté."/>
+	<entry name="Difficulty5" value="Très Difficile"/>
+	<entry name="Difficulty5AstraMilitarum" value="Seigneur Commandeur"/>
+	<entry name="Difficulty5Necrons" value="Suzerain"/>
+	<entry name="Difficulty5Orks" value="Warboss"/>
+	<entry name="Difficulty5Random" value="Très costaud"/>
+	<entry name="Difficulty5SpaceMarines" value="Primarche"/>
+	<entry name="Difficulty5Hint" value="%1%: grand avantage en loyauté."/>
+	<entry name="Difficulty6" value="Impossible"/>
+	<entry name="Difficulty6AstraMilitarum" value="Maître de guerre"/>
+	<entry name="Difficulty6Necrons" value="Roi silencieux"/>
+	<entry name="Difficulty6Orks" value="Prophète de Gork et Mork"/>
+	<entry name="Difficulty6Random" value="Inflexible"/>
+	<entry name="Difficulty6SpaceMarines" value="Empereur"/>
+	<entry name="Difficulty6Hint" value="%1%: extrême avantage en loyauté."/>
+	<entry name="ForestDensity" value="Densité des forêts"/>
+	<entry name="ForestDensity0" value="Très basse"/>
+	<entry name="ForestDensity1" value="Basse"/>
+	<entry name="ForestDensity2" value="Moyenne"/>
+	<entry name="ForestDensity3" value="Haute"/>
+	<entry name="ForestDensity4" value="Très haute"/>
+	<entry name="GameSpeed" value="Cadence du jeu"/>
+	<entry name="JokaeroTraderEncampmentDensity" value="Densité des camps de marchands Jokaero"/>
+	<entry name="JokaeroTraderEncampmentDensity0" value="Très basse"/>
+	<entry name="JokaeroTraderEncampmentDensity1" value="Basse"/>
+	<entry name="JokaeroTraderEncampmentDensity2" value="Moyenne"/>
+	<entry name="JokaeroTraderEncampmentDensity3" value="Haute"/>
+	<entry name="JokaeroTraderEncampmentDensity4" value="Très haute"/>	
+	<entry name="LandMass" value="Masse terrestre"/>
+	<entry name="LandMass0" value="Très basse"/>
+	<entry name="LandMass1" value="Basse"/>
+	<entry name="LandMass2" value="Moyenne"/>
+	<entry name="LandMass3" value="Haute"/>
+	<entry name="LandMass4" value="Très haute"/>
+	<entry name="LordOfSkulls" value="Seigneur des Crânes"/>
+	<entry name="NecronTombDensity" value="Densité des tombes Nécrons"/>
+	<entry name="NecronTombDensity0" value="Très basse"/>
+	<entry name="NecronTombDensity1" value="Basse"/>
+	<entry name="NecronTombDensity2" value="Moyenne"/>
+	<entry name="NecronTombDensity3" value="Haute"/>
+	<entry name="NecronTombDensity4" value="Très haute"/>	
+	<entry name="Pace" value="Vitesse du jeu"/>
+	<entry name="Pace0" value="Très rapide"/>
+	<entry name="Pace1" value="Rapide"/>
+	<entry name="Pace2" value="Standard"/>
+	<entry name="Pace3" value="Lente"/>
+	<entry name="Pace4" value="Très lente"/>
+	<entry name="RiverDensity" value="Densité des rivières"/>
+	<entry name="RiverDensity0" value="Infime"/>
+	<entry name="RiverDensity1" value="Petite"/>
+	<entry name="RiverDensity2" value="Moyenne"/>
+	<entry name="RiverDensity3" value="Grande"/>
+	<entry name="RiverDensity4" value="Très grande"/>	
+	<entry name="RuinsOfVaulDensity" value="Densité des ruines de Vaul"/>
+	<entry name="RuinsOfVaulDensity0" value="Infime"/>
+	<entry name="RuinsOfVaulDensity1" value="Petite"/>
+	<entry name="RuinsOfVaulDensity2" value="Moyenne"/>
+	<entry name="RuinsOfVaulDensity3" value="Grande"/>
+	<entry name="RuinsOfVaulDensity4" value="Très grande"/>	
+	<entry name="Seed" value="Numéro du monde"/>
+	<entry name="Size" value="Taille du monde"/>
+	<entry name="Size0" value="Minuscule"/>
+	<entry name="Size0Hint" value="%1%: recommandé pour 2 joueurs."/>
+	<entry name="Size1" value="Petite"/>
+	<entry name="Size1Hint" value="%1%: recommandé pour 3 joueurs."/>
+	<entry name="Size2" value="Moyenne"/>
+	<entry name="Size2Hint" value="%1%: recommandé pour 4 joueurs."/>
+	<entry name="Size3" value="Grande"/>
+	<entry name="Size3Hint" value="%1%: recommandé pour 6 joueurs."/>
+	<entry name="Size4" value="Immense"/>
+	<entry name="Size4Hint" value="%1%: recommandé pour 8 joueurs."/>
+	<entry name="SpecialResourceDensity" value="Densité des ressources spéciales"/>
+	<entry name="SpecialResourceDensity0" value="Très basse"/>
+	<entry name="SpecialResourceDensity1" value="Basse"/>
+	<entry name="SpecialResourceDensity2" value="Moyenne"/>
+	<entry name="SpecialResourceDensity3" value="Haute"/>
+	<entry name="SpecialResourceDensity4" value="Très haute"/>	
+	<entry name="WildlifeDensity" value="Densité de la faune"/>
+	<entry name="WildlifeDensity0" value="Très basse"/>
+	<entry name="WildlifeDensity1" value="Basse"/>
+	<entry name="WildlifeDensity2" value="Moyenne"/>
+	<entry name="WildlifeDensity3" value="Haute"/>
+	<entry name="WildlifeDensity4" value="Très haute"/>
+	<entry name="WireWeedDensity" value="Densité des herbes barbelées"/>
+	<entry name="WireWeedDensity0" value="Très basse"/>
+	<entry name="WireWeedDensity1" value="Basse"/>
+	<entry name="WireWeedDensity2" value="Moyenne"/>
+	<entry name="WireWeedDensity3" value="Haute"/>
+	<entry name="WireWeedDensity4" value="Très haute"/>
+	<entry name="WorldSeed" value="Numéro du monde"/>
+	<entry name="WorldSize" value="Taille du monde"/>
+        <entry name="AdaptiveTurnTimer" value="Chronomètre du tour adaptatif"/>
+        <entry name="GameVisibility" value="Visibilité de la partie"/>
+        <entry name="GameVisibility0" value="Amis uniquement"/>
+        <entry name="GameVisibility0Hint" value="La partie n'est pas listée publiquement et ne peut être rejointe que par une liste d'amis, une invitation ou une connexion directe."/>
+        <entry name="GameVisibility1" value="Privée"/>
+        <entry name="GameVisibility1Hint" value="La partie n'est pas listée publiquement et ne peut être rejointe que par une invitation ou une connexion directe."/>
+        <entry name="GameVisibility2" value="Publique"/>
+        <entry name="GameVisibility2Hint" value="La partie est listée publiquement et tout le monde peut la rejoindre."/>
+        <entry name="ImperialRuinsDensity" value="Densité des ruines impériales"/>
+        <entry name="ImperialRuinsDensity0" value="Très basse"/>
+        <entry name="ImperialRuinsDensity1" value="Basse"/>
+        <entry name="ImperialRuinsDensity2" value="Moyenne"/>
+        <entry name="ImperialRuinsDensity3" value="Haute"/>
+        <entry name="ImperialRuinsDensity4" value="Très haute"/>
+        <entry name="OrkoidFungusDensity" value="Densité des champignons orkoïdes"/>
+        <entry name="OrkoidFungusDensity0" value="Très basse"/>
+        <entry name="OrkoidFungusDensity1" value="Basse"/>
+        <entry name="OrkoidFungusDensity2" value="Moyenne"/>
+        <entry name="OrkoidFungusDensity3" value="Haute"/>
+        <entry name="OrkoidFungusDensity4" value="Très haute"/>
+        <entry name="Quests" value="Quêtes"/>
+        <entry name="SimultaneousTurns" value="Tours simultanés"/>
+        <entry name="SimultaneousTurnsHint" value="Si désactivé, seuls les membres de la même équipe agiront en simultané."/>
+        <entry name="TurnTimer" value="Chronomètre du tour"/>
+        <entry name="TurnTimer0" value="Aucun"/>
+        <entry name="TurnTimer1" value="Très court (1 minute)"/>
+        <entry name="TurnTimer2" value="Court (2 minutes)"/>
+        <entry name="TurnTimer3" value="Modéré (3 minutes)"/>
+        <entry name="TurnTimer4" value="Long (4 minutes)"/>
+        <entry name="TurnTimer5" value="Très long (5 minutes)"/>
+	<entry name="DifficultyHint" value="Modifie les avantages de l'IA."/>
+	<entry name="GameName" value="Nom de la partie"/>
+	<entry name="ArcticRegionDensity" value="Densité région arctique"/>
+	<entry name="ArcticRegionDensity0" value="Aucune"/>
+	<entry name="ArcticRegionDensity1" value="Très basse"/>
+	<entry name="ArcticRegionDensity2" value="Basse"/>
+	<entry name="ArcticRegionDensity3" value="Moyenne"/>
+	<entry name="ArcticRegionDensity4" value="Haute"/>
+	<entry name="ArcticRegionDensity5" value="Très haute"/>	
+	<entry name="DesertRegionDensity" value="Densité région désertique"/>
+	<entry name="DesertRegionDensity0" value="Aucune"/>
+	<entry name="DesertRegionDensity1" value="Très basse"/>
+	<entry name="DesertRegionDensity2" value="Basse"/>
+	<entry name="DesertRegionDensity3" value="Moyenne"/>
+	<entry name="DesertRegionDensity4" value="Haute"/>
+	<entry name="DesertRegionDensity5" value="Très haute"/>
+	<entry name="RegionDensity" value="Densité des régions"/>
+	<entry name="RegionDensity0" value="Très basse"/>
+	<entry name="RegionDensity1" value="Basse"/>
+	<entry name="RegionDensity2" value="Moyenne"/>
+	<entry name="RegionDensity3" value="Haute"/>
+	<entry name="RegionDensity4" value="Très haute"/>	
+	<entry name="RegionSize" value="Taille des régions"/>
+	<entry name="RegionSize0" value="Très petite"/>
+	<entry name="RegionSize1" value="Petite"/>
+	<entry name="RegionSize2" value="Moyenne"/>
+	<entry name="RegionSize3" value="Grande"/>
+	<entry name="RegionSize4" value="Très grande"/>	
+	<entry name="TropicalRegionDensity" value="Densité région tropicale"/>
+	<entry name="TropicalRegionDensity0" value="Aucune"/>
+	<entry name="TropicalRegionDensity1" value="Très basse"/>
+	<entry name="TropicalRegionDensity2" value="Basse"/>
+	<entry name="TropicalRegionDensity3" value="Moyenne"/>
+	<entry name="TropicalRegionDensity4" value="Haute"/>
+	<entry name="TropicalRegionDensity5" value="Très haute"/>
+	<entry name="VolcanicRegionDensity" value="Densité région volcanique"/>
+	<entry name="VolcanicRegionDensity0" value="Aucune"/>
+	<entry name="VolcanicRegionDensity1" value="Très basse"/>
+	<entry name="VolcanicRegionDensity2" value="Basse"/>
+	<entry name="VolcanicRegionDensity3" value="Moyenne"/>
+	<entry name="VolcanicRegionDensity4" value="Haute"/>
+	<entry name="VolcanicRegionDensity5" value="Très haute"/>
+	<entry name="Supplement1" value="Extension I : Unités (DLC)"/>
+	<entry name="Difficulty0Tyranids" value="Scarabée"/>
+	<entry name="Difficulty1Tyranids" value="Furie"/>
+	<entry name="Difficulty2Tyranids" value="Guerrière"/>
+	<entry name="Difficulty3Tyranids" value="Licteur"/>
+	<entry name="Difficulty4Tyranids" value="Tyran de la ruche"/>
+	<entry name="Difficulty5Tyranids" value="Dominatrice"/>
+	<entry name="Difficulty6Tyranids" value="Reine des Nornes"/>
+</language>

@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateInfluenceDescription" value="Accumuler influence (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Accumuler recherche (%1%/%2%)."/>
+	<entry name="ActivateUnitDescription" value="Activer %1% (%2%/1)."/>
+	<entry name="ActivateTacticDescription" value="Activer tactique de chapitre (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Prendre %1% (%2%/1)."/>
+	<entry name="ClearInfestationDescription" value="Détruire %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Construire %1% (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Construire %1% (%2%/%3%)."/>
+	<entry name="ControlUnitDescription" value="Garder le contrôle de %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Défendre la case en surbrillance."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Défendre la case en surbrillance (%1% tours)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Défendre l'entrée nouvellement découverte pendant %1% tours (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Déployer %1% à coté d'une case de ressource et sécuriser le périmètre (%2%/1)."/>
+	<entry name="DestroySpawnedCityDescription" value="Détruire la cité Astra Militarum (%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Envoyer des unités dans les profondeurs de la planète :"/>
+	<entry name="FoundCityDescription" value="Fonder une nouvelle cité (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Fonder une nouvelle cité dans un rayon de 3 cases de la nouvelle entrée découverte."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Invoquer Soulèvement rapide sur la production des guerriers (%1%/1)."/>
+	<entry name="KillCampDescription" value="Vaincre le camp ennemi (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Détruire la forteresse rebelle de Rédemption (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Détruire l'armée rebelle Nécron (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Vaincre le Techno-prêtre rebelle et son contingent de robots d'élite en %2% tours (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Vaincre le camp ennemi (%1% tours restants)."/>
+	<entry name="KillLordOfSkullsActiveDescription" value="Tuez le %1% en %4% tours (%2%/%3%)."/>
+	<entry name="KillLordOfSkullsInactiveDescription" value="Attendre que le %1% revienne sur ce monde (0/1)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Tuer les unités dispersées (%1%/%2%)."/>
+	<entry name="KillUnitDescription" value="Tuer %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Tuer les indigènes Xénos (%1%/%2%)."/>
+	<entry name="ProduceUnitDescription" value="Produire %1% (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Générer %1% de réquisitions par tour (actuellement %2%) (%3%/1)."/>
+	<entry name="ReachLevelDescription" value="Atteindre le niveau %2% avec %1% (%3%/1)."/>
+	<entry name="RecoverArcheotechDescription" value="Récupérer les artefacts (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Récupérer les unités dispersées (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Rechercher %1% (%2%/%3%)."/>
+	<entry name="ScanTilesDescription" value="Utiliser %1% sur les cases en surbrillance (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Commencer le décret (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Survivre à l'invasion (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Survivre à l'invasion pendant %1% tours (%2%/1)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Allez sur la case en surbrillance et sécurisez le périmètre (%1%/%2%)."/>
+	<entry name="VisitTileDescription" value="Allez sur la case en surbrillance (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Allez sur la case en surbrillance avec %1% (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Allez sur la case en surbrillance avec %1% et sécurisez le périmètre (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Allez sur la case en surbrillance avec %1% (%2%/%3%)."/>
+</language>

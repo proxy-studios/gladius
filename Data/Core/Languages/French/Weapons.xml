@@ -1,0 +1,321 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Generic -->
+	<entry name="AutoFlavor" value="Ces solides armes sont automatisées, des armes à feu à chargement auto qui tirent des rafales à haute vélocité de munitions sans douilles. Ces armes auto sont de formes variées, allant du commun pistolet auto aux armes lourdes de soutien telle le canon gatling punisher."/>
+	<entry name="BarrageFlavor" value="Les armes à tir de barrage lancent des obus hauts dans les airs, qui atterrissent au milieu de l'ennemi."/>
+	<entry name="BlastFlavor" value="Les armes à effets de souffle tirent des obus, des missiles ou des paquets d'énergie qui explosent à l'impact."/>
+	<entry name="BoltFlavor" value="Le fusil bolt, ou bolter, tire de petits missiles aussi appelés 'bolts'. Chaque bolt auto-propulsé explose avec des effets dévastateur une fois qu'il a pénétré sa cible. Il y a de nombreuses variantes de fusil bolt, du pistolet bolt à canon court au méga-bolter Vulcan souvent monté sur des Titans et d'autres véhicules super-lourds."/>
+	<entry name="FlamerFlavor" value="Les lance-flammes sont des armes à courte portée qui crachent des nuages de liquides chimiques hautement volatiles qui s'enflamment au contact de l'air. Ils sont surtout utilisé pour faire sortir l'ennemi de positions défensives, comme des murs qui n'offrent aucune protection contre des souffles de vapeur surchauffée."/>
+	<entry name="ForceFlavor" value="Les armes de Force sont de puissantes armes psychiques utilisées exclusivement par des psykers entraînées. En instillant une portion de sa puissance mentale dans l'arme, un psyker peut frapper son adversaire avec une incroyable tempête de force qui ravage et surcharge le système nerveux de son ennemi, en faisant une coquille sans esprit."/>
+	<entry name="GaussFlavor" value="Les armes Gauss varient en apparence allant de flagelleurs de la taille d'un fusil aux massifs canons gauss lourds. Contrairement aux armes à énergie conventionnelle, un projecteur gauss émet un rayon moléculaire désassembleur, réduisant la chair, les os et même les armures à ses atomes constituants."/>
+	<entry name="KlawFlavor" value="Les Orks préfèrent les brutales griffes de puissance aux plus sophistiqués poings de puissance des autres races. Ces énormes ciseaux hydrauliques sont capables de déchirer et de broyer même le plus robuste des adversaires. Les marcheurs Orks sont équipés de griffes qui conviennent à leur plus grande taille, et peuvent arracher tout ce qui est assez imprudent pour rester sur le chemin du pilote."/>
+	<entry name="LasFlavor" value="Les armes Laser tirent des paquets d'énergie laser explosive -- le plus gros est le fusil, le plus puissant est le tir. Indépendamment de la taille, les armes laser sont incroyablement fiables, en faisant l'outil de guerre favori dans l'Imperium."/>
+	<entry name="MeltaFlavor" value="Les armes Melta sont des armes anti-blindage mortelles, plus efficace à très courte portée. Quand on tire avec, le surchauffage de l'air produit un sifflement sinistre et caractéristique. La roche solide est réduite en des scories en fusion, et les créatures vivantes sont vaporisées en un instant !"/>
+	<entry name="MeleeFlavor" value="Les guerriers à travers la galaxie emploient une grande variété d'armes de combat rapproché. Des épées tronçonneuses tachées de sang et des lames rudimentaires  ont trouvé leur place à coté d'armes de Puissance de tous types : épées, haches, marteaux et bien plus. Toutes ces armes sont conçues pour donner une mort rapide et douloureuse à l'adversaire, car chaque retard approche d'un pas de plus vers la défaite."/>
+	<entry name="ParticleFlavor" value="Ces armes émettent un flux de minuscules particules d'anti-matière qui explosent au contact de leur cible. Elles sont incroyablement fiables, ayant seulement besoin d'assez d'énergie pour maintenir le champ de confinement qui empêche l'anti-matière d'exploser dans le mécanisme de tir de l'arme."/>
+	<entry name="PhosphorFlavor" value="Les armes au phosphore vont du serpenta à main privilégié par de nombreux Techno-prêtres aux lourds blaster à phosphore montés sur des Serviteurs de bataille Kataphron. Les sphères blanches brûlantes que tirent les armes au phosphore s'accrochent obstinément à leur cible, sifflant sauvagement alors qu'elle fonde la chair ou creuse les armures comme les exosquelettes. Le plus souvent, ce sont ces orbes luminogéniques qui portent le coup fatal. Même si la cible s'avère assez robuste pour survivre à la douleur des brûlures, la lueur phosphorescente dégagée apr ces sphères peut guider les volées des tirs alliés sur une même cible."/>
+	<entry name="PlasmaFlavor" value="Les armes à Plasma tirent des impulsions d'énergie fulgurante qui sont extrêmement efficaces contre l'infanterie lourde et les véhicules légers. Toutefois, elles produisent des températures extraordinaires lors des tirs et sont ainsi susceptibles de surchauffer -- s'avérant parfois mortelles pour le tireur."/>
+	<entry name="PowerFlavor" value="Une arme de puissance est gainée dans la brume mortelle d'un champ d'énergie disruptive qui ronge les armures, les chairs et les os avec facilité."/>
+	<entry name="ShootaFlavor" value="Les Shootas sont des mitrailleuses bruyantes, et de gros calibre. Elles varient beaucoup en taille et en conception, allant de celles portées par l'infanterie traînarde des Boyz aux supa-shootas à canons longs qui sont montés sur des avions. Indépendamment de leur conception particulière, tous les shootas sont assourdissants et mortels."/>
+	<entry name="TeslaFlavor" value="Une arme tesla déchaîne un éclair de foudre vivante qui crépite d'ennemi en ennemis après avoir touché sa cible, carbonisant la chair et fondant les armures. Les éclairs Tesla se nourrissent de l'énergie libérée lors de leur destruction, la foudre devenant plus furieuse avec chaque nouvel arc."/>
+	
+	<!-- Specific -->
+	<entry name="AttackSquig" value="Squig d'attaque"/>
+	<entry name="AttackSquigFlavor" value="Un Squig d'attaque est un prédateur vorace avec une immense gueule."/>
+	<entry name="Autocannon" value="Canon auto"/>
+	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="BanebladeCannon" value="Canon Baneblade"/>
+	<entry name="BanebladeCannonFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="BattleCannon" value="Canon de bataille"/>
+	<entry name="BattleCannonFlavor" value="Le canon de bataille monté sur tourelle est l'arme la plus commune des tanks au 41e millénaire. Les lourds obus explosifs d'un canon de bataille sont capables de dévaster des régiments d'infanterie et d'anéantir des tanks ennemis avec facilité."/>
+	<entry name="BigShoota" value="Gros Shoota"/>
+	<entry name="BigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="Bigbomm" value="Gros bomm"/>
+	<entry name="BigbommFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Blighted" value="Fléau"/>
+	<entry name="BoltPistol" value="Bolt Pistol"/>
+	<entry name="BoltPistolFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="Boltgun" value="Boltgun"/>
+	<entry name="BoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BurnaBomb" value="Bombe Burna"/>
+	<entry name="BurnaBombFlavor" value="Une bombe burna est une grande boîte de métal avec une mèche à l'intérieur. Elles sont remplies à ras bord de de prométhium et d'huile de squig, et explose à l'impact pour répandre un feu mortel sur une large zone."/>
+	<entry name="Chainsword" value="Épée tronçonneuse"/>
+	<entry name="ChainswordFlavor" value="Une Épée tronçonneuse est une tronçonneuse à haute puissance équipée d'une poignée, d'un pommeau et d'une garde pour la rendre moins difficile à manier. C'est une arme commune dans l'Imperium, avec une réputation assez effrayante des dégâts qu'elle inflige sur de la chair sans armure."/>
+	<entry name="Choppa" value="Choppa"/>
+	<entry name="ChoppaFlavor" value="Les Orks utilisent une variété d'armes tranchantes et de lames sciantes. Les plus grand choppas peuvent couper en deux la plupart des ennemis en un seul coup, tandis que ceux montés sur des Stompas peuvent trancher en deux un Titan."/>
+	<entry name="CloseCombatWeapon" value="Arme de corps à corps"/>
+	<entry name="CloseCombatWeaponFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="ClusterMines" value="Mines à dispersion"/>
+	<entry name="ClusterMinesFlavor" value="Quand ils opèrent derrière les lignes ennemies, les motards éclaireurs transporte des mines à dispersion -- dispositif explosif bourré de petites bombinettes antipersonnels et déclenchées par des fils ou des capteurs de pression."/>
+	<entry name="CompendiumFlavor" value="Pour gagner cette guerre infinie, chaque faction doit démontrer des innovations infinie dans l'art de tuer. Depuis le plus rudimentaire des Choppa Ork's jusqu'aux élégantes catapultes Shuriken des Eldar, les armes du 41e millénaire sont mortelles de mille manières. Souvent elles sont aussi mortelles que l'est leur porteur – de telles comme les puissantes Macro Batteries des flottes impériales, qui tirent des obus de la taille d'un hab-bloc,et peuvent tuer des centaine de serviteurs à chaque tir."/>
+	<entry name="CroziusArcanum" value="Crozius Arcanum"/>
+	<entry name="CroziusArcanumFlavor" value="La crozius arcanum est à la fois le bâton d'office d'un Chapelain et son arme pour rendre un juste jugement. Chacune est une ancienne relique, avec les légendes de ses porteurs gravées sur son manche."/>
+	<entry name="CtanNecrodermisExplosion" value="Explosion C'tan nécrodermique"/>
+	<entry name="DeathRay" value="Rayon de la mort"/>
+	<entry name="DeathRayFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="DeffstormMegaShoota" value="Méga-Shoota Defftempête"/>
+	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="DemolisherCannon" value="Canon Démolisseur"/>
+	<entry name="DemolisherCannonFlavor" value="Courte portée mais mortel, le canon de siège démolisseur échange la distance contre la puissance. Chaque obus de démolisseur fait au moins trois fois la taille d'un obus de canon de bataille, son poids énorme et son coeur hautement explosif garantissent qu'il anéantira presque tout ce qu'il touchera."/>
+	<entry name="DoomsdayCannonHighPower" value="Canon Apocalypse (Haute puissance)"/>
+	<entry name="DoomsdayCannonHighPowerFlavor" value="Même tiré à basse puissance, le canon apocalypse est une arme redoutable; quand utilisé à plein potentiel, le minimum pour espérer être protégé est un bouclier à vide de Titan."/>
+	<entry name="DoomsdayCannonLowPower" value="Canon Apocalypse (Basse puissance)"/>
+	<entry name="DoomsdayCannonLowPowerFlavor" value="<string name='Weapons/DoomsdayCannonHighPowerFlavor'/>"/>
+	<entry name="EarthshakerCannon" value="Canon sismique"/>
+	<entry name="EarthshakerCannonFlavor" value="La silhouette reconnaissable du canon sismique est une vision capable de frapper de peur de nombreux ennemis de l’Imperium. Ces canons d'artillerie à col long ont une portée impressionnante et peuvent soutenir un rythme de tir terrifiant, envoyant obus après obus sur les ennemis et réduisant tout en ruines."/>
+	<entry name="Flamer" value="Lance-flammes"/>
+	<entry name="ForceStave" value="Bâton de force"/>
+	<entry name="ForceStaveFlavor" value="<string name='Weapons/ForceFlavor'/>"/>
+	<entry name="FragGrenade" value="Grenade Frag"/>
+	<entry name="FragGrenadeFlavor" value="la tempête mortelle de shrapnel de ces grenades poussent les adversaires à rester à couvert pendant quelques précieux instants, offrant aux attaquants plus de temps pour se rapprocher et, avec un peu de chance, porter le premier coup sur un adversaire désorienté."/>
+	<entry name="GaussCannon" value="Canon Gauss"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayer" value="Flagelleur Gauss"/>
+	<entry name="GaussFlayerFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayerArray" value="Flagelleur Gauss zone"/>
+	<entry name="GaussFlayerArrayFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFluxArc" value="Flagelleur Gauss à arc"/>
+	<entry name="GaussFluxArcFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussCannon" value="Canon Gauss"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GorestormCannon" value="Canon tempête-gore"/>
+	<entry name="GorestormCannonFlavor" value="Le canon tempête-gore est une arme simple mais terriblement efficace qui pulvérise sous haute-pression un torrent de sang bouillant sur une grande zone. Ceux qui ne sont pas dissous au milieu de ce déluge horrible sont noyés, ou bien cuits vivant dans leurs armures."/>
+	<entry name="GreaterCleaverOfKhorne" value="Grand hachoir de Khorne"/>
+	<entry name="GreaterCleaverOfKhorneFlavor" value="Chacune de ces immenses lames pèse autant qu'un tank de bataille. Manié avec la fureur psychotique d'un Seigneur des crânes, un grand hachoir peut cisailler la jambe d'un Titan en un seul coup."/>
+	<entry name="GrenadierGauntlet" value="Gantelet de grenadier"/>
+	<entry name="GrenadierGauntletFlavor" value="Ces simples gantelets lancent des bombes frag au milieu des ennemis."/>
+	<entry name="HadesGatlingCannon" value="Canon Gatling Hadès"/>
+	<entry name="HadesGatlingCannonFlavor" value="Si le canon auto Hadès produit une pluie de feu, le considérablement agrandi canon gatling Hadès déclenche un ouragan. Tirant plusieurs centaines d'obus gravés de runes par seconde, cette arme réduit tout dans sa portée en une bouillie méconnaissable."/>
+	<entry name="HeatRayDispersed" value="Rayon ardent - dispersion"/>
+	<entry name="HeatRayDispersedFlavor" value="Le rayon ardent est une arme de fusion polyvalente dont le souffle concentré peut trancher du début à la fin un tank ennemi. Si le rayon ardent est tourné vers de l'infanterie ennemie, l'artilleur peut à la place utiliser un rayonnement à dispersion, baignant ses cibles dans des nuages de plasma brûlant."/>
+	<entry name="HeatRayFocused" value="Rayon ardent - focalisé"/>
+	<entry name="HeatRayFocusedFlavor" value="<string name='Weapons/HeatRayDispersedFlavor'/>"/>
+	<entry name="HeavyBolter" value="Bolter lourd"/>
+	<entry name="HeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="HeavyBombClusters" value="Grappes de bombes lourdes"/>
+	<entry name="HeavyGaussCannon" value="Canon Gauss lourd"/>
+	<entry name="HeavyGaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="HellstrikeMissile" value="Missile Hellstrike"/>
+	<entry name="HellstrikeMissileFlavor" value="Ces missiles peuvent traverser aussi bien les armures hérétiques que la chair des xénos."/>
+	<entry name="HunterKillerMissile" value="Missile chasseur-tueur"/>
+	<entry name="HunterKillerMissileFlavor" value="Les missiles chasseur-tueur équipent couramment les véhicules impériaux. Ces systèmes d'armes à usage unique permettent à des véhicules tels les Rhinos d'engager des véhicules ennemis blindés qui sinon les surpasseraient."/>
+	<entry name="FlameBreath" value="Souffle de Flammes"/>
+	<entry name="FlameBreathFlavor" value="Un torrent de flammes psychiques se répand depuis les yeux et la bouche du psyker, engloutissant la cible."/>
+	<entry name="Frazzle" value="Frazzle"/>
+	<entry name="FrazzleFlavor" value="Le Weirdboy envoie des arcs d'énergie psychique crépitante qui s'accrochent aux ennemis, les réduisant en enveloppes ratatinées sous les yeux de leurs camarades terrifiés."/>
+	<entry name="IncendineCombustor" value="Brûleur Incendine"/>
+	<entry name="IncendineCombustorFlavor" value="Typiquement monté en haut d'un robot de bataille Kastelan, le brûleur incendine projette de grosses gouttes de promethium brûlant trois fois béni. Couplé avec des onguents bénis de Magos et enflammé par une flamme allumé dans la Forge perpétuelle, chaque lance-flammes sacré peut transformer en quelques secondes un techno-hérétique en un dégoûtant tas de suif."/>
+	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
+	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="<string name='Items/JokaeroDigitalWeaponFlavor'/>"/>
+	<entry name="KanKlaw" value="Griff Kan"/>
+	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="KlawOfGork" value="Griffe de Gork"/>
+	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="KrakGrenade" value="Grenade Krak"/>
+	<entry name="KrakGrenadeFlavor" value="Les grenades Krak sont des charges implosives conçues pour craquer le blindage des véhicules."/>
+	<entry name="KrakMissileLauncher" value="Lance-missile Krak"/>
+	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KrakstormMissileSilo" value="Silo de missile Krak-tempête"/>
+	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KustomMegaSlugga" value="Méga-Slugga kustom"/>
+	<entry name="KustomMegaSluggaFlavor" value="L'arme favorite d'un Mek devient souvent son projet préféré, bricolé jusqu'à bénéficier d'une profusion d'électro-mécano-bidules. Les bons jours, le plus portable de ces sortes de canons peut trouer un Space Marine à vingt pas. La puissance des méga armes kustom à toutefois un coût, bien sûr, et une telle arme en surchauffe est susceptible d'exploser. Néanmoins les dégâts spectaculaires occasionnés par ces armes font qu'elles valent de prendre le risque."/>
+	<entry name="Lascannon" value="Canon laser"/>
+	<entry name="LascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="Lasgun" value="Fusil Laser"/>
+	<entry name="LasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="Laspistol" value="Pistolet Laser"/>
+	<entry name="LaspistolFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LifeLeech" value="Suceur de vie"/>
+	<entry name="LifeLeechFlavor" value="Avec une torsion de ses mains noueuses, le courroucé psyker arrache la force vitale de son ennemi, accumulant l'essence volée et l'utilisant pour soigner les chairs meurtries de ses alliés."/>
+	<entry name="MeltaBomb" value="Bombe melta"/>
+	<entry name="MeltaBombFlavor" value="Les bombes Melta sont des charges à fusion conçues pour brûler à travers une coque blindée en quelques secondes."/>
+	<entry name="MoltenBeam" value="Rayon à fusion"/>
+	<entry name="MoltenBeamFlavor" value="Le pyromancien tape des mains et les tournent grand ouvertes vers l'ennemi. Alors qu'il fait cela, un éclatant rayon d'énergie chauffée à blanc jaillit de ses paumes. Cela réduit les armures en scories et vaporise la chair, laissant seulement dans son sillage d'affreuses ombres."/>
+	<entry name="MultiLaser" value="Multi-Laser"/>
+	<entry name="MultiLaserFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="MultiMelta" value="Multi-Melta"/>
+	<entry name="MultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="None" value="None"/>
+	<entry name="OrbitalBombardment" value="Bombardement orbital "/>
+	<entry name="ParticleWhip" value="Fouet à particule"/>
+	<entry name="ParticleWhipFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="PlasmaCutter" value="Cutter à plasma"/>
+	<entry name="PlasmaCutterFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	<entry name="PowerAxe" value="Hache de puissance"/>
+	<entry name="PowerAxeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerFist" value="Poing de puissance"/>
+	<entry name="PowerFistFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerKlaw" value="Griffe de puissance"/>
+	<entry name="PowerKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="PowerMaul" value="Marteau de puissance"/>
+	<entry name="PowerMaulFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerSword" value="Épée de puissance"/>
+	<entry name="PowerSwordFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PsychicMaelstrom" value="Maelstrom psychique"/>
+	<entry name="PsychicMaelstromFlavor" value="Le télékiné focalise toute sa puissance mentale dans la création d'un immense maelstrom de puissance destructrice, déchaînant uen tempête d'énergie psychique qui consumera purement ses ennemis."/>
+	<entry name="RodOfCovenantMelee" value="Bâton du Covenant (Mêlée)"/>
+	<entry name="RodOfCovenantMeleeFlavor" value="Le Bâton du Covenant est l'outil pour de promptes exécutions pour ceux recherchés par les Prétoriens du Triarche. Dans la tête de chaque arme est enfermé un turbulent fragment d'une étoile mourante liée à un puissant champ de force, capable de brûler l'armure d'un adversaire comme si il s'agissait d'un parchemin desséché. Cette énergie peut en outre être dirigée par le porteur du bâton en une fulgurante explosion qui, bien que de courte portée, peut réduire même un Nécron en une flaque incandescente de métal fondu – les créatures organiques explosant simplement en des nuages de cendres enflammées."/>
+	<entry name="RodOfCovenantRanged" value="Bâton du Covenant (Distance)"/>
+	<entry name="RodOfCovenantRangedFlavor" value="<string name='Weapons/RodOfCovenantMeleeFlavor'/>"/>
+	<entry name="RokkitLauncha" value="Lance-rokkett"/>
+	<entry name="RokkitLaunchaFlavor" value="Rudimentaire mais facile à fabriquer, le lance-rokett est solide bâton avec une simple gâchette qui permet à l'Ork à l'extrémité 'sans danger' de tirer une rokett d'apparence douteuse dans la direction générale de l'ennemi."/>
+	<entry name="RollOverThem" value="&quot;Roulez leur dessus !&quot;"/>
+	<entry name="SeismicAssaultCoalescent" value="Assaut sismique (Coalescent)"/>
+	<entry name="SeismicAssaultCoalescentFlavor" value="La pierre se fracture et les minerais brûlent en une fumée argentée quand l'éclat de C'tan fait jaillir des vagues de magma des profondeurs."/>
+	<entry name="SeismicAssaultTranscendent" value="Assaut sismique (Transcendant)"/>
+	<entry name="SeismicAssaultTranscendentFlavor" value="<string name='Weapons/SeismicAssaultCoalescentFlavor'/>"/>
+	<entry name="ServoArm" value="Servo-bras"/>
+	<entry name="ServoArmFlavor" value="Les devingénieurs Techno-prêtres et leurs larbins serviteurs utilise souvent de puissants servo-bras. Ces membres mécanisés peuvent être utilisés facilement pour des réparations complexes sur le champ de bataille, ou pour broyer les ennemis. Bien que ces armes soient lentes pour frapper, une fois que la griffe hydraulique bénie du servo-bras s'est verrouillée et commence à se resserrer, les ennemis subissent une mort hideuse et inexorable."/>
+	<entry name="Shockwave" value="Onde de choc"/>
+	<entry name="ShockwaveFlavor" value="Le psyker fait claquer les paumes de ses mains ensemble et le bruit est amplifié au centuple, créant une onde de choc qui casse les os et renverse les ennemis."/>
+	<entry name="Shoota" value="Shoota"/>
+	<entry name="Skorcha" value="Skorcha"/>
+	<entry name="SkorchaFlavor" value="Chouchou des Ork incendiaires, le skorcha est un immense lance-flammes qui projette de grosses gouttes de carburant en feu sur une zone. Les Skorchas sont communément montés sur des véhicules Ork, mais quelques Meks ont réussi à en fabriquer sous forme de  kombi-shootas."/>
+	<entry name="SkorchaMissile" value="Missile Skorcha"/>
+	<entry name="SkorchaMissileFlavor" value="Les missiles Skorcha sont des armes de type 'tire et oublie' utilisées par les pilotes de Burna-bommer pour faire sortie l'infanterie de ses abris. Les ogives explosent et vaporisent des flammes chimiques qui chauffe à blanc et se moque complètement des plus puissantes fortifications."/>
+	<entry name="SkyOfFallingStarsCoalescent" value="Ciel d'étoiles filantes (Coalescent)"/>
+	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Des orbes sauvagement belles de lumières étincelantes chutent des froides profondeurs de l'espace, se transformant en rugissantes boules étoilées quand elles approchent."/>
+	<entry name="SkyOfFallingStarsTranscendent" value="Ciel d'étoiles filantes (Transcendent)"/>
+	<entry name="SkyOfFallingStarsTranscendentFlavor" value="<string name='Weapons/SkyOfFallingStarsCoalescentFlavor'/>"/>
+	<entry name="SkyhammerMissileLauncher" value="Lance-missile Skyhammer"/>
+	<entry name="SkyhammerMissileFlavor" value="Ces armes tirent des volées de missiles qui se fracassent sur leurs cibles avec une force dévastatrice -- parfait pour transformer des véhicules blindés en ferraille."/>
+	<entry name="SkyspearMissileLauncher" value="Lance-missile Skyspear"/>
+	<entry name="SkyspearMissileLauncherFlavor" value="Le lance-missile skyspear tire des fusées savantes pré-bénies, chacune étant en soi une relique, abritant les restes d'un distingué serf du Chapitre. Le cerveau momifié de ce serviteur augmente les auto-cibleurs du missile, lui permettant d'anticiper sur les pilotes ennemis ou de cibler les émissions hérétiques d'esprits de machine avilis. Il y a peu de chance d'échapper à la poursuite sans relâche d'une ogive savante et de son macabre pilote, et les servo-chargeurs du tank maintiennent un rythme de tir régulier."/>
+	<entry name="SkystrikeMissile" value="Missile Skystrike"/>
+	<entry name="SkystrikeMissileFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Slugga" value="Slugga"/>
+	<entry name="SluggaFlavor" value="Ce moche et brutal pistolet est parfaitement conçu pour ses moches et brutaux possesseurs voulant tuer leurs ennemis, soit en leur tirant dessus à bout portant, soit en les frappant à mort avec."/>
+	<entry name="SoulBlaze" value="Brasier de l'âme"/>
+	<entry name="SoulBlazeFlavor" value="Certaines armes psychiquement imprégnées peuvent faire s'enflammer une âme, consumant la malheureuse victime dans un nuage de feu étheral."/>
+	<entry name="SpaceMarineShotgun" value="Fusil à pompe de Space Marine"/>
+	<entry name="SpaceMarineShotgunFlavor" value=""/>
+	<entry name="StaffOfLight" value="Bâton de lumière"/>
+	<entry name="StaffOfLightFlavor" value="Le bâton de lumière est à la fois une arme et un symbole d'autorité. Son manche est en fait un générateur de puissance déguisé, et la tête est un matériel de concentration finement ajusté, permettant au porteur de déchaîner des éclairs d'énergie crépitante sur ses ennemis."/>
+	<entry name="Stikkbomb" value="Stikkbomb"/>
+	<entry name="StikkbombFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="Stomp" value="Stomp"/>
+	<entry name="StormBolter" value="Bolter tempête"/>
+	<entry name="StormBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="StormstrikeMissile" value="Missile Stormstrike"/>
+	<entry name="StormstrikeMissileFlavor" value="Les missiles Stormstrike explosent dans un boom tonitruant qui étourdi et désoriente ceux pris dans le rayon de l'explosion."/>
+	<entry name="SupaLobba" value="Supa-Lobba"/>
+	<entry name="SupaLobbaFlavor" value="La plupart des Lobbas sont de grands et bruyants mortiers qui sont typiquement montés sur des chariots de bataille."/>
+	<entry name="SuperHeavyExplosion" value="Explosion Super-lourde"/>
+	<entry name="TankbustaBomb" value="Bombe Tankbusta"/>
+	<entry name="TankbustaBombFlavor" value="Les bombes Tankbusta sont des charges à fusion conçues pour percer une coque blindée en quelques secondes."/>
+	<entry name="TeslaSphere" value="Sphère Tesla"/>
+	<entry name="TeslaSphereFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="ThunderfireCannon" value="Canon Thunderfire"/>
+	<entry name="ThunderfireCannonFlavor" value="Le canon Thunderfire est une colossale arme d'artillerie à tubes multiples. Il est bien trop grand pour être transporté par un individu et est donc convoyé sur le champ de bataille par des voies ferrées et il est accompagné par un artilleur Techmarine."/>
+	<entry name="TraktorKannon" value="Kanon Traktor"/>
+	<entry name="TraktorKannonFlavor" value="Le Kanon traktor tire un percutant rayon de force haut dans les airs. L'équipage de Grots balance ce rayon sauvagement jusqu'à parvenir à verrouiller la colonne vrombissante sur une cible aérienne. Une fois prise, la malheureuse victime est arrachée des airs et réduite en morceaux sur le sol."/>
+	<entry name="TransdimensionalThunderboltCoalescent" value="Foudre Transdimensionelle (coalescente)"/>
+	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="L'éclat de C'tan projette un éclair d'énergie crépitante depuis ses paumes, envoyant ses ennemis dans le néant."/>
+	<entry name="TransdimensionalThunderboltTranscendent" value="Foudre Transdimensionelle (transcendante)"/>
+	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
+	<entry name="TwinLinkedAutocannon" value="Canon auto jumelé"/>
+	<entry name="TwinLinkedAutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedAssaultCannon" value="Canon d'assaut jumelé"/>
+	<entry name="TwinLinkedAssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedBigShoota" value="Big Shoota jumelé"/>
+	<entry name="TwinLinkedBigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedBoltgun" value="Boltgun jumelé"/>
+	<entry name="TwinLinkedBoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedGaussBlaster" value="Gauss Blaster jumelé"/>
+	<entry name="TwinLinkedGaussBlasterFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="TwinLinkedHeavyBolter" value="Bolter lourd jumelé"/>
+	<entry name="TwinLinkedHeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedHeavyPhosphorBlaster" value="Blaster au phosphore jumelé"/>
+	<entry name="TwinLinkedHeavyPhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="TwinLinkedHydraAutocannon" value="Canon auto Hydra jumelé"/>
+	<entry name="TwinLinkedHydraAutocannonFlavor" value="Essentiellement un canon auto surdimensionné à long tube monté sur un châssis anti-aérien, le canon auto Hydra est guidé par son esprit de logique prédictive pour remplir le ciel d'un tir nourri de mortelles lignes de sciage."/>
+	<entry name="TwinLinkedLascannon" value="Canon laser jumelé"/>
+	<entry name="TwinLinkedLascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="TwinLinkedParticleBeamer" value="Rayonneur à particule jumelé"/>
+	<entry name="TwinLinkedParticleBeamerFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="TwinLinkedShoota" value="Shoota jumelé"/>
+	<entry name="TwinLinkedShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedSupaShoota" value="Supa Shoota jumelé"/>
+	<entry name="TwinLinkedSupaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedTeslaDestructor" value="Destructeur Tesla jumelé"/>
+	<entry name="TwinLinkedTeslaDestructorFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="UrtySyringe" value="'Seringue Urty"/>
+	<entry name="UrtySyringeFlavor" value="La boue congelé que le Painboyz injecte en tant qu'agent coagulant a des effets mortels sur la physiologie non-orkoïde. Les artères se bouche par prolifération fongique, les poumons deviennent des boules gonflées de spores, et la victime s'effondre rapidement avec une bouillie suintant par tout ses orifices."/>
+	<entry name="Voidblade" value="Lame à vide"/>
+	<entry name="VoidbladeFlavor" value="Le scintillant tranchant noir d'une lame à vide vacille dans et en dehors de l'existence, causant aux liens moléculaires de tout matériel touché une désintégration instantanée."/>
+	<entry name="Warscythe" value="Faux de guerre"/>
+	<entry name="WarscytheFlavor" value="Faux de guerre sont des lames énergétiques montées sur des bâtons de bataille, et sont l'arme favorite des Seigneurs Nécrons et de leurs gardes du corps depuis des milliers d'années. Lourd et encombrante, dans les mains d'une plus petite créature une faux de guerre ne serait pas une grande menace, mais quand maniée par l'infatigable musculature mécanique d'un Nécron, c'est une arme formidable."/>
+	<entry name="WeirdboyStaff" value="Bâton de Weirdboy"/>
+	<entry name="WeirdboyStaffFlavor" value="Les charmes luisants et les clochettes sonnantes qui ornent un bâton de Weirdboy contredisent les dégâts horribles pouvant être causés en bataille. Le bâton au coeur de cuivre permet à son porteur de déterrer l'énergie énigmatique du Waaagh !, et ces armes lancent des décharges crépitantes d'énergie verte pour chaque coup que donne le Weirdboy."/>
+	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
+	<entry name="ZzapGun" value="Fusil Zzap"/>
+	<entry name="ZzapGunFlavor" value="Les fusils Zzap tirent des éclairs de foudre instables. Ils ont assez de potentiel pour perforer la coque du plus lourd véhicule ennemi grâce à une pluie d'éclairs crépitants, mais ils ont tendance à se surcharger et à électrocuter le tireur."/>
+	<entry name="Autogun" value="Autocanon"/>
+	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="HotShotLasgun" value="Fusil laser Hot-Shot"/>
+	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="Snazzgun" value="Fusil Snazz"/>
+	<entry name="SnazzgunFlavor" value="Les fusils Snazz sont des merveilles de savoir Ork. Leurs détenteurs ont investi d'innombrables dents pour avoir des canons supplémentaires, des chargeurs à tambour, et toutes sortes de trucs et de gadgets attachés à leurs précieux fusils. L'arme obtenue est réputée pour tirer des nuages de balles enflammées, des décharges de plasma ou des volées de grenades autopropulsées."/>
+	<entry name="TeslaCarbine" value="Carabine Tesla"/>
+	<entry name="TeslaCarbineFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TailBiomorphFlavor" value="Les queues de certains Tyranides sont des armes mortelles, allant de protubérances osseuses assez denses pour rompre le flanc d'un tank jusqu'à  des dards  contenant assez de poison pour tuer des régiments entier."/>
+	<entry name="ThoraxBiomorphFlavor" value="Certains Tyranides ont des cavités thoraciques qui accueillent des nuées de parasites – certaines de ces minuscules créatures drainant les fluides vitaux de leurs victimes, d'autres émettant une charge électrique qui sème le chaos dans les véhicules ennemis, et d'autres se nichant dans les armures des adversaires avant d'exploser de façon atroce."/>
+	<entry name="BioElectricPulse" value="Impulsion bio-électrique"/>
+	<entry name="BioElectricPulseFlavor" value="Quand un Trygon se déplace, il génère un puissant champ bio-statique qui se décharge avec un effet létal quand le Trygon voit sa proie. Les Trygons Primes ont des épines creuses bourgeonnant de leur corps qui contiennent et amplifient cette énergie."/>
+	<entry name="BioPlasma" value="Bio-Plasma"/>
+	<entry name="BioPlasmaFlavor" value="Certains Carnifexes peuvent générer une boule rugissante de bio-plasma dans leurs corps et cracher l'énergie en résultant sous la forme d'un feu incadescent."/>
+	<entry name="BioPlasmicCannon" value="Canon bio-plasmique"/>
+	<entry name="BlindingVenom" value="Venin aveuglant"/>
+	<entry name="BlindingVenomFlavor" value="Certains Tyranides crachent un venin corrosif sur les yeux de leurs proies."/>
+	<entry name="BoneMace" value="Masse d'os"/>
+	<entry name="BoneMaceFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="CrushingClaws" value="Griffes broyantes"/>
+	<entry name="CrushingClawsFlavor" value="La force obscène de ces griffes leur permet d'écrabouiller tout adversaire."/>
+	<entry name="Deathspitter" value="Crachemort"/>
+	<entry name="DeathspitterFlavor" value="Cette multi-créature symbiotique tire des d'asticots aux entrailles corrosives. Des crochets tels ceux d'une mâchoire d'araignée sortent ces petits organismes depuis la couveuse de l'arme et les enlèvent de leurs coquilles, avant que le crachemort réagisse à la chair caustique par un spasme, tirant l'asticot qui va exploser sur sa cible en une pluie de bave caustique."/>
+	<entry name="Devourer" value="Dévoreur"/>
+	<entry name="DevourerFlavor" value="Ces armes projettent des sortes de vers parasites qui creuse les chairs de leurs victimes pour se frayer un chemin jusqu'au cerveau en passant par le système nerveux. Les dévoreurs maniés par de grands Tyranides grouillent de colonies de vers suceurs de cerveau, un ver dévoreur plus agressif et vorace."/>
+	<entry name="DesiccatorLarvae" value="Larves desséchantes"/>
+	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
+	<entry name="DroolCannon" value="Canon à bave"/>
+	<entry name="DroolCannonFlavor" value="Les canons à bave tire des crachats de sucs digestifs caustiques sur leurs victimes."/>
+	<entry name="Fleshborer" value="Creuseur de chair"/>
+	<entry name="FleshborerFlavor" value="Le creuseur de chair est une nichée compacte de scarabées creuseurs aux crochets acérés. Quand l'arme est tirée, un scarabée creuseur endiablé se précipite d'une simple pression de ses pattes de puces. Le scarabée dépense alors le reste de son énergie vitale en quelques secondes, creusant frénétiquement les armures, les chairs et les os de al première chose sur son chemin."/>
+	<entry name="FleshHooks" value="Crochets de chair"/>
+	<entry name="FleshHooksFlavor" value="Les crochets de chair sont attachés à la cage thoracique d'un Tyranid par des cordages de mèches et peuvent avec cela gravir de grandes surfaces et piéger leur proie à courte portée."/>
+	<entry name="GraspingTongue" value="Langue agrippante"/>
+	<entry name="GraspingTongueFlavor" value="La langue griffue de cette créature s'agrippe à sa proie avant de tirer son corps dans sa gueule."/>
+	<entry name="HeavyVenomCannon" value="Canon lourd à venin"/>
+	<entry name="HeavyVenomCannonFlavor" value="Ces puissantes bio-armes tirent des salves de cristaux corrosifs à grande vélocité qui se brise à l'impact pour déchiqueter l'adversaire."/>
+	<entry name="LashWhipAndBonesword" value="Fouet cravacheur et épée d'os"/>
+	<entry name="LashWhipAndBoneswordFlavor" value="Certaines créatures Tyranides se servent de d'une combinaison symbiotique de ces mortelles bio-armes."/>
+	<entry name="PrehensilePincer" value="Pinces préhensiles"/>
+	<entry name="PrehensilePincerFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="PsychicScream" value="Hurlement psychique"/>
+	<entry name="PsychicScreamFlavor" value="A travers ses vassaux, l'esprit ruche déchaîne un cri perçant d'énergie psychique non diluée qui déchiquette les esprits de ceux pris dans son sillage."/>
+	<entry name="RendingClaws" value="Griffes déchirantes"/>
+	<entry name="RendingClawsFlavor" value="Les pointes aussi dures que le diamant de ces griffes peuvent traverser les armures."/>
+	<entry name="RuptureCannon" value="Canon fracturant"/>
+	<entry name="RuptureCannonFlavor" value="Cette arme tire deux types différents de projectiles, lancés en une suite rapide. Le premier est une tique boursouflée qui éclate à l'impact, recouvrant sa cible d'une épaisse substance huileuse. Le second, une graine, réagit au contact des restes visqueux de la tique, créant une implosion qui peut même retourner des véhicules blindés."/>
+	<entry name="ScythingTalons" value="Serres fauchantes"/>
+	<entry name="ScythingTalonsFlavor" value="Les serres fauchantes sont de longues griffes de chitine dentelée tranchantes comme des rasoirs."/>
+	<entry name="SpineBanks" value="Rangées de pointes"/>
+	<entry name="SpineBanksFlavor" value="Les rangées de pointes explosives encastrées dans les carapaces de certains Carnifexes peuvent aussi être tirées sur l'adversaire alors que le Tyranide charge."/>
+	<entry name="StingerSalvo" value="Salve de dards"/>
+	<entry name="StingerSalvoFlavor" value="Les salves de dards sont des armes simples et efficaces  qui tirent des rangées de pointes tranchantes comme des rasoirs et d'un mètre de long."/>
+	<entry name="StranglethornCannon" value="Canon à épines étouffantes"/>
+	<entry name="StranglethornCannonFlavor" value="Ces armes tirent des graines qui arrivent à maturité en quelques secondes, répandant des vrilles crochues dans toutes les directions."/>
+	<entry name="Tentaclids" value="Tentaclides"/>
+	<entry name="TentaclidsFlavor" value="Ces missiles vivants cherchent les proies aériennes, se verrouillant sur leur cible avec des crochets barbelées avant d'émettre une énorme impulsion bio-électrique."/>
+	<entry name="ThresherScythe" value="Faucheuse batteuse"/>
+	<entry name="ThresherScytheFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="ToxicMiasma" value="Miasmes toxiques"/>
+	<entry name="ToxicMiasmaFlavor" value="Certaines créatures émettent des toxines pour empoisonner l'atmosphère d'un monde."/>
+	<entry name="Toxinspike" value="Épine toxique"/>
+	<entry name="ToxinspikeFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="WarpBlastBurst" value="Rafale d'explosions Warp"/>
+	<entry name="WarpBlastLance" value="Lance explosive Warp"/>
+</language>
