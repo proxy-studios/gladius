@@ -1,0 +1,17 @@
+"lang"
+{
+	"russian"
+	{
+		"tokens"
+		{
+			"#Faction:AstraMilitarum"	"Астра Милитарум"
+			"#Faction:Necrons"			"Некроны"
+			"#Faction:Orks"				"Орки"
+			"#Faction:SpaceMarines"		"Космодесант"
+			"#Faction:Tyranids"			"Тираниды"
+			"#InGame"					"{#Faction:%factionName%} · %playerName% · Ход %turn%"
+			"#InGameLobby"				"В лоби игры"
+			"#InMenus"					"В меню"
+		}
+	}
+}

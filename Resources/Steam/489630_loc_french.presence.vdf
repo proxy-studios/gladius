@@ -1,0 +1,17 @@
+"lang"
+{
+	"english"
+	{
+		"tokens"
+		{
+			"#Faction:AstraMilitarum"	"Astra Militarum"
+			"#Faction:Necrons"			"Nécrons"
+			"#Faction:Orks"				"Orks"
+			"#Faction:SpaceMarines"		"Space Marines"
+			"#Faction:Tyranids"			"Tyranides"
+			"#InGame"					"{#Faction:%factionName%} · %playerName% · Tour %turn%"
+			"#InGameLobby"				"Dans le salon du jeu"
+			"#InMenus"					"Dans les menus"
+		}
+	}
+}

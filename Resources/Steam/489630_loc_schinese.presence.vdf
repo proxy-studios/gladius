@@ -1,0 +1,17 @@
+"lang"
+{
+	"schinese"
+	{
+		"tokens"
+		{
+			"#Faction:AstraMilitarum"	"帝国卫队"
+			"#Faction:Necrons"			"太空死灵"
+			"#Faction:Orks"				"欧克兽人"
+			"#Faction:SpaceMarines"		"星际战士"
+			"#Faction:Tyranids"			"泰伦虫族"
+			"#InGame"					"{#Faction:%factionName%} · %playerName% · 回合 %turn%"
+			"#InGameLobby"				"位于游戏大厅"
+			"#InMenus"					"位于菜单页面"
+		}
+	}
+}
