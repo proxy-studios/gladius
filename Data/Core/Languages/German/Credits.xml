@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdditionalAnimations" value="Zusätzliche Animationen"/>
+	<entry name="AdditionalGraphics" value="Zusätzliche Grafiken"/>
+	<entry name="AdditionalProgramming" value="Zusätzliche Programmierung"/>
+	<entry name="AdditionalWriting" value="Zusätzliche Texte"/>
+	<entry name="Administration" value="Administration"/>
+	<entry name="Chairman" value="Vorstand"/>
+	<entry name="CreativeDirector" value="Kreative Leitung"/>
+	<entry name="CustomerSupport" value="Kundenbetreuung"/>
+	<entry name="DesignAndProgramming" value="Design und Programmierung"/>
+	<entry name="DevelopedBy" value="Entwickelt von %1%"/>
+	<entry name="DevelopmentDirector" value="Entwicklungsleitung"/>
+	<entry name="Fonts" value="Schriftarten"/>
+	<entry name="FrenchLocalisation" value="Französische Lokalisierung"/>
+	<entry name="GermanLocalisation" value="Deutsche Lokalisierung"/>
+	<entry name="GraphicsAndAnimations" value="Grafiken und Animationen"/>
+	<entry name="IntroCinematics" value="Intro-Zwischensequenzen"/>
+	<entry name="MediaRelations" value="Medienarbeit"/>
+	<entry name="JuniorProductManager" value="Junior-Produktmanager"/>
+	<entry name="Libraries" value="Librarys"/>
+	<entry name="Manual" value="Handbuch"/>
+	<entry name="ManualLayout" value="Handbuchlayout"/>
+	<entry name="MarketingDirector" value="Marketingleitung"/>
+	<entry name="Music" value="Musik"/>
+	<entry name="OperationsDirector" value="Operative Leitung"/>
+	<entry name="Producers" value="Produzenten"/>
+	<entry name="ProductManagers" value="Produktmanager"/>
+	<entry name="ProductionDesign" value="Produktionsdesign"/>
+	<entry name="ProductionLead" value="Produktionsleitung"/>
+	<entry name="ProductionTeam" value="Produktionsteam"/>
+	<entry name="PublishedBy" value="Veröffentlicht von %1%"/>
+	<entry name="RussianLocalisation" value="Russische Lokalisierung"/>
+	<entry name="Sound" value="Sound"/>
+	<entry name="SpanishLocalisation" value="Spanische Lokalisierung"/>
+	<entry name="SpecialThanks" value="Besonderer Dank an"/>
+	<entry name="TechnicalDirector" value="Technische Leitung"/>
+	<entry name="Translation" value="Übersetzung"/>
+	<entry name="VoiceActors" value="Synchronsprecher"/>
+	<entry name="WarhammerBy" value="Warhammer 40.000 von %1%"/>
+	<entry name="WebDevelopment" value="Webentwicklung"/>
+	<entry name="Writing" value="Texte"/>
+</language>

@@ -1,0 +1,477 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Artefacts -->
+	<entry name="Artefacts/AncientExterminatusDevice" value="<string name='Units/Neutral/Artefacts/AncientExterminatusDevice'/>"/>
+	<entry name="Artefacts/AncientExterminatusDeviceDescription" value=""/>
+	<entry name="Artefacts/Damage" value="<string name='Units/Neutral/Artefacts/Damage'/>"/>
+	<entry name="Artefacts/DamageDescription" value="Erhöht den Schaden Ihrer Einheiten."/>
+	<entry name="Artefacts/Healing" value="<string name='Units/Neutral/Artefacts/Healing'/>"/>
+	<entry name="Artefacts/HealingDescription" value="Stellt in jeder Runde Trefferpunkte Ihrer Einheiten wieder her."/>
+	<entry name="Artefacts/Hitpoints" value="<string name='Units/Neutral/Artefacts/Hitpoints'/>"/>
+	<entry name="Artefacts/HitpointsDescription" value="Erhöht die Trefferpunkte Ihrer Einheiten."/>
+	<entry name="Artefacts/Loyalty" value="<string name='Units/Neutral/Artefacts/Loyalty'/>"/>
+	<entry name="Artefacts/LoyaltyDescription" value="Erhöht die Loyalität Ihrer Städte."/>
+	<entry name="Artefacts/Movement" value="<string name='Units/Neutral/Artefacts/Movement'/>"/>
+	<entry name="Artefacts/MovementDescription" value="Erhöht die Bewegung Ihrer Einheiten."/>
+	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
+	<entry name="Artefacts/SightDescription" value="Erhöht die Sichtweite Ihrer Einheiten."/>
+
+	<!-- Items -->
+	<entry name="BlightGrenade" value="<string name='Items/BlightGrenade'/>"/>
+	<entry name="BlightGrenadeDescription" value="<string name='Items/BlightGrenadeDescription'/>"/>
+	<entry name="BlindGrenade" value="<string name='Items/BlindGrenade'/>"/>
+	<entry name="BlindGrenadeDescription" value="<string name='Items/BlindGrenadeDescription'/>"/>
+	<entry name="CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
+	<entry name="CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="ForbiddenKnowledge" value="<string name='Items/ForbiddenKnowledge'/>"/>
+	<entry name="ForbiddenKnowledgeDescription" value="<string name='Items/ForbiddenKnowledgeDescription'/>"/>
+	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
+	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="PoweredBolas" value="<string name='Items/PoweredBolas'/>"/>
+	<entry name="PoweredBolasDescription" value="<string name='Items/PoweredBolasDescription'/>"/>
+	<entry name="StunGrenade" value="<string name='Items/StunGrenade'/>"/>
+	<entry name="StunGrenadeDescription" value="<string name='Items/StunGrenadeDescription'/>"/>
+	<entry name="TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
+	<entry name="TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
+
+	<entry name="AcquireTile" value="Hexfeld einverleiben"/>
+	<entry name="AcquireTileDescription" value="Erweitert die Stadt um ein neues Hexfeld. Gebäude können nur auf einverleibten Hexfeldern errichtet werden. Den Besitzanspruch auf ein Hexfeld aufrechtzuerhalten, kostet laufend Einfluss."/>
+	<entry name="Activate" value="Aktivieren"/>
+	<entry name="Appear" value="Erscheinen"/>
+	<entry name="AmmoRunt" value="Munigrot"/>
+	<entry name="AmmoRuntDescription" value="Erhöht die Fernkampfgenauigkeit."/>
+	<entry name="AmmoRuntFlavor" value="Ein Munigrot ist ein schwer überlasteter Gretchin, der Zusatzmunition für seinen Herrn trägt."/>
+	<entry name="ArmoriumCherub" value="Armorium-Cherub"/>
+	<entry name="ArmoriumCherubDescription" value="Erhöht die Genauigkeit."/>
+	<entry name="ArmoriumCherubFlavor" value="Cherubim sind kleine fliegende Cyborg-Konstrukte mit der Funktion, die Diener des Imperators zu unterstützen - seien es Schreiber oder Soldaten. Beim Adeptus Astartes sieht man sie selten außerhalb des Librarius. Eine Ausnahme sind diejenigen wenigen Cherubim, die Zielerfassungsdaten übermitteln und Reservemunition für Devastator Squads tragen."/>
+	<entry name="AssaultDoctrine" value="Sturm-Doktrin anwenden"/>
+	<entry name="AssaultDoctrineDescription" value="Eine Ordenstaktik der Space Marines, die die Genauigkeit der Assault Squads erhöht."/>
+	<entry name="AssaultDoctrineFlavor" value="&quot;Wo Ungewissheit ist, bring ich Licht.<br/>Wo Zweifel sind, säe ich Glauben.<br/>Wo Schande ist, zeige ich Sühne auf.<br/>Wo Zorn ist, lenke ich ihn.<br/>Mein Wort sei in der Seele wie mein Bolter auf dem Schlachtfeld.&quot;<br/>  -- Litanei der Hingabe, überliefert"/>
+	<entry name="AstraMilitarumAircraftProductionEdict" value="Flottenbefehle"/>
+	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Eine Verordnung, die die Produktionsrate der Raumhäfen in der Stadt erhöht."/>
+	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="Verordnung, Departmento Munitorum: an alle Raumhafenaufseher. Der Schlafzyklus der Arbeiter wird bis auf Weiteres halbiert und die Produktionsziele werden um 25% erhöht. Arbitratoren werden in allen Sektoren eingesetzt, um die Befolgung der Verordnung sicherzustellen."/>
+	<entry name="AstraMilitarumDefenseEdict" value="Bollwerk des Imperators"/>
+	<entry name="AstraMilitarumDefenseEdictDescription" value="Eine Verordnung, die die Panzerung der Einheiten in der Stadt erhöht."/>
+	<entry name="AstraMilitarumDefenseEdictFlavor" value="Verordnung, Astra Militarum: an alle Mitglieder des Generalstabs, Regimentskommandeure und Kompaniebefehlshaber. Alle Einheiten haben sich durchgehend unter oder hinter Deckung zu halten, selbst während des Fronturlaubs. Zusätzliche Ressourcen für die Reparatur von Verteidigungsmaßnahmen werden freigegeben."/>
+	<entry name="AstraMilitarumEnergyEdict" value="Heißlaufen"/>
+	<entry name="AstraMilitarumEnergyEdictDescription" value="Eine Verordnung, die die Energiegewinnung der Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumEnergyEdictFlavor" value="Verordnung, Departmento Munitorum: an alle Energieeinheitenaufseher. Bei allen Plasma-Ionisierern sind die Schutzmaßnahmen zu deaktivieren. Das Baukorps wurde damit beauftragt, durch Reaktorschmelzen verlorene Arbeitskräfte ohne weitere Autorisation zu ersetzen."/>
+	<entry name="AstraMilitarumFoodEdict" value="Agronomische Maßnahmen"/>
+	<entry name="AstraMilitarumFoodEdictDescription" value="Eine Verordnung, die die Nahrungsproduktion der Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumFoodEdictFlavor" value="Verordnung, Departmento Munitorum: an alle Untertanen des Imperiums. Die persönlichen Rationen werden mit sofortiger Wirkung reduziert. Arbitratoren werden auf Farmen, bei Nahrungsspeichern und in Warenlagern dafür sorgen, dass der Verordnung Folge geleistet wird."/>
+	<entry name="AstraMilitarumGrowthEdict" value="Züchtungslizenzen"/>
+	<entry name="AstraMilitarumGrowthEdictDescription" value="Eine Verordnung, die die Wachstumsrate der Stadt erhöht."/>
+	<entry name="AstraMilitarumGrowthEdictFlavor" value="Verordnung, Departmento Munitorum: an alle registrierten Inselhüter. Für die Dauer dieser Verordnung sind eheliche Aktivitäten erwünscht. Für alle imperialen Warenlageraufseher gilt: Für die Dauer dieser Verordnung müssen sämtliche Anaphrodisiaka aus den Nahrungs- und Wasservorräten entfernt werden."/>
+	<entry name="AstraMilitarumInfantryProductionEdict" value="Inspirierende Ausbildung"/>
+	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Eine Verordnung, die die Produktionsrate der imperialen Kasernen in der Stadt erhöht."/>
+	<entry name="AstraMilitarumInfantryProductionEdictFlavor" value="Verordnung, Astra Militarum: an alle Commissars und Rekrutierungsoffiziere. Die Anzahl von Freiwilligen muss verdoppelt werden. Wer sich als widerspenstig erweist, muss sich auf die Gnade des Imperators gefasst machen."/>
+	<entry name="AstraMilitarumInfluenceEdict" value="Imperialer Glaube"/>
+	<entry name="AstraMilitarumInfluenceEdictDescription" value="Eine Verordnung, die die Generierung von Einfluss durch die Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumInfluenceEdictFlavor" value="Verordnung, Adeptus Ministorum: Alle nicht zugeteilten Arbeiter erhalten hiermit den Befehl, sich bei der nächsten Missionsstation, beim nächsten Schrein oder bei der nächsten Schola Progenium zu melden, um ihren Beitrag zur Verbreitung der Lehren des Imperators zu leisten. Pontifizes stehen für die verbindlichen Häresiekontrollen bereit."/>
+	<entry name="AstraMilitarumLoyaltyEdict" value="Propagandaübertragung"/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Eine Verordnung, die die Generierung von Loyalität durch die Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="Verordnung, Adeptus Arbites: an alle Commissars, Arbitratoren und Enforcers: Es wurde eine Phase verstärkter imperialer Übertragungen angekündigt. In dieser Zeit sind Durchsuchungen in den Unterkünften erlaubt, um eine höchstmögliche Hingabe an den Imperator sicherzustellen. Chasteners werden das Lex Imperialis rigoros anwenden."/>
+	<entry name="AstraMilitarumOreEdict" value="Abbauquoten"/>
+	<entry name="AstraMilitarumOreEdictDescription" value="Eine Verordnung, die die Erzgewinnung durch die Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumOreEdictFlavor" value="Verordnung, Departmento Munitorum: an alle Manufactorum-Aufseher: Servitors müssen den ganzen Zyklus über ohne Unterbrechung arbeiten. Burnouts und tödliche Unfälle müssen mit Strafarbeitern und Arbeitskräften aus dem Baukorps ausgeglichen werden."/>
+	<entry name="AstraMilitarumPsykerProductionEdict" value="Zirkelzentren"/>
+	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Eine Verordnung, die die Produktionsrate der Psionikerzirkel in der Stadt erhöht."/>
+	<entry name="AstraMilitarumPsykerProductionEdictFlavor" value="Verordnung, Adeptus Astra Telepathica: an die Zirkelmeister und Magister der Scholastica Psikana. Die Qualitätsanforderungen für Rekrutierungen wurden gesenkt. Damit sollten sich Exemplarische Exekutionen auf ein Minimum beschränken - von völlig unfähigen Anwärtern einmal abgesehen. Alle Rekruten müssen sofort einem Sanktionierten Psioniker zugeteilt werden."/>
+	<entry name="AstraMilitarumResearchEdict" value="Offenbarungen des Omnissiah"/>
+	<entry name="AstraMilitarumResearchEdictDescription" value="Eine Verordnung, die die Generierung von Forschungspunkten durch die Gebäude in der Stadt erhöht."/>
+	<entry name="AstraMilitarumResearchEdictFlavor" value="Verordnung, Adeptus Mechanicus: an alle Techpriester. In diesem Zyklus hat die Suche nach Wissen höchste Priorität, weswegen STC-Studien und Erkundungsmissionen durchzuführen sind. Gelobt sei der Omnissiah!"/>
+	<entry name="AstraMilitarumVehicleProductionEdict" value="Riten der Maschinengeister"/>
+	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Eine Verordnung, die die Produktionsrate der Manufactorien in der Stadt erhöht."/>
+	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="Verordnung, Adeptus Mechanicus: an alle Manufactorum-Magi. Die Produktionsziele wurden für diesen Zyklus um 25% angehoben, weswegen in dieser Zeit persönliche Projekte ausgesetzt werden müssen. Zusätzliche Ressourcen/rituelle Salben werden für die Maschinenriten bereitgestellt. Gelobt sei der Omnissiah!"/>
+	<entry name="Attack" value="Angreifen"/>
+	<entry name="AuraOfDiscipline" value="Aura des Gehorsams"/>
+	<entry name="AuraOfDisciplineDescription" value="Erhöht die Genauigkeit des Lord Commissars und angrenzender nicht-feindlicher Einheiten."/>
+	<entry name="AuraOfDisciplineFlavor" value="Wenn die Disziplin oder Moral zu wünschen übrig lässt, ist es die Aufgabe des Commissars, alles Nötige zu tun, um wieder für Ordnung zu sorgen - und sich dabei dessen bewusst zu sein, dass er das Richtige tut. Unter den eiskalten Blicken eines solchen Mannes müssen die imperialen Soldaten dazu inspiriert werden, Taten zu vollbringen, die sie nie für möglich gehalten hätten."/>
+	<entry name="AuraOfFear" value="Aura des Schreckens"/>
+	<entry name="AuraOfFearDescription" value="Verringert den Nahkampfschaden angrenzender feindlicher Einheiten."/>
+	<entry name="AuraOfFearFlavor" value="Manche Einheiten sind so furchterregend oder fremdartig, dass ihre Feinde panikartig die Flucht ergreifen."/>
+	<entry name="AwakenTheMachine" value="Erwecken der Maschine"/>
+	<entry name="AwakenTheMachineDescription" value="Erhöht den Schaden der ausgewählten nicht-feindlichen Fahrzeug- oder Festungseinheit."/>
+	<entry name="AwakenTheMachineFlavor" value="&quot;Drücke den Knopf, um den Motor zu starten<br/>und die Turbine zu beleben...<br/>Läute dreimal die Große Glocke!<br/>Singe Loblieder auf den<br/>Gott aller Maschinen!&quot;<br/>  -- Katechismus des Autoculus des Mars"/>
+	<entry name="BlessingsOfTheOmnissiah" value="Segen des Omnissiah"/>
+	<entry name="BlessingsOfTheOmnissiahDescription" value="Stellt die Trefferpunkte der ausgewählten nicht-feindlichen Fahrzeug- oder Festungseinheit wieder her."/>
+	<entry name="BlessingsOfTheOmnissiahFlavor" value="&quot;So rufen wir den Maschinengott.<br/>So fügen wir zusammen, was einst getrennt war.&quot;<br/>  -- Hymne der Reparaturen"/>
+	<entry name="BolsterDefences" value="Befestigen"/>
+	<entry name="BolsterDefencesDescription" value="Sorgt für eine Fernkampf-Schadensreduktion auf dem Zielhexfeld."/>
+	<entry name="BolsterDefencesFlavor" value="&quot;Jede Position muss bis zum letzten Mann gehalten werden - so etwas wie Rückzug darf es nicht geben. Mit dem Rücken zur Wand und dem Glauben an die Gerechtigkeit unserer Sache kämpfen wir bis zum bitteren Ende.&quot;<br/>  -- Imperialer Kriegsherr Solon"/>
+	<entry name="BolterDrill" value="Bolter-Drill anwenden"/>
+	<entry name="BolterDrillDescription" value="Eine Ordenstaktik, die die Genauigkeit von Bolterwaffen erhöht."/>
+	<entry name="BolterDrillFlavor" value="&quot;Ich glaube an drei Lehren der Schlacht - Feuerkraft, Feuerkraft und noch mehr Feuerkraft.&quot;<br/>  -- Kardan Stronos, Chapter Master der Iron Hands"/>
+	<entry name="BringItDown" value="&quot;Zerstört es!&quot;"/>
+	<entry name="BringItDownDescription" value="Erhöht den Panzerungsdurchschlag des Lord Commissars und angrenzender nicht-feindlicher Einheiten."/>
+	<entry name="BringItDownFlavor" value="Feindliche Kriegsmaschinen und fremdartige Monstrositäten sind für die Kommandeure der Imperialen Armee gleich wichtige Ziele. "/>
+	<entry name="CanticlesOfWrath" value="Lobgesänge des Zorns"/>
+	<entry name="CanticlesOfWrathDescription" value="Stellt die Moral angrenzender nicht-feindlicher Einheiten wieder her und verringert die Moral angrenzender feindlicher Einheiten."/>
+	<entry name="CanticlesOfWrathFlavor" value="Die durch das Voxgitter des Chaplains verstärkten angriffslustigen Phrasen und Lobgesänge des Zorns hallen über das Schlachtfeld und verleihen den Space Marines eine neue Stärke, während sich der Feind angsterfüllt zusammenkauert."/>
+	<entry name="Capture" value="Übernehmen"/>
+	<entry name="ClearTile" value="Hexfeld räumen"/>
+	<entry name="ClearTileDescription" value="Stellt den Normalzustand eines Hexfelds wieder her und entfernt nach und nach Stahlkraut, imperiale Ruinen und Wälder."/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Platziert Splitterminen auf dem angrenzenden Zielhexfeld, um dem Feind Schaden zuzufügen und ihn zu verlangsamen."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="ConstructBuilding" value="%1% errichten"/>
+	<entry name="ConstructBuildingHint" value="<style name='Title'/>%1%%2% errichten<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="ConstructFeature" value="%1% errichten"/>
+	<entry name="ConstructFeatureHint" value="<style name='Title'/>%1%%2% errichten<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="ConstructImperialStrongpoint" value="<string name='Units/AstraMilitarum/ImperialStrongpoint'/> errichten"/>
+	<entry name="ConstructImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
+	<entry name="ConstructPlayerAction" value="%1% errichten"/>
+	<entry name="ConstructPlayerActionHint" value="<style name='Title'/>%1%%2% errichten<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="CreateSmokeScreen" value="Nebelwand erzeugen"/>
+	<entry name="CreateSmokeScreenDescription" value="Sorgt auf dem Hexfeld der Einheit für eine Fernkampf-Schadensreduktion."/>
+	<entry name="CreateSmokeScreenFlavor" value="An manchen Fahrzeugen wurden kleine Nebelwerfer angebracht, die das Fahrzeug vorübergehend hinter einer wogenden Nebelwand verschwinden lassen, was das Überqueren von offenem Gelände sicherer macht. Dies geht allerdings auf Kosten der eigenen Kampffähigkeit, da nicht mehr geschossen werden kann."/>
+	<entry name="DeedsOfGlory" value="Ruhmreiche Taten"/>
+	<entry name="DeedsOfGloryDescription" value="Wenn der Captain Erfahrung erhält, steigt der Einfluss des Ordens."/>
+	<entry name="DeedsOfGloryFlavor" value="&quot;Für jeden Captain muss das Leben eines Soldaten in Not wichtiger sein als das seinige. Schließlich ist in der Galaxie nur sehr wenig Ruhm zu erlangen und Offiziere dürfen nicht an Vertrauen sparen, das sie in andere setzen - denn aus diesen müssen eines Tages ebenfalls Captains hervorgehen.&quot;<br/>  -- Roboute Guillaume, Primarch der Ultramarines, Lord Commander und Imperialer Regent"/>
+	<entry name="DeployCity" value="Stadt platzieren"/>
+	<entry name="DeployFortress" value="%1% platzieren"/>
+	<entry name="DeployFortressFlavor" value="<string name='Units/SpaceMarines/FortressOfRedemptionFlavor'/>"/>
+	<entry name="DeployFortressHint" value="<style name='Title'/>%1%%2% platzieren<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="DeployUnit" value="%1% platzieren"/>
+	<entry name="DeployUnitHint" value="<style name='Title'/>%1%%2% platzieren<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="DevastatorDoctrine" value="Devastator-Doktrin anwenden"/>
+	<entry name="DevastatorDoctrineDescription" value="Eine Ordenstaktik der Space Marines, die die Genauigkeit der Devastator Squads erhöht."/>
+	<entry name="DevastatorDoctrineFlavor" value="&quot;Für den Sieg ist es oftmals entscheidend, die richtigen Waffen zur richtigen Zeit am richtigen Ort einzusetzen. Selbst die Waffen mit dem größten Zerstörungspotenzial sind nutzlos, wenn sie nicht dort sind, wo sie sein sollen.&quot;<br/>  -- Artor Amhrad, Chapter Master der Astral Knights"/>
+	<entry name="Disappear" value="Verschwinden"/>
+	<entry name="Disband" value="Auflösen"/>
+	<entry name="DisbandDescription" value="Löst die Einheit auf."/>
+	<!-- <entry name="DisbandDescription" value="Sie erhalten 25%% des <icon texture='Resources/Credits'/> Produktionswerts der Einheit zurück, falls die Einheit in verbündetem Territorium aufgelöst wird."/>
+	<entry name="DisbandProperties" value="Sie erhalten x1x <icon texture='Resources/Credits'/> Credits, falls die Einheit hier aufgelöst wird."/> -->
+	<entry name="DispenseChaff" value="Täuschkörper ausstoßen"/>
+	<entry name="DispenseChaffDescription" value="Sorgt für eine Fernkampf-Schadensreduktion."/>
+	<entry name="DispenseChaffFlavor" value="Bereits seit den frühen Tagen des Luftkampfs nutzt man Mittel und Wege, um feindliche Piloten abzulenken. Die heutigen Täuschkörper wären von Piloten der Vergangenheit nicht als solche zu erkennen, doch auch heute sind sie nicht minder effizient."/>
+	<entry name="DogmaAstrates" value="Astartes-Dogma"/>
+	<entry name="DogmaAstratesDescription" value="Erhöht die Generierung von Loyalität in der Festungsstadt."/>
+	<entry name="DogmaAstratesFlavor" value="Die Chaplains sind strenge spirituelle Hüter der Moral, deren Hauptaufgabe darin besteht, wachsam gegenüber Stolz, Zweifeln und Ketzerei in den Reihen der Space Marines zu sein. Selbst auf ihre eigenen Brüder wirken sie angsteinflößend und sie verlassen sich voll auf Dogmas und Liturgien, um ihre Brüder vor spirituellen Verfehlungen zu schützen."/>
+	<entry name="Enfeeble" value="Schwächen"/>
+	<entry name="EnfeebleDescription" value="Verringert den Schaden und die Bewegung der feindlichen Zieleinheit."/>
+	<entry name="EnfeebleFlavor" value="Wenn der Psioniker seine Kräfte bündelt, schlängelt sich Warpenergie um seine Opfer und jede Berührung entzieht dem Körper Stärke und Vitalität."/>
+	<entry name="Enslavement" value="Versklavung"/>
+	<entry name="EnslavementDescription" value="Die Einheit kann die Kontrolle über die feindliche willensschwache Zieleinheit übernehmen. Erst mit dem Tod der versklavenden Einheit ist sie wieder frei."/>
+	<entry name="EreWeGo" value="Jetz' geht'z los!"/>
+	<entry name="EreWeGoDescription" value="Erhöht die Bewegung."/>
+	<entry name="EreWeGoFlavor" value="Da es die Orks gar nicht erwarten können, sich ins Getümmel zu stürzen, preschen sie so schnell sie können über das Schlachtfeld, sobald sie den Feind erblickt haben."/>
+	<entry name="FoundCity" value="Stadt gründen"/>
+	<entry name="FoundCityDescription" value="Die Einheit wird aufgelöst, nachdem sie eine neue Stadt gegründet hat.<br/><br/>Städte können nur gegründet werden, wenn sich in einem Radius von 4 Feldern um das Gründungsfeld keine weitere Stadt befindet."/>
+	<entry name="FoundCityNecrons" value="Stadt gründen (Necrons)"/>
+	<entry name="FoundCityNecronsDescription" value="Die Einheit wird aufgelöst, nachdem sie eine neue Stadt gegründet hat.<br/><br/>Städte der Necrons können nur über Necron-Grüften gegründet werden und in einem Radius von 4 Feldern darf sich keine andere Stadt befinden."/>
+	<entry name="FullThrottle" value="&quot;Gas geben!&quot;"/>
+	<entry name="FullThrottleDescription" value="Erhöht die Bewegung des Tank Commanders und angrenzender nicht-feindlicher Panzereinheiten, die noch über Bewegungspunkte verfügen."/>
+	<entry name="FullThrottleFlavor" value="Der Offizier führt einen ruhmreichen Panzerangriff an, der den Feind unter den Ketten zermalmt."/>
+	<entry name="GrabbinKlaw" value="Megagreifa"/>
+	<entry name="GrabbinKlawDescription" value="Macht die ausgewählte feindliche Bodenfahrzeugeinheit bewegungsunfähig."/>
+	<entry name="GrabbinKlawFlavor" value="Aufgrund ihres Bestrebens, immer größere Energiekrallän zu fertigen, passiert es den Meks der Orks manchmal, dass die Energiekrallän selbst für einen übergroßen Boss oder Gargbot zu groß sind. Sie werden dann an Fahrzeugen angebracht, um feindliche Fahrzeuge bewegungsunfähig zu machen oder waghalsige Wendemanöver durchzuführen."/>
+	<entry name="GunnersKillOnSight" value="&quot;Bordschützen, Feuer bei Sichtkontakt!&quot;"/>
+	<entry name="GunnersKillOnSightDescription" value="Erhöht den Schaden des Tank Commanders und angrenzender nicht-feindlicher Panzereinheiten."/>
+	<entry name="GunnersKillOnSightFlavor" value="Der Offizier gibt seinen Männern freie Hand und sie dürfen nach eigenem Ermessen feuern."/>
+	<entry name="HammerOfWrath" value="Niederschmettern"/>
+	<entry name="HammerOfWrathDescription" value="Erhöht den Schaden."/>
+	<entry name="HammerOfWrathFlavor" value="Viele Kämpfer stürzen sich Hals über Kopf in die Schlacht, um den Feind zu zerschmettern oder niederzutrampeln."/>
+	<entry name="Heal" value="Stellung halten bis geheilt"/>
+	<entry name="HealDescription" value="Die Einheit hält die Stellung, bis sie vollständig geheilt ist.<br/><br/>Einheiten heilen automatisch, wenn sie keinen Schaden erlitten haben und über alle Bewegungs- und Aktionspunkte verfügen."/>
+	<entry name="HealProperties" value="<icon texture='GUI/Bullet'/>Diese Einheit heilt %1%%% pro Runde.<br/><icon texture='GUI/Bullet'/>%2% Runden bis zur vollständigen Heilung"/>
+	<entry name="HealingSurge" value="Heilungsschub"/>
+	<entry name="HealingSurgeDescription" value="Der Captain stellt seine Trefferpunkte wieder her."/>
+	<entry name="HealingSurgeFlavor" value=""/>
+	<entry name="HoldFire" value="Feuer einstellen"/>
+	<entry name="HoldFireDescription" value="Verhindert Vergeltungsschläge, wenn die Einheit angegriffen wird."/>
+	<entry name="HoldPosition" value="Stellung halten"/>
+	<entry name="HoldPositionDescription" value="Die Stellung wird gehalten, bis eine feindliche Einheit angreift."/>
+	<entry name="Hint" value="<style name='Title'/>%1%%2%<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="IronWill" value="Eiserner Wille"/>
+	<entry name="IronWillDescription" value="Wenn der Lord Commissar stirbt, kehrt er sofort wieder unter die Lebenden zurück."/>
+	<entry name="IronWillFlavor" value="&quot;Schmerzen gehen vorüber, doch der Ruhm bleibt für immer.&quot;<br/>  -- Kommissaroberst Ibram Gaunt, 1. Tanith"/>
+	<entry name="JetPack" value="Schwebemodul"/>
+	<entry name="JetPackDescription" value="Fliegt über Hindernisse hinweg zum Zielhexfeld."/>
+	<entry name="Jink" value="Ausweichmanöver"/>
+	<entry name="JinkDescription" value="Sorgt für eine Fernkampf-Schadensreduktion."/>
+	<entry name="JinkFlavor" value="Manche Einheiten setzen lieber auf Schnelligkeit und Wendigkeit statt auf starke Panzerung, um auf dem Schlachtfeld zu überleben. Auf diese Weise schlängeln sie sich unbeschadet durch den feindlichen Geschoss- und Kugelhagel."/>
+	<entry name="JumpPack" value="Sprungmodul"/>
+	<entry name="JumpPackDescription" value="Fliegt über Hindernisse hinweg zum Zielhexfeld."/>
+	<entry name="JumpPackFlavor" value="Ein Sprungmodul ermöglicht es der Einheit, Sprünge auf dem Schlachtfeld durchzuführen und über eine kurze Distanz zu fliegen oder auf Festungsmauern zu gelangen. Zudem können die Space Marines mithilfe von Sprungmodulen Luftlandeoperationen durchführen und sich von niedrig fliegenden Stormraven Gunships aus in die Schlacht stürzen. Die Düsenstärke lässt sich regulieren und ermöglicht so eine langsame und sichere Landung."/>
+	<entry name="LevelUp" value="Stufe aufsteigen"/>
+	<entry name="Levitate" value="Levitieren"/>
+	<entry name="LevitateDescription" value="Fliegt über Hindernisse hinweg zum Zielhexfeld."/>
+	<entry name="LevitateFlavor" value="Psioniker nutzen ihre telekinetischen Kräfte, um sich in die Lüfte zu schwingen und mit einem einzigen Satz über das Schlachtfeld zu springen."/>
+	<entry name="MachineEmpathy" value="Maschinenempathie anwenden"/>
+	<entry name="MachineEmpathyDescription" value="Eine Ordenstaktik, die die Trefferpunkte der Fahrzeug- und Festungseinheiten wiederherstellt."/>
+	<entry name="MachineEmpathyFlavor" value="&quot;So nimm dir ein Beispiel am Predator. Möge der Glaube die Panzerung deiner Seele sein, angetrieben von den Ketten des Gehorsams, die jedes Hindernis überwinden, und bewaffnet mit den drei großen Geschützen des Eifers, des Pflichtbewusstseins und der Reinheit.&quot;<br/>  -- Traditionelles imperiales Gebet, Urheber unbekannt"/>
+	<entry name="MediPack" value="Sanitätsausrüstung"/>
+	<entry name="MediPackDescription" value="Stellt die Trefferpunkte wieder her."/>
+	<entry name="MediPackFlavor" value="Die Sanitätsausrüstung enthält alle nötigen Medikamente, Verbände und chirurgischen Instrumente, um einen verwundeten imperialen Soldaten wieder kampftauglich zu machen oder wichtigen Einheiten das Leben zu retten."/>
+	<entry name="MeksTools" value="Mekwerkzeug"/>
+	<entry name="MeksToolsDescription" value="Stellt die Trefferpunkte der ausgewählten nicht-feindlichen Fahrzeug- oder Festungseinheit wieder her."/>
+	<entry name="MeksToolsFlavor" value="&quot;Dein Arm? Der is mir schnuppä! Mein Trukk is im Eima! Hat dir niemand gesagt, Laserkanonän aus'm Weg zu geh'n? Hier, Grot. Gib mir mal das Dingsbums, das Was-auch-imma-das-is und das fette Teil da. Un' natürlich die rotä Farbä. Sieht ratzfatz wieda aus wie neu.&quot;<br/>  -- Skinwab, Mek der Evil Sunz"/>
+	<entry name="MindControl" value="Gedankenmanipulation"/>
+	<entry name="MindControlDescription" value="Verringert in jeder Runde die Moral angrenzender feindlicher Einheiten."/>
+	<entry name="Misfortune" value="Verhängnis"/>
+	<entry name="MisfortuneDescription" value="Erhöht den erlittenen Schaden der feindlichen Zieleinheit."/>
+	<entry name="MisfortuneFlavor" value="Mit einem Fingerschnippen manipuliert der Seher das Schicksal, damit seine Anhänger bei ihren Angriffen die Schwachstellen in der Panzerung des Feindes treffen."/>
+	<entry name="Move" value="Bewegen"/>
+	<entry name="Narthecium" value="Narthecium"/>
+	<entry name="NartheciumDescription" value="Stellt die Trefferpunkte der ausgewählten nicht-feindlichen Infanterieeinheit wieder her."/>
+	<entry name="NartheciumFlavor" value="Diese Vorrichtung wird von den Apothecarys der Space Marines benutzt, um den Verwundeten medizinische Hilfe angedeihen zu lassen, darunter selbst komplizierte Operationen auf dem Schlachtfeld. Enthalten ist auch ein Reductor, mit dem die Gensaat Gefallener geborgen wird, um die Zukunft des Ordens zu sichern."/>
+	<entry name="Necrons/BloodyCrusade" value="Blutiger Kreuzzug"/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Erhöht den Schaden."/>
+	<entry name="Necrons/Chronometron" value="Chronometrum"/>
+	<entry name="Necrons/ChronometronDescription" value="Sorgt für eine Schadensreduktion bei der nicht-feindlichen Zieleinheit."/>
+	<entry name="Necrons/ChronometronFlavor" value="Diese augenförmigen Vorrichtungen setzen eine Energieblase frei, die den Verlauf der Zeit manipulieren kann und auf diese Weise eintreffende Geschosse so sehr verlangsamt, dass Kämpfer in der Nähe ihnen einfach aus dem Weg gehen können."/>
+	<entry name="Necrons/DefensiveProtocols" value="Verteidigungsprotokolle"/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Erhöht die Panzerung des Lords und angrenzender nicht-feindlicher Einheiten."/>
+	<entry name="Necrons/DestructionProtocols" value="Zerstörungsprotokolle"/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Erhöht den Schaden, den angrenzende feindliche Einheiten erleiden."/>
+	<entry name="Necrons/DimensionalCorridor" value="Dimensionskorridor"/>
+	<entry name="Necrons/DimensionalCorridorDescription" value="Teleportiert die Einheit zu einem Hexfeld, das an eine Stadt oder einen Monolith angrenzt."/>
+	<entry name="Necrons/DimensionalCorridorFlavor" value="&quot;Als Erstes ging Artemorra über die Sternenlichtbrücke, von der Körperlosigkeit hinein in die physische Existenz. Die Necrontyr nannten ihn 'Bote', doch später war er als 'Gaukler' bekannt - aus gutem Grund.<br/>  -- Bruchstückhafte Inschrift auf einer Jokaero-Verteidigungssphäre"/>
+	<entry name="Necrons/Dynasty" value="Dynastie"/>
+	<entry name="Necrons/DynastyDescription" value="Erhöht das Bevölkerungslimit der Städte."/>
+	<entry name="Necrons/FabricatorClawArray" value="Fabrikatorklauen-Satz"/>
+	<entry name="Necrons/FabricatorClawArrayDescription" value="Stellt die Trefferpunkte der ausgewählten nicht-feindlichen Fahrzeug- oder Festungseinheit wieder her."/>
+	<entry name="Necrons/FabricatorClawArrayFlavor" value="Diese klickenden und surrenden Energiewerkzeuge sind hauptsächlich für Wartungs- und Reparaturarbeiten gedacht."/>
+	<entry name="Necrons/GloomPrism" value="Zwielichtprisma"/>
+	<entry name="Necrons/GloomPrismDescription" value="Sorgt für Hexenfeuer-Schadensreduktion bei der Canoptek Spyder und angrenzenden nicht-feindlichen Einheiten."/>
+	<entry name="Necrons/GloomPrismFlavor" value="Das Energiefeld des Zwielichtprismas schirmt einen Bereich vor allen Warpkräften ab."/>
+	<entry name="Necrons/GravityPulse" value="Gravitationsimpuls"/>
+	<entry name="Necrons/GravityPulseDescription" value="Verringert die Bewegung angrenzender feindlicher Flieger, Jetbikes und Antigraveinheiten und fügt ihnen Schaden zu."/>
+	<entry name="Necrons/JetCharge" value="Düsenladung"/>
+	<entry name="Necrons/JetChargeDescription" value="Sorgt für eine Schadensreduktion und fliegt über Hindernisse hinweg zum Zielhexfeld."/>
+	<entry name="Necrons/MindshackleScarabs" value="Gedankenkontrollskarabäen"/>
+	<entry name="Necrons/MindshackleScarabsDescription" value="Verringert den Nahkampfschaden der feindlichen Zieleinheit."/>
+	<entry name="Necrons/MindshackleScarabsFlavor" value="Auf Befehl graben sich die winzigen Gedankenkontrollskarabäen in das Gehirn ihres unglückseligen Opfers und bringen es um seinen Verstand."/>
+	<entry name="Necrons/NecrodermisRepair" value="Necrodermis-Reparatur"/>
+	<entry name="Necrons/NecrodermisRepairDescription" value="Stellt die Trefferpunkte wieder her."/>
+	<entry name="Necrons/NecrodermisRepairFlavor" value="Wenn ein Necron nur geringen Schaden erlitten hat, kann sich sein lebender Metallkörper selbst reparieren, indem überschüssiges Metall die beschädigten Stellen umschließt."/>
+	<entry name="Necrons/QuantumShielding" value="Quantenschilde"/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Erhöht die Panzerung für den nächsten Kampf."/>
+	<entry name="Necrons/QuantumShieldingFlavor" value="Quantenschilde der Necrons sind eine wissenschaftliche Meisterleistung, da sie nur im Moment der Schadensabsorption zu existieren scheinen. Ansonsten deutet nichts auf ihre Existenz hin. Sie sind allerdings recht unzuverlässig und neigen zu Funktionsausfällen, wenn sie überhitzen."/>
+	<entry name="Necrons/RapidRise" value="Rapider Anstieg"/>
+	<entry name="Necrons/RapidRiseDescription" value="Beschleunigt die aktuelle Produktion."/>
+	<entry name="Necrons/RapidRiseFlavor" value="In einer verzweifelten Lage kann ein Lord der Necrons Sicherheitsprotokolle für die Reanimierung von Truppen und Reparatur von Fahrzeugen überschreiben, was jedoch zu stark erhöhten Verlusten führen kann. Er wird dadurch die Unterstützung derjenigen Angehörigen der Herrscherklasse verlieren, die noch empfindungsfähig sind und hohe Verluste nur schwer akzeptieren können."/>
+	<entry name="Necrons/Reaper" value="Schnitter"/>
+	<entry name="Necrons/ReaperDescription" value="Erhöht die Panzerung und Genauigkeit. Der Erhalt von Erfahrung führt dazu, dass sich &quot;Düsenladung&quot; wiederauflädt."/>
+	<entry name="Necrons/ReaperFlavor" value="Wo die Flayers den Todesfluch von Llandu'gor erleiden, entspringt der Wahnsinn der Destroyers dem universellen Schicksal aller Necrons, die ihre Seelen verloren haben, als sie sich für lebende Metallkörper entschieden haben. Dies äußert sich bei den Destroyers darin, dass sie sich selbst zu immer perfekteren Waffen veredeln - seltsamerweise mehr und mehr zu Aza'gorod dem Todesboten, dem Untergang allen Lebens. "/>
+	<entry name="Necrons/ResurrectionOrb" value="Regeneratorsphäre"/>
+	<entry name="Necrons/ResurrectionOrbDescription" value="Stellt die Trefferpunkte der nicht-feindlichen Zieleinheit wieder her."/>
+	<entry name="Necrons/ResurrectionOrbFlavor" value="Diese glühende Kugel überlädt die Regenerationsprotokolle naher Necrons und verbessert damit ihre Selbstreparaturfähigkeiten."/>
+	<entry name="Necrons/RoyalGuard" value="Königliche Garde"/>
+	<entry name="Necrons/RoyalGuardDescription" value="Für eine gewisse Zeit erscheinen Triarch Praetorians."/>
+	<entry name="Necrons/RoyalGuardFlavor" value="&quot;Ich habe der Galaxie sechzig Millionen Jahre lang gelauscht. Ich habe Zivilisationen entstehen, wachsen und untergehen sehen, bis sie schließlich nur noch Teil von Mythen waren. Und immer noch glaube ich, dass ein Leben ohne Ehre und ohne Gesetze nicht lebenswert ist.&quot;<br/>  -- Eystan, Triarch Praetorian"/>
+	<entry name="Necrons/ScarabHive" value="Scarab-Nest"/>
+	<entry name="Necrons/ScarabHiveDescription" value="Bringt Canoptek Scarabs hervor."/>
+	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Units/Necrons/CanoptekScarabFlavor'/>"/>
+	<entry name="Necrons/SleepingSentry" value="Schlafender Wächter"/>
+	<entry name="Necrons/SleepingSentryDescription" value="Sorgt für eine Schadensreduktion, macht jedoch handlungsunfähig."/>
+	<entry name="Necrons/SolarPulse" value="Solarimpuls"/>
+	<entry name="Necrons/SolarPulseDescription" value="Verringert die Genauigkeit feindlicher Einheiten in dem Gebiet."/>
+	<entry name="Necrons/SolarPulseFlavor" value="Der Sonnenstab erstrahlt im gleißenden Licht der Wahrheit und Ehre, und wenn seine Kräfte entfesselt werden, vernichten sie alle Schatten. Dabei leuchtet der Stab so hell auf, als entstünde soeben eine neue Sonne. Die Dunkelheit weicht zurück und der Feind ergreift geblendet und im Angesicht all seiner Täuschungen die Flucht."/>
+	<entry name="Necrons/TargetingRelay" value="Zielrelais"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Erhöht die Fernkampfgenauigkeit des Triarch Stalkers und angrenzender nicht-feindlicher Infanterieeinheiten."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="Triarch Stalkers wirken wenig robust, doch dank ihrer einzigartigen Quantenschilde können sie sich gut verteidigen und verstärken mit ihrem Zielrelais die Feuerkraft von Kriegern in ihrer Nähe."/>
+	<entry name="Necrons/TheBoundCoalescent" value="Die fesselnden Bande"/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Verschmilzt mit einem Obelisk, um ein Tesserakt-Verlies zu erschaffen."/>
+	<entry name="Necrons/TheBoundCoalescentFlavor" value="Die C'tan waren unglaublich mächtig, aber auch durch und durch bösartig. Diese Fragmente, die in der verzweifelten Verschwörung der Necrons zersplittert wurden, sind alles, was von ihnen übrig geblieben ist. Wenn es die Situation erfordert, dürfen sich zwei Fragmente wieder vereinen, damit daraus eine noch schlagkräftigere Waffe entsteht, aber die Necrons vergessen niemals die unbeschreibliche Macht, die den C'tan einst innewohnte."/>
+	<entry name="Necrons/VoidStrike" value="Angriff der Leere"/>
+	<entry name="Necrons/VoidStrikeDescription" value="Verbraucht alle Ladungen, um der Waffe für jede verfügbare Ladung 1 Angriff hinzuzufügen. Erhält 1 Ladung pro Runde."/>
+	<entry name="Necrons/WrithingWorldscape" value="Realitätsbeben"/>
+	<entry name="Necrons/WrithingWorldscapeDescription" value="Verringert die Bewegung angrenzender feindlicher Einheiten."/>
+	<entry name="ObjurationMechanicum" value="Maledictum Mechanicum"/>
+	<entry name="ObjurationMechanicumDescription" value="Verflucht die Fernkampfwaffen der feindlichen Zieleinheit. Verursacht außerdem Schaden, falls es sich bei der Zieleinheit um ein Fahrzeug handelt."/>
+	<entry name="ObjurationMechanicumFlavor" value="Waffen bekommen eine Ladehemmung und Motoren explodieren, wenn der Telekinet seine Kräfte einsetzt, um auf das Herzstück von Maschinen in seiner Nähe einzuwirken."/>
+	<entry name="OrationOfRestoration" value="Wiederherstellungspredigt"/>
+	<entry name="OrationOfRestorationDescription" value="Stellt in jeder Runde die Trefferpunkte des Chaplains und angrenzender nicht-feindlicher Einheiten wieder her."/>
+	<entry name="OrationOfRestorationFlavor" value="&quot;Sprich die Liturgie am Ende der Schlacht mit klarer Stimme. Respektiere den Mut der Lebenden. Vollziehe die Übergangsriten an den Gefallenen. Ehre die Ausrüstung der Toten. Dies alles mit Ehrfurcht zu tun, selbst durch die Schlacht erschöpft und abgekämpft, ist die Pflicht des Chaplains. Es ist seine Last und seine Genugtuung.&quot;<br/>  -- Adeptus Astartes, Das Buch des Glaubens"/>
+	<entry name="OrbitalBombardment" value="Orbitalschlag"/>
+	<entry name="OrbitalBombardmentDescription" value="Operation zur Bombardierung des Zielhexfelds."/>
+	<entry name="OrbitalBombardmentFlavor" value="&quot;Den Befehl zum Exterminatus Extremis führt man nicht leichtfertig aus. Wenn man vorhat, das ganze Leben eines Planeten mit einer Virusbombe, einem Zyklonentorpedo oder einem Atmosphären-Entzünder auszulöschen, muss man sich seiner Sache sicher sein. Und man muss akzeptieren können, dass Millionen, wenn nicht gar Milliarden Lebewesen sterben werden, damit die Menschheit weiterexistieren kann.&quot;<br/>  -- Lord Hochadmiral Soheil, bei der Säuberung von Colchis"/>
+	<entry name="OrbitalDeployment" value="Orbitalabwurf"/>
+	<entry name="OrbitalDeploymentDescription" value="Versetzt die Einheit aus dem Inneren der Stadt auf das Zielhexfeld."/>
+	<entry name="OrbitalDeploymentFlavor" value="Manche Einheiten gelangen mithilfe von Tunnels, Teleportation, Flugeinheiten oder anderen außergewöhnlichen Mitteln in die Schlacht."/>
+	<entry name="OrbitalScan" value="Orbitalscan"/>
+	<entry name="OrbitalScanDescription" value="Operation zur Aufdeckung des Zielhexfelds und angrenzender Hexfelder."/>
+	<entry name="OrbitalScanFlavor" value="Ein Orden der Space Marines verfügt für gewöhnlich über eine ganze Schiffsflotte - von kleinen Thunderhawk-Landungsschiffen bis hin zu imposanten Angriffskreuzern. Auf Gladius Primus wurde die Ordensflotte durch den Warpsturm dezimiert. Nur ein Schiff blieb relativ unversehrt und umkreist den Planeten auf einer niedrigen, instabilen Umlaufbahn. Die Techmarine- und Servitor-Besatzung wird ihre Sensoren jedoch für ausreichend wichtige Ziele auf die Planetenoberfläche richten."/>
+	<entry name="OrbitalStrike" value="Orbitalschlag"/>
+	<entry name="Orks/AttackSquig" value="<string name='Weapons/AttackSquig'/>"/>
+	<entry name="Orks/AttackSquigDescription" value=""/>
+	<entry name="Orks/AttackSquigFlavor" value="<string name='Weapons/AttackSquigFlavor'/>"/>
+	<entry name="Orks/BigBoss" value="Obaboss"/>
+	<entry name="Orks/BigBossDescription" value="Erhöht die maximalen Trefferpunkte."/>
+	<entry name="Orks/BigBossFlavor" value="&quot;Je größa ich bin, desto härta schlag ich zu.&quot;<br/>  -- Da Rok, Nob der Orks"/>
+	<entry name="Orks/BustHeads" value="Koppjäga"/>
+	<entry name="Orks/BustHeadsDescription" value="Verringert den Moralverlust des Waaaghbosses und nicht-feindlicher Einheiten in der Nähe."/>
+	<entry name="Orks/BustHeadsFlavor" value="&quot;He, ihr zoggigen Scheißa! Tut nich euch geg'nseitig die Köppe einhau'n, sondan den Schnabelz! Oda soll ich... EUCH die Köppe einhau'n? Das is keinä Fragä, sondan 'ne Drohung! Verstand'n?&quot;<br/>  -- Da Rok, Nob der Orks"/>
+	<entry name="Orks/ChannelMentalEmissions" value="Bündelung mentaler Emissionen"/>
+	<entry name="Orks/ChannelMentalEmissionsDescription" value="Erhöht die Generierung von Forschungspunkten im Klan."/>
+	<entry name="Orks/ChannelMentalEmissionsFlavor" value="&quot;Die Orks sind die Krone der Schöpfung. Für sie ist der große Kampf gewonnen. Sie haben eine Gesellschaft entwickelt, die weder Stress noch Angst kennt. Wer sind wir, sie zu beurteilen? Wir Eldar, die wir versagt haben, oder die Menschen, die sich ihrerseits auf dem Weg in den Untergang befinden? Und warum? Weil wir Antworten auf Fragen suchten, die zu fragen einen Ork niemals kümmern würde! Wir sehen eine Kultur, die stark ist, und schmähen sie als barbarisch.&quot;<br/>  -- Uthan der Verdrehte, Eldar-Philosoph"/>
+	<entry name="Orks/CyborkImplants" value="Cybork-Implantate"/>
+	<entry name="Orks/CyborkImplantsDescription" value="Erhöht dauerhaft den Schaden der ausgewählten nicht-feindlichen Infanterieeinheit und sorgt für die Schadensreduktion &quot;Verletzungen ignorieren&quot;."/>
+	<entry name="Orks/CyborkImplantsFlavor" value="&quot;Exponat 40: Hautprobe eines Orks. Sie stammt von einem höhergestellten Mitglied in der Hierarchie der Orks, erkennbar an der Dicke des Knochens, des Muskels und der entfernten Haut sowie an der degenerierten Nervenstruktur. Das Lasergitter soll verhindern, dass sich daraus wieder ein Ork entwickelt.&quot;<br/>  -- Lehrvortragsabschrift, Grigomen &quot;Ork-Liebhaber&quot; Delr, Freihändler und Hobbyxenologist"/>
+	<entry name="Orks/DaJump" value="Da Sprung"/>
+	<entry name="Orks/DaJumpDescription" value="Teleportiert den Weirdboy und angrenzende nicht-feindliche Einheiten zum Zielhexfeld und zu angrenzenden Hexfeldern."/>
+	<entry name="Orks/DaJumpFlavor" value="Der Weirdboy schließt fest seine Augen und teleportiert sich, begleitet von einem grünen Lichtblitz, an einen anderen Ort des Schlachtfelds - gemeinsam mit allen reichlich verwirrten Boyz, die sich zufällig gerade in seiner Nähe befinden."/>
+	<entry name="Orks/DoksTools" value="Schirurgischä Instrumentä"/>
+	<entry name="Orks/DoksToolsDescription" value="Stellt die Trefferpunkte der ausgewählten nicht-feindlichen Infanterieeinheit wieder her."/>
+	<entry name="Orks/DoksToolsFlavor" value="Vom Kettenskalpell über den Schädelspatel bis hin zum gut ausbalancierten Hammer: Das orktypische Operationsbesteck ist grobschlächtig, aber überraschend effektiv."/>
+	<entry name="Orks/ExperimentalProcedure" value="Experimentelle Prozedur"/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Erhöht den Schaden der ausgewählten nicht-feindlichen Infanterieeinheit und sorgt für die Schadensreduktion &quot;Verletzungen ignorieren&quot;."/>
+	<entry name="Orks/ExperimentalProcedureFlavor" value="&quot;Exponat 12: Biomechanische Ork-Modifikation. 'Cyborks' werden von den Spezialisten der Spezies - den sogenannten Oddboyz - mit Ausrüstung wie dieser modifiziert, um größere Schäden zu beseitigen und/oder ihre Fähigkeiten zu verbessern. Diese Modifikation ähnelt einer imperialen Energiewaffe, abgesehen von den großen Klauen und der Aufschrift 'Grillmek war hia!', die vermutlich vom Erschaffer stammt.&quot;<br/>  -- Lehrvortragsabschrift, Grigomen &quot;Ork-Liebhaber&quot; Delr, Freihändler und Hobbyxenologist"/>
+	<entry name="Orks/ExtraBitz" value="Extrateilä"/>
+	<entry name="Orks/ExtraBitzDescription" value="Verringert die laufenden Nahrungs-, Erz- und Energiekosten für die Infanterieeinheiten in der Region."/>
+	<entry name="Orks/ProphetOfTheWaaagh" value="Prophet des Waaagh"/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Erhöht den Einflusszuwachs, wenn Einheiten in dem Gebiet mit &quot;Recht des Stärkeren&quot; Schaden verursachen."/>
+	<entry name="Orks/ProphetOfTheWaaaghFlavor" value="&quot;Ich bin die Hand von Gork un' Mork. Die ham mich geschickt, damit ich die Boyz so mach, dass se mosch'n un' töt'n. Die ham nämlich vergess'n, warum se hia sin'... Wegen mia rollt der Waaagh un' ganze Welt'n brenn' unta mein' Stief'ln. Ich bin Warlord Ghazghkull Mag Uruk Thraka un' aus mia sprech'n die Götta.&quot;<br/>  -- Ghazghkull Mag Uruk Thraka, Warlord der Orks"/>
+	<entry name="Orks/Warpath" value="Kriegspfad"/>
+	<entry name="Orks/WarpathDescription" value="Erhöht die Anzahl der Nahkampfangriffe der nicht-feindlichen Zieleinheit."/>
+	<entry name="Orks/WarpathFlavor" value="Der Weirdboy sorgt dafür, dass die Waaagh-Energie, die durch seinen Körper tost, auf andere Ork-Krieger um ihn herum überspringt, wodurch deren bereits streitlustiges, kriegerisches Temperament seinen Höhepunkt erreicht."/>
+	<entry name="Overwatch" value="Abwehrfeuer"/>
+	<entry name="OverwatchDescription" value="Feindliche Einheiten, die in Angriffsreichweite geraten, werden angegriffen."/>
+	<entry name="PowerOfTheMachineSpirit" value="Macht des Maschinengeistes"/>
+	<entry name="PowerOfTheMachineSpiritDescription" value="Erhöht die Fernkampfgenauigkeit."/>
+	<entry name="PowerOfTheMachineSpiritFlavor" value="Die Schnittstelle zwischen dem weit entwickelten Maschinengeist des Fahrzeugs und seinen Feuerleitmechanismen ermöglicht es der Besatzung, den Feind mit einer unglaublichen Genauigkeit unter Beschuss zu nehmen."/>
+	<entry name="PowerStrike" value="Kraftvoller Angriff"/>
+	<entry name="PowerStrikeDescription" value="Der Captain bündelt all seine Stärke für einen wuchtigen Angriff mit seinem Energieschwert."/>
+	<entry name="PowerStrikeFlavor" value="&quot;Mein Schwert steht unter dem Befehl des Imperators. Ich verneige mich vor keinem anderen Menschen, sei er lebendig oder tot.&quot; -- Tu'shan, Chapter Master von den Salamanders"/>
+	<entry name="ProduceUnit" value="%1% produzieren"/>
+	<entry name="ProduceUnitHint" value="<style name='Title'/>%1%%2% produzieren<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="RazeBuilding" value="Gebäude abreißen"/>
+	<entry name="RazeBuildingDescription" value="Reißt das Zielgebäude ab."/>
+	<entry name="RitesOfWar" value="Riten des Krieges"/>
+	<entry name="RitesOfWarDescription" value="Erhöht den Schaden des Chaplains und der angrenzenden nicht-feindlichen Einheiten."/>
+	<entry name="RitesOfWarFlavor" value="Aufgrund von heiligen Eiden sind der Chaplain und seine Krieger dem Imperium moralisch verpflichtet. Vor dem Orden und dem Imperator haben sie geschworen, um jeden Preis zu obsiegen."/>
+	<entry name="RollOverThem" value="&quot;Überrollt sie!&quot;"/>
+	<entry name="RollOverThemDescription" value="Überrollt die feindliche Zieleinheit."/>
+	<entry name="RollOverThemFlavor" value="Wenn keine Maßnahme fruchtet, kann man vielleicht mithilfe der Schwerkraft und des enormen Gewichts eines Fahrzeugs die unüberwindbare Verteidigung des Feindes zerstören. Funktioniert auch bei zähen feindlichen Kämpfern..."/>
+	<entry name="ReturnToTheShadows" value="Rückkehr in die Schatten"/>
+	<entry name="ReturnToTheShadowsDescription" value="Sorgt für eine Schadensreduktion."/>
+	<entry name="ReturnToTheShadowsFlavor" value="Wer von der Leere geküsst wurde, kann bei einem todbringenden Hinterhalt problemlos in die Schatten dahinschwinden."/>
+	<entry name="SciersGaze" value="Seherblick"/>
+	<entry name="SciersGazeDescription" value="Deckt das Zielhexfeld und angrenzende Hexfelder auf."/>
+	<entry name="SciersGazeFlavor" value="Der Seher kann das Schlachtfeld deutlich vor seinem geistigen Auge wahrnehmen - so umfassend wie ein Falke auf der Jagd und so genau wie ein Laser. Unter seinem allwissenden Blick wirkt das Hin und Her der Armeen und Kriegsmaschinen wie das emsige Treiben von Ameisen. Aus diesem Grund kann er Truppen zur richtigen Zeit zum richtigen Ort entsenden, und sobald sie die wichtigsten Zielpositionen gesichert haben, ist der Sieg nur noch eine Frage der Zeit."/>
+	<entry name="Scout" value="Auskundschaften"/>
+	<entry name="ScoutDescription" value="Deckt alle Hexfelder in dem Gebiet auf."/>
+	<entry name="SetRallyPoint" value="Sammelpunkt festlegen"/>
+	<entry name="SetRallyPointDescription" value="Legt den Sammelpunkt für neu produzierte Einheiten dieser Stadt fest."/>
+	<entry name="Shockwave" value="<string name='Weapons/Shockwave'/>"/>
+	<entry name="ShockwaveFlavor" value="<string name='Weapons/ShockwaveFlavor'/>"/>
+	<entry name="Shop" value="Shop"/>
+	<entry name="ShopDescription" value="Ermöglicht den Einkauf und Verkauf von Gegenständen im Tausch für Einfluss. Verfügbar im Jokaero-Handelslager."/>
+	<entry name="SiegeMasters" value="Belagerungsmeister anwenden"/>
+	<entry name="SiegeMastersDescription" value="Eine Ordenstaktik, die den Schaden von Einheiten erhöht, die feindliche Einheiten in Städten und Befestigungsanlagen angreifen."/>
+	<entry name="SiegeMastersFlavor" value="&quot;Eine umzingelte Festung stellt nicht länger ein Hindernis dar, und eine zerstörte Festung nicht länger eine Bedrohung. Lasst diesen Unterschied nie außer Acht.&quot;<br/>  -- Leman Russ, Primarch der Space Wolves"/>
+	<entry name="Signum" value="Signum"/>
+	<entry name="SignumDescription" value="Erhöht die Fernkampfgenauigkeit."/>
+	<entry name="SignumFlavor" value="Das Signum ist ein Kommunikationsgerät, das Zieldaten rasch verarbeitet und versendet. Diese altehrwürdige Vorrichtung erlaubt es einem Mitglied eines Squads der Space Marines, mit höherer Genauigkeit zu schießen und ein Ziel mit unfehlbaren Schüssen zu bekämpfen."/>
+	<entry name="Skip" value="Überspringen"/>
+	<entry name="SkipDescription" value="Die Runde wird übersprungen."/>
+	<entry name="Sleep" value="Anhalten"/>
+	<entry name="SleepDescription" value="Hält die Produktion an, bis der Befehl wieder aufgehoben wird."/>
+	<entry name="SpaceSlip" value="Raumdrift"/>
+	<entry name="SpaceSlipDescription" value="Sorgt für eine Schadensreduktion."/>
+	<entry name="SpawnUnits" value="%1% hervorbringen"/>
+	<entry name="SpawnUnitsHint" value="<style name='Title'/>Bringt die Einheit %1%%2% hervor<style name='Default'/><br/>%3%%4%%5%%6%%7%%8%%9%"/>
+	<entry name="StrikeAndShroud" value="&quot;Feuern und nebeln!&quot;"/>
+	<entry name="StrikeAndShroudDescription" value="Erzeugt eine Nebelwand auf dem Hexfeld des Tank Commanders sowie auf angrenzenden Hexfeldern mit nicht-feindlichen Panzereinheiten und sorgt damit für eine Fernkampf-Schadensreduktion."/>
+	<entry name="SummaryExecution" value="Exemplarische Exekution"/>
+	<entry name="SummaryExecutionDescription" value="Ein Squad-Mitglied einer angrenzenden Infanterieeinheit wird exekutiert, um die Moral der nicht-feindlichen Einheiten in der Nähe wiederherzustellen."/>
+	<entry name="SummaryExecutionFlavor" value="Im äußersten Fall muss ein Commissar bereit sein, einen zaudernden Soldaten oder einen inkompetenten Offizier ohne Zögern zu exekutieren. Nur wenige Maßnahmen sind der Disziplin so zuträglich wie die Erschießung eines Unruhestifters oder Feiglings. Noch eindringlicher ist die Botschaft freilich, wenn ein massereaktives Boltgeschoss das Gehirn des Soldaten in einem blutigen Regen über seine erschrockenen Kameraden verteilt."/>
+	<entry name="Supersonic" value="Überschall"/>
+	<entry name="SupersonicDescription" value="Erhöht die Bewegung."/>
+	<entry name="SupersonicFlavor" value="Überschallfahrzeuge sind selbst verglichen mit durchschnittlichen Flugzeugen extrem schnell und somit in der Schlacht außerordentlich mobil."/>
+	<entry name="TacticalDoctrine" value="Taktische Doktrin anwenden"/>
+	<entry name="TacticalDoctrineDescription" value="Eine Ordenstaktik, die die Genauigkeit der Tactical Squads erhöht."/>
+	<entry name="TacticalDoctrineFlavor" value="&quot;Sie sollen reinen Herzens und voller Kraft sein, unberührt von jedem Zweifel und jeder Selbstherrlichkeit. Sie werden wie helle Sterne am Firmament der Schlacht strahlen, Engel des Todes, die mit ihren leuchtenden Flügeln Tod und Verderben über die Feinde der Menschheit bringen. So soll es in tausend Jahren tausendmal geschehen, bis zum Ende der Zeit und bis zur Auslöschung allen sterblichen Fleisches.&quot;<br/>  -- Codex Astartes, Roboute Guillaume, Primarch der Ultramarines, Lord Commander und Imperialer Regent"/>
+	<entry name="TelekineDome" value="Telekinetischer Schild"/>
+	<entry name="TelekineDomeDescription" value="Erschafft eine Barriere auf dem Hexfeld des Librarians sowie auf angrenzenden Hexfeldern und sorgt damit für eine Fernkampf-Schadensreduktion."/>
+	<entry name="TelekineDomeFlavor" value="Wenn der Psioniker eine Barriere aus schimmernder Energie um sich herum erzeugt, prallen Geschosse wie aus dem Nichts einfach ab und sind somit unwirksam."/>
+	<entry name="TheFleshIsWeak" value="Das Fleisch ist schwach anwenden"/>
+	<entry name="TheFleshIsWeakDescription" value="Eine Ordenstaktik, die für eine Schadensreduktion bei Infanterieeinheiten sorgt."/>
+	<entry name="TheFleshIsWeakFlavor" value="&quot;Wir wurden schwer verwundet. Doch wir stehen noch immer, mit Feuer in unseren Augen und Mut in unseren Herzen. Sollen sie uns für geschlagen halten, wir werden sie eines Besseren belehren.&quot;<br/>  -- Pedro Kantor, Chapter Master der Crimson Fists"/>
+	<entry name="TurboBoost" value="Turboboost"/>
+	<entry name="TurboBoostDescription" value="Erhöht die Bewegung."/>
+	<entry name="Tyranids/AcquireTile" value="Hexfeld einverleiben (Tyraniden)"/>
+	<entry name="Tyranids/AcquireTileDescription" value="Erweitert die Stadt um ein neues Hexfeld, entzieht dem Hexfeld die Biomasse und verwandelt es so in Felsboden. Gebäude können nur auf einverleibten Hexfeldern errichtet werden. Den Besitzanspruch auf ein Hexfeld aufrechtzuerhalten, kostet laufend Einfluss."/>
+	<entry name="Tyranids/AdaptiveBiology" value="Adaptive Biologie"/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Erhöht nach dem Erleiden von Schaden für diese Runde die Schadensreduktion &quot;Verletzungen ignorieren&quot;."/>
+	<entry name="Tyranids/AdaptiveBiologyFlavor" value="Dieser Held wurde so gezüchtet, dass er den Waffen, die von den Verteidigern der Beutewelt eingesetzt werden, etwas entgegenzusetzen hat."/>
+	<entry name="Tyranids/AlphaWarrior" value="Leitbestie"/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Erhöht die Genauigkeit aller verbündeten Tyranidenkrieger in Reichweite."/>
+	<entry name="Tyranids/AlphaWarriorFlavor" value=""/>
+	<entry name="Tyranids/BroodProgenitor" value="Brutvater"/>
+	<entry name="Tyranids/BroodProgenitorDescription" value="Verbündete Termaganten in Reichweite erhalten zusätzliche Angriffe, nachdem sie Schaden erlitten haben."/>
+	<entry name="Tyranids/BroodProgenitorFlavor" value=""/>
+	<entry name="Tyranids/Catalyst" value="Katalyst"/>
+	<entry name="Tyranids/CatalystDescription" value="Stellt die Trefferpunkte des Tervigons und der verbündeten Zieleinheit wieder her."/>
+	<entry name="Tyranids/CatalystFlavor" value="Die Macht des Schwarmbewusstseins strömt durch die synaptischen Kanäle in die Organismen unter seiner Kontrolle und stärkt ihre Körper mit so unnatürlicher Lebenskraft, dass sie selbst schwerste Verwundungen einfach abschütteln können."/>
+	<entry name="Tyranids/ClearTile" value="Hexfeld räumen (Tyraniden)"/>
+	<entry name="Tyranids/ClearTileDescription" value="Entfernt nach und nach Stahlkraut, imperiale Ruinen und Wälder vom Hexfeld."/>
+	<entry name="Tyranids/ConstructTunnel" value="<string name='Units/Tyranids/Tunnel'/> errichten"/>
+	<entry name="Tyranids/ConstructTunnelFlavor" value="<string name='Units/Tyranids/TunnelFlavor'/>"/>
+	<entry name="Tyranids/ConsumeTile" value="Dem Hexfeld die Biomasse entziehen"/>
+	<entry name="Tyranids/ConsumeTileDescription" value="Entzieht dem Hexfeld die Biomasse und verwandelt es so in Felsboden."/>
+	<entry name="Tyranids/ConsumeTileFlavor" value=""/>
+	<entry name="Tyranids/Dominion" value="Herrschaft"/>
+	<entry name="Tyranids/DominionDescription" value="Erhöht den Radius von Synapsenverbindungen und die Generierung von Loyalität in allen Städten."/>
+	<entry name="Tyranids/DominionFlavor" value="Der Tyranid setzt seine außerordentliche psionische Macht ein, um den Willen des Schwarmbewusstseins zu kanalisieren und zu verstärken."/>
+	<entry name="Tyranids/ExploitWeaknesses" value="Schwächen ausnutzen"/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Der Alphakrieger verringert die Panzerung der feindlichen Zieleinheit."/>
+	<entry name="Tyranids/ExploitWeaknessesFlavor" value=""/>
+	<entry name="Tyranids/GraspingTail" value="Greifschwanz"/>
+	<entry name="Tyranids/GraspingTailDescription" value="Der Malantroph verringert die Anzahl der Angriffe der feindlichen Zieleinheit."/>
+	<entry name="Tyranids/GraspingTailFlavor" value=""/>
+	<entry name="Tyranids/HiveCommander" value="Schwarmführer"/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Der Schwarmtyrant erhöht seinen Schaden und die Schadensreduktion. Seine Angriffe werden akkumuliert, wenn Gegner in einem Radius von 3 Hexfeldern sterben."/>
+	<entry name="Tyranids/HiveCommanderFlavor" value=""/>
+	<entry name="Tyranids/IndescribableHorror" value="Unbeschreiblicher Schrecken"/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Der Schwarmtyrant verringert in jeder Runde die Moral angrenzender feindlicher Einheiten."/>
+	<entry name="Tyranids/IndescribableHorrorFlavor" value=""/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Instinktives Verhalten aufheben"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Die Aufmerksamkeit des Schwarmbewusstseins wird vorübergehend darauf fokussiert, instinktives Verhalten aufzuheben."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourOverrideFlavor'/>"/>
+	<entry name="Tyranids/LivingBatteringRam" value="Lebender Rammbock"/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Erhöht den Schaden."/>
+	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Tyranids/LivingIncubator" value="Lebender Inkubator"/>
+	<entry name="Tyranids/LivingIncubatorDescription" value="Bringt Termaganten hervor."/>
+	<entry name="Tyranids/LivingIncubatorFlavor" value="Ein Gegner, der einen Tervigon im Nahkampf angreift, wird sich schnell mit Wellen dahinjagender Termaganten konfrontiert sehen. Ein derartiger Kampf ist schrecklich mitanzusehen, denn ein Tervigon kann sehr viel Verstärkung hervorbringen, und seine Rotten werden vom Verlangen, ihren Erzeuger zu beschützen, beinahe in die Raserei getrieben."/>
+	<entry name="Tyranids/MassIncubation" value="Masseninkubation"/>
+	<entry name="Tyranids/MassIncubationDescription" value="Die Kosten für &quot;Lebender Inkubator&quot; werden entfernt."/>
+	<entry name="Tyranids/MassIncubationFlavor" value=""/>
+	<entry name="Tyranids/Onslaught" value="Aufpeitschen"/>
+	<entry name="Tyranids/OnslaughtDescription" value="Erhöht die Bewegung."/>
+	<entry name="Tyranids/OnslaughtFlavor" value="Die Synapsenkreatur ergreift mit ihrem Bewusstsein die Kontrolle über die Waffensymbionten der niederen Kreaturen und leitet ihr Feuer, während sie gleichzeitig die Schwärme mit halsbrecherischer Geschwindigkeit dem Feind entgegentreibt."/>
+	<entry name="Tyranids/Paroxysm" value="Nervenschock"/>
+	<entry name="Tyranids/ParoxysmDescription" value="Verringert die Genauigkeit der feindlichen Zieleinheit."/>
+	<entry name="Tyranids/ParoxysmFlavor" value="Das Schwarmbewusstsein schwächt seine Feinde, indem es jeden Nerv und jeden Schmerzrezeptor in ihren Körpern ansteuert, sodass ihre Sinne von aufreibenden Schmerzanfällen überwältigt werden."/>
+	<entry name="Tyranids/PsychicScream" value="<string name='Weapons/PsychicScream'/>"/>
+	<entry name="Tyranids/PsychicScreamFlavor" value="<string name='Weapons/PsychicScreamFlavor'/>"/>
+	<entry name="Tyranids/RapaciousHunger" value="Rasender Hunger"/>
+	<entry name="Tyranids/RapaciousHungerDescription" value="Erhöht die Anzahl der Angriffe des Haruspex."/>
+	<entry name="Tyranids/RapaciousHungerFlavor" value=""/>
+	<entry name="Tyranids/ReclaimUnit" value="Einheit rückverwandeln"/>
+	<entry name="Tyranids/ReclaimUnitDescription" value="Eine Tyranideneinheit rückverwandeln, um auf Kosten von Einfluss Biomasse zurückzugewinnen und neue Einheiten produzieren zu können."/>
+	<entry name="Tyranids/ReclaimUnitFlavor" value=""/>
+	<entry name="Tyranids/ScourgeOfTheBrood" value="Geißel der Brut"/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Erhöht den Schaden des Alphakriegers."/>
+	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value=""/>
+	<entry name="Tyranids/ShadowInTheWarp" value="Schatten im Warp"/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Verringert in jeder Runde die Moral angrenzender feindlicher Psionikereinheiten."/>
+	<entry name="Tyranids/ShadowInTheWarpFlavor" value="Die unermessliche Ausstrahlung des Schwarmbewusstseins entströmt seinen Synapsenkreaturen und erstickt die Fähigkeit der ihnen gegenüberstehenden Psioniker, ihre mystischen Kräfte einzusetzen."/>
+	<entry name="Tyranids/SporeCloud" value="Sporenwolke"/>
+	<entry name="Tyranids/SporeCloudDescription" value="Erhöht die Fernkampf-Schadensreduktion angrenzender verbündeter Einheiten."/>
+	<entry name="Tyranids/SporeCloudFlavor" value=""/>
+	<entry name="Tyranids/SubterraneanAssault" value="Unterirdischer Angriff"/>
+	<entry name="Tyranids/SubterraneanAssaultDescription" value="Ermöglicht es der Einheit, sich von einer Brutkolonie zur nächsten zu wühlen."/>
+	<entry name="Tyranids/SubterraneanAssaultFlavor" value=""/>
+	<entry name="Tyranids/SynapseCreature" value="Synapsenkreatur"/>
+	<entry name="Tyranids/SynapseCreatureDescription" value=""/>
+	<entry name="Tyranids/SynapseCreatureFlavor" value="Einige Tyraniden dienen als Leitungen oder Relaisknoten, durch die ein Teil des eisernen Willens des Schwarmbewusstseins fließt und die natürlichen Instinkte des Schwarms aufhebt."/>
+	<entry name="Tyranids/TheHorror" value="Das Grauen"/>
+	<entry name="Tyranids/TheHorrorDescription" value="Verringert die Bewegung der ausgewählten feindlichen Infanterieeinheit."/>
+	<entry name="Tyranids/TheHorrorFlavor" value="Der Synapsenkreatur entströmt die furchterregende psionische Gegenwart des Schwarmbewusstseins. Sie überflutet die Geister der Feinde der Tyraniden und lässt sie vor Angst zittern oder gar in Panik geraten."/>
+	<entry name="VectoredAfterburners" value="Schubvektorsteuerung"/>
+	<entry name="VectoredAfterburnersDescription" value="Erhöht die Bewegung und sorgt für eine Fernkampf-Schadensreduktion."/>
+</language>

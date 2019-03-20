@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdaptiveTurnTimer" value="Adaptiver Runden-Timer"/>
+	<entry name="ArcticRegionDensity" value="Arktische Regionen"/>
+	<entry name="ArcticRegionDensity0" value="Keine"/>
+	<entry name="ArcticRegionDensity1" value="Sehr wenige"/>
+	<entry name="ArcticRegionDensity2" value="Wenige"/>
+	<entry name="ArcticRegionDensity3" value="Mittel"/>
+	<entry name="ArcticRegionDensity4" value="Viele"/>
+	<entry name="ArcticRegionDensity5" value="Sehr viele"/>
+	<entry name="ArtefactDensity" value="Artefaktdichte"/>
+	<entry name="ArtefactDensity0" value="Sehr gering"/>
+	<entry name="ArtefactDensity1" value="Gering"/>
+	<entry name="ArtefactDensity2" value="Mittel"/>
+	<entry name="ArtefactDensity3" value="Hoch"/>
+	<entry name="ArtefactDensity4" value="Sehr hoch"/>
+	<entry name="DesertRegionDensity" value="Wüstenregionen"/>
+	<entry name="DesertRegionDensity0" value="Keine"/>
+	<entry name="DesertRegionDensity1" value="Sehr wenige"/>
+	<entry name="DesertRegionDensity2" value="Wenige"/>
+	<entry name="DesertRegionDensity3" value="Mittel"/>
+	<entry name="DesertRegionDensity4" value="Viele"/>
+	<entry name="DesertRegionDensity5" value="Sehr viele"/>
+	<entry name="Difficulty" value="Schwierigkeitsgrad"/>
+	<entry name="Difficulty0" value="Sehr leicht"/>
+	<entry name="Difficulty0AstraMilitarum" value="Conscript"/>
+	<entry name="Difficulty0Necrons" value="Flayed One"/>
+	<entry name="Difficulty0Orks" value="Squig"/>
+	<entry name="Difficulty0Random" value="Sehr schwach"/>
+	<entry name="Difficulty0SpaceMarines" value="Neophyt"/>
+	<entry name="Difficulty0Tyranids" value="Scarabus"/>
+	<entry name="Difficulty0FactionHint" value="%1%: Moderater Loyalitätsnachteil."/>
+	<entry name="Difficulty1" value="Leicht"/>
+	<entry name="Difficulty1AstraMilitarum" value="Soldat"/>
+	<entry name="Difficulty1Necrons" value="Krieger"/>
+	<entry name="Difficulty1Orks" value="Grot"/>
+	<entry name="Difficulty1Random" value="Schwach"/>
+	<entry name="Difficulty1SpaceMarines" value="Ordensbruder"/>
+	<entry name="Difficulty1Tyranids" value="Termagant"/>
+	<entry name="Difficulty1FactionHint" value="%1%: Geringer Loyalitätsnachteil."/>
+	<entry name="Difficulty2" value="Mittel"/>
+	<entry name="Difficulty2AstraMilitarum" value="Sergeant"/>
+	<entry name="Difficulty2Necrons" value="Immortal"/>
+	<entry name="Difficulty2Orks" value="Boy"/>
+	<entry name="Difficulty2Random" value="Durchschnittlich"/>
+	<entry name="Difficulty2SpaceMarines" value="Sergeant"/>
+	<entry name="Difficulty2Tyranids" value="Krieger"/>
+	<entry name="Difficulty2FactionHint" value="%1%: Weder Vorteile noch Nachteile."/>
+	<entry name="Difficulty3" value="Schwer"/>
+	<entry name="Difficulty3AstraMilitarum" value="Commissar"/>
+	<entry name="Difficulty3Necrons" value="Triarch Praetorian"/>
+	<entry name="Difficulty3Orks" value="Nob"/>
+	<entry name="Difficulty3Random" value="Fordernd"/>
+	<entry name="Difficulty3SpaceMarines" value="Captain"/>
+	<entry name="Difficulty3Tyranids" value="Liktor"/>
+	<entry name="Difficulty3FactionHint" value="%1%: Geringer Loyalitätsvorteil."/>
+	<entry name="Difficulty4" value="Sehr schwer"/>
+	<entry name="Difficulty4AstraMilitarum" value="General"/>
+	<entry name="Difficulty4Necrons" value="Cryptek"/>
+	<entry name="Difficulty4Orks" value="Boss"/>
+	<entry name="Difficulty4Random" value="Sehr fordernd"/>
+	<entry name="Difficulty4SpaceMarines" value="Chapter Master"/>
+	<entry name="Difficulty4Tyranids" value="Schwarmtyrant"/>
+	<entry name="Difficulty4FactionHint" value="%1%: Moderater Loyalitätsvorteil."/>
+	<entry name="Difficulty5" value="Superschwer"/>
+	<entry name="Difficulty5AstraMilitarum" value="Lord Commander"/>
+	<entry name="Difficulty5Necrons" value="Overlord"/>
+	<entry name="Difficulty5Orks" value="Waaaghboss"/>
+	<entry name="Difficulty5Random" value="Äußerst fordernd"/>
+	<entry name="Difficulty5SpaceMarines" value="Primarch"/>
+	<entry name="Difficulty5Tyranids" value="Dominatrix"/>
+	<entry name="Difficulty5FactionHint" value="%1%: Großer Loyalitätsvorteil."/>
+	<entry name="Difficulty6" value="Unschaffbar"/>
+	<entry name="Difficulty6AstraMilitarum" value="Kriegsherr"/>
+	<entry name="Difficulty6Necrons" value="Stiller König"/>
+	<entry name="Difficulty6Orks" value="Prophet von Gork und Mork"/>
+	<entry name="Difficulty6Random" value="Unbezwingbar"/>
+	<entry name="Difficulty6SpaceMarines" value="Imperator"/>
+	<entry name="Difficulty6Tyranids" value="Schwarmkönigin"/>
+	<entry name="Difficulty6FactionHint" value="%1%: Extremer Loyalitätsvorteil."/>
+	<entry name="DifficultyHint" value="Legt die Vorteile der KI fest."/>
+	<entry name="ForestDensity" value="Waldfelder"/>
+	<entry name="ForestDensity0" value="Sehr wenige"/>
+	<entry name="ForestDensity1" value="Wenige"/>
+	<entry name="ForestDensity2" value="Mittel"/>
+	<entry name="ForestDensity3" value="Viele"/>
+	<entry name="ForestDensity4" value="Sehr viele"/>
+	<entry name="GameName" value="Name der Partie"/>
+	<entry name="GameSpeed" value="Spielgeschwindigkeit"/>
+	<entry name="GameVisibility" value="Sichtbarkeit der Partie"/> 
+	<entry name="GameVisibility0" value="Nur Freunde"/>
+	<entry name="GameVisibility0Hint" value="Die Partie wird nicht öffentlich gelistet und kann nur über Freundeslisten, eine Einladung oder eine Direktverbindung betreten werden."/>
+	<entry name="GameVisibility1" value="Privat"/>
+	<entry name="GameVisibility1Hint" value="Die Partie wird nicht öffentlich gelistet und kann nur über eine Einladung oder Direktverbindung betreten werden."/>
+	<entry name="GameVisibility2" value="Öffentlich"/>
+	<entry name="GameVisibility2Hint" value="Die Partie wird öffentlich gelistet und kann von jedem Spieler betreten werden."/>
+	<entry name="ImperialRuinsDensity" value="Imperiale Ruinen"/>
+	<entry name="ImperialRuinsDensity0" value="Sehr wenige"/>
+	<entry name="ImperialRuinsDensity1" value="Wenige"/>
+	<entry name="ImperialRuinsDensity2" value="Mittel"/>
+	<entry name="ImperialRuinsDensity3" value="Viele"/>
+	<entry name="ImperialRuinsDensity4" value="Sehr viele"/>
+	<entry name="JokaeroTraderEncampmentDensity" value="Jokaero-Handelslager"/>
+	<entry name="JokaeroTraderEncampmentDensity0" value="Sehr wenige"/>
+	<entry name="JokaeroTraderEncampmentDensity1" value="Wenige"/>
+	<entry name="JokaeroTraderEncampmentDensity2" value="Mittel"/>
+	<entry name="JokaeroTraderEncampmentDensity3" value="Viele"/>
+	<entry name="JokaeroTraderEncampmentDensity4" value="Sehr viele"/>
+	<entry name="LandMass" value="Landmasse"/>
+	<entry name="LandMass0" value="Sehr gering"/>
+	<entry name="LandMass1" value="Gering"/>
+	<entry name="LandMass2" value="Mittel"/>
+	<entry name="LandMass3" value="Hoch"/>
+	<entry name="LandMass4" value="Sehr hoch"/>
+	<entry name="LordOfSkulls" value="Schädelherrscher (DLC)"/>
+	<entry name="NecronTombDensity" value="Necron-Grüfte"/>
+	<entry name="NecronTombDensity0" value="Sehr wenige"/>
+	<entry name="NecronTombDensity1" value="Wenige"/>
+	<entry name="NecronTombDensity2" value="Mittel"/>
+	<entry name="NecronTombDensity3" value="Viele"/>
+	<entry name="NecronTombDensity4" value="Sehr viele"/>
+	<entry name="OrkoidFungusDensity" value="Orkoide Pilze"/>
+	<entry name="OrkoidFungusDensity0" value="Sehr wenige"/>
+	<entry name="OrkoidFungusDensity1" value="Wenige"/>
+	<entry name="OrkoidFungusDensity2" value="Mittel"/>
+	<entry name="OrkoidFungusDensity3" value="Viele"/>
+	<entry name="OrkoidFungusDensity4" value="Sehr viele"/>
+	<entry name="Pace" value="Spielgeschwindigkeit"/>
+	<entry name="Pace0" value="Sehr schnell"/>
+	<entry name="Pace1" value="Schnell"/>
+	<entry name="Pace2" value="Standard"/>
+	<entry name="Pace3" value="Langsam"/>
+	<entry name="Pace4" value="Sehr langsam"/>
+	<entry name="Quests" value="Quests"/>
+	<entry name="RegionDensity" value="Regionen"/>
+	<entry name="RegionDensity0" value="Sehr wenige"/>
+	<entry name="RegionDensity1" value="Wenige"/>
+	<entry name="RegionDensity2" value="Mittel"/>
+	<entry name="RegionDensity3" value="Viele"/>
+	<entry name="RegionDensity4" value="Sehr viele"/>
+	<entry name="RegionSize" value="Regionengröße"/>
+	<entry name="RegionSize0" value="Sehr klein"/>
+	<entry name="RegionSize1" value="Klein"/>
+	<entry name="RegionSize2" value="Mittel"/>
+	<entry name="RegionSize3" value="Groß"/>
+	<entry name="RegionSize4" value="Sehr groß"/>
+	<entry name="RiverDensity" value="Flüsse"/>
+	<entry name="RiverDensity0" value="Sehr wenige"/>
+	<entry name="RiverDensity1" value="Wenige"/>
+	<entry name="RiverDensity2" value="Mittel"/>
+	<entry name="RiverDensity3" value="Viele"/>
+	<entry name="RiverDensity4" value="Sehr viele"/>
+	<entry name="RuinsOfVaulDensity" value="Ruinen des Vaul"/>
+	<entry name="RuinsOfVaulDensity0" value="Sehr wenige"/>
+	<entry name="RuinsOfVaulDensity1" value="Wenige"/>
+	<entry name="RuinsOfVaulDensity2" value="Mittel"/>
+	<entry name="RuinsOfVaulDensity3" value="Viele"/>
+	<entry name="RuinsOfVaulDensity4" value="Sehr viele"/>
+	<entry name="Seed" value="Spielwelt-Code"/>
+	<entry name="SimultaneousTurns" value="Gleichzeitige Züge"/>
+	<entry name="SimultaneousTurnsHint" value="Ist die Option deaktiviert, können nur Mitglieder desselben Teams ihre Aktionen gleichzeitig ausführen."/>
+	<entry name="Size" value="Größe der Spielwelt"/>
+	<entry name="Size0" value="Sehr klein"/>
+	<entry name="Size0Hint" value="%1%: Empfohlen für 2 Spieler."/>
+	<entry name="Size1" value="Klein"/>
+	<entry name="Size1Hint" value="%1%: Empfohlen für 3 Spieler."/>
+	<entry name="Size2" value="Mittel"/>
+	<entry name="Size2Hint" value="%1%: Empfohlen für 4 Spieler."/>
+	<entry name="Size3" value="Groß"/>
+	<entry name="Size3Hint" value="%1%: Empfohlen für 6 Spieler."/>
+	<entry name="Size4" value="Sehr groß"/>
+	<entry name="Size4Hint" value="%1%: Empfohlen für 8 Spieler."/>
+	<entry name="SpecialResourceDensity" value="Spezielle Ressourcenhexfelder"/>
+	<entry name="SpecialResourceDensity0" value="Sehr wenige"/>
+	<entry name="SpecialResourceDensity1" value="Wenige"/>
+	<entry name="SpecialResourceDensity2" value="Mittel"/>
+	<entry name="SpecialResourceDensity3" value="Viele"/>
+	<entry name="SpecialResourceDensity4" value="Sehr viele"/>
+	<entry name="Supplement1" value="Reinforcement Pack (DLC)"/>
+	<entry name="TropicalRegionDensity" value="Tropenregionen"/>
+	<entry name="TropicalRegionDensity0" value="Keine"/>
+	<entry name="TropicalRegionDensity1" value="Sehr wenige"/>
+	<entry name="TropicalRegionDensity2" value="Wenige"/>
+	<entry name="TropicalRegionDensity3" value="Mittel"/>
+	<entry name="TropicalRegionDensity4" value="Viele"/>
+	<entry name="TropicalRegionDensity5" value="Sehr viele"/>
+	<entry name="TurnTimer" value="Runden-Timer"/>
+	<entry name="TurnTimer0" value="Keiner"/>
+	<entry name="TurnTimer1" value="Sehr kurz (1 Minute)"/>
+	<entry name="TurnTimer2" value="Kurz (2 Minuten)"/>
+	<entry name="TurnTimer3" value="Mittel (3 Minuten)"/>
+	<entry name="TurnTimer4" value="Lang (4 Minuten)"/>
+	<entry name="TurnTimer5" value="Sehr lang (5 Minuten)"/>
+	<entry name="WildlifeDensity" value="Tiere"/>
+	<entry name="WildlifeDensity0" value="Sehr wenige"/>
+	<entry name="WildlifeDensity1" value="Wenige"/>
+	<entry name="WildlifeDensity2" value="Mittel"/>
+	<entry name="WildlifeDensity3" value="Viele"/>
+	<entry name="WildlifeDensity4" value="Sehr viele"/>
+	<entry name="WireWeedDensity" value="Felder mit Stahlkraut"/>
+	<entry name="WireWeedDensity0" value="Sehr wenige"/>
+	<entry name="WireWeedDensity1" value="Wenige"/>
+	<entry name="WireWeedDensity2" value="Mittel"/>
+	<entry name="WireWeedDensity3" value="Viele"/>
+	<entry name="WireWeedDensity4" value="Sehr viele"/>
+	<entry name="WorldSeed" value="Spielwelt-Code"/>
+	<entry name="WorldSize" value="Größe der Spielwelt"/>
+	<entry name="VolcanicRegionDensity" value="Vulkanische Regionen"/>
+	<entry name="VolcanicRegionDensity0" value="Keine"/>
+	<entry name="VolcanicRegionDensity1" value="Sehr wenige"/>
+	<entry name="VolcanicRegionDensity2" value="Wenige"/>
+	<entry name="VolcanicRegionDensity3" value="Mittel"/>
+	<entry name="VolcanicRegionDensity4" value="Viele"/>
+	<entry name="VolcanicRegionDensity5" value="Sehr viele"/>
+</language>

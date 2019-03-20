@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="<style name='ShadowedHeading'/>Stadt ist gewachsen<br/><style name='Default'/>%1% auf %2% Einwohner angewachsen."/>
+	<entry name="FactionDefeated" value="Fraktion besiegt"/>
+	<entry name="FactionDiscovered" value="Fraktion entdeckt"/>
+	<entry name="FactionDiscoveredSummary" value="<style name='ShadowedHeading'/>Fraktion entdeckt<br/><style name='Default'/>%1%."/>
+	<entry name="FeatureExploredSummary" value="<style name='ShadowedHeading'/>Kartenelement erkundet<br/><style name='Default'/>Aus %1% erlangt: %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Kartenelement entdeckt<br/><style name='Default'/>%1%."/>
+	<entry name="LordOfSkullsAppearedSummary" value="<style name='ShadowedHeading'/>%1% aufgetaucht"/>
+	<entry name="LordOfSkullsDisappearedSummary" value="<style name='ShadowedHeading'/>%1% verschwunden"/>
+	<entry name="PlayerLost" value="Niederlage!"/>
+	<entry name="PlayerLostSummary" value="<style name='ShadowedHeading'/>Fraktion besiegt<br/><style name='Default'/>%1% · %2% %3% besiegt!"/>
+	<entry name="PlayerWon" value="Sieg!"/>
+	<entry name="PlayerWonSummary" value="<style name='ShadowedHeading'/>Fraktion siegreich<br/><style name='Default'/>%1% · %2% %3% siegreich!"/>
+	<entry name="ProductionCompletedSummary" value="<style name='ShadowedHeading'/>Produktion abgeschlossen<br/><style name='Default'/>%2% von %1% produziert."/>
+	<entry name="QuestAdded" value="Quest hinzugefügt"/>
+	<entry name="QuestCompleted" value="Quest abgeschlossen"/>
+	<entry name="QuestUpdated" value="Quest aktualisiert"/>
+	<entry name="RegionDiscoveredSummary" value="<style name='ShadowedHeading'/>Region entdeckt<br/><style name='Default'/>%1%."/>
+	<entry name="ResearchCompleted" value="Forschung abgeschlossen"/>
+	<entry name="TileAcquiredSummary" value="<style name='ShadowedHeading'/>Hexfeld einverleibt<br/><style name='Default'/>%2% von %1% einverleibt."/>
+	<entry name="TileCapturedSummary" value="<style name='ShadowedHeading'/>Hexfeld eingenommen<br/><style name='Default'/>%2% von %1% eingenommen."/>
+	<entry name="TileClearedSummary" value="<style name='ShadowedHeading'/>Hexfeld geräumt<br/><style name='Default'/>%2% von Hexfeld %3% durch %1% entfernt."/>
+	<entry name="UnitAffectedSummary" value="<style name='ShadowedHeading'/>Fähigkeit eingesetzt<br/><style name='Default'/>%2% von %1% auf %3% angewandt."/>
+	<entry name="UnitAttackedSummary" value="<style name='ShadowedHeading'/>Einheit angegriffen<br/><style name='Default'/>%2% von<br/>%1% angegriffen."/>
+	<entry name="UnitCapturedSummary" value="<style name='ShadowedHeading'/>Einheit übernommen<br/><style name='Default'/>%2% von<br/>%1% übernommen."/>
+	<entry name="UnitKilledSummary" value="<style name='ShadowedHeading'/>Einheit ausgeschaltet<br/><style name='Default'/>%2% von<br/>%1% ausgeschaltet."/>
+	<entry name="UnitTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Einheit entdeckt<br/><style name='Default'/>%1%."/>
+</language>

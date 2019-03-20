@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Veteranen von Miral"/>
+	<entry name="AstraMilitarum1" value="Freikorps von Kathur"/>
+	<entry name="AstraMilitarum2" value="Garde des Wüstenplaneten Nurth"/>
+	<entry name="AstraMilitarum3" value="Eisenfaust von Stygia"/>
+	<entry name="AstraMilitarum4" value="Steinlegion von Praedis-Zeta"/>
+	<entry name="AstraMilitarum5" value="Highlander von Hammans Welt"/>
+	<entry name="AstraMilitarum6" value="Gelehrter von Perlia"/>
+	<entry name="AstraMilitarum7" value="Rächer von Cadia"/>
+	<entry name="AstraMilitarum8" value="Memorator von Tanith"/>
+	<entry name="AstraMilitarum9" value="Leibgarde von Ioline"/>
+	<entry name="AstraMilitarum10" value="Belagerer von Lelithar"/>
+	<entry name="AstraMilitarum11" value="Männer von Tourmalid"/>
+	<entry name="AstraMilitarumCount" value="12"/>
+	<entry name="Necrons0" value="Uralte Weltenwanderer"/>
+	<entry name="Necrons1" value="Goldene Harpyien"/>
+	<entry name="Necrons2" value="Hohe Garde"/>
+	<entry name="Necrons3" value="Die Auserwählten des Overlords"/>
+	<entry name="Necrons4" value="Die Anatomen"/>
+	<entry name="Necrons5" value="Iota aus dem Endlosen Schwarm"/>
+	<entry name="Necrons6" value="Zungen des Gauklers"/>
+	<entry name="Necrons7" value="Nemesis des Albtraums"/>
+	<entry name="Necrons8" value="Glut des Brennenden"/>
+	<entry name="Necrons9" value="Schatten des Eremiten"/>
+	<entry name="Necrons10" value="Dämmerung des Nachtbringers"/>
+	<entry name="NecronsCount" value="11"/>
+	<entry name="Orks0" value="Da Weird Mob"/>
+	<entry name="Orks1" value="Morks Madboyz"/>
+	<entry name="Orks2" value="Gewieftä Gitz"/>
+	<entry name="Orks3" value="Die Groß'n Jungz"/>
+	<entry name="Orks4" value="Da Vernichta"/>
+	<entry name="Orks5" value="Gorkige Jungz"/>
+	<entry name="Orks6" value="Goffwachä"/>
+	<entry name="Orks7" value="Blood Axe Gorkas"/>
+	<entry name="Orks8" value="Deathskull Graftas"/>
+	<entry name="Orks9" value="Bad Moon Flashmob"/>
+	<entry name="Orks10" value="Snakebite Wurmkillaz"/>
+	<entry name="Orks11" value="Evil Sunz Heizaz"/>
+	<entry name="OrksCount" value="12"/>
+	<entry name="SpaceMarines0" value="Unbezwingbare Garde"/>
+	<entry name="SpaceMarines1" value="Hochwürdige Taktiker"/>
+	<entry name="SpaceMarines2" value="Ehrwürdige Veteranen"/>
+	<entry name="SpaceMarines3" value="Ehrverpflichtete Hüter"/>
+	<entry name="SpaceMarines4" value="Verteidiger von Gladius"/>
+	<entry name="SpaceMarines5" value="Die Unsterblichen"/>
+	<entry name="SpaceMarines6" value="Crux Terminatus"/>
+	<entry name="SpaceMarines7" value="Imperiales Ehrenlaub"/>
+	<entry name="SpaceMarines8" value="Honoris Ballistica"/>
+	<entry name="SpaceMarines9" value="Helix Primus"/>
+	<entry name="SpaceMarines10" value="Reinheitssiegel"/>
+	<entry name="SpaceMarines11" value="Opus Machina"/>
+	<entry name="SpaceMarinesCount" value="12"/>
+	<entry name="Tyranids0" value="Die Reinlinigen"/>
+	<entry name="Tyranids1" value="Augen des Schwarms"/>
+	<entry name="Tyranids2" value="Znidozystenbrut"/>
+	<entry name="Tyranids3" value="Autophage Schnitter"/>
+	<entry name="Tyranids4" value="Akrosomische Rotte"/>
+	<entry name="Tyranids5" value="Lysosomischer Schwarm"/>
+	<entry name="Tyranids6" value="Schrecken der Flagelloiden"/>
+	<entry name="Tyranids7" value="Unersättliche Piloiden"/>
+	<entry name="Tyranids8" value="Thylakoiden-Müßiger"/>
+	<entry name="Tyranids9" value="Absorbersymbionten"/>
+	<entry name="Tyranids10" value="Hagere Jäger"/>
+	<entry name="Tyranids11" value="Beseelte Myriade"/>
+	<entry name="TyranidsCount" value="12"/>
+</language>

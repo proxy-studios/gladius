@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarumBroken0" value="&quot;Dafür bin ich nicht zum Militär gegangen!&quot;"/>
+	<entry name="AstraMilitarumBroken1" value="&quot;Die bringen uns um! Und wir können nichts gegen sie ausrichten!&quot;"/>
+	<entry name="AstraMilitarumBroken2" value="&quot;Das ist eine verfluchte Todeswelt!&quot;"/>
+	<entry name="AstraMilitarumBroken3" value="&quot;Wo ist die Verstärkung?! Wo ist-&quot;"/>
+	<entry name="AstraMilitarumBroken4" value="&quot;Lauft, Jungs, und betet, dass der Commissar euch nicht sieht!&quot;"/>
+	<entry name="AstraMilitarumBrokenCount" value="5"/>
+	<entry name="AstraMilitarumShaken0" value="&quot;Können wir beten? Oh Imperator, oh Guillaume, beschütze uns.&quot;"/>
+	<entry name="AstraMilitarumShaken1" value="&quot;Oh, verdammt. Wir brauchen bessere Schusswaffen!&quot;"/>
+	<entry name="AstraMilitarumShaken2" value="&quot;Kommandeur, wir ziehen uns zurück.&quot;"/>
+	<entry name="AstraMilitarumShaken3" value="&quot;Wenn wir bleiben, werden wir sterben. Wenn wir weglaufen, wird der Commissar uns erschießen!&quot;"/>
+	<entry name="AstraMilitarumShaken4" value="&quot;Seid mutig, Jungs, seid mutig!&quot;"/>
+	<entry name="AstraMilitarumShakenCount" value="5"/>
+	<entry name="NecronsBroken0" value="&quot;Rückrufprotokoll initiiert.&quot;"/>
+	<entry name="NecronsBroken1" value="&quot;Schadenssimulationen laufen auf 99%.&quot;"/>
+	<entry name="NecronsBroken2" value="&quot;Unsere Einheit ist in Auflösung begriffen. Wir ziehen uns zurück.&quot;"/>
+	<entry name="NecronsBroken3" value="&quot;Ihre Befehle sind nicht durchführbar, mein Lord.&quot;"/>
+	<entry name="NecronsBroken4" value="&quot;Die Gruft ruft und wir gehorchen.&quot;"/>
+	<entry name="NecronsBrokenCount" value="5"/>
+	<entry name="NecronsShaken0" value="&quot;Wir sind über die Furcht erhaben.&quot;"/>
+	<entry name="NecronsShaken1" value="&quot;Eine unterlegene Rasse würde fliehen.&quot;"/>
+	<entry name="NecronsShaken2" value="&quot;Die Alten haben bei ihnen ganze Arbeit geleistet.&quot;"/>
+	<entry name="NecronsShaken3" value="&quot;Darauf wurden wir vom Triarchat nicht vorbereitet.&quot;"/>
+	<entry name="NecronsShaken4" value="&quot;Das ist nicht möglich. Wir... verlieren?&quot;"/>
+	<entry name="NecronsShakenCount" value="5"/>
+	<entry name="NeutralBrokenCount" value="0"/>
+	<entry name="NeutralShakenCount" value="0"/>
+	<entry name="OrksBroken0" value="&quot;Jetz kämpft jeda Ork nua noch füa sich!&quot;"/>
+	<entry name="OrksBroken1" value="&quot;Ich glaub, ich hab was vergess'n... Bin gleich wieda da!&quot;"/>
+	<entry name="OrksBroken2" value="&quot;Nee... Nee, nee, nee.&quot;"/>
+	<entry name="OrksBroken3" value="&quot;AAARGH! Ich verschwindä bessa.&quot;"/>
+	<entry name="OrksBroken4" value="&quot;... Wech, wech, WECH!&quot;"/>
+	<entry name="OrksBrokenCount" value="5"/>
+	<entry name="OrksShaken0" value="&quot;Ich will nich zu den Dingan!&quot;"/>
+	<entry name="OrksShaken1" value="&quot;Mach's doch selba, Boss!&quot;"/>
+	<entry name="OrksShaken2" value="&quot;Das is nich orkig.&quot;"/>
+	<entry name="OrksShaken3" value="&quot;Ich brauch 'n Schluck Pilzbier füa mea Mut.&quot;"/>
+	<entry name="OrksShaken4" value="&quot;Ich bin nich Makari, ich will leb'n!&quot;"/>
+	<entry name="OrksShakenCount" value="5"/>
+	<entry name="SpaceMarinesBroken0" value="&quot;Der Imperator hat uns im Stich gelassen!&quot;"/>
+	<entry name="SpaceMarinesBroken1" value="&quot;Die Gensaat muss bewahrt werden!&quot;"/>
+	<entry name="SpaceMarinesBroken2" value="&quot;Zu den Verteidigungsstellungen zurückfallen lassen!&quot;"/>
+	<entry name="SpaceMarinesBroken3" value="&quot;Kämpft bis zum letzten Marine!&quot;"/>
+	<entry name="SpaceMarinesBroken4" value="&quot;Wir bringen Schande über unseren Orden!&quot;"/>
+	<entry name="SpaceMarinesBrokenCount" value="5"/>
+	<entry name="SpaceMarinesShaken0" value="&quot;Irgendwie werden wir gegen die Dunkelheit obsiegen...&quot;"/>
+	<entry name="SpaceMarinesShaken1" value="&quot;I... Ich glaube an den Imperator. Credo!&quot;"/>
+	<entry name="SpaceMarinesShaken2" value="&quot;Ich bin ein unzerstörbarer Schild, gefertigt für den Kampf gegen die Finsternis.&quot;"/>
+	<entry name="SpaceMarinesShaken3" value="&quot;... Gesegnet ist der Geist, der zu klein für Zweifel ist.&quot;"/>
+	<entry name="SpaceMarinesShaken4" value="&quot;Während unsere Feinde Luft holen, können wir uns Furcht nicht leisten.&quot;"/>
+	<entry name="SpaceMarinesShakenCount" value="5"/>
+</language>

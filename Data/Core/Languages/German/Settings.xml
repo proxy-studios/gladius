@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="Ton"/>
+	<entry name="Audio/AmbientVolume" value="Lautstärke der Umgebung"/>
+	<entry name="Audio/AmbientVolumeHint" value="Legt die Lautstärke der Umgebungsgeräusche fest."/>
+	<entry name="Audio/CinematicVolume" value="Lautstärke der Zwischensequenzen"/>
+	<entry name="Audio/CinematicVolumeHint" value="Legt die Lautstärke der Zwischensequenzen fest."/>
+	<entry name="Audio/EffectVolume" value="Lautstärke der Soundeffekte"/>
+	<entry name="Audio/EffectVolumeHint" value="Legt die Lautstärke der Soundeffekte fest."/>
+	<entry name="Audio/EnvironmentalProcessing" value="Umgebungsverarbeitung"/>
+	<entry name="Audio/EnvironmentalProcessingHint" value="Beim Abspielen der Umgebungsgeräusche wirkt die Spielwelt auf die Geräuschkulisse ein (Wiederhall, Dämpfung/Absorption durch Objekte usw.). Ohne diese Funktion können Sie die Richtung jeder Geräuschquelle besser einordnen, allerdings fällt es Ihnen schwerer, die Entfernung der Geräuschquellen zu erahnen. Zudem können Sie anhand der Geräusche nicht auf die Beschaffenheit der Umgebung schließen.<br/><br/><style color='GUI/Yellow'/>Kann den Computer verlangsamen."/>
+	<entry name="Audio/HRTF" value="HRTF"/>
+	<entry name="Audio/HRTFHint" value="Aktiviert die Head-Related Transfer Function (deutsch: Außenohrübertragungsfunktion).<br/><br/>HRTF kann das räumliche Hörvermögen mit Kopfhörern verbessern, indem spezielle Filter zum Einsatz kommen, die simulieren, wie die Geräuschwahrnehmung von der Form des Kopfes abhängig von der Richtung der Geräuschquelle beeinträchtigt wird.<br/><br/>HRTF-Mixing kann dazu führen, dass AL das Gerät für einen bestimmten Ausgabemodus umkonfiguriert und den Frequenzbereich verringert.<br/><br/><style color='GUI/Yellow'/>Hinweis: HRTF kann das Klangerlebnis mit Kopfhörern stark verbessern, ist jedoch leistungsintensiver und verschlechtert möglicherweise das Klangerlebnis mit gewöhnlichen Lautsprechern (vor allem bei Surround-Systemen)."/>
+	<entry name="Audio/InterfaceVolume" value="Lautstärke der Benutzeroberfläche"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Legt die Lautstärke der Benutzeroberfläche fest."/>
+	<entry name="Audio/MasterVolume" value="Gesamtlautstärke"/>
+	<entry name="Audio/MasterVolumeHint" value="Legt die Gesamtlautstärke fest."/>
+	<entry name="Audio/MusicVolume" value="Lautstärke der Musik"/>
+	<entry name="Audio/MusicVolumeHint" value="Legt die Lautstärke der Musik fest."/>
+	<entry name="General" value="Allgemein"/>
+	<entry name="General/AnimationSpeed" value="Animationsgeschwindigkeit"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General/AutoCycleUnits" value="Einheiten automatisch durchschalten"/>
+	<entry name="General/AutoCycleUnitsHint" value="Automatisch zur nächsten inaktiven Einheit wechseln."/>
+	<entry name="General/Language" value="Sprache"/>
+	<entry name="General/LanguageHint" value="Legt die Sprache der Texte fest.<br/><br/><style color='GUI/Red'/>Eine Änderung dieser Einstellung wird erst nach einem Neustart des Spiels wirksam."/>
+	<entry name="General/ResetTips" value="Tipps zurücksetzen"/>
+	<entry name="General/ResetTipsHint" value="Setzt die Spieltipps zurück, damit sie erneut angezeigt werden."/>
+	<entry name="General/ScrollAcceleration" value="Scroll-Beschleunigung"/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Scroll-Geschwindigkeit"/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Automatisch zu Ereignissen springen"/>
+	<entry name="General/ScrollToActionHint" value="Die Kamera wird während des Zugs der KI automatisch zu jedem Ereignis bewegt."/>
+	<entry name="General/ShowCinematics" value="Zwischensequenzen abspielen"/>
+	<entry name="General/ShowCinematicsHint" value="Sorgt dafür, dass die Zwischensequenzen abgespielt werden."/>
+	<entry name="General/ShowPerformance" value="Performance anzeigen"/>
+	<entry name="General/ShowPerformanceHint" value="Zeigt Informationen zur Performance an [STRG + F]."/>
+	<entry name="General/ShowSubtitles" value="Untertitel anzeigen"/>
+	<entry name="General/ShowSubtitlesHint" value="Bei Zwischensequenzen werden die Untertitel für die Dialoge und den Erzähler angezeigt."/>
+	<entry name="General/ShowTips" value="Tipps anzeigen"/>
+	<entry name="General/ShowTipsHint" value="Zeigt nützliche Spieltipps an."/>
+	<entry name="Network" value="Netzwerk"/>
+	<entry name="Network/ListenPort" value="Listening-Port"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="Remote-Adresse"/>
+	<entry name="Network/RemotePort" value="Remote-Port"/>
+	<entry name="Video" value="Grafik"/>
+	<entry name="Video/AnisotropicFiltering" value="Anisotropische Filterung"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Helligkeit"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Wolkenschatten"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Kontrast"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Nebeltiefe"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Schärfentiefe"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/DisplayMode" value="Anzeigemodus"/>
+	<entry name="Video/DisplayMode0" value="Vollbild [ALT + EINGABETASTE]"/>
+	<entry name="Video/DisplayMode1" value="Fenster [ALT + EINGABETASTE]"/>
+	<entry name="Video/DisplayMode2" value="Fenster ohne Leiste"/>
+	<entry name="Video/DisplayModeHint" value="Legt fest, wie das Spiel auf Ihrem Monitor dargestellt wird. Der Fenstermodus kann sich negativ auf die Performance auswirken.<br/><br/><style color='GUI/Yellow'/>Der Fenstermodus eignet sich am besten dafür, in der nativen Auflösung Ihres Monitors aufzunehmen."/>
+	<entry name="Video/FixedTimeOfDay" value="Feste Tageszeit"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Feste Tageszeit bei"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Antialiasing"/>
+	<entry name="Video/FXAAHint" value="Verringert den Treppeneffekt durch Kantenglättung mit FXAA, kann sich aber negativ auf die Performance auswirken und ist nur für leistungsstarke Grafikkarten zu empfehlen."/>
+	<entry name="Video/Gamma" value="Gamma"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/Resolution" value="Auflösung"/>
+	<entry name="Video/ResolutionHint" value="Ändert die Auflösung des Spiels. Eine hohe Auflösung sorgt für eine schärfere Darstellung der Grafik, wirkt sich jedoch stark auf die Performance aus."/>
+	<entry name="Video/ShadowQuality" value="Schattenqualität"/>
+	<entry name="Video/ShadowQuality0" value="Niedrig"/>
+	<entry name="Video/ShadowQuality1" value="Mittel"/>
+	<entry name="Video/ShadowQuality2" value="Hoch"/>
+	<entry name="Video/ShadowQualityHint" value="Legt die Größe der Shadow Map zur Generierung der Schatten fest. Eine höhere Schattenqualität sorgt für detailliertere Schatten, setzt jedoch eine leistungsfähigere Grafikkarte voraus."/>
+	<entry name="Video/ShowGrid" value="Gitternetz anzeigen"/>
+	<entry name="Video/ShowGridHint" value="Zeigt das Gitternetz in der Spielwelt an."/>
+	<entry name="Video/TextureQuality" value="Texturenqualität"/>
+	<entry name="Video/TextureQuality0" value="Niedrig"/>
+	<entry name="Video/TextureQuality1" value="Mittel"/>
+	<entry name="Video/TextureQuality2" value="Hoch"/>
+	<entry name="Video/TextureQualityHint" value="Legt die Größe der Texturen im Spiel fest. Eine höhere Texturenqualität sorgt für eine detailliertere Darstellung des Geländes und der Einheiten, verbraucht jedoch mehr VRAM (Grafikkartenspeicher).<br/><br/>Niedrig: 1 GB<br/>Mittel: 2 GB<br/>Hoch: 3 GB"/>
+	<entry name="Video/UIScale" value="UI-Größe"/>
+	<entry name="Video/UIScale0" value="100%"/>
+	<entry name="Video/UIScale1" value="125%"/>
+	<entry name="Video/UIScale2" value="150%"/>
+	<entry name="Video/UIScale3" value="175%"/>
+	<entry name="Video/UIScale4" value="200%"/>
+	<entry name="Video/UIScaleHint" value="Setzt die Größe der Benutzeroberfläche fest."/>
+	<entry name="Video/VerticalSynchronization" value="Vertikale Synchronisation"/>
+	<entry name="Video/VerticalSynchronization-1" value="Adaptiv"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Keine"/>
+	<entry name="Video/VerticalSynchronization1" value="Normal"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Passt die Aktualisierung der Bilddaten bei Ihrer Grafikkarte an die Bildwiederholfrequenz Ihres Monitors an."/>
+</language>

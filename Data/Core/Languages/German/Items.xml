@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AegisHarness" value="Aegisharnisch"/>
+	<entry name="AegisHarnessDescription" value="Wehrt den Schaden und die Effekte des nächsten feindlichen Psikraft-Angriffs gegen die Einheit ab."/>
+	<entry name="AegisHarnessFlavor" value="Dank psi-leitfähigen Fasern und schützenden Hexagrammen sind Aegisharnische vielleicht die wirkungsvollste Verteidigung des Imperiums gegen psionische Angriffe. Sie werden überwiegend vom Ordo Malleus der Inquisition auf ihrem Kreuzzug gegen das Chaos getragen."/>
+	<entry name="AdamantiumWeaveVest" value="Adamantiumweste"/>
+	<entry name="AdamantiumWeaveVestDescription" value="Erhöht die Panzerung der Einheit."/>
+	<entry name="AdamantiumWeaveVestFlavor" value="Wer unverwundbar sein möchte, sollte Dinge aus Adamantium tragen, da es sich dabei laut derzeitigem Wissensstand um das widerstandsfähigste Metall handelt. Es wird für den Bau von Terminatorrüstung sowie für die Konstruktion von Titans verwendet. In dieser Weste sind nur geringe Mengen davon enthalten, die mit Plaststahl und Ceramit verwoben wurden, aber genug, um den Träger der Weste äußerst wirksam schützen zu können."/>
+	<entry name="ArmaplasBracers" value="Armaplastarmschutz"/>
+	<entry name="ArmaplasBracersDescription" value="Erhöht die Panzerung der Einheit."/>
+	<entry name="ArmaplasBracersFlavor" value="Hierbei handelt es sich um kombinierte Armschilde, die aus demselben Material wie imperiale Plattenrüstung bestehen und die Überlebenschancen ihres Trägers etwas erhöhen. Deutlich effektiver als das Material sind jedoch die eingebauten taktischen Cogitatoren."/>
+	<entry name="BlightGrenade" value="Seuchengranate"/>
+	<entry name="BlightGrenadeDescription" value="Fügt der feindlichen Zieleinheit in jeder Runde Schaden zu."/>
+	<entry name="BlightGrenadeFlavor" value="In uralten Zeiten galt die Verwendung von Seuchengranaten als Kriegsverbrechen. In der heutigen Zeit kommen sie nur noch bei den Chaos Marines des Nurgle vermehrt zum Einsatz. Die Schrapnellsplitter der von ihnen hergestellten Seuchengranaten dringen selbst in die kleinsten Öffnungen der feindlichen Panzerung ein und hinterlassen dort tödliche Krankheitserreger."/>
+	<entry name="BlindGrenade" value="Blendgranate"/>
+	<entry name="BlindGrenadeDescription" value="Verringert die Genauigkeit der feindlichen Zieleinheit."/>
+	<entry name="BlindGrenadeFlavor" value="Blendgranaten sind komplexere Varianten von Nebelgranaten und erzeugen eine dichte, dunkelgraue Rauchwolke. Zudem kommen Infrarotstörsplitter, elektromagnetische Strahlen und Täuschkörper zum Einsatz, um feindliche Scanner zu stören. Das breite Wirkspektrum der Störung verhindert für kurze Zeit die meisten Direktangriffe."/>
+	<entry name="CombatStimulant" value="Kampfstimulanz"/>
+	<entry name="CombatStimulantDescription" value="Erhöht den Schaden der Einheit."/>
+	<entry name="CombatStimulantFlavor" value="Kampfstimulanzien wie Adrenoxin oder &quot;Aufpeitschen&quot; werden von den meisten Spezies mit Argwohn betrachtet, da für ihre Herstellung und Erprobung manchmal Unschuldige ihr Leben lassen müssen (vor allem dann, wenn dies im Rahmen des Slaanesh-Kults geschieht). Dennoch verabreichen die imperialen Streitkräfte regelmäßig Kampfstimulanzien an ihre Straflegionen und äußerst gefürchteten Eversor Assassins."/>
+	<entry name="CompendiumFlavor" value="Auch wenn die Oberfläche des Planeten Gladius Primus nach der jahrtausendelangen Besiedelung nicht mehr viele Ressourcen zu bieten hat, findet man nach wie vor einzigartige Dinge, die fahrende Händler anziehen - darunter die geheimnisvollen Jokaero. Die jüngsten Plattenverschiebungen und Warpstürme haben die zerklüftete Oberfläche noch mehr verändert, wodurch allerlei sonderbare Gegenstände zutage gefördert wurden. Wer weiß, was die Jokaero als Nächstes finden werden?"/>
+	<entry name="ConcealedWeaponSystem" value="Verstecktes Waffensystem"/>
+	<entry name="ConcealedWeaponSystemDescription" value="Erhöht die Anzahl der Angriffe der Einheit."/>
+	<entry name="ConcealedWeaponSystemFlavor" value="Eine Waffe vor dem Feind versteckt zu halten, ist eine altbewährte Taktik, und mithilfe dieses Waffensystems können Tötungsmaschinen so gut geheim gehalten werden, dass der Feind sie erst entdeckt, sobald sie eingesetzt werden. Zudem erhöht das Überraschungsmoment die Effizienz dieser Waffen enorm."/>
+	<entry name="EnduranceImplant" value="Kräftigungsimplantat"/>
+	<entry name="EnduranceImplantDescription" value="Erhöht die Bewegung der Einheit."/>
+	<entry name="EnduranceImplantFlavor" value="Dieses ungewöhnliche Implantat der Jokaero wirkt auf den Organismus seines Trägers ein, um seine biologischen Systeme zu optimieren. Er ermüdet nicht mehr, kann schneller rennen und länger kämpfen und hält allgemein länger durch - bis der Körper irgendwann überlastet ist."/>
+	<entry name="ForbiddenKnowledge" value="Verbotenes Wissen"/>
+	<entry name="ForbiddenKnowledgeDescription" value="Erhöht die Stufe der Einheit."/>
+	<entry name="ForbiddenKnowledgeFlavor" value="Dieses Behältnis aus schwarzem Gestein ist mit unzähligen uralten Ruinen verziert, die möglicherweise von den Exoditen oder von den Alten stammen. Was sich wohl darin befindet? Äonenalte Geheimnisse? Tödliche Fallen? Wundersames Wissen, das schon lange verloren geglaubt ist? Unheilige Kräfte von unheiligen Göttern? Nur wer mutig genug ist, das Behältnis zu öffnen, wird es je erfahren..."/>
+	<entry name="JokaeroDigitalWeapon" value="Jokaero-Digitalwaffe"/>
+	<entry name="JokaeroDigitalWeaponDescription" value=""/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="Digitalwaffen sind Miniaturwaffen mit beachtlicher Feuerkraft, die für gewöhnlich gut versteckt in Schmuck eingebaut sind. Sie wurden von einer primatenartigen Xenos-Rasse gefertigt, die offenbar ein angeborenes technisches Verständnis hat. Dem Imperium gelang es bisher nicht, diese Digitalwaffen nachzubauen."/>
+	<entry name="LightningGauntlet" value="Energiehandschuh"/>
+	<entry name="LightningGauntletDescription" value="Erhöht den Schaden des nächsten Nahkampfangriffs der Einheit."/>
+	<entry name="LightningGauntletFlavor" value="Energieklauen werden für gewöhnlich nur an Terminatorrüstungen angebracht und bestehen aus Adamantium-Krallen, deren blaues Schimmern verrät, dass es sich hierbei um eine Energiewaffe handelt. Vereinzelt werden kleinere Ausführungen jedoch auch von normalen Kämpfern getragen."/>
+	<entry name="ManCatcher" value="Fänger"/>
+	<entry name="ManCatcherDescription" value="Verringert die Bewegung und Genauigkeit der feindlichen Zieleinheit."/>
+	<entry name="ManCatcherFlavor" value="Ein uraltes Werkzeug zur Versklavung, dessen Stachelhalsband sein Opfer gewaltsam daran hindert zu fliehen und auch dazu genutzt werden kann, jemanden zum Reden zu bringen. Die meisten halten den Fänger für eine zu primitive Waffe, doch einige Inquisitoren beharren darauf, dass mit einem einfachen Akt der Barbarei manchmal mehr erreicht werden kann als mit zeitgemäßen Methoden."/>
+	<entry name="MourningBladeOfLazaerek" value="Trauerklinge von Lazaerek"/>
+	<entry name="MourningBladeOfLazaerekDescription" value="Alle Nahkampfwaffen der Einheit haben spaltende Klingen."/>
+	<entry name="MourningBladeOfLazaerekFlavor" value="Nur wenig ist übriggeblieben, als nach einem offensichtlich fatalen Sprung die letzten Überlebenden des Ordens der Fire Hawks im Jahre 963.M41 vom Warp verschluckt wurden. Doch einige Relikte haben die Zeiten überdauert. Diese Axt gehörte wohl einst ihrem erbitterten Großmeister Stibor Lazaerek, unter dessen Kommando die Reihen des Ordens in den verlustreichen Aufständen des Badab-Krieges dezimiert wurden."/>
+	<entry name="PoweredBolas" value="Energiebola"/>
+	<entry name="PoweredBolasDescription" value="Verringert die Bewegung und Genauigkeit der feindlichen Zieleinheit."/>
+	<entry name="PoweredBolasFlavor" value="Die Streitkräfte auf den Savannenwelten des Imperiums nutzen häufig diese traditionellen Vorrichtungen, die sie von den einheimischen Groxherds erhalten haben. Die drei Gewichte am Ende fügen dem Ziel nur wenig Schaden zu. Allerdings verfängt es sich darin und kann dann mit Leichtigkeit ausgeschaltet werden."/>
+	<entry name="PoweredGauntlet" value="Energiehandschuh"/>
+	<entry name="PoweredGauntletDescription" value="Erhöht den Nahkampfschaden der Einheit."/>
+	<entry name="PoweredGauntletFlavor" value="Der Energiehandschuh mag wie ein einfacher Stahlhandschuh mit willkürlich angebrachtem technologischem Schnickschnack aussehen, aber wie sagt man beim Administratum so schön: &quot;Caveat emptor!&quot; - &quot;Möge der Käufer sich in Acht nehmen!&quot; Es handelt sich dabei nämlich um eine Technologie der Jokaero, weswegen dieser Energiehandschuh nicht minder wirkungsvoll ist als die größeren Energiefäuste des Imperiums und Energiekrallän der Orks."/>
+	<entry name="RecoveryPackage" value="Heilungsset"/>
+	<entry name="RecoveryPackageDescription" value="Stellt die Trefferpunkte der Einheit wieder her."/>
+	<entry name="RecoveryPackageFlavor" value="Die wahllos zusammengewürfelten Komponenten dieses Medkits lassen darauf schließen, dass bei der Zusammenstellung nicht besonders viel nachgedacht wurde. Vermutlich stammt es von einem Jokaero oder Mad Dok der Orks mit einem instinktiven medizinischen Verständnis, weswegen es nichts ausmacht, dass die meisten Aufschriften nicht stimmen. Irgendwie kann damit trotzdem jede Verletzung geheilt werden. "/>
+	<entry name="StunGrenade" value="Betäubungsgranate"/>
+	<entry name="StunGrenadeDescription" value="Macht die feindliche Zieleinheit handlungsunfähig."/>
+	<entry name="StunGrenadeFlavor" value="Betäubungsgranaten sind ein altbewährtes Mittel, um die Kämpfer im Detonationsbereich mit einer lauten Explosion und einem hellen Blitz vorübergehend außer Gefecht zu setzen."/>
+	<entry name="TemporaryShield" value="Temporärer Schild"/>
+	<entry name="TemporaryShieldDescription" value="Erhöht die Panzerung der Einheit."/>
+	<entry name="TemporaryShieldFlavor" value="Tragbare Schildgeneratoren findet man bei den meisten Spezies nur selten vor, da ihre technischen Möglichkeiten begrenzt sind und für ihren Bau seltene Ressourcen benötigt werden. Außerdem brennen sie schnell durch. Allerdings sollte man nicht außer Acht lassen, dass sie selbst die stärksten Angriffe abwehren können und deswegen eigentlich unverzichtbar sind."/>
+	<entry name="VolcanisShroud" value="Volcanis-Schleier"/>
+	<entry name="VolcanisShroudDescription" value="Sorgt für eine Hexenfeuer-Schadensreduktion bei der Einheit."/>
+	<entry name="VolcanisShroudFlavor" value="Diese verbeulte, hitzeresistente Panzerung ist eigentlich für industrielle Arbeiten auf den tiefsten und gefährlichsten Ebenen von Makropolwelten gedacht, doch dann fand man heraus, dass sie auch psionische Angriffe abschwächen kann. Der Grund dafür ist nicht bekannt und es werden auch keine Experimente an der Panzerung durchgeführt, da man fürchtet, ihren sonderbaren Zauber damit zu brechen."/>
+	<entry name="ZoatHideJerkin" value="Zoatleder-Wams"/>
+	<entry name="ZoatHideJerkinDescription" value="Erhöht die Trefferpunkte und Heilungsrate der Einheit."/>
+	<entry name="ZoatHideJerkinFlavor" value="Die Zoats sind vermutlich eine mithilfe von Gentechnik erschaffene Sklavenrasse der Tyranids, die man bereits seit Generationen nur noch selten in der Galaxie antrifft. Sie sind als ungewöhnlich intelligente und charismatische Lebewesen bekannt, doch mit ihrer dichten, geschuppten Haut stellen sie auch einen unheimlich zähen Gegner dar. Eine Rüstung aus Zoatleder findet man äußerst selten, wäre jedoch auf dem Schlachtfeld ein wahrer Segen."/>
+</language>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="Arktisch"/>
+	<entry name="ArcticFlavor" value="Auf den meisten von Menschen bewohnbaren Planeten findet man an den Polen eisiges, &quot;arktisches&quot; Klima ohne Wälder vor. Auf Gladius Primus haben jedoch Beeinflussungen des Klimas vor langer Zeit dazu geführt, dass die gefrorenen Gebiete weniger regelmäßig verteilt sind."/>
+	<entry name="AstraMilitarumCity" value="Stadt des Astra Militarum"/>
+	<entry name="AstraMilitarumCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="AstraMilitarumCityFlavor" value="Hinter den hohen Mauern dieser Stadt leben die Menschen dicht an dicht, da die Landschaft um sie herum meilenweit verwüstet, verseucht und wirtschaftlich erschöpft ist. Doch jenseits davon versuchen Arbeiter, Maschinen und Soldaten der Menschen, weiter vorzustoßen, um die einst fruchtbare Oberfläche des Planeten zu &quot;terraformen&quot;."/>
+	<entry name="Bedrock" value="Felsboden"/>
+	<entry name="BedrockDescription" value=""/>
+	<entry name="BedrockFlavor" value=""/>
+	<entry name="Brush" value="Gestrüpp"/>
+	<entry name="BrushFlavor" value="Niedriges Gestrüpp findet man häufig zusammen mit Geröll und Schutt vor, der von einer menschlichen Besiedlung sowie von Invasionen der Xenos zeugt. Eine malerische Landschaft sieht anders aus, und doch sind Gebiete wie diese fruchtbar genug, um überleben zu können."/>
+	<entry name="City" value="Stadt"/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Ein Kartenelement, das die Bewegung einer Einheit abbricht und in jeder Runde Schaden verursacht."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="Coast" value="Küste"/>
+	<entry name="CoastFlavor" value="Hier findet man Ruinen der einstigen Fischereiindustrie des Imperiums vor, und manchmal direkt daneben die verlassene Sommerresidenz eines hochrangigen imperialen Bürokraten oder ein Lager verzweifelter, wilder Menschen, die überlebt haben und mit den Schätzen des Meeres weiterhin zu überleben versuchen."/>
+	<entry name="CompendiumFlavor" value="Seit nunmehr vier Milliarden Jahren existiert der Planet Gladius I in der Galaxie und viele Zivilisationen entstanden dort, um dann wieder zugrunde zu gehen. Erst waren dort die Necrontyr beheimatet, später die Alten, und dann befestigten ihre Schöpfungen - die Eldar - die Oberfläche des Planeten mit militärischen Anlagen, um gegen die Rückkehr der Necrons gewappnet zu sein. In der neueren Geschichte war Gladius eine junge Makropolwelt des Imperiums, bevor die Orks einfielen. Es ist keine große Überraschung, dass die Oberfläche des Planeten immer noch davon zeugt: Überall in der zerklüfteten Landschaft findet man Relikte der Vergangenheit vor..."/>
+	<entry name="Desert" value="Wüste"/>
+	<entry name="DesertFlavor" value="In diesen kargen Regionen fällt der Niederschlag so gering aus, dass ein Überleben nur für langsam wachsende Mikroorganismen und die fremdartigsten wasserfreien Lebensformen möglich ist. Das offene Gelände und der wolkenlose Himmel sind jedoch ideal für Solaranlagen."/>
+	<entry name="FermentationPool" value="Gärgewässer"/>
+	<entry name="FermentationPoolDescription" value="Ein Kartenelement, das die Wachstumsrate der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="FermentationPoolFlavor" value="Dieses Gewässer ist vermutlich natürlichen Ursprungs und wirkt auf die Tierwelt anziehend. Durstige Grox sollten sich jedoch davor hüten, in seine Nähe zu gelangen. Im Wasser leben ungewöhnliche Bakterien, die die Pflanzenwelt des Planeten zersetzen und lediglich eine giftige Flüssigkeit zurücklassen, die tödlich ist. Fortschrittlichere Rassen können diese Flüssigkeit sammeln und verarbeiten, um mit ihr zu handeln oder sie zu Unterhaltungszwecken zu konsumieren."/>
+	<entry name="Forest" value="Wald"/>
+	<entry name="ForestFlavor" value="Die schnell wachsenden Wälder auf Gladius Primus gedeihen zu jeder Jahreszeit und reichen förmlich in den Himmel, wodurch sie das Sichtfeld blockieren. Die Bäume mögen gewöhnlich aussehen, doch ihr Holz ist unwahrscheinlich hart, da die Wurzeln Erz aus den Tiefen des Planeten aufnehmen."/>
+	<entry name="Grassland" value="Wiese"/>
+	<entry name="GrasslandFlavor" value="Ob unberührte Ebenen oder einst besiedelte Regionen, die von unheiligen Warpenergien leergefegt wurden: Wiesen sind die fruchtbarsten Landstriche des Planeten und bestens für den Anbau von imperial genehmigten Feldfrüchten geeignet."/>
+	<entry name="GroxPasture" value="Grox-Weide"/>
+	<entry name="GroxPastureDescription" value="Ein Kartenelement, das die Nahrungs- oder Bedarfsgüterproduktion der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="GroxPastureFlavor" value="Fremdartige Geschichtenerzähler sprechen oft über die Grox - die gefährlichen Herdentiere, die man überall in den Landen der Menschen antrifft. Wo auch immer es die Menschen hinzieht, werden sie von den zähen Grox begleitet, wenn sie nicht bereits vor den Menschen dort lebten. Manch einer sagt scherzeshalber, dass die Grox die erfolgreichste Schöpfung der Alten sind."/>
+	<entry name="ImperialRuin" value="Imperiale Ruinen"/>
+	<entry name="ImperialRuinFlavor" value="Die Kolonie der Menschen diente vor der Invasion der Verteidigung und dem Abbau von Mineralen, war jedoch nicht darauf ausgelegt, den Plattenverschiebungen und Schrecken des Warp zu trotzen, die mit der Invasion der Orks einhergingen. Aus diesem Grund wurden die meisten Gebäude vom Antlitz des Planeten getilgt und diese Ruinen sind eines der wenigen verbliebenen Zeugnisse dieser Katastrophe."/>
+	<entry name="JokaeroTraderEncampment" value="Jokaero-Handelslager"/>
+	<entry name="JokaeroTraderEncampmentDescription" value="Ein Kartenelement, auf dem dort befindliche Heldeneinheiten Gegenstände kaufen und verkaufen können und das den Einfluss der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="JokaeroTraderEncampmentFlavor" value="Wenn Ihnen Ihr Leben nicht allzu viel bedeutet oder Sie sich nach einem Kick sehnen, statten Sie den Jokaero einen Besuch ab. Dieses fremdartige Volk mit orangefarbenem Fell ähnelt Orang-Utans, doch es verfügt über eine angeborene technische Kreativität, die selbst den Erfindungsgeist der Ork-Mekboyz übertrifft und wundersame Schöpfungen hervorbringt, die jenseits jeglicher Vorstellungskraft liegen. Die Herausforderung besteht darin, in ihren Besitz zu gelangen und ihren Nutzen herauszufinden, ohne zu Schaden zu kommen..."/>
+	<entry name="LightBrush" value="Buschland"/>
+	<entry name="NecronsCity" value="Stadt der Necrons"/>
+	<entry name="NecronsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="NecronsCityFlavor" value="Dank gewaltiger Obelisken, Mastabas und halbverschütteter Grüfte erinnert diese ausgedehnte Stadt an eine uralte Nekropole der Menschen. Sie ist allerdings keinesfalls verlassen, sondern voll von seelenlosen Necrons - Krieger und Maschinen aus lebendem Metall, die andere empfindungsfähige Rassen als ideale Sklavenquelle betrachten oder im schlimmsten Fall als ein Übel, das keine Daseinsberechtigung hat und beseitigt werden muss."/>
+	<entry name="NecronTomb" value="Gruft der Necrons"/>
+	<entry name="NecronTombDescription" value="Ein Kartenelement, auf dem die Necrons eine Stadt gründen können."/>
+	<entry name="NecronTombFlavor" value="Tief unter diesem unscheinbaren Flecken Land befindet sich eine Gruftstadt, in der die Necrons schlafend Jahrtausende überdauert haben. Für jemanden, der die richtigen Protokolle kennt, ist es ein Leichtes, die Erweckungsprozedur der Bewohner einer solchen Gruft einzuleiten und sie aus ihrem traumlosen Schlaf zu reißen..."/>
+	<entry name="Ocean" value="Ozean"/>
+	<entry name="OceanFlavor" value="Wer weiß, welche Schätze in die gewaltigen Ozeane von Gladius Primus gespült wurden und welche längst verschollenen Artefakte von Korallen übersät am Meeresgrund liegen, wo sonst nur hydrothermale Tiefseeschlote und lichtscheue Seeungeheuer vorzufinden sind? Niemand ist je diesen Fragen nachgegangen, da an Land genug andere Reichtümer warten."/>
+	<entry name="OreField" value="Erzvorkommen"/>
+	<entry name="OreFieldDescription" value="Ein Kartenelement, das die Erz- oder Bedarfsgüterproduktion der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="OreFieldFlavor" value="Auf einem besiedelten Planeten gibt es nur wenige Orte, an denen noch erzreiches Gestein einfach so herumliegt. Dennoch findet man immer wieder riesige Gesteinsbrocken, die vom Warpsturm aus der Planetenoberfläche gerissen wurden. Für diejenige Fraktion, die sie zuerst findet, stellen sie eine unkomplizierte Möglichkeit zur Erzgewinnung dar."/>
+	<entry name="OrkoidFungus" value="Orkoide Pilze"/>
+	<entry name="OrkoidFungusDescription" value="Ein Kartenelement, das die Nahrungsproduktion und Heilungsrate der Orks erhöht."/>
+	<entry name="OrkoidFungusFlavor" value="<string name='Traits/OrkoidFungusFlavor'/>"/>
+	<entry name="OrksCity" value="Stadt der Orks"/>
+	<entry name="OrksCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="OrksCityFlavor" value="Diese riesige Barackensiedlung wird einer Stadt kaum gerecht, wenn man die Bauwerke der Orks mit denen anderer Rassen vergleicht. Andererseits stellt sie den Höhepunkt dessen dar, was die Orks in puncto Städtewesen zu erreichen imstande sind. Behausungen aus ramponierten erbeuteten Metallplatten und Stein umgeben einen Schrottplatz voller einfältiger Moschgruben, Matsch und stinkender Pilze."/>
+	<entry name="Outpost" value="Außenposten"/>
+	<entry name="OutpostDescription" value="Ein Kartenelement, das demjenigen Spieler, der es kontrolliert, einen kleinen Ressourcenbonus einbringt."/>
+	<entry name="OutpostFlavor" value="Aufgrund der langen Geschichte von Gladius Primus findet man überall auf dem Planeten die unterschiedlichsten geologischen Merkmale sowie eine vielseitige Flora und Fauna aus der bekannten Galaxie vor. Um all das, was der Planet zu bieten hat, zu entdecken und sich zunutze zu machen, entsenden die meisten Zivilisationen kleine Gruppen, die in behelfsmäßigen Außenposten untergebracht sind."/>
+	<entry name="PromethiumRelayPipes" value="Promethium-Relaisleitungen"/>
+	<entry name="PromethiumRelayPipesDescription" value="Ein Kartenelement, das die Energiegewinnung der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="PromethiumRelayPipesFlavor" value="Diese dick ummantelten Rohre leiteten einst energiereiches Promethium aus den unterirdischen Raffinerien in die großen Städte der Menschen. Da die Städte vom Krieg und Chaos in eine Trümmerwüste verwandelt wurden, können die nach wie vor vorhandenen Rohre von derjenigen Rasse genutzt werden, die sie zuerst für sich beanspruchen kann."/>
+	<entry name="RecafLeaf" value="Rekaff-Feld"/>
+	<entry name="RecafLeafDescription" value="Ein Kartenelement, das die Loyalität der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="RecafLeafFlavor" value="Diese unscheinbaren Wildpflanzenfelder bergen ein Geheimnis: Es handelt sich dabei nämlich um eine nährstoffreiche Nahrungsquelle und zugleich um ein stimulierendes Suchtmittel, mit dessen Hilfe organische Rassen für lange Zeit ohne Schlaf und Erholung auskommen. Die Menschen nennen die Pflanze &quot;Rekaff&quot; und verteilen sie sowohl an Fabrikarbeiter als auch an Sklaven, um die Produktionsrate drastisch zu erhöhen."/>
+	<entry name="River" value="Fluss"/>
+	<entry name="RiverFlavor" value="Dieser Süßwasserlauf bahnt sich seinen Weg bis zum Meer und konzentriert den Reichtum der Berge und Felder. Infanterieregimenter interessieren sich jedoch nicht so sehr für die Schätze des Flusses, sondern vielmehr für seinen Nutzen als natürliche Verteidigungslinie."/>
+	<entry name="Rocks" value="Felsen"/>
+	<entry name="RocksFlavor" value="Diese Felsen wurden aus der seismischen Hölle des Planeten emporgestoßen und enthalten vermutlich keine Spuren organischen Lebens. Allerdings stellen sie mit ihren seltenen Mineralen eine ausgezeichnete Ressourcenquelle im Herzen von Gladius dar."/>
+	<entry name="Ruin" value="Ruinen des Vaul"/>
+	<entry name="RuinDescription" value="Ein Kartenelement, das eine Belohnung für die erste Einheit enthält, die das Hexfeld betritt, und die Generierung der Forschungspunkte in der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="RuinFlavor" value="Niemand weiß genau, um was es sich bei diesem verwitterten Gebäude handelt, das sich über die zerklüftete Planetenoberfläche erhebt. Auf jeden Fall besteht es aus demselben undurchdringlichen Material wie die seltenen Artefakte, die quer über den Planeten verstreut sind. Wenn man das Gebäude eingehend studiert, kann man vielleicht einiges herausfinden - möglicherweise birgt es ja das ein oder andere Geheimnis."/>
+	<entry name="Savanna" value="Savanne"/>
+	<entry name="SavannaFlavor" value="Hier gedeihen Wälder und Wiesen auf den hartnäckigen Ruinen der Menschen und Xenos. Der Boden ist fruchtbar und die Heimat der einzigartigen erzreichen &quot;Bäume&quot;."/>
+	<entry name="Shard" value="Fragment des Vaul"/>
+	<entry name="ShardDescription" value="Ein Kartenelement, das die Erz- oder Bedarfsgüterproduktion und die Energiegewinnung der Stadt erhöht, wenn es eingenommen wurde."/>
+	<entry name="ShardFlavor" value="Vor dem Warpsturm, als noch die Menschen über den Planeten herrschten, waren diese riesigen Konstruktionen für sie so faszinierend und respekteinflößend wie Pylonen von Cadia. Während der Warpsturm am Himmel wütet, werden die Fragmente des Vaul von einer unheilvollen Kraft zum Beben gebracht, die manch eine tollkühne Rasse sicherlich gerne zu beherrschen wüsste."/>
+	<entry name="SmokeScreen" value="Nebelwand"/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="SpaceMarinesCity" value="Stadt der Space Marines"/>
+	<entry name="SpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="SpaceMarinesCityFlavor" value="Im Gegensatz zu anderen Rassen haben die Space Marines nicht zahlreiche Städte, sondern leben in einer abgeschiedenen Klosterfestung - eine Bastion, die als religiöser Rückzugsort und auch als Waffenarsenal dient. Hier werden neue Mitglieder für das Adeptus Astartes rekrutiert, um sie dann mit uralten Technologien, die der Imperator höchstselbst entwickelt hat, schonungslos zu modifizieren."/>
+	<entry name="TelekineDome" value="Telekinetischer Schild"/>
+	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
+	<entry name="Tundra" value="Tundra"/>
+	<entry name="TundraFlavor" value="In diesen Gegenden findet man überwiegend schroffe Landschaften vor, die den einstigen menschlichen Siedlern aufgrund kurzer Vegetationsperioden und niedriger Temperaturen ein beschwerliches Leben bescherten. Der Boden ist zwar begrenzt fruchtbar, allerdings ist ein Überleben nur mit Hydrokulturen und einer intensiven Bewirtschaftung möglich."/>
+	<entry name="TyranidsCity" value="Tyranidenstadt"/>
+	<entry name="TyranidsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="TyranidsCityFlavor" value="Eine Tyranidenkolonie als &quot;Stadt&quot; zu bezeichnen, mutet etwas sonderbar an. Es handelt sich dabei eher um eine Ansammlung riesiger symbiotischer Organismen und kleinerer Kreaturen, die nicht eigenmächtig handeln, sondern von einer Schwarmkönigin gelenkt werden. Eine Tyranidenkolonie lässt sich daher eher mit einer Person und ihren Gliedmaßen vergleichen. Wenn es jedoch eine Sache gibt, die alle Rassen der Galaxie gemein haben, dann die Tatsache, dass sie die Dinge stets aus ihrer Sicht interpretieren. Und aus menschlicher Sicht handelt es sich bei einer solchen Kolonie um eine Stadt..."/>
+	<entry name="Volcanic" value="Vulkanisch"/>
+	<entry name="VolcanicFlavor" value="Der unglaublich starke unterirdische Druck, der vom Warpchaos ausgelöst wurde, führte zu seismischen Eruptionen an der Oberfläche. Ist eine Spezies bereit, ihr Leben zu riskieren (oder das ihrer Sklaven), kann sie hier große Mengen Erz abbauen."/>
+	<entry name="WireWeed" value="Stahlkraut"/>
+	<entry name="WireWeedDescription" value="Ein Kartenelement, das die Bewegung einer Einheit abbricht und in jeder Runde Schaden verursacht."/>
+	<entry name="WireWeedFlavor" value="Wehe der Einheit, die sich in dieses Dornengestrüpp begibt. Die Pflanzen ranken sich erst langsam, aber dann schneller und schneller mit ihren rasiermesserscharfen Schlingarmen um den unglückseligen Eindringling."/>
+</language>

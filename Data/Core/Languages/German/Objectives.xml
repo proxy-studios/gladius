@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateInfluenceDescription" value="Generieren Sie Einfluss (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Generieren Sie Forschungspunkte (%1%/%2%)."/>
+	<entry name="ActivateUnitDescription" value="Aktivieren Sie: %1% (%2%/1)."/>
+	<entry name="ActivateTacticDescription" value="Aktivieren Sie eine Ordenstaktik (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Übernehmen Sie: %1% (%2%/1)."/>
+	<entry name="ClearInfestationDescription" value="Zerstören Sie: %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Errichten Sie: %1% (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Errichten Sie: %1% (%2%/%3%)."/>
+	<entry name="ControlUnitDescription" value="Behalten Sie die Kontrolle über: %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Verteidigen Sie das hervorgehobene Hexfeld."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Verteidigen Sie das hervorgehobene Hexfeld (%1% Runden)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Verteidigen Sie für %1% Runden den entdeckten Zugang (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Platzieren Sie das Gebäude %1% neben einem speziellen Ressourcenhexfeld und sichern Sie die Umgebung (%2%/1)."/>
+	<entry name="DestroySpawnedCityDescription" value="Zerstören Sie eine Stadt des Astra Militarum (%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Schicken Sie Einheiten unter die Planetenoberfläche:"/>
+	<entry name="FoundCityDescription" value="Gründen Sie eine neue Stadt (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Gründen Sie in einem Radius von 3 Hexfeldern um den gerade entdeckten Zugang eine neue Stadt."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Wenden Sie &quot;Rapider Anstieg&quot; für die Kriegerproduktion an (%1%/1)."/>
+	<entry name="KillCampDescription" value="Besiegen Sie das feindliche Lager (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Zerstören Sie die rebellierende Festung der Erlösung (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Vernichten Sie die rebellierende Necron-Armee (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Besiegen Sie innerhalb von %2% Runden den rebellierenden Techpriester und sein Eliteroboterkontingent (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Besiegen Sie das feindliche Lager (noch %1% Runden)."/>
+	<entry name="KillLordOfSkullsActiveDescription" value="Schalten Sie innerhalb von %4% Runden den %1% aus (%2%/%3%)."/>
+	<entry name="KillLordOfSkullsInactiveDescription" value="Warten Sie, bis der %1% in diese Welt zurückkehrt (0/1)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Schalten Sie verstreute Einheiten aus (%1%/%2%)."/>
+	<entry name="KillUnitDescription" value="Schalten Sie aus: %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Schalten Sie einheimische Xenos aus (%1%/%2%)."/>
+	<entry name="ProduceUnitDescription" value="Produzieren Sie: %1% (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Generieren Sie %1% Bedarfsgüter pro Runde (aktuell: %2%) (%3%/1)."/>
+	<entry name="ReachLevelDescription" value="Erreichen Sie mit der Einheit %1% Stufe %2% (%3%/1)."/>
+	<entry name="RecoverArcheotechDescription" value="Sammeln Sie Artefakte (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Retten Sie verstreute Einheiten (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Erforschen Sie: %1% (%2%/%3%)."/>
+	<entry name="ScanTilesDescription" value="Benutzen Sie auf hervorgehobenen Hexfeldern: %1% (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Erlassen Sie eine Stadtverordnung (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Überleben Sie die Invasion (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Überleben Sie %1% Runden lang die Invasion (%2%/1)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Betreten Sie das hervorgehobene Hexfeld und sichern Sie die Umgebung (%1%/%2%)."/>
+	<entry name="VisitTileDescription" value="Betreten Sie das hervorgehobene Hexfeld (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Betreten Sie mit der Einheit %1% das hervorgehobene Hexfeld (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Betreten Sie mit der Einheit %1% das hervorgehobene Hexfeld und sichern Sie die Umgebung (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Betreten Sie mit der Einheit %1% das hervorgehobene Hexfeld (%2%/%3%)."/>
+</language>

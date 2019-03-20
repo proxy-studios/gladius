@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarumArtefact0" value="&quot;Stammt das von den Xenos?&quot;"/>
+	<entry name="AstraMilitarumArtefactCount" value="1"/>
+	<entry name="AstraMilitarumAttack0" value="&quot;Gebt alles!&quot;"/>
+	<entry name="AstraMilitarumAttack1" value="&quot;Aktiviert die Laser, wir können es schaffen.&quot;"/>
+	<entry name="AstraMilitarumAttack2" value="&quot;Kann jemand sehen, auf was wir eigentlich schießen?&quot;"/>
+	<entry name="AstraMilitarumAttack3" value="&quot;Vor uns der Feind und in unserem Rücken der Commissar...&quot;"/>
+	<entry name="AstraMilitarumAttackCount" value="4"/>
+	<entry name="AstraMilitarumBroken0" value="&quot;Dafür bin ich nicht zum Militär gegangen!&quot;"/>
+	<entry name="AstraMilitarumBroken1" value="&quot;Die bringen uns um! Und wir können nichts gegen sie ausrichten!&quot;"/>
+	<entry name="AstraMilitarumBroken2" value="&quot;Das ist eine verfluchte Todeswelt!&quot;"/>
+	<entry name="AstraMilitarumBroken3" value="&quot;Wo ist die Verstärkung?! Wo ist-&quot;"/>
+	<entry name="AstraMilitarumBroken4" value="&quot;Lauft, Jungs, und betet, dass der Commissar euch nicht sieht!&quot;"/>
+	<entry name="AstraMilitarumBrokenCount" value="5"/>
+	<entry name="AstraMilitarumCover0" value="&quot;Wieder in Deckung, dem Gott-Imperator sei Dank.&quot;"/>
+	<entry name="AstraMilitarumCoverCount" value="1"/>
+	<entry name="AstraMilitarumEnemyFactionAstraMilitarum0" value="&quot;Verräter oder Häretiker. Man kann ihnen nicht trauen.&quot;"/>
+	<entry name="AstraMilitarumEnemyFactionAstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarumEnemyFactionNecrons0" value="&quot;Ich dachte mir schon immer, dass dieser Planet verflucht ist... aber von unten?&quot;"/>
+	<entry name="AstraMilitarumEnemyFactionNecronsCount" value="1"/>
+	<entry name="AstraMilitarumEnemyFactionSpaceMarines0" value="&quot;Die Emperor's Own... in ihren Augen und für ihre Ziele sind wir nichts.&quot;"/>
+	<entry name="AstraMilitarumEnemyFactionSpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/Enslaver0" value="&quot;Enslavers?! Oh Imperator, beschütze uns!&quot;"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/CatachanDevil0" value="&quot;Verdammt, wo sind die Dschungelkämpfer, wenn man sie braucht?&quot;"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/CatachanDevilCount" value="1"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/Psychneuein0" value="&quot;Große Käfer von Prospero... Sie müssen von den Psionikern ferngehalten werden!&quot;"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/KastelanRobot0" value="&quot;Sind das nicht unsere Roboter?&quot;"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/KastelanRobotCount" value="1"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/LordOfSkulls0" value="&quot;Das Chaos! Hier?&quot;"/>
+	<entry name="AstraMilitarumEnemyUnitNeutral/LordOfSkullsCount" value="1"/>
+	<entry name="AstraMilitarumHurt0" value="&quot;Wir sind erledigt, Sir.&quot;"/>
+	<entry name="AstraMilitarumHurtCount" value="1"/>
+	<entry name="AstraMilitarumIdle0" value="&quot;Sir, jawohl, Sir!&quot;"/>
+	<entry name="AstraMilitarumIdle1" value="&quot;Wie hoch, Sir?&quot;"/>
+	<entry name="AstraMilitarumIdle2" value="&quot;Ich höre Sie laut und deutlich, Sir!&quot;"/>
+	<entry name="AstraMilitarumIdle3" value="&quot;Für Guillaume und den Imperator!&quot;"/>
+	<entry name="AstraMilitarumIdle4" value="&quot;Beim Goldenen Thron...!&quot;"/>
+	<entry name="AstraMilitarumIdle5" value="&quot;Wir spielen nur Karten, um die Zeit totzuschlagen, Sir.&quot;"/>
+	<entry name="AstraMilitarumIdle6" value="&quot;Achtung, der Commissar kommt!&quot;"/>
+	<entry name="AstraMilitarumIdle7" value="&quot;Die trügerische Stille vor der Schlacht ist das Schlimmste.&quot;"/>
+	<entry name="AstraMilitarumIdle8" value="&quot;Das Leben in der Armee ist wirklich hart, Sir.&quot;"/>
+	<entry name="AstraMilitarumIdleCount" value="9"/>
+	<entry name="AstraMilitarumQuestStory0" value="&quot;Ich kann immer noch nicht glauben, dass wir überlebt haben. So viele...&quot;"/>
+	<entry name="AstraMilitarumQuestStory0Count" value="1"/>
+	<entry name="AstraMilitarumQuestStory1" value="&quot;Sorgen wir dafür, dass diese Armee wieder auf die Beine kommt, Sir.&quot;"/>
+	<entry name="AstraMilitarumQuestStory1Count" value="1"/>
+	<entry name="AstraMilitarumQuestStory2" value="&quot;Eine neue Stadt? Ist das wirklich... Nein, Sir, ich stelle Ihre Befehle nicht infrage, Sir!&quot;"/>
+	<entry name="AstraMilitarumQuestStory2Count" value="1"/>
+	<entry name="AstraMilitarumQuestStory3" value="&quot;Ich habe Kopfschmerzen von diesen Stürmen. Werden wir hier für immer festsitzen?&quot;"/>
+	<entry name="AstraMilitarumQuestStory3Count" value="1"/>
+	<entry name="AstraMilitarumQuestStory4" value="&quot;Sie sind in der Stadt! Zurück!&quot;"/>
+	<entry name="AstraMilitarumQuestStory4Count" value="1"/>
+	<entry name="AstraMilitarumQuestStory5" value="&quot;Mutter hat immer gesagt, dass man einem Techpriester nicht trauen kann und dass ich immer mein Soylens essen soll. Wie recht sie doch hatte...&quot;"/>
+	<entry name="AstraMilitarumQuestStory5Count" value="1"/>
+	<entry name="AstraMilitarumShaken0" value="&quot;Können wir beten? Oh Imperator, oh Guillaume, beschütze uns.&quot;"/>
+	<entry name="AstraMilitarumShaken1" value="&quot;Oh, verdammt. Wir brauchen bessere Schusswaffen!&quot;"/>
+	<entry name="AstraMilitarumShaken2" value="&quot;Kommandeur, wir ziehen uns zurück.&quot;"/>
+	<entry name="AstraMilitarumShaken3" value="&quot;Wenn wir bleiben, werden wir sterben. Wenn wir weglaufen, wird der Commissar uns erschießen!&quot;"/>
+	<entry name="AstraMilitarumShaken4" value="&quot;Seid mutig, Jungs, seid mutig!&quot;"/>
+	<entry name="AstraMilitarumShakenCount" value="5"/>
+	<entry name="AstraMilitarumVictory0" value="&quot;Wir siegen...? Wir siegen!&quot;"/>
+	<entry name="AstraMilitarumVictory1" value="&quot;Oh, der Leitfaden hat recht behalten! Diese Xenos sind tatsächlich keine Herausforderung!&quot;"/>
+	<entry name="AstraMilitarumVictory2" value="&quot;Ha! Das fühlt sich so an, als hätten wir einen Titan mit einer Schleuder bezwungen.&quot;"/>
+	<entry name="AstraMilitarumVictory3" value="&quot;Commissar, Sir, dürfen wir feiern?&quot;"/>
+	<entry name="AstraMilitarumVictory4" value="&quot;In Gedenken an Cadia und Creed...&quot;"/>
+	<entry name="AstraMilitarumVictory5" value="&quot;Wer braucht schon die Space Marines?&quot;"/>
+	<entry name="AstraMilitarumVictory6" value="&quot;Ich liebe den Geruch von Promethium am Morgen.&quot;"/>
+	<entry name="AstraMilitarumVictory7" value="&quot;Tja, wir haben Panzer...&quot;"/>
+	<entry name="AstraMilitarumVictoryCount" value="8"/>
+	<entry name="NecronsArtefact0" value="&quot;Schrecken der Alten - in unserer Kronwelt? Wie können sie es wagen?!&quot;"/>
+	<entry name="NecronsArtefactCount" value="1"/>
+	<entry name="NecronsAttack0" value="&quot;Widerstand ist... lästig.&quot;"/>
+	<entry name="NecronsAttack1" value="&quot;Wie fühlt es sich an, wenn die Nerven Atom für Atom freigelegt werden?&quot;"/>
+	<entry name="NecronsAttack2" value="&quot;Angriff erfolgt.&quot;"/>
+	<entry name="NecronsAttack3" value="&quot;Die Geschichte wird sie vergessen.&quot;"/>
+	<entry name="NecronsAttackCount" value="4"/>
+	<entry name="NecronsBroken0" value="&quot;Rückrufprotokoll initiiert.&quot;"/>
+	<entry name="NecronsBroken1" value="&quot;Schadenssimulationen laufen auf 99%.&quot;"/>
+	<entry name="NecronsBroken2" value="&quot;Unsere Einheit ist in Auflösung begriffen. Wir ziehen uns zurück.&quot;"/>
+	<entry name="NecronsBroken3" value="&quot;Ihre Befehle sind nicht durchführbar, mein Lord.&quot;"/>
+	<entry name="NecronsBroken4" value="&quot;Die Gruft ruft und wir gehorchen.&quot;"/>
+	<entry name="NecronsBrokenCount" value="5"/>
+	<entry name="NecronsCover0" value="&quot;In Deckung.&quot;"/>
+	<entry name="NecronsCoverCount" value="1"/>
+	<entry name="NecronsEnemyFactionAstraMilitarum0" value="&quot;Schwache Kreaturen aus Fleisch und Blut, aber hervorragende Sklaven.&quot;"/>
+	<entry name="NecronsEnemyFactionAstraMilitarumCount" value="1"/>
+	<entry name="NecronsEnemyFactionOrks0" value="&quot;Wir sind auf Orks gestoßen, eine gefährliche biologische Waffe und gnadenlos effektiv.&quot;"/>
+	<entry name="NecronsEnemyFactionOrksCount" value="1"/>
+	<entry name="NecronsEnemyFactionSpaceMarines0" value="&quot;Diese Menschen sind organisch, und dennoch eher wie wir. Man darf sie nicht unterschätzen.&quot;"/>
+	<entry name="NecronsEnemyFactionSpaceMarinesCount" value="1"/>
+	<entry name="NecronsEnemyUnitNeutral/Enslaver0" value="&quot;Ein Nebeneffekt der Alten? Die Sensoren arbeiten nur auf 30%.&quot;"/>
+	<entry name="NecronsEnemyUnitNeutral/EnslaverCount" value="1"/>
+	<entry name="NecronsEnemyUnitNeutral/CatachanDevil0" value="&quot;Organisch, insektenartig, riesig. Vielleicht eine Vorform der Tyranids?&quot;"/>
+	<entry name="NecronsEnemyUnitNeutral/CatachanDevilCount" value="1"/>
+	<entry name="NecronsEnemyUnitNeutral/Psychneuein0" value="&quot;Eine Bedrohung lediglich für organische Spezies.&quot;"/>
+	<entry name="NecronsEnemyUnitNeutral/PsychneueinCount" value="1"/>
+	<entry name="NecronsEnemyUnitNeutral/KastelanRobot0" value="&quot;Ahmen uns die Menschen etwa nach? Armselige Kopien...&quot;"/>
+	<entry name="NecronsEnemyUnitNeutral/KastelanRobotCount" value="1"/>
+	<entry name="NecronsEnemyUnitNeutral/LordOfSkulls0" value="&quot;Die Sensoren müssen irren. Eine Chaosmaschine?&quot;"/>
+	<entry name="NecronsEnemyUnitNeutral/LordOfSkullsCount" value="1"/>
+	<entry name="NecronsHurt0" value="&quot;Der Schaden ist höher als erwartet... Rückholprotokolle?&quot;"/>
+	<entry name="NecronsHurtCount" value="1"/>
+	<entry name="NecronsIdle0" value="&quot;Warteprotokoll initiiert.&quot;"/>
+	<entry name="NecronsIdle1" value="&quot;Jahrtausendelang haben wir gewartet... und werden es weitere Jahrtausende tun.&quot;"/>
+	<entry name="NecronsIdle2" value="&quot;Die Maschine ist stark, das Fleisch entschwunden.&quot; "/>
+	<entry name="NecronsIdle3" value="&quot;Warum ist alles Leben so hartnäckig?&quot;"/>
+	<entry name="NecronsIdle4" value="&quot;Abschaltvorgang läuft.&quot;"/>
+	<entry name="NecronsIdle5" value="&quot;Alle Systeme betriebsbereit.&quot;"/>
+	<entry name="NecronsIdle6" value="&quot;Dieser Körper aus Metall... wird sich immer fremd anfühlen.&quot;"/>
+	<entry name="NecronsIdle7" value="&quot;Der Gaukler sei verflucht... für alle Zeiten!&quot;"/>
+	<entry name="NecronsIdleCount" value="8"/>
+	<entry name="NecronsQuestStory0" value="&quot;Suche nach Spuren der Alten läuft.&quot;"/>
+	<entry name="NecronsQuestStory0Count" value="1"/>
+	<entry name="NecronsQuestStory1" value="&quot;Praetorians und Crypteks? Unsere Streitmacht wächst.&quot;"/>
+	<entry name="NecronsQuestStory1Count" value="1"/>
+	<entry name="NecronsQuestStory2" value="&quot;Die geistlosen Necrons sind bemitleidenswerte Geschöpfe, da sie unter dem Fluch der C'tan leiden.&quot;"/>
+	<entry name="NecronsQuestStory2Count" value="1"/>
+	<entry name="NecronsQuestStory3" value="&quot;Diese armseligen Geschöpfe der Alten jagen? Ja... mein Lord.&quot;"/>
+	<entry name="NecronsQuestStory3Count" value="1"/>
+	<entry name="NecronsQuestStory4" value="&quot;Wo sind die Praetorians?&quot;"/>
+	<entry name="NecronsQuestStory4Count" value="1"/>
+	<entry name="NecronsQuestStory5" value="&quot;Mephet'ran? Bote! Gaukler! Seelenrauber!&quot;"/>
+	<entry name="NecronsQuestStory5Count" value="1"/>
+	<entry name="NecronsShaken0" value="&quot;Wir sind über die Furcht erhaben.&quot;"/>
+	<entry name="NecronsShaken1" value="&quot;Eine unterlegene Rasse würde fliehen.&quot;"/>
+	<entry name="NecronsShaken2" value="&quot;Die Alten haben bei ihnen ganze Arbeit geleistet.&quot;"/>
+	<entry name="NecronsShaken3" value="&quot;Darauf wurden wir vom Triarchat nicht vorbereitet.&quot;"/>
+	<entry name="NecronsShaken4" value="&quot;Das ist nicht möglich. Wir... verlieren?&quot;"/>
+	<entry name="NecronsShakenCount" value="5"/>
+	<entry name="NecronsVictory0" value="&quot;Wie erwartet haben wir obsiegt.&quot;"/>
+	<entry name="NecronsVictory1" value="&quot;Mein Lord, der Feind hat sich als schwach erwiesen.&quot;"/>
+	<entry name="NecronsVictory2" value="&quot;Welch kraftloses Fleisch die Alten erschaffen haben...&quot;"/>
+	<entry name="NecronsVictory3" value="&quot;Eliminiert.&quot;"/>
+	<entry name="NecronsVictory4" value="&quot;Für den Stillen König und für meinen Lord.&quot;"/>
+	<entry name="NecronsVictory5" value="&quot;Sie haben die Necrons kennengelernt... und die Angst.&quot;"/>
+	<entry name="NecronsVictory6" value="&quot;Ein solch leichter Sieg ist... unbefriedigend.&quot;"/>
+	<entry name="NecronsVictory7" value="&quot;Akzeptable Verluste. Denn es sind ihre Verluste.&quot;"/>
+	<entry name="NecronsVictoryCount" value="8"/>
+	<entry name="OrksArtefact0" value="&quot;Keine Ahnung, das Ding is' was füa die Meks.&quot;"/>
+	<entry name="OrksArtefactCount" value="1"/>
+	<entry name="OrksAttack0" value="&quot;Dakka, dakka, dakka!&quot;"/>
+	<entry name="OrksAttack1" value="&quot;WAAAGH!&quot;"/>
+	<entry name="OrksAttack2" value="&quot;Höhöhö, so muss das sein!&quot;"/>
+	<entry name="OrksAttack3" value="&quot;Och nö, du hast se bessa eawischt!&quot;"/>
+	<entry name="OrksAttackCount" value="4"/>
+	<entry name="OrksBroken0" value="&quot;Jetz kämpft jeda Ork nua noch füa sich!&quot;"/>
+	<entry name="OrksBroken1" value="&quot;Ich glaub, ich hab was vergess'n... Bin gleich wieda da!&quot;"/>
+	<entry name="OrksBroken2" value="&quot;Nee... Nee, nee, nee.&quot;"/>
+	<entry name="OrksBroken3" value="&quot;AAARGH! Ich verschwindä bessa.&quot;"/>
+	<entry name="OrksBroken4" value="&quot;... Wech, wech, WECH!&quot;"/>
+	<entry name="OrksBrokenCount" value="5"/>
+	<entry name="OrksHurt0" value="&quot;Wart ma', mein Hirn läuft raus. Hat mal wer 'n Hamma und 'n paar Nägel?&quot;"/>
+	<entry name="OrksHurtCount" value="1"/>
+	<entry name="OrksIdle0" value="&quot;Wat'n los?&quot;"/>
+	<entry name="OrksIdle1" value="&quot;Wen soll ich wechhau'n?&quot;"/>
+	<entry name="OrksIdle2" value="&quot;Wia kämpf'n noch nich'!&quot;"/>
+	<entry name="OrksIdle3" value="&quot;He, Boss, was is' los?&quot;"/>
+	<entry name="OrksIdle4" value="&quot;Es is' da Boss! Was willst'n, Boss?&quot;"/>
+	<entry name="OrksIdle5" value="&quot;Ne, Kump'l, das is' mein Squig! Krall dir selbst einen!&quot;"/>
+	<entry name="OrksIdle6" value="&quot;Der Spalta is' nich' groß genug!&quot;"/>
+	<entry name="OrksIdle7" value="&quot;Mea Fässa heißt mea Dakka. Und mea Dakka heißt mea Spaß!&quot;"/>
+	<entry name="OrksIdle8" value="&quot;Ein grüna Squiiiiig sitzt auf da Mauaaaa. Zwei...&quot;"/>
+	<entry name="OrksIdleCount" value="9"/>
+	<entry name="OrksCover0" value="&quot;Was sind wia? Blood Axes, die sich im Gebüsch vasteck'n?&quot;"/>
+	<entry name="OrksCoverCount" value="1"/>
+	<entry name="OrksEnemyFactionAstraMilitarum0" value="&quot;Mänschenz! Ham gutäs Zeugz, das man sich krall'n kann.&quot;"/>
+	<entry name="OrksEnemyFactionAstraMilitarumCount" value="1"/>
+	<entry name="OrksEnemyFactionNecrons0" value="&quot;Blechköppe... Diese zoggigen Dinga bleib'n einfach nich' tot!&quot;"/>
+	<entry name="OrksEnemyFactionNecronsCount" value="1"/>
+	<entry name="OrksEnemyFactionOrks0" value="&quot;Noch 'n Waaagh! Jetz' wiss'n wa, dass wa wieda fett mosch'n könn'!&quot;"/>
+	<entry name="OrksEnemyFactionOrksCount" value="1"/>
+	<entry name="OrksEnemyFactionSpaceMarines0" value="&quot;Die Schnabelz kann man nich' zerklopp'n. Die muss man aufknack'n.&quot;"/>
+	<entry name="OrksEnemyFactionSpaceMarinesCount" value="1"/>
+	<entry name="OrksEnemyUnitNeutral/Enslaver0" value="&quot;Au, mein Schäd'l! Bleib wech!&quot;"/>
+	<entry name="OrksEnemyUnitNeutral/EnslaverCount" value="1"/>
+	<entry name="OrksEnemyUnitNeutral/CatachanDevil0" value="&quot;So vielä Beinä? Da ham wa was zu futtan.&quot;"/>
+	<entry name="OrksEnemyUnitNeutral/CatachanDevilCount" value="1"/>
+	<entry name="OrksEnemyUnitNeutral/Psychneuein0" value="&quot;Das Ding is' nich' fair! Sticht und dann krabb'ln großä Käfa aus deinem...&quot;"/>
+	<entry name="OrksEnemyUnitNeutral/PsychneueinCount" value="1"/>
+	<entry name="OrksEnemyUnitNeutral/KastelanRobot0" value="&quot;Gähn! Wo iss'n beim Blechköppe plätt'n der Spaß?&quot;"/>
+	<entry name="OrksEnemyUnitNeutral/KastelanRobotCount" value="1"/>
+	<entry name="OrksEnemyUnitNeutral/LordOfSkulls0" value="&quot;Oh, die stinkendän Mänschenz sind da? Das wird 'n fettes Gekloppe!&quot;"/>
+	<entry name="OrksEnemyUnitNeutral/LordOfSkullsCount" value="1"/>
+	<entry name="OrksQuestStory0" value="&quot;Zoggiga Gork, uns is' laaaaangweilig, Boss. Gibt's was zu mosch'n?&quot;"/>
+	<entry name="OrksQuestStory0Count" value="1"/>
+	<entry name="OrksQuestStory1" value="&quot;Diesa Weirdboy soll wechbleib'n. Ich will nich', dass uns die Köppe aufplatz'n.&quot;"/>
+	<entry name="OrksQuestStory1Count" value="1"/>
+	<entry name="OrksQuestStory2" value="&quot;Wer lebt'n da unta da Erde? Gibt nix wechzuhau'n.&quot;"/>
+	<entry name="OrksQuestStory2Count" value="1"/>
+	<entry name="OrksQuestStory3" value="&quot;Wia soll'n 'n Hauf'n Zeugs hol'n? Kein Problem, Boss.&quot;"/>
+	<entry name="OrksQuestStory3Count" value="1"/>
+	<entry name="OrksQuestStory4" value="&quot;Mach'n wa die Stadt rot, Boss, höhöhö.&quot;"/>
+	<entry name="OrksQuestStory4Count" value="1"/>
+	<entry name="OrksQuestStory5" value="&quot;Ich könnt keinen Squiggofanten vadrück'n, Boss. Die ganz'n Haare steck'n dann in den Zähnen.&quot;"/>
+	<entry name="OrksQuestStory5Count" value="1"/>
+	<entry name="OrksShaken0" value="&quot;Mach's doch selba, Boss!&quot;"/>
+	<entry name="OrksShaken1" value="&quot;Das is nich orkig.&quot;"/>
+	<entry name="OrksShaken2" value="&quot;Ich brauch 'n Schluck Pilzbier füa mea Mut.&quot;"/>
+	<entry name="OrksShaken3" value="&quot;Ich bin nich Makari, ich will leb'n!&quot;"/>
+	<entry name="OrksShakenCount" value="4"/>
+	<entry name="OrksVictory0" value="&quot;Höhöhö!&quot;"/>
+	<entry name="OrksVictory1" value="&quot;Feua, Feua, Feua, BUMM. JA!&quot;"/>
+	<entry name="OrksVictory2" value="&quot;Heißäs Metall und da Tod, na, wie findet ihr das?&quot;"/>
+	<entry name="OrksVictory3" value="&quot;STAMPF. STAMPF. STAMPF.&quot;"/>
+	<entry name="OrksVictory4" value="&quot;He, steh wieda auf! Wia hab'n dich noch nich' zerstampft!&quot;"/>
+	<entry name="OrksVictory5" value="&quot;Alles, was nich' orkig is', geht imma zu schnell kaputt.&quot;"/>
+	<entry name="OrksVictory6" value="&quot;Orkzä könn' zwei Sach'n! Mosch'n un' sieg'n!&quot;"/>
+	<entry name="OrksVictory7" value="&quot;Die hia sin' platt, Boss. Gibt's noch welche zum Mosch'n?&quot;"/>
+	<entry name="OrksVictoryCount" value="8"/>
+	<entry name="SpaceMarinesArtefact0" value="&quot;Was ist das für eine schäbige Xenos-Apparatur?&quot;"/>
+	<entry name="SpaceMarinesArtefactCount" value="1"/>
+	<entry name="SpaceMarinesAttack0" value="&quot;Spürt den Zorn des Imperators!&quot;"/>
+	<entry name="SpaceMarinesAttack1" value="&quot;Ihr verpestet diese Welt, Abschaum!&quot;"/>
+	<entry name="SpaceMarinesAttack2" value="&quot;Ich bin eure Erlösung!&quot;"/>
+	<entry name="SpaceMarinesAttack3" value="&quot;Wir sind die Faust von Guillaume.&quot;"/>
+	<entry name="SpaceMarinesAttackCount" value="4"/>
+	<entry name="SpaceMarinesBroken0" value="&quot;Der Imperator hat uns im Stich gelassen!&quot;"/>
+	<entry name="SpaceMarinesBroken1" value="&quot;Die Gensaat muss bewahrt werden!&quot;"/>
+	<entry name="SpaceMarinesBroken2" value="&quot;Zu den Verteidigungsstellungen zurückfallen lassen!&quot;"/>
+	<entry name="SpaceMarinesBroken3" value="&quot;Kämpft bis zum letzten Marine!&quot;"/>
+	<entry name="SpaceMarinesBroken4" value="&quot;Wir bringen Schande über unseren Orden!&quot;"/>
+	<entry name="SpaceMarinesBrokenCount" value="5"/>
+	<entry name="SpaceMarinesCover0" value="&quot;Der Imperator beschützt all jene, die sich selbst beschützen.&quot;"/>
+	<entry name="SpaceMarinesCoverCount" value="1"/>
+	<entry name="SpaceMarinesEnemyFactionAstraMilitarum0" value="&quot;Selbst als Bündnispartner kann man der Armee nicht trauen.&quot;"/>
+	<entry name="SpaceMarinesEnemyFactionAstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarinesEnemyFactionNecrons0" value="&quot;Uralte, wiederkehrende Schrecken? Die Herzen der Menschen können weitaus dunkler sein.&quot;"/>
+	<entry name="SpaceMarinesEnemyFactionNecronsCount" value="1"/>
+	<entry name="SpaceMarinesEnemyFactionOrks0" value="&quot;Wie kann es dieser grüne Abschaum wagen, in UNSERE Heimatwelt einzufallen?!&quot;"/>
+	<entry name="SpaceMarinesEnemyFactionOrksCount" value="1"/>
+	<entry name="SpaceMarinesEnemyFactionSpaceMarines0" value="&quot;Verräter, auf unserem Heimatplaneten?&quot;"/>
+	<entry name="SpaceMarinesEnemyFactionSpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/Enslaver0" value="&quot;Diese verfluchten Puppenspieler! Wo sind die Librarians?&quot;"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/EnslaverCount" value="1"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/CatachanDevil0" value="&quot;Teufel! Bleibt auf Abstand und zielt auf die Beine.&quot;"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/CatachanDevilCount" value="1"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/Psychneuein0" value="&quot;Space Marines, versiegelt eure Anzüge, um nicht befallen zu werden.&quot;"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/PsychneueinCount" value="1"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/KastelanRobot0" value="&quot;Unsere eigenen Schöpfungen erheben sich gegen uns.&quot;"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/KastelanRobotCount" value="1"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/LordOfSkulls0" value="&quot;Das elendige Chaos, hier, auf unserem Planeten? Die Inquisition muss Bescheid wissen!&quot;"/>
+	<entry name="SpaceMarinesEnemyUnitNeutral/LordOfSkullsCount" value="1"/>
+	<entry name="SpaceMarinesHurt0" value="&quot;Wir... werden... nicht... scheitern!&quot;"/>
+	<entry name="SpaceMarinesHurt1" value="&quot;Wir kämpfen bis zum letzten Marine.&quot;"/>
+	<entry name="SpaceMarinesHurtCount" value="2"/>
+	<entry name="SpaceMarinesIdle0" value="&quot;Alle Ketzer sollen brennen!&quot;"/>
+	<entry name="SpaceMarinesIdle1" value="&quot;Wir sind die Faust des Imperators.&quot;"/>
+	<entry name="SpaceMarinesIdle2" value="&quot;Wir kämpfen und werden triumphieren!&quot;"/>
+	<entry name="SpaceMarinesIdle3" value="&quot;Ich sehne mich nach dem Schlachtfeld.&quot;"/>
+	<entry name="SpaceMarinesIdle4" value="&quot;So viele Xenos... und so wenige Boltgeschosse.&quot;"/>
+	<entry name="SpaceMarinesIdle5" value="&quot;Wie lauten Ihre Befehle, mein Lord?&quot;"/>
+	<entry name="SpaceMarinesIdle6" value="&quot;Sie sollen nur kommen... Ich werde langsam ungeduldig.&quot;"/>
+	<entry name="SpaceMarinesIdle7" value="&quot;Wir sollten die Xenosartefakte nicht anrühren, mein Lord.&quot;"/>
+	<entry name="SpaceMarinesIdleCount" value="8"/>
+	<entry name="SpaceMarinesQuestStory0" value="&quot;Wenig Munition... Jeder Schuss muss sitzen.&quot;"/>
+	<entry name="SpaceMarinesQuestStory0Count" value="1"/>
+	<entry name="SpaceMarinesQuestStory1" value="&quot;Der Chief Librarian sagt, dass man den Soldaten nicht trauen kann. Wir werden tun, was wir tun müssen.&quot;"/>
+	<entry name="SpaceMarinesQuestStory1Count" value="1"/>
+	<entry name="SpaceMarinesQuestStory2" value="&quot;Der Planet ist hohl? Wo sind wir hier nur gelandet?&quot;"/>
+	<entry name="SpaceMarinesQuestStory2Count" value="1"/>
+	<entry name="SpaceMarinesQuestStory3" value="&quot;Die Xenos studieren? Mein Lord, steht das wirklich im Codex Astartes?&quot;"/>
+	<entry name="SpaceMarinesQuestStory3Count" value="1"/>
+	<entry name="SpaceMarinesQuestStory4" value="&quot;Ich habe keine Furcht, nicht einmal vor einem Exterminatus.&quot;"/>
+	<entry name="SpaceMarinesQuestStory4Count" value="1"/>
+	<entry name="SpaceMarinesQuestStory5" value="&quot;Die Gensaat wird uns alle überdauern - sie muss!&quot;"/>
+	<entry name="SpaceMarinesQuestStory5Count" value="1"/>
+	<entry name="SpaceMarinesShaken0" value="&quot;Irgendwie werden wir gegen die Dunkelheit obsiegen...&quot;"/>
+	<entry name="SpaceMarinesShaken1" value="&quot;I... Ich glaube an den Imperator. Credo!&quot;"/>
+	<entry name="SpaceMarinesShaken2" value="&quot;Ich bin ein unzerstörbarer Schild, gefertigt für den Kampf gegen die Finsternis.&quot;"/>
+	<entry name="SpaceMarinesShaken3" value="&quot;... Gesegnet ist der Geist, der zu klein für Zweifel ist.&quot;"/>
+	<entry name="SpaceMarinesShaken4" value="&quot;Während unsere Feinde Luft holen, können wir uns Furcht nicht leisten.&quot;"/>
+	<entry name="SpaceMarinesShakenCount" value="5"/>
+	<entry name="SpaceMarinesVictory0" value="&quot;Im Namen des Imperators.&quot;"/>
+	<entry name="SpaceMarinesVictory1" value="&quot;Und so stürzen alle Feinde des Imperiums.&quot;"/>
+	<entry name="SpaceMarinesVictory2" value="&quot;Mit der Vernichtung unserer Gegner verdienen wir uns unsere Erlösung.&quot;"/>
+	<entry name="SpaceMarinesVictory3" value="&quot;Wir sind die fleischgewordene Rache des Imperators!&quot;"/>
+	<entry name="SpaceMarinesVictory4" value="&quot;Alle Xenos und Verräter sind eine Plage, die es in der Galaxie auszurotten gilt.&quot;"/>
+	<entry name="SpaceMarinesVictory5" value="&quot;Es ist nicht unehrenhaft, dass der Tod an unseren Händen klebt.&quot;"/>
+	<entry name="SpaceMarinesVictory6" value="&quot;Meine mit Ceramit umhüllte Faust ist geballt und schlägt mit der Kraft eines ganzen Ordens zu.&quot;"/>
+	<entry name="SpaceMarinesVictory7" value="&quot;Den Befehlen des Lord Commanders wird Folge geleistet.&quot;"/>
+	<entry name="SpaceMarinesVictoryCount" value="8"/>
+	<entry name="SpaceMarinesWireWeed0" value="&quot;Mein Lord, lange dürfen wir in diesem Gestrüpp nicht bleiben.&quot;"/>
+	<entry name="SpaceMarinesWireWeedCount" value="1"/>
+</language>

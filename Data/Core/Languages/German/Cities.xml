@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Ananke"/>
+	<entry name="AstraMilitarum1" value="Villae Alea"/>
+	<entry name="AstraMilitarum2" value="Legomenon"/>
+	<entry name="AstraMilitarum3" value="Ariston"/>
+	<entry name="AstraMilitarum4" value="Ourania"/>
+	<entry name="AstraMilitarum5" value="Theon"/>
+	<entry name="AstraMilitarum6" value="Vicus Phobos"/>
+	<entry name="AstraMilitarum7" value="Chrysophoros"/>
+	<entry name="AstraMilitarum8" value="Genesin"/>
+	<entry name="AstraMilitarum9" value="Heureka"/>
+	<entry name="AstraMilitarum10" value="Moenia Credo"/>
+	<entry name="AstraMilitarum11" value="Municipium Celestine"/>
+	<entry name="AstraMilitarum12" value="Urbs Caul"/>
+	<entry name="AstraMilitarum13" value="Asticus Garufax"/>
+	<entry name="AstraMilitarum14" value="Paradisus Macharius"/>
+	<entry name="AstraMilitarum15" value="Oppidum Viridium"/>
+	<entry name="AstraMilitarum16" value="Tenax"/>
+	<entry name="AstraMilitarum17" value="Civitus Polypus"/>
+	<entry name="AstraMilitarumCount" value="18"/>
+	<entry name="Necrons0" value="Lecton Kopt"/>
+	<entry name="Necrons1" value="Die Nemesis von Abyda"/> 
+	<entry name="Necrons2" value="Obol Hermonkh"/>
+	<entry name="Necrons3" value="Unkhi Sayr"/>
+	<entry name="Necrons4" value="Nekhakh Bakyr"/>
+	<entry name="Necrons5" value="Az Ptek Sanakht"/>
+	<entry name="Necrons6" value="Iah Khabimh"/>
+	<entry name="Necrons7" value="Abdu Khmun"/>
+	<entry name="Necrons8" value="Tanis Ta"/>
+	<entry name="Necrons9" value="Szar Agorekh"/> 
+	<entry name="Necrons10" value="Shabt Mandrekh"/>
+	<entry name="Necrons11" value="Tramun Szekh"/>
+	<entry name="Necrons12" value="Ftan Heka"/>
+	<entry name="Necrons13" value="Echaton Djet"/>
+	<entry name="Necrons14" value="Bakenkhon"/>
+	<entry name="Necrons15" value="Hierakon Khar"/>
+	<entry name="Necrons16" value="D'kan Mephet"/>
+	<entry name="Necrons17" value="Gorod'tyr"/>
+	<entry name="NecronsCount" value="18"/>
+	<entry name="Orks0" value="Die Grub'n"/>
+	<entry name="Orks1" value="Kremp'lplatz"/>
+	<entry name="Orks2" value="Grotstadt"/>
+	<entry name="Orks3" value="Da Fels'n"/>
+	<entry name="Orks4" value="Wen Interessiat's?"/>
+	<entry name="Orks5" value="Nazdreg War Hia"/>
+	<entry name="Orks6" value="Garaghak"/>
+	<entry name="Orks7" value="Wazzdakka"/>
+	<entry name="Orks8" value="Hia Wohnt Da Boss"/>
+	<entry name="Orks9" value="Da Dakkaklub"/>
+	<entry name="Orks10" value="Das Dingz"/>
+	<entry name="Orks11" value="Zuhausä"/>
+	<entry name="Orks12" value="Dokstadt"/>
+	<entry name="Orks13" value="Gorkort"/>
+	<entry name="Orks14" value="Gargates"/>
+	<entry name="Orks15" value="Fels'nklauä"/> 
+	<entry name="Orks16" value="Da Hauf'n"/>
+	<entry name="Orks17" value="Des Reich Von Da Orks"/>
+	<entry name="OrksCount" value="18"/>
+	<entry name="SpaceMarines0" value="Festung des Dorn"/>
+	<entry name="SpaceMarines1" value="Primaris Revenant"/>
+	<entry name="SpaceMarines2" value="Vulkanschmiede"/>
+	<entry name="SpaceMarines3" value="Die Spitze"/>
+	<entry name="SpaceMarines4" value="Die Corax-Flügel"/>
+	<entry name="SpaceMarines5" value="Helbrecht"/>
+	<entry name="SpaceMarines6" value="Kerker der Getreuen"/>
+	<entry name="SpaceMarines7" value="Die Umbran-Zitadelle"/>
+	<entry name="SpaceMarines8" value="Pater Fidelium"/>
+	<entry name="SpaceMarines9" value="Azraels Zorn"/>
+	<entry name="SpaceMarines10" value="Tantalin-Gefälle"/>
+	<entry name="SpaceMarines11" value="Primarchenruh"/>
+	<entry name="SpaceMarines12" value="Kapelle des Adytums"/>
+	<entry name="SpaceMarines13" value="Cor Imperii"/>
+	<entry name="SpaceMarines14" value="Arx Mortifer"/>
+	<entry name="SpaceMarines15" value="Castellum Capitalis"/>
+	<entry name="SpaceMarines16" value="Regia Funestes"/>
+	<entry name="SpaceMarines17" value="Stygian Moene"/>
+	<entry name="SpaceMarinesCount" value="18"/>
+	<entry name="Tyranids0" value="Jejungon"/>
+	<entry name="Tyranids1" value="Duodevore"/>
+	<entry name="Tyranids2" value="Trachynx"/>
+	<entry name="Tyranids3" value="Pharchor"/>
+	<entry name="Tyranids4" value="Bronchea"/>
+	<entry name="Tyranids5" value="Oesofex"/>
+	<entry name="Tyranids6" value="Panuretor"/>
+	<entry name="Tyranids7" value="Elektrokryn"/>
+	<entry name="Tyranids8" value="Hypolymphex"/>
+	<entry name="Tyranids9" value="Tervithroid"/>
+	<entry name="Tyranids10" value="Somater"/>
+	<entry name="Tyranids11" value="Endothelon"/>
+	<entry name="Tyranids12" value="Cilior"/>
+	<entry name="Tyranids13" value="Tyrannothelium"/>
+	<entry name="Tyranids14" value="Dimacheura"/>
+	<entry name="Tyranids15" value="Gauphagus"/> 
+	<entry name="Tyranids16" value="Gonadrenal"/>
+	<entry name="Tyranids17" value="Paralympfex"/>
+	<entry name="TyranidsCount" value="18"/>
+</language>

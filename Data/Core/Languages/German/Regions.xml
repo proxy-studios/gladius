@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Climate0Name0" value="Felder von Ryme"/>
+	<entry name="Climate0Name1" value="Reich der Eisnis"/>
+	<entry name="Climate0Name2" value="Raureif"/>
+	<entry name="Climate0Name3" value="Die Oth-Weite"/>
+	<entry name="Climate0Name4" value="Undrah"/>
+	<entry name="Climate0Name5" value="Der Zykel"/>
+	<entry name="Climate0Name6" value="Weißscholle"/>
+	<entry name="Climate0Name7" value="Gelith"/>
+	<entry name="Climate0Name8" value="Aldsnoes-Punkt"/> 
+	<entry name="Climate0Name9" value="Graup"/>
+	<entry name="Climate0Name10" value="Die Eiszunge"/>
+	<entry name="Climate0Name11" value="Der Kristallmantel"/>
+	<entry name="Climate0Name12" value="Die Gefrorene Sehnsucht"/>
+	<entry name="Climate0Name13" value="Taiga und Tundra"/>
+	<entry name="Climate0Name14" value="Der Trockene Gelisol"/>
+	<entry name="Climate0Name15" value="Kryosphären-Isthmus"/>
+	<entry name="Climate0Name16" value="Zastrugi-Kamm"/>
+	<entry name="Climate0Name17" value="Die Polynja-Meere"/>
+	<entry name="Climate0Name18" value="Die Diamantküste"/>
+	<entry name="Climate0Name19" value="Das Glazialgeschiebe"/>
+	<entry name="Climate0NameCount" value="20"/>
+	<entry name="Climate1Name0" value="Die Wüste Sansea"/>
+	<entry name="Climate1Name1" value="Ssithith-Wüste"/>
+	<entry name="Climate1Name2" value="Der Jumes"/>
+	<entry name="Climate1Name3" value="Oá"/>
+	<entry name="Climate1Name4" value="Sicahara"/>
+	<entry name="Climate1Name5" value="Es Flüstert"/>
+	<entry name="Climate1Name6" value="Dürrknochenwüste"/>
+	<entry name="Climate1Name7" value="Steinwellenmeer"/>
+	<entry name="Climate1Name8" value="Paachlippe"/>
+	<entry name="Climate1Name9" value="Sonnentod"/>
+	<entry name="Climate1Name10" value="Trockentäler"/>
+	<entry name="Climate1Name11" value="Knochenpfade des Primarchen"/>
+	<entry name="Climate1Name12" value="Stauboasen"/>
+	<entry name="Climate1Name13" value="Sanduhr der Alten"/>
+	<entry name="Climate1Name14" value="Karger Aarth"/>
+	<entry name="Climate1Name15" value="Ödbirgnis"/>
+	<entry name="Climate1Name16" value="Sandschlund"/>
+	<entry name="Climate1Name17" value="Die Brachlande"/>
+	<entry name="Climate1Name18" value="Das Knochental"/>
+	<entry name="Climate1Name19" value="Grabesdün"/>
+	<entry name="Climate1NameCount" value="20"/>
+	<entry name="Climate2Name0" value="Hugid"/>
+	<entry name="Climate2Name1" value="Himmelslaub"/>
+	<entry name="Climate2Name2" value="Großer Lösshain"/>
+	<entry name="Climate2Name3" value="Herzforst"/>
+	<entry name="Climate2Name4" value="Xylhoem-Wald"/>
+	<entry name="Climate2Name5" value="Grünkuf"/>
+	<entry name="Climate2Name6" value="Tiefleben"/>
+	<entry name="Climate2Name7" value="Imperiales Eden"/>
+	<entry name="Climate2Name8" value="Illhid"/>
+	<entry name="Climate2Name9" value="Rhivome"/>
+	<entry name="Climate2Name10" value="Vordach von Altemorra"/>
+	<entry name="Climate2Name11" value="Klauendschungel"/>
+	<entry name="Climate2Name12" value="Soheil-Wildnis"/>
+	<entry name="Climate2Name13" value="Paradies der Läuse"/>
+	<entry name="Climate2Name14" value="Gärten der Verlorenen"/>
+	<entry name="Climate2Name15" value="Schwarzwurzdschungel"/>
+	<entry name="Climate2Name16" value="Verfluchte Wildnis"/>
+	<entry name="Climate2Name17" value="Das Louche-Buschland"/>
+	<entry name="Climate2Name18" value="Das Ewige Unterholz"/>
+	<entry name="Climate2Name19" value="Lianennetz"/>
+	<entry name="Climate2Name20" value="Dornendickicht"/>
+	<entry name="Climate2Name21" value="Das Labyrinth der Schleicher"/>
+	<entry name="Climate2NameCount" value="22"/>
+	<entry name="Climate3Name0" value="Aschwind"/>
+	<entry name="Climate3Name1" value="Das Himmelreichgebirge"/>
+	<entry name="Climate3Name2" value="Imperial-Tremlan"/>
+	<entry name="Climate3Name3" value="Die Ackrak-Weite"/>
+	<entry name="Climate3Name4" value="Neuer Magvent"/>
+	<entry name="Climate3Name5" value="Pyrign"/>
+	<entry name="Climate3Name6" value="Das Steinmeer"/>
+	<entry name="Climate3Name7" value="Floamenfleck"/>
+	<entry name="Climate3Name8" value="Felsregen"/>
+	<entry name="Climate3Name9" value="Ignava"/>
+	<entry name="Climate3Name10" value="Nova Searmount"/>
+	<entry name="Climate3Name11" value="Grabstrom von Calderon"/>
+	<entry name="Climate3Name12" value="Thron der Alten"/>
+	<entry name="Climate3Name13" value="Roter Berg"/>
+	<entry name="Climate3Name14" value="Bebtor"/>
+	<entry name="Climate3Name15" value="Funkelfels"/>
+	<entry name="Climate3Name16" value="Die Infernalischen Lande"/>
+	<entry name="Climate3Name17" value="Holochar"/>
+	<entry name="Climate3Name18" value="Beißende Glut"/>
+	<entry name="Climate3Name19" value="Der Weißglutkamm"/>
+	<entry name="Climate3Name20" value="Der Riolithen-Lahar"/>
+	<entry name="Climate3NameCount" value="21"/>
+</language>
