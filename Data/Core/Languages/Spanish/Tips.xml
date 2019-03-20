@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="CompendiumFlavor" value="El 41o Milenio es un lugar poco acogedor para todas las especies, humanas o xenos -- estas pistas deberían ayudarte en tus empresas."/>
+	<entry name="Tip0" value="Cámara"/>
+	<entry name="Tip0Description" value="Bienvenido a Gladius. Para mover la cámara, posiciona tu ratón sobre el terreno, haz clic izquierdo y mueve el ratón. Puedes usar también las flechas de dirección. Una vez estés familiarizado con lo que te rodea, haz clic en OK."/>
+	<entry name="Tip1" value="Colonización"/>
+	<entry name="Tip1Description" value="Esta unidad te permite construir una nueva ciudad que será la base de tu facción en Gladius. Para fundar tu primera ciudad, haz clic &quot;<icon height='20' texture='Icons/Actions/FoundCity'/> Fundar ciudad&quot; en el panel de selección en la parte inferior izquierda. Esto consumirá a la unidad."/>
+	<entry name="Tip2" value="Colonización -- Marines"/>
+	<entry name="Tip2Description" value="Los Marines Espaciales despliegan sus infraestructuras desde órbita. Para fundar tu Fortaleza, haz clic &quot;<icon height='20' texture='Icons/Actions/DeployCity'/> Colocar ciudad&quot en el panel de operaciones de la parte inferior izquierda y selecciona una casilla vacía. Los Marines solo pueden tener una ciudad."/>
+	<entry name="Tip3" value="Botón de terminar turno"/>
+	<entry name="Tip3Description" value="Tómate tu tiempo para explorar la interfaz. Cada botón y pestaña tiene una pista que te da información relevante. Si no sabes qué hacer, ve al botón rojo de tareas en la parte derecha de la pantalla. Te ayudará antes de terminar el turno."/>
+	<entry name="Tip4" value="Exploración"/>
+	<entry name="Tip4Description" value="Gladius está lleno de tesoros desconocidos y aliens terribles. Según explores, recibirás notificaciones de descubrimientos que pueden abrirse para saber más. Algún terreno puede explorarse para obtener recompensas, mientras que otro terreno puede dañar tus unidades. Ten cuidado – la vida en el planeta es sangrienta, pero si dejas en paz a los habitantes, te ignorarán."/>
+	<entry name="Tip5" value="Movimiento"/>
+	<entry name="Tip5Description" value="Mueve la unidad seleccionada hacienda clic derecho en una casilla. Mantener el botón pulsado mostrará la ruta que la unidad seguirá. Una unidad mueve una vez por turno."/>
+	<entry name="Tip6" value="Cura"/>
+	<entry name="Tip6Description" value="Tu unidad ha tomado <icon height='20' texture='Icons/Attributes/Damage'/> daño y ahora es más probable que muera. Para que recupere sus <icon height='20' texture='Icons/Attributes/Hitpoints'/> puntos de daño, debe mantenerse quieta y no tomar parte en ningún combate. Haz clic en &quot;<icon height='20' texture='Icons/Actions/Heal'/> Mantener posición&quot; para esperar hasta que estén sus puntos de daño al máximo. Puedes hacerlo más rápido moviendo la unidad a una ciudad."/>
+	<entry name="Tip7" value="Misiones y victoria"/>
+	<entry name="Tip7Description" value="Las misiones van apareciendo según avance la historia de tu facción. Completar cada fase de una misión te da beneficios y completar la última misión te dará la victoria. Sin embargo, eliminar a todos tus rivals también te la dará."/>
+	<entry name="Tip8" value="Atacar"/>
+	<entry name="Tip8Description" value="Mover tu ratón sobre una unidad enemiga con una unidad amiga seleccionada mostrará importante información sobre el defensor y el arma usada, así como las bajas esperadas. No todas las armas tienen el mismo alcance – las armas inútiles se mostrarán en gris. Las unidades solo pueden participar en un combate por turno, tras lo cual el icono encima de la unidad se hace trasparente, indicando que no quedan puntos de acción."/>
+	<entry name="Tip9" value="Moral"/>
+	<entry name="Tip9Description" value="Tu unidad ha recibido mucho daño y su <icon height='20' texture='Icons/Attributes/Morale'/> moral se ha resentido por la pérdida de aliados cercanos. Esto afectará negativamente a su rendimiento en combare. Puedes esperar o matar xenos cercanos para que mejore."/>
+	<entry name="Tip10" value="Unidade"/>
+	<entry name="Tip10Description" value="Cada unidad tiene una gran variedad de estadísticas y atributos, armas y habilidades. Algunas unidades quizá solo tengan  <icon height='20' texture='Icons/Traits/Melee'/> armas cuerpo a cuerpo, pero <icon height='20' texture='Icons/Traits/MoveThroughCover'/> mueven rápido a través de terreno difícil, mientras que otras pueden tener <icon height='20' texture='Icons/Actions/AuraOfFear'/> auras de miedo o pueden desplegar <icon height='20' texture='Icons/Traits/Barrage'/> bombardeos de artillería. Mueve tu ratón sobre los iconos y botones en la pantalla de selección para saber más."/>
+	<entry name="Tip11" value="Héroes"/>
+	<entry name="Tip11Description" value="Esta es una ponderosa unidad de<icon height='20' texture='Icons/Traits/Hero'/> héroe que puede tener extraordinarias habilidades para derrotar enemigos o proteger a aliados. Elige tu primera habilidad hacienda clic en &quot;<icon height='20' texture='Icons/Actions/LevelUp'/> Mejorar nivel&quot; y seleccionado tu habilidad deseada. Algunas pueden ser pasivas o tener un  <icon height='20' texture='Icons/Attributes/Cooldown'/> tiempo de espera más o menos largo. La mayoría de habilidades pueden subir de nivel."/>
+	<entry name="Tip12" value="Objetos"/>
+	<entry name="Tip12Description" value="Los objetos de héroe pueden encontrarse explorando, recibiéndolos como recompense o comprándolos. Los objetos otorgan bonificaciones pasivas o dan habilidades nuevas a las unidades. Antes de reclamar uno, tendrás que reclutar y seleccionar una unidad de héroe."/>
+	<entry name="Tip13" value="Abrir pantalla de tienda de objetos"/>
+	<entry name="Tip13Description" value="Tu héroe está sobre  <icon height='20' texture='Icons/Actions/Shop'/> una tienda de objetos. Para abrir la pantalla de la tienda, haz clic en &quot;<icon height='20' texture='Icons/Actions/Shop'/> Shop&quot; ."/> 
+	<entry name="Tip14" value="Pantalla de compra de objetos"/>
+	<entry name="Tip14Description" value="En la <icon height='20' texture='Icons/Actions/Shop'/> tienda de objetos puedes comerciar  <icon height='20' texture='Icons/Attributes/Influence'/> influencia a cambio de objetos. Simplemente haz clic en los objetos que desees comprar o vender. Ten en cuenta que muchos objetos comunes tienen un número limitado de <icon height='20' texture='Icons/Attributes/Uses'/> usos, pero los Jokaeros tienen un suministro infinito de éstos. Los más raros y poderosos no pueden comprarse, pero pueden obtenerse por otros medios."/>
+	<entry name="Tip15" value="Ciudades"/>
+	<entry name="Tip15Description" value="Para abrir la pantalla de ciudad, haz clic en una ciudad o doble clic en el Cuartel General. Puedes seleccionar sus defensas hacienda clic en el CG o en el icono encima de la ciudad. Todas las ciudades tienen una capacidad de disparo y pueden defenderse. Protege las ciudades, si pierdes todas, pierdes la partida."/>
+	<entry name="Tip16" value="Edificios de la ciudad"/>
+	<entry name="Tip16Description" value="Aquí, los edificios son listados con todas sus acciones disponibles. Ten en cuenta que los edificios de un mismo tipo son colocados juntos y solo hacen una acción a la vez. Aunque puedes acumular acciones, los recursos se retirarán automáticamente.	"/>
+	<entry name="Tip17" value="Pantalla de investigación"/>
+	<entry name="Tip17Description" value="La pantalla de investigación de tu facción tiene un árbol único de tecnologías. Comienza seleccionando tecnologías del primer nivel. Debes investigar dos de cada nivel antes de poder avanzar al siguiente. Puedes aumentar la velocidad de investigación construyendo  <icon height='20' texture='Icons/Buildings/AstraMilitarum/Research'/> edificios de investigación en tus ciudades. Ten en cuenta que todo progreso se pierde al cambiar la tecnología."/> <!-- , while shift-clicking will queue up the research -->
+	<entry name="Tip18" value="Recursos de la ciudad"/>
+	<entry name="Tip18Description" value="Las ciudades reúnen recursos para tu máquina de guerra. La pantalla de ciudad muestra todos los recursos relacionados con la ciudad. Pasa tu ratón por encima para saber más."/>
+	<entry name="Tip19" value="Adquirir casilla"/>
+	<entry name="Tip19Description" value="Antes de que puedas construir edificios adicionales, tienes que reclamar más casillas. Haz clic en &quot;<icon height='20' texture='Icons/Actions/AcquireTile'/> Acquire Tile&quot; y selecciona la casilla con uno o más <icon height='20' texture='Icons/Attributes/BuildingSlots'/> espacios de construcción adyacente a los límites de tu ciudad. Adquirir una casilla tardará algunos turnos y costará alguna <icon height='20' texture='Icons/Attributes/Influence'/> influencia."/>"/>
+	<entry name="Tip20" value="Adquirir casilla de recursos"/>
+	<entry name="Tip20Description" value="Tu ciudad ha adquirido una casilla con recursos especiales sin <icon height='20' texture='Icons/Attributes/BuildingSlots'/> espacio para edificios. Mientras que otras Casillas pueden ser explotadas construyendo edificios en ellas, las Casillas con recursos especiales aumentan tu producción de recursos en toda la ciudad."/>
+	<entry name="Tip21" value="Construir edificio de recursos"/>
+	<entry name="Tip21Description" value="	Con la producción de tu ejército preparada, ahora deberías ocuparte de los recursos. Los edificios de infantería solo proporcionan un pequeño aumento de los recursos. Para mantener tu maquinaria en marcha deberás construir edificios especializados. Construye un edificio de recursos tal y como construiste uno de infantería. La casilla donde lo construyas modificará la producción del edificio – busca for iconos de recursos emparejados. Es importante que no te quedes sin recursos, puesto que sin ellos tus edificios rendirán peor"/>
+	<entry name="Tip22" value="Construir edificio de infantería"/>
+	<entry name="Tip22Description" value="	Hay muchos <icon height='20' texture='Icons/Attributes/BuildingSlots'/> espacios de construcción libres en la ciudad : es un momento oportuno para hacer planes de expansion para tu ejército. Comienza con un edificio de producción de infantería. Haz clic en el botón de edificios brillante y selecciona una casilla de ciudad con <icon height='20' texture='Icons/Attributes/BuildingSlots'/> espacio de construcción para construir allí. Esto llevará varios turnos."/>
+	<entry name="Tip23" value="Producir infantería"/>
+	<entry name="Tip23Description" value="Ahora puedes producir unidades. Pon en reclutamiento tantas como quieras, pero vigila tus recursos. Al ser un tipo de edificio distinto, otros edificios pueden producir a la vez. Si construyes edificios de infantería adicionales, reclutarás más rápido."/>
+	<entry name="Tip24" value="Población"/>
+	<entry name="Tip24Description" value="Todo edificio requiere una <icon height='20' texture='Icons/Attributes/PopulationLimit'/> unidad de población para funcionar. Tendrás que investigar y construir  <icon height='20' texture='Icons/Buildings/AstraMilitarum/Housing'/> viviendas para aumentar el <icon height='20' texture='Icons/Attributes/Growth'/> crecimiento y límite de población. Si tienes problemas por falta de población, puedes desactivar algunos edificios para que otros puedan operar."/>
+	<entry name="Tip25" value="Lealtad"/>
+	<entry name="Tip25Description" value="Si la <icon height='20' texture='Icons/Attributes/Loyalty'/> lealtad de tu ciudad baja a menos de 0, afectará negativamente a tus edificios. Construye edificios que aumenten la lealtad para impedirlo."/>
+	<entry name="Tip26" value="Recursos globales"/>
+	<entry name="Tip26Description" value="Recursos vitales como <icon height='20' texture='Icons/Attributes/Food'/> food, <icon height='20' texture='Icons/Attributes/Ore'/> minerales, <icon height='20' texture='Icons/Attributes/Energy'/> energía e <icon height='20' texture='Icons/Attributes/Influence'/> influencia son acumulados y compartidos globalmente. Cada ciudad consume y proporciona estos recursos a un pool común, lo que te permite especializar las ciudades y ahorrar para tiempos difíciles."/>
+	<entry name="Tip27" value="Edictos de la ciudad"/>
+	<entry name="Tip27Description" value="Los edictos son efectos que afectar a toda la ciudad que pueden ser proclamados gastando influencia. Puedes tener varios activos a la vez, pero cada activación tiene una duración limitada."/>
+	<entry name="Tip28" value="Artefactos"/>
+	<entry name="Tip28Description" value="	Algo ha atraído objetos con poderes extraordinarios a Gladius, y la superficie está llena de tecnología de los Ancestrales. Mientras que algunos de estos artefactos pueden ser comprados, otros han de ser tomados de manos de los Esclavizadores. Una vez que todas las unidades adyacentes a éstos han sido matadas, el artefacto puede ser capturado hacienda clic derecho en él mientras se tiene una unidad seleccionada. Los artefactos no pueden destruirse."/>
+	<entry name="Tip29" value="Operaciones"/>
+	<entry name="Tip29Description" value="Los Marines Espaciales pueden llevar a cabo operaciones tácticas y estratégicas gastando influencia. Una de estas consiste en desplegar una Fortaleza de Redención – una unidad estacionaria que asegura el punto de recursos especiales adyacente. Este tipo de estructuras son fundamentales para los marines."/>
+	<entry name="Tip30" value="Unidades estacionarias"/>
+	<entry name="Tip30Description" value="Algunas unidades no pueden moverse pero aún así pueden llevar a cabo acciones. Si tienen armas, pueden atacar. Para atacar, mueve tu ratón sobre unidades enemigas y haz clic derecho."/>
+	<entry name="Tip31" value="Ruinas de Vaul"/>
+	<entry name="Tip31Description" value="Hay ruinas de Vaul a la vista. Estas ruinas otorgan beneficios a las unidades que las encuentra primero. Algunas otorgan artefactos muy poderosos y antiguos que tus héroes pueden llevar para hacerles mejores."/>
+	<entry name="Tip32" value="Esclavizado"/>
+	<entry name="Tip32Description" value="Tu unidad ha sido esclavizada. Mata al esclavizador para liberarlas."/>
+	<entry name="Tip33" value="Arma pesada"/>
+	<entry name="Tip33Description" value="Esta unidad tiene un arma pesada equipada. Estas armas sufren una penalización a la precisión si han movido."/>
+	<entry name="Tip34" value="Fuego rápido"/>
+	<entry name="Tip34Description" value="Una unidad con un arma de fuego rápido. Estas unidades pueden hacer más daño a corto alcance, pero pueden seguir disparando desde lejos. Podría ser interesante acercarlas antes de atacar.	"/>
+	<entry name="Tip35" value="Criaturas poderosas"/>
+	<entry name="Tip35Description" value="Hay bestias muy ponderosas en Gladius Prime. Sería inteligente reunir una fuerza grande antes de atacarlas."/>
+	<entry name="Tip36" value="Gladius Compendium"/>
+	<entry name="Tip36Description" value="El Compendium tiene información útil. Puedes leer acerca de las facciones, los edificios, las unidades... Puedes abrirlo haciendo clic en la interrogación en la parte superior derecha."/>
+	<entry name="Tip37" value="Pocos recursos"/>
+	<entry name="Tip37Description" value="¡Tienes pocos recursos! Mueve tu ratón sobre los recursos en la parte inferior izquierda y descubre por qué. Quizá vendría bien desactivar un edificio, construir alguno o fundar una nueva ciudad."/>
+	<entry name="Tip38" value="Colonización -- Necrones"/>
+	<entry name="Tip38Description" value="Las arañas canópticas te permiten erigir una ciudad que sea la columna vertebral de tu dinastía. Para fundar una ciudad, haz clic en &quot;<icon height='20' texture='Icons/Actions/FoundCity'/> Fundar ciudad&quot; en el panel de selección en la parte inferior izquierda y selecciona una casilla vacía con una tumba necrona. Ten en cuenta que esto consume la unidad."/>
+	<entry name="Tip39" value="Limpiar casilla"/>
+	<entry name="Tip39Description" value="Has adquirido una casilla con <icon height='20' texture='Icons/Features/WireWeed'/> alambre de espino en él. Este tipo de elemento dañan a las unidades e impide la construcción de edificios. Para comenzar a eliminarla, haz clic en &quot;<icon height='20' texture='Icons/Actions/ClearTile'/> limpiar casilla&quot; y selecciona la casilla con el alambre de espino."/>
+	<entry name="Tip40" value="Unidades débiles"/>
+	<entry name="Tip40Description" value="Unidades como los Guardias son muy débiles por sí solas. Con estas unidades tan débiles es aconsejable mantener muchas unidades juntas para que se puedan apoyar – especialmente cuando entren en territorio no explorado."/>
+	<entry name="Tip41" value="¡Buena suerte!"/>
+	<entry name="Tip41Description" value="Ahora puedes producir nuevas unidades, mantener tu economía y entender los conceptos básicos del juego. Se te mostrarán más consejos a lo largo de la partida, pero ahora te dejaremos explorar tranquilo.La supervivencia es un precio difícil en una galaxia tan disputada."/>
+	<entry name="Tip42" value="Reclamar objeto"/>
+	<entry name="Tip42Description" value="Para reclamar un objeto y transferirlo a tu héroe, haz clic en el panel de objetos sin reclamar de la parte superior izquierda. Tras r eclamarlo, puedes usarlo como desees, como si fuese una habilidad. Puedes dárselo a otro héroe arrastrándolo a éste. Cada héroe puede portar un número limitado de objetos."/>
+	<entry name="Tip43" value="Terreno"/>
+	<entry name="Tip43Description" value="El terreno afecta a las unidades de diversas formas. Los bosques y las ruinas imperiales aumentan el coste de movimiento de las unidades terrestres y hacen más difícil el ver y disparar a través. La diferencia de altura también puede impedir que tus unidades tengan línea de visión clara. Casillas en rojo indicant que la unidad enemiga puede ser atacada desde tu posición actual."/><!-- Click OK and hover over a tile marked with a red outline. -->
+	<entry name="Tip44" value="Habilidades de unidades"/>
+	<entry name="Tip44Description" value="Algunas unidades tienen habilidades extra que pueden emplearse para tomar ventaja en un combate. Usa la habilidad hacienda clic en su botón y seleccionando un objetivo con el botón izquierdo. Usar una habilidad consume puntos de acción y movimiento, por lo que esa unidad ya no podrá hacer nada más ese turno."/>
+	<entry name="Tip45" value="Fuego defensivo"/>
+	<entry name="Tip45Description" value="Unidades con puntos de acción restantes y armas de disparo lo harán automáticamente. <icon height='20' texture='Icons/Actions/Overwatch'/> El fuego defensivo es un ataque realizado cuando un enemigo entra en su radio de alcance, excepto si el enemigo tiene el rasgo <icon height='20' texture='Icons/Traits/Stealth'/> sigilo."/>
+	<entry name="Tip46" value="Puestos avanzados de recursos"/>
+	<entry name="Tip46Description" value="Casillas con recursos especiales pueden capturarse moviendo una unidad a ellas. Esto construirá un puesto Avanzado, que te dará un pequeño pero importante bonus a tu producción de recursos y dará a las unidades allí apostadas una reducción al daño y un aumento de la tasa de cura. Defiende tus puestos de avanzada o serán tomados por otros."/>
+	<entry name="Tip47" value="Transportes -- embarcar"/>
+	<entry name="Tip47Description" value="Esta unidad puede transportar infantería. Para embarcar, mueve la unidad que deseas transportar a la casilla del transporte. Estas unidades no pueden desembarcar el turno que embarcan."/>
+	<entry name="Tip48" value="Transports -- Desembarcar"/>
+	<entry name="Tip48Description" value="Tienes una unidad embarcada en este transporte. Para desembarcarla, haz clic en la carga y selecciona la casilla de destino. Puedes reordenar la carga moviendo los diferentes huecos."/>
+	
+<!-- Zone of control: trigger when an enemy is 2 away, after attacking and healing has been shown. -->
+<!-- Waaagh! -->
+<!-- Rapid Rise -->
+<!-- Necrodermis Repair -->
+<!-- Rename units, rename city. -->
+<!-- New Game Screen tips. -->
+<!-- Query Space Marines to deploy city before ending turn -- end turn button. -->
+
+<!-- Flyers. -->
+<!-- Hero death -- resurrect, items when hero below 50%. -->
+<!-- Set rally point (when unit count above 3?). -->
+</language>

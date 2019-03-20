@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectingToServer" value="Conectado al servidor ..."/>
+	<entry name="ConnectionLost" value="Conexión perdida."/>
+	<entry name="GameLoaded" value="Partida cargada"/>
+	<entry name="GameSaved" value="Partida guardada"/>
+	<entry name="MasterServerUnreachable" value="No se pudo conectar al servidor maestro."/>
+	<entry name="NetworkError" value="Error de línea."/>
+	<entry name="NoGames" value="No hay partidas públicas abiertas ahora mismo.<br/>¿Por qué no creas una?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>No hay objetivo válido"/>
+	<entry name="PlayerJoined" value="%1% se ha unido."/>
+	<entry name="PlayerLeft" value="%1% ha abandonado."/>
+	<entry name="PleaseEnterYourName" value="Por favor introduce tu nombre."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Por favor espera"/>
+	<entry name="ReceivingInfo" value="Recibiendo información ..."/>
+	<entry name="RetrievingServerList" value="Buscando lista de servidores ..."/>
+	<entry name="ScreenShotSaved" value="Captura de pantalla guardada"/>
+	<entry name="ScreenShotSaveError" value="Error al guardar la captura de pantalla"/>
+	<entry name="ServerUnreachable" value="No pudo conectarse al servidor.<br/><br/>Para mejorar la conectividad, comprueba que has permitido los UPnP en tu router o que has abierto los puertos %1%."/>
+	<entry name="SelectTarget" value="Seleccionar objetivo"/>
+</language>

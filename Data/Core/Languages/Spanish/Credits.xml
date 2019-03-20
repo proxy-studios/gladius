@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdditionalAnimations" value="Animaciones adicionales"/>
+	<entry name="AdditionalGraphics" value="Gráficos adicionales"/>
+	<entry name="AdditionalWriting" value="Redacción adicional"/>
+	<entry name="Administration" value="Administración"/>
+	<entry name="Chairman" value="Director"/>
+	<entry name="CreativeDirector" value="Director creativo"/>
+	<entry name="CustomerSupport" value="Atención al cliente"/>
+	<entry name="DesignAndProgramming" value="Diseño y Programación"/>
+	<entry name="DevelopedBy" value="Desarrollado por %1%"/>
+	<entry name="DevelopmentDirector" value="Director de desarrollo"/>
+	<entry name="Fonts" value="Tipografías"/>
+	<entry name="FrenchLocalisation" value="Traducción al Francés"/>
+	<entry name="GermanLocalisation" value="Traducción al Alemán"/>
+	<entry name="GraphicsAndAnimations" value="Gráficos y Animaciones"/>
+	<entry name="IntroCinematics" value="Introducción Cinemática"/>
+	<entry name="MediaRelations" value="Relaciones con los medios"/>
+	<entry name="JuniorProductManager" value="Responsable de producto Junior"/>
+	<entry name="Libraries" value="Archivos"/>
+	<entry name="Manual" value="Manual"/>
+	<entry name="ManualLayout" value="Diseño gráfico del manual"/>
+	<entry name="MarketingDirector" value="Director Comercial"/>
+	<entry name="Music" value="Música"/>
+	<entry name="OperationsDirector" value="Director de Operaciones"/>
+	<entry name="Producers" value="Productores"/>
+	<entry name="ProductManagers" value="Responsables del producto"/>
+	<entry name="ProductionDesign" value="Diseño de la producción"/>
+	<entry name="ProductionLead" value="Responsable de producción"/>
+	<entry name="ProductionTeam" value="Equipo de producción"/>
+	<entry name="PublishedBy" value="Editado por %1%"/>
+	<entry name="RussianLocalisation" value="Traducción al Ruso"/>
+	<entry name="Sound" value="Sonido"/>
+	<entry name="SpanishLocalisation" value="Traducción al Español"/>
+	<entry name="SpecialThanks" value="Agradecimientos especiales"/>
+	<entry name="TechnicalDirector" value="Director Técnico"/>
+	<entry name="Translation" value="Traducción"/>
+	<entry name="VoiceActors" value="Actores de doblaje"/>
+	<entry name="WarhammerBy" value="Warhammer 40,000 por %1%"/>
+	<entry name="WebDevelopment" value="Desarrollo página web"/>
+	<entry name="Writing" value="Obra"/>
+</language>

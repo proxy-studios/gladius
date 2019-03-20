@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateInfluenceDescription" value="Acumular influencia (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Acumular investigación (%1%/%2%)."/>
+	<entry name="ActivateUnitDescription" value="Activar %1% (%2%/1)."/>
+	<entry name="ActivateTacticDescription" value="Activar tácticas del capítulo (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Capturar %1% (%2%/1)."/>
+	<entry name="ClearInfestationDescription" value="Destruir %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Construir %1% (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Construir %1% (%2%/%3%)."/>
+	<entry name="ControlUnitDescription" value="Mantener el control de %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Defender la casilla señalada."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Defender la casilla señalada (%1% turnos)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Defender la entrada recientemente descubierta durante %1% turnos (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Desplegar %1% al lado de una fuente de recursos especiales y asegura el perímetro (%2%/1)."/>
+	<entry name="DestroySpawnedCityDescription" value="Destruir la ciudad de la Astra Militarum(%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Enviar unidades a las profundidades del planeta:"/>
+	<entry name="FoundCityDescription" value="Fundar una nueva ciudad (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Fundar una nueva a 3 casillas de la entrada descubierta."/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Invocar Despertar Rápido en la producción de Guerreros (%1%/1)."/>
+	<entry name="KillCampDescription" value="Derrotar al campamento enemigo (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Destruir la Fortaleza de Redención enemiga (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Destruir el ejército Necrón rebelde (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Derrotar al Tecnosacerdote rebelde y a sus robots en %2% turnos (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Derrotar el campamento enemigo (%1% turnos restantes)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Matar las unidades desperdigadas (%1%/%2%)."/>
+	<entry name="KillUnitDescription" value="Matar %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Matar Xenos nativos (%1%/%2%)."/>
+	<entry name="ProduceUnitDescription" value="Producir %1% (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Generar %1% requisiciones por turno (ahora mismo %2%) (%3%/1)."/>
+	<entry name="ReachLevelDescription" value="Alcanzar el nivel %2% con %1% (%3%/1)."/>
+	<entry name="RecoverArcheotechDescription" value="Recuperar artefactos (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Recuperar unidades desperdigadas (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Investigar %1% (%2%/%3%)."/>
+	<entry name="ScanTilesDescription" value="Usar %1% en las casillas señaladas (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Proclamar edicto en la ciudad (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Sobrevivir a la invasión (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Sobrevivir a la invasión durante %1% turnos (%2%/1)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Visitar la casilla señalada y asegurar su perímetro (%1%/%2%)."/>
+	<entry name="VisitTileDescription" value="Visitar casilla señalada (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Visitar la casilla señalada con %1% (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Visitar la casilla señalada con %1% y asegurar el perímetro (%2%/%3%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Visitar la casilla señalada con (%2%/%3%)."/>
+</language>

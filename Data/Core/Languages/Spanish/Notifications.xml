@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="<style name='ShadowedHeading'/>City Grown<br/><style name='Default'/>%1% ha aumentado a %2% su población."/>
+	<entry name="FactionDiscovered" value="Facción descubierta"/>
+	<entry name="FactionDiscoveredSummary" value="<style name='ShadowedHeading'/>Facción descubierta<br/><style name='Default'/>%1%."/>
+	<entry name="FeatureExploredSummary" value="<style name='ShadowedHeading'/>Característica explorada<br/><style name='Default'/>%1% provided %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Característica descubierta<br/><style name='Default'/>%1%."/>
+	<entry name="PlayerLost" value="¡Derrota!"/>
+	<entry name="PlayerLostSummary" value="¡%1% (%2% %3%) derrotado!"/>
+	<entry name="PlayerWon" value="¡Victoria!"/>
+	<entry name="PlayerWonSummary" value="¡%1% (%2% %3%) ha vencido!"/>
+	<entry name="ProductionCompletedSummary" value="<style name='ShadowedHeading'/>Producción Completada<br/><style name='Default'/>%1% produced %2%."/>
+	<entry name="QuestAdded" value="Misión añadida"/>
+	<entry name="QuestCompleted" value="Misión completada"/>
+	<entry name="QuestUpdated" value="Misión actualizada"/>
+	<entry name="RegionDiscoveredSummary" value="<style name='ShadowedHeading'/>Región descubierta<br/><style name='Default'/>%1%."/>
+	<entry name="ResearchCompleted" value="Investigación completada"/>
+	<entry name="TileAcquiredSummary" value="<style name='ShadowedHeading'/>Casilla adquirida<br/><style name='Default'/>%1% adquiridas %2%."/>
+	<entry name="TileCapturedSummary" value="<style name='ShadowedHeading'/>Casilla capturada<br/><style name='Default'/>%1% capturadas %2%."/>
+	<entry name="TileClearedSummary" value="<style name='ShadowedHeading'/>Casilla limpiada<br/><style name='Default'/>%1% limpiadas %2% de %3%."/>
+	<entry name="UnitAffectedSummary" value="<style name='ShadowedHeading'/>Habilidad usada<br/><style name='Default'/>%1% usadas %2% de %3%."/>
+	<entry name="UnitAttackedSummary" value="<style name='ShadowedHeading'/>Unidad atacada<br/><style name='Default'/>%1% atacadas<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="<style name='ShadowedHeading'/>Unidad capturada<br/><style name='Default'/>%1% capturadas<br/>%2%."/>
+	<entry name="UnitKilledSummary" value="<style name='ShadowedHeading'/>Unidad eliminada<br/><style name='Default'/>%1% eliminadas<br/>%2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Unidad descubierta<br/><style name='Default'/>%1%."/>
+</language>

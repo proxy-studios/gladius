@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarumBroken0" value="&quot;Yo no me alisté para esto!&quot;"/>
+	<entry name="AstraMilitarumBroken1" value="&quot;Nos están matando! Y después no podremos matarlos a ellos!&quot;"/>
+	<entry name="AstraMilitarumBroken2" value="&quot;Este es un Mundo de Muerte! &quot;"/>
+	<entry name="AstraMilitarumBroken3" value="&quot;Donde están los refuerzos! Dónde-&quot;"/>
+	<entry name="AstraMilitarumBroken4" value="&quot;Corred muchachos, y esperemos que el Comisario no esté mirando!&quot;"/>
+	<entry name="AstraMilitarumBrokenCount" value="5"/>
+	<entry name="AstraMilitarumShaken0" value="&quot;Podemos rezar? Oh, Emperador, oh Guilliman, protégenos. &quot;"/>
+	<entry name="AstraMilitarumShaken1" value="&quot;Oh, maldición. Podriamos tener mejores armas, por favor?&quot;"/>
+	<entry name="AstraMilitarumShaken2" value="&quot;Comandante, estamos retrocediendo.&quot;"/>
+	<entry name="AstraMilitarumShaken3" value="&quot;Si nos quedamos, moriremos. Si huimos, el Comisario nos disparará!&quot;"/>
+	<entry name="AstraMilitarumShaken4" value="&quot;Coraje, muchachos, coraje. &quot;"/>
+	<entry name="AstraMilitarumShakenCount" value="5"/>
+	<entry name="NecronsBroken0" value="&quot;Protocolo de retirada, iniciado.&quot;"/>
+	<entry name="NecronsBroken1" value="&quot;Simulación de daños al 99%.&quot;"/>
+	<entry name="NecronsBroken2" value="&quot;Nuestra unidad se ha dispersado. Retrocedemos.&quot;"/>
+	<entry name="NecronsBroken3" value="&quot;Sus órdenes son imposibles de cumplir, Señor.&quot;"/>
+	<entry name="NecronsBroken4" value="&quot;La tumba nos llama y nosotros obedecemos.&quot;"/>
+	<entry name="NecronsBrokenCount" value="5"/>
+	<entry name="NecronsShaken0" value="&quot;Estamos más allá del miedo. &quot;"/>
+	<entry name="NecronsShaken1" value="&quot;Una raza menor huiría.&quot;"/>
+	<entry name="NecronsShaken2" value="&quot;Los Antiguos los han entrenado bien.&quot;"/>
+	<entry name="NecronsShaken3" value="&quot;Los Triarcas no nos informaron de esto.&quot;"/>
+	<entry name="NecronsShaken4" value="&quot;No es posible, estamos...perdiendo?&quot;"/>
+	<entry name="NecronsShakenCount" value="5"/>
+	<entry name="NeutralBrokenCount" value="0"/>
+	<entry name="NeutralShakenCount" value="0"/>
+	<entry name="OrksBroken0" value="&quot;Cada Orko ze azuzta de 'zimismo'!&quot;"/>
+	<entry name="OrksBroken1" value="&quot;Kreo que he olvidado algo en mi tienda...vuelvo enzeguida!&quot;"/>
+	<entry name="OrksBroken2" value="&quot;Naw.... naw, naw, naw.&quot;"/>
+	<entry name="OrksBroken3" value="&quot;AAAGH! Eztoy muerto!.&quot;"/>
+	<entry name="OrksBroken4" value="&quot;... corre corre CORRE!&quot;"/>
+	<entry name="OrksBrokenCount" value="5"/>
+	<entry name="OrksShaken0" value="&quot;No me voy a azercar maz!&quot;"/>
+	<entry name="OrksShaken1" value="&quot;Corro, como uzted, Jefe.&quot;"/>
+	<entry name="OrksShaken2" value="&quot;Ezto no ez Orky.&quot;"/>
+	<entry name="OrksShaken3" value="&quot;Nezezito zerveza de Funguz para el coraje.&quot;"/>
+	<entry name="OrksShaken4" value="&quot;No zoy Makari, quiero vivir!&quot;"/>
+	<entry name="OrksShakenCount" value="5"/>
+	<entry name="SpaceMarinesBroken0" value="&quot;El Emperador nos ha abandonado!&quot;"/>
+	<entry name="SpaceMarinesBroken1" value="&quot;Preservar la semilla genética!&quot;"/>
+	<entry name="SpaceMarinesBroken2" value="&quot;Retirémonos para preparar las defensas!&quot;"/>
+	<entry name="SpaceMarinesBroken3" value="&quot;Luchad hasta el último marine!&quot;"/>
+	<entry name="SpaceMarinesBroken4" value="&quot;Traemos vergüenza a nuestro Capítulo!&quot;"/>
+	<entry name="SpaceMarinesBrokenCount" value="5"/>
+	<entry name="SpaceMarinesShaken0" value="&quot;Ante esta oscuridad, prevaleceremos.&quot;"/>
+	<entry name="SpaceMarinesShaken1" value="&quot;Yo...creo en el Emperador. Credo!&quot;"/>
+	<entry name="SpaceMarinesShaken2" value="&quot;Soy un escudo inquebrantable, forjado para hacer frente a la oscuridad.&quot;"/>
+	<entry name="SpaceMarinesShaken3" value="&quot;...bendita la mente demasiado pequeña para dudar.&quot;"/>
+	<entry name="SpaceMarinesShaken4" value="&quot;Mientras nuestros enemigos toman aliento, no podemos descansar.&quot;"/>
+	<entry name="SpaceMarinesShakenCount" value="5"/>
+</language>

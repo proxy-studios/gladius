@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Arctic" value="Ártico"/>
+	<entry name="ArcticFlavor" value="En la mayoría de los planetas habitables por el hombre, los helados y desarbolados climas árticos están situados hacia los polos del planeta. En Gladius Prime, sin embargo, la antigua gestión del clima significa que las regiones congeladas están distribuidas de manera menos predecible."/>
+	<entry name="AstraMilitarumCity" value="Ciudad Astra Militarum"/>
+	<entry name="AstraMilitarumCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="AstraMilitarumCityFlavor" value="Los humanos están hacinados en las altas murallas de esta ciudad, pero eso no significa que su comportamiento esté confinado a ellas. En kilómetros a la redonda, el paisaje está devastado, contaminado y explotado, mientras que los diversos trabajadores humanos, máquinas y soldados vagan más lejos, para verdaderamente 'terraformar' la superficie alguna vez fértil del planeta."/>
+	<entry name="Bedrock" value="Lecho de rocas"/>
+	<entry name="BedrockDescription" value=""/>
+	<entry name="BedrockFlavor" value=""/>
+	<entry name="Brush" value="Maleza"/>
+	<entry name="BrushFlavor" value="Este matorral bajo está salpicado de desperdicios y restos de hábitat humano y la invasión de Xenos. Puede que no sea atractivo a la vista, pero es lo suficientemente fértil para la subsistencia básica."/>
+	<entry name="City" value="Ciudad"/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Función que hace que finalice el movimiento de una unidad y cause daño cada turno."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="Coast" value="Costa"/>
+	<entry name="CoastFlavor" value="Aquí se encuentra la ruina de una pesquería Imperial; allí, la villa de verano abandonada de un burócrata de rango alto del Imperio; allí, un campamento de desesperados y salvajes supervivientes humanos, ganándose una existencia con la generosidad del océano."/>
+	<entry name="CompendiumFlavor" value="Gladius I ha visto muchas civilizaciones ponerse en pie y decaer en sus 4 mil millones de años de existencia galáctica. Primero, el Necrontyr hizo su hogar aquí, luego los Antiguos y sus sucesores Eldars militarizaron la superficie contra el regreso de los Necrones. En años más recientes, fue un joven Imperio Mundo Colmena, antes de la llegada de los Orkos. No es de extrañar que la superficie del planeta todavía muestre esa perturbación: desgarrada y llena de reliquias del pasado tal como es..."/>
+	<entry name="Desert" value="Desierto"/>
+	<entry name="DesertFlavor" value="En estas regiones vacías, la precipitación es tan baja que hace la vida imposible, salvo los extremófilos de crecimiento lento y las formas de vida anhidras más extrañas. La tierra clara y el cielo, sin embargo, son perfectos para dispositivos de captura solar."/>
+	<entry name="FermentationPool" value="Piscina de fermentación"/>
+	<entry name="FermentationPoolDescription" value="Característica especial que aumenta la tasa de crecimiento de la ciudad cuando ésta se adquiere."/>
+	<entry name="FermentationPoolFlavor" value="Esta fuente de agua aparentemente natural parece acogedora para cualquier vida salvaje, pero ¡ay de cualquier sediento Grox que pase cerca! Las bacterias inusuales del estanque destruyen la vida vegetal del planeta y concentran los vertidos en algo letalmente tóxico. Las razas más avanzadas pueden recolectar y refinar el líquido, para el comercio o el consumo de entretenimiento."/>
+	<entry name="Forest" value="Bosque"/>
+	<entry name="ForestFlavor" value="Los bosques de crecimiento rápido de Gladius persisten todo el año, el crecimiento vegetal se extiende hasta el cielo y bloquea las líneas de visión. Las plantas de Gladius pueden parecer arboladas, pero en realidad son duras como el hierro, ya que extraen minerales de las profundidades, a la superficie del planeta."/>
+	<entry name="Grassland" value="Pradera"/>
+	<entry name="GrasslandFlavor" value="Ya sean llanuras naturales o regiones habitadas, una vez que se limpian con energías de deformación impuras, estos campos ondulantes son los lugares más fértiles del planeta, perfectos para cultivos aprobados por el Imperio."/>
+	<entry name="GroxPasture" value="Pastos de Grox"/>
+	<entry name="GroxPastureDescription" value="Característica especial que aumenta la producción de alimentos o requisas de la ciudad cuando ésta se adquiere."/>
+	<entry name="GroxPastureFlavor" value="Alrededor de las hogueras, los contadores de cuentos alienígenas reflexionan sobre el Grox, el peligroso animal de la manada que se encuentra en todas partes en las tierras humanas. A donde sea que vaya el hombre, el robusto Grox viaja con él o está allí antes que él. Algunos dicen que Grox fue la creación más exitosa de los Antiguos."/>
+	<entry name="ImperialRuin" value="Ruinas Imperiales"/>
+	<entry name="ImperialRuinFlavor" value="La colonia humana anterior a la invasión fue construida para la defensa y la explotación minera. Nada fue diseñado para resistir los cambios tectónicos y los horrores nacidos en las disformidades que surgieron con la invasión Orka, y por lo tanto, muy pocas estructuras lo resistieron. Esta ruina es un extraño sobreviviente."/>
+	<entry name="JokaeroTraderEncampment" value="Campamento de comercio de los Jokaero"/>
+	<entry name="JokaeroTraderEncampmentDescription" value="Característica especial que permite que una unidad héroe en la casilla compre y venda artículos, así como aumentar la producción de influencia de la ciudad cuando ésta se adquiere."/>
+	<entry name="JokaeroTraderEncampmentFlavor" value="Si tienes poco respeto por tu vida y buscas emoción, visita a los Jokaero. Imbuidos de una creatividad técnica instintiva que excede incluso a la de un Chapuzaz Orko, estos extraterrestres de pelaje anaranjado se parecen a un gran simio terrano, pero pueden crear maravillas más allá de lo imaginable. El desafío es adquirirlos y trabajar con seguridad en lo que hacen..."/>
+	<entry name="LightBrush" value="Maleza poco densa"/>
+	<entry name="NecronsCity" value="Ciudad Necrón"/>
+	<entry name="NecronsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="NecronsCityFlavor" value="Obeliscos descabellados, mastabas y criptas medio enterradas hacen que esta ciudad en expansión parezca una antigua necrópolis humana. Sin embargo, está lejos de estar desierta, llena de desalmados Necrones -- guerreros y máquinas de metales vivos que consideran a otras razas conscientes o sensibles, como a lo sumo una fuente de esclavos, y en el peor, una plaga que debe ser eliminada de la existencia."/>
+	<entry name="NecronTomb" value="Tumba Necrón"/>
+	<entry name="NecronTombDescription" value="Característica que permite a los Necrones fundar una ciudad en la casilla."/>
+	<entry name="NecronTombFlavor" value="En lo más profundo de este terreno inofensivo se encuentra una Ciudad Tumba, donde los Necrones han dormido durante largos milenios. Para alguien que conoce los protocolos correctos, es sencillo comenzar el procedimiento para despertarlo y despertar a sus habitantes de su sueño sin sueños..."/>
+	<entry name="Ocean" value="Océano"/>
+	<entry name="OceanFlavor" value="Quién sabe qué tesoros han sido arrastrados por los poderosos mares de Gladius? Qué artefactos perdidos hace tiempo están incrustados de coral en medio de los ahumadores negros de los océanos profundos y las aberraciones marinas que temen a la luz? Dada la riqueza de la tierra, nadie ha explorado estas preguntas."/>
+	<entry name="OreField" value="Campo de mineral"/>
+	<entry name="OreFieldDescription" value="Característica especial que incrementa la producción de mineral o requisas de la ciudad cuando ésta se adquiere."/>
+	<entry name="OreFieldFlavor" value="Pocos lugares en un mundo habitado todavía tienen rocas ricas en minerales que simplemente se encuentran en la superficie. Sin embargo, aquí, las rupturas de la tormenta de disformidades han arrancado grandes pedazos de la superficie del planeta, lo que permite una fácil explotación por cualquier facción que la encuentre primero."/>
+	<entry name="OrkoidFungus" value="Hongos Orkoides"/>
+	<entry name="OrkoidFungusDescription" value="Característica que aumenta la producción de alimentos y la tasa de curación de los Orkos."/>
+	<entry name="OrkoidFungusFlavor" value="<string name='Traits/OrkoidFungusFlavor'/>"/>
+	<entry name="OrksCity" value="Ciudad Orka"/>
+	<entry name="OrksCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="OrksCityFlavor" value="Este monstruoso pueblo de chabolas apenas merece el nombre de ciudad cuando se coloca junto a las estructuras de otras razas, pero es lo más cerca que los Orkos llegan a una existencia urbana. Planchas golpeadas de metal y piedra escarbada rodean un depósito de chatarra lleno de fosas comunes, sumideros profundos y hongos picantes."/>
+	<entry name="Outpost" value="Puesto avanzado"/>
+	<entry name="OutpostDescription" value="Proporciona al jugador que lo controle un pequeño bonus de recursos"/>
+	<entry name="OutpostFlavor" value="La larga historia de Gladius Prime ha dejado el planeta lleno de una variada geología, fauna y flora de toda la Galaxia. Para sacar beneficio de los elementos más útiles, la mayoría de civilizaciones establecen un pequeño grupo responsabilizado en el mantenimiento y recogida de estos recursos para su almacenado en bodegas temporales."/>
+	<entry name="PromethiumRelayPipes" value="Tubos de relé de prometio"/>
+	<entry name="PromethiumRelayPipesDescription" value="Característica especial que aumenta la producción de energía de la ciudad cuando ésta se adquiere."/>
+	<entry name="PromethiumRelayPipesFlavor" value="Estos conductos fuertemente blindados, llevaron una vez el prometio rico en energía a las extensas ciudades humanas del planeta desde las auto-refinerías profundamente sepultadas. Ahora, con las ciudades en ruinas por la guerra y el caos, las tuberías sobrevivientes pueden ser explotadas por cualquier raza que las reclame primero."/>
+	<entry name="RecafLeaf" value="Hojas de Recaf -- es como te o café"/>
+	<entry name="RecafLeafDescription" value="Característica especial que aumenta la lealtad de la ciudad cuando ésta se adquiere."/>
+	<entry name="RecafLeafFlavor" value="Estos humildes campos de hierbas silvestres esconden un secreto: una rica comida y un estimulante narcótico que permite que las razas orgánicas pasen sin dormir o descansar durante largos períodos de tiempo. Llamado 'Recaf' por los humanos, se recolecta, procesa y distribuye a los trabajadores de las fábricas y a los esclavos para mejorar su producción."/>
+	<entry name="River" value="Río"/>
+	<entry name="RiverFlavor" value="Este curso de agua dulce se dirige hacia el mar, concentrando la riqueza de montañas y campos como solo él lo puede hacer. Los regimientos de infantería están menos interesados en la abundancia del río y más en sus capacidades como una línea defensiva natural."/>
+	<entry name="Rocks" value="Rocas"/>
+	<entry name="RocksFlavor" value="Empujados por el infierno sísmico del planeta, estos peñascos recién descubiertos pueden estar desprovistos de vida orgánica, pero son una magnífica fuente de minerales raros en el corazón de Gladius."/>
+	<entry name="Ruin" value="Ruinas de Vaul"/>
+	<entry name="RuinDescription" value="Característica especial que proporciona una recompensa a la primera unidad que llega a la casilla y aumenta la producción de investigación de la ciudad cuando ésta se adquiere."/>
+	<entry name="RuinFlavor" value="No está claro qué es esto: una estructura desgastada por el tiempo que se alza desde la superficie destrozada, hecha del mismo material impenetrable de los extraños artefactos que salpican el planeta. Se puede aprender mucho simplemente por estudiarlo, y tal vez todavía contenga algunos secretos."/>
+	<entry name="Savanna" value="Sabana"/>
+	<entry name="SavannaFlavor" value="Aquí proliferan los bosques mixtos y las praderas, sobre las inevitables ruinas humanas y de xenos, creando un paisaje que es fértil, y hogar de los únicos 'árboles' ricos en minerales del planeta."/>
+	<entry name="Shard" value="Fragmentos de Vaul"/>
+	<entry name="ShardDescription" value="Característica especial que aumenta el mineral o las requisas y la producción de energía de la ciudad cuando ésta se adquiere."/>
+	<entry name="ShardFlavor" value="Antes de la tormenta de disformidad, cuando el hombre gobernaba el planeta, estos grandes afloramientos eran una curiosidad y una atracción, como los pilones de Cadia. Sin embargo, mientras que la tormenta de disformidad está en su apogeo, tiemblan con un poder desagradable que las razas temerarias pueden tratar de aprovechar."/>
+	<entry name="SmokeScreen" value="Pantalla de humo"/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="SpaceMarinesCity" value="Ciudad de los Marines Espaciales"/>
+	<entry name="SpaceMarinesCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="SpaceMarinesCityFlavor" value="Donde otras razas tienen ciudades, los Marines Espaciales tienen su fortaleza-monasterio solitaria, un bastión de su clase, parte capilla, parte armería, donde los nuevos Adeptus Astartes son reclutados y alterados utilizando las técnicas antiguas y despiadadas ideadas por el mismo Emperador."/>
+	<entry name="TelekineDome" value="Domo Telekinético"/>
+	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
+	<entry name="Tundra" value="Tundra"/>
+	<entry name="TundraFlavor" value="Aquí domina un paisaje austero, donde las cortas temporadas de crecimiento y las bajas temperaturas ofrecen solo una amarga existencia para los antiguos colonos humanos. La comida todavía se puede encontrar aquí, pero los sistemas hidropónicos o intensivos son necesarios para la supervivencia."/>
+	<entry name="TyranidsCity" value="Ciudades tiránidas"/>
+	<entry name="TyranidsCityDescription" value="<string name='Traits/CityDescription'/>"/>
+	<entry name="TyranidsCityFlavor" value="Llamar a ésto ciudad es algo raro. ¿Cómo llamarías tú a un leviatán simbiótico de organismos que se agrupan en un punto e infectado por pequeñas criaturas, con la inteligencia de la Reina Norn guiándoles?. Es más una persona y sus extremidades que una ciudad -- pero si hubiera algo común a todas las razas, es que interpretan todo basándose en sus experiencias. Para un hombre, esto es una ciudad."/>
+	<entry name="Volcanic" value="Volcánico"/>
+	<entry name="VolcanicFlavor" value="Aquí, la presión masiva debajo de la superficie, desencadenada por el caos de la disformidad, ha creado erupciones sísmicas en la superficie. Para aquellas razas dispuestas a arriesgar sus vidas (o las vidas de sus esclavos), es un área rica para la explotación de minerales."/>
+	<entry name="WireWeed" value="Árboles bajos"/>
+	<entry name="WireWeedDescription" value="Característica que finaliza el movimiento de una unidad y causa daño cada turno."/>
+	<entry name="WireWeedFlavor" value="Ay! de cualquiera que deambule por estos matorrales de zarzas! Lentamente al principio, pero más rápido y más rápido, la hierba viviente dibuja sus afilados filamentos afilados alrededor del desventurado intruso."/>
+</language>

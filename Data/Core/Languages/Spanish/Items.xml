@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AegisHarness" value="Arnés de Aegis"/>
+	<entry name="AegisHarnessDescription" value="Bloquea el daño y los efectos del siguiente ataque psíquico contra la unidad. "/>
+	<entry name="AegisHarnessFlavor" value="Imbuido con filamentos psico-conductivos y protecciones hexagrámicas, estas armaduras son quizá la mejor defensa imperial contra ataques psíquicos. Son empleadas principalmente por el Ordo Malleus en su lucha contra el caos."/>
+	<entry name="AdamantiumWeaveVest" value="Chaleco de Adamantium"/>
+	<entry name="AdamantiumWeaveVestDescription" value="Aumenta la armadura de la unidad."/>
+	<entry name="AdamantiumWeaveVestFlavor" value="Si quieres hacer algo invulnerable, lo haces de adamantium. Usado en la construcción de armadura de Exterminador y en la construcción de Titanes, es el material más duro conocido por la humanidad. Este chaleco solo tiene una pequeña cantidad, reforzada con plástico y ceramita, pero aun así es muy resistente."/>
+	<entry name="ArmaplasBracers" value="Brazal de Armaplas"/>
+	<entry name="ArmaplasBracersDescription" value="Aumenta la armadura de la unidad."/>
+	<entry name="ArmaplasBracersFlavor" value="Hechas del mismo material que la armadura de la Guardia Imperial, estos brazales aumentan ligeramente las posibilidades de supervivencia del poseedor. Sus cognitadores instalados son lo que más pueden ayudarle."/>
+	<entry name="BlightGrenade" value="Granadas de plaga"/>
+	<entry name="BlightGrenadeDescription" value="Hacen daño a la unidad enemiga objetivo cada turno."/>
+	<entry name="BlightGrenadeFlavor" value="El uso de armas que portaban enfermedades era un crimen de Guerra en la antigüedad. Los ejemplos en la actualidad son raros, aunque los Marines del Caos de Nurgle crean las suyas propias, con metralla que mete los patógenos por los agujeros más pequeños."/>
+	<entry name="BlindGrenade" value="Granada cegadora"/>
+	<entry name="BlindGrenadeDescription" value="Reduce la precisión de la unidad enemiga objetivo."/>
+	<entry name="BlindGrenadeFlavor" value="Las granadas cegadoras son una versión más compleja de las granadas de humo, que sueltan una densa nube gris de humo, así como rayos infrarojos, radiación electromagnética de gran alcance y basura que impiden el funcionamiento a los escáneres enemigos. Esto hace que un ataque sea imposible durante un tiempo."/>
+	<entry name="CombatStimulant" value="Estimulantes de combate"/>
+	<entry name="CombatStimulantDescription" value="Aumenta el daño de la unidad."/>
+	<entry name="CombatStimulantFlavor" value="Los estimulantes de combate son vistos con malos ojos por muchas especies, puesto que su manufactura y prueba requiere matar a inocentes (especialmente si cultos de Slaanesh están relacionados). A pesar de esto, las fuerzas imperiales las distribuyen entre legiones penales y los temidos asesinos Eversor."/>
+	<entry name="CompendiumFlavor" value="Aunque la superficie de Gladius ha sido saqueada de materiales útiles durante milenios de ocupación, aún contiene objetos únicos, que atraen a comerciantes como los Jokaero. Las tormentas de la Disformidad han provocado daños en la superficie y nuevos objetos han aparecido. Nadie sabe qué encontrarán los Jokaero ahora."/>
+	<entry name="ConcealedWeaponSystem" value="Sistema de armas oculto"/>
+	<entry name="ConcealedWeaponSystemDescription" value="Aumenta los ataques de la unidad."/>
+	<entry name="ConcealedWeaponSystemFlavor" value="Ocultar un arma no es una idea novedosa, pero un verdadero Sistema de armas oculto oculta las herramientas de matar hasta que se usan – se ocultan como joyas, ropa o incluso elementos biológicos. La sorpresa hace mucho."/>
+	<entry name="EnduranceImplant" value="Implantes de resistencia"/>
+	<entry name="EnduranceImplantDescription" value="Aumenta el movimiento de la unidad."/>
+	<entry name="EnduranceImplantFlavor" value="Un aparato Jokaero atípico, este implante se mete en el cuerpo del organismo receptor para optimizar sus sistemas biológicos. Su empleador no se cansa, lucha más y corre más rápido – hasta que su cuerpo muere, claro."/>
+	<entry name="ForbiddenKnowledge" value="Conocimiento prohibido"/>
+	<entry name="ForbiddenKnowledgeDescription" value="Aumenta el nivel de la unidad."/>
+	<entry name="ForbiddenKnowledgeFlavor" value="Esta caja de Piedra negra está inscrita con runas antiguas, quizás exoditas, quizá de los Ancestrales ¿qué contiene? ¿secretos de eones de antigüedad? ¿trampas mortales? ¿poder de dioses oscuros? Solo un valiente podrá descubrirlo al abrirla, quedándose para sí el conocimiento."/>
+	<entry name="JokaeroDigitalWeapon" value="Armas digitales Jokaero"/>
+	<entry name="JokaeroDigitalWeaponDescription" value=""/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="Armas miniaturizadas de enorme poder, generalmente escondidas en joyas, y creadas por los xenos similares a primates con grandes conocimientos tecnológicos. El imperio aun no ha podido replicar su construcción."/>
+	<entry name="LightningGauntlet" value="Guantelete del rayo"/>
+	<entry name="LightningGauntletDescription" value="Aumenta el daño del siguiente ataque cuerpo a cuerpo de la unidad."/>
+	<entry name="LightningGauntletFlavor" value="Con garras de adamantium y el característico brillo azul de las armas de energía, las cuchillas relámpago normalmente se montan sobre armaduras de Exterminador. Sin embargo, algunos guanteletes también las llevan montadas, y son pequeños para que los lleven guerreros normales."/>
+	<entry name="ManCatcher" value="Capturahombres"/>
+	<entry name="ManCatcherDescription" value="Reduce el movimiento y precisión de la unidad objetivo enemiga."/>
+	<entry name="ManCatcherFlavor" value="Un antiguo equipo de captura cuyo collar con pinchos disuade al prisionero de escapar. Aunque muchos lo consideran primitivo, algunos inquisidores creen que este barbarismo da mejores resultados que otros no pueden ofrecer."/>
+	<entry name="MourningBladeOfLazaerek" value="Espada de la lamentación de Lazaraek"/>
+	<entry name="MourningBladeOfLazaerekDescription" value="Otorga un ataque de área a todas las armas cuerpo a cuerpo de la unidad."/>
+	<entry name="MourningBladeOfLazaerekFlavor" value="Poco ha sobrevivido tras el desastroso salto a la disformidad de los Halcones de Fuego en el 963.M41, pero algunas de sus supuestas reliquias aún se conservan. Esta hacha se cree que pertenecía a su Maestre del Capítulo, Stibor Lazaerek, bajo cuyo mando lucharon en la Guerra de Badab."/>
+	<entry name="PoweredBolas" value="Bolas de energía"/>
+	<entry name="PoweredBolasDescription" value="Reduce el movimiento y la precisión de la unidad enemiga objetivo."/>
+	<entry name="PoweredBolasFlavor" value="En los mundos Sabana del Imperio, las tropas locales han adoptado armas tradicionales, pertenecientes a los criadores de Grox. Los tres pesos al final del arma no hacen daño, pero impiden que el enemigo pueda maniobrar fácilmente."/>
+	<entry name="PoweredGauntlet" value="Guantelete de energía"/>
+	<entry name="PoweredGauntletDescription" value="Aumenta el daño cuerpo a cuerpo de la unidad."/>
+	<entry name="PoweredGauntletFlavor" value="Puede parecer un simple guante de acero, con tecnología por encima. Sin embargo, el Administratum dice 'caveat emptor' – puesto que la tecnología de los Jokaero hace que se convierta en un puño de combate como los de los imperiales y los orcos."/>
+	<entry name="RecoveryPackage" value="Equipo médico"/>
+	<entry name="RecoveryPackageDescription" value="Restaura los puntos de daño de la unidad."/>
+	<entry name="RecoveryPackageFlavor" value="Este equipo médico se ha construido sin cuidado, quizá por un orco o un Jokaero con un sentido instintivo de la medicina, pero sin duda, funciona. Cualquiera sea la herida, sin duda en el pack habrá algo con una etiqueta equivocada que la cure."/>
+	<entry name="StunGrenade" value="Granada paralizadora"/>
+	<entry name="StunGrenadeDescription" value="Impide que la unidad enemiga actúe."/>
+	<entry name="StunGrenadeFlavor" value="Antiguo diseño, estas granadas son una combinación de una fuerte explosión y una luz brillante cegadora. "/>
+	<entry name="TemporaryShield" value="Escudo temporal"/>
+	<entry name="TemporaryShieldDescription" value="Aumenta la armadura de la unidad."/>
+	<entry name="TemporaryShieldFlavor" value="Generadores de escudos portátiles que son raros entre la mayoría de las especies, debido a los raros recursos que necesita y su complejidad. Se agotan rápido, pero su habilidad de parar cualquier ataque los hace muy importantes."/>
+	<entry name="VolcanisShroud" value="Capa de Volcanis"/>
+	<entry name="VolcanisShroudDescription" value="Reduce el daño por fuegobrujo de la unidad."/>
+	<entry name="VolcanisShroudFlavor" value="Aunque esta machacada armadura resistente al calor fue diseñada para trabajo industrial, por alguna razón también reduce el daño psíquico. Hasta ahora se desconoce qué le da esta habilidad, puesto que nadie se atreve ha hacer ingeniería inversa."/>
+	<entry name="ZoatHideJerkin" value="Jubón de piel de Zoat"/>
+	<entry name="ZoatHideJerkinDescription" value="Aumenta los puntos de daño y su recuperación en la unidad."/>
+	<entry name="ZoatHideJerkinFlavor" value="Los Zoat, raza genéticamente modificada esclava de los tiránidos, han desaparecido de la galaxia durante generaciones. Renombrados por su inteligencia y carisma, su densa piel les hacía duros adversarios. La armadura hecha a partir de ellos es rara, pero es una bendición en la batalla."/>
+</language>
