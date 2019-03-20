@@ -1,0 +1,935 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Buildings -->
+	<entry name="AstraMilitarum/Aircraft" value="<string name='Buildings/AstraMilitarum/Aircraft'/>"/>
+	<entry name="AstraMilitarum/AircraftDescription" value="<string name='Buildings/AstraMilitarum/AircraftDescription'/>"/>
+	<entry name="AstraMilitarum/AircraftFlavor" value="<string name='Buildings/AstraMilitarum/AircraftFlavor'/>"/>
+	<entry name="AstraMilitarum/Construction" value="<string name='Buildings/AstraMilitarum/Construction'/>"/>
+	<entry name="AstraMilitarum/ConstructionDescription" value="<string name='Buildings/AstraMilitarum/ConstructionDescription'/>"/>
+	<entry name="AstraMilitarum/ConstructionFlavor" value="<string name='Buildings/AstraMilitarum/ConstructionFlavor'/>"/>
+	<entry name="AstraMilitarum/Heroes" value="<string name='Buildings/AstraMilitarum/Heroes'/>"/>
+	<entry name="AstraMilitarum/HeroesDescription" value="<string name='Buildings/AstraMilitarum/HeroesDescription'/>"/>
+	<entry name="AstraMilitarum/HeroesFlavor" value="<string name='Buildings/AstraMilitarum/HeroesFlavor'/>"/>
+	<entry name="AstraMilitarum/Housing" value="<string name='Buildings/AstraMilitarum/Housing'/>"/>
+	<entry name="AstraMilitarum/HousingDescription" value="<string name='Buildings/AstraMilitarum/HousingDescription'/>"/>
+	<entry name="AstraMilitarum/HousingFlavor" value="<string name='Buildings/AstraMilitarum/HousingFlavor'/>"/>
+	<entry name="AstraMilitarum/Loyalty" value="<string name='Buildings/AstraMilitarum/Loyalty'/>"/>
+	<entry name="AstraMilitarum/LoyaltyDescription" value="<string name='Buildings/AstraMilitarum/LoyaltyDescription'/>"/>
+	<entry name="AstraMilitarum/LoyaltyFlavor" value="<string name='Buildings/AstraMilitarum/LoyaltyFlavor'/>"/>
+	<entry name="AstraMilitarum/Psykers" value="<string name='Buildings/AstraMilitarum/Psykers'/>"/>
+	<entry name="AstraMilitarum/PsykersDescription" value="<string name='Buildings/AstraMilitarum/PsykersDescription'/>"/>
+	<entry name="AstraMilitarum/PsykersFlavor" value="<string name='Buildings/AstraMilitarum/PsykersFlavor'/>"/>
+	<entry name="AstraMilitarum/Upgrades" value="<string name='Buildings/AstraMilitarum/Upgrades'/>"/>
+	<entry name="AstraMilitarum/UpgradesDescription" value="<string name='Buildings/AstraMilitarum/UpgradesDescription'/>"/>
+	<entry name="AstraMilitarum/UpgradesFlavor" value="<string name='Buildings/AstraMilitarum/UpgradesFlavor'/>"/>
+	<entry name="AstraMilitarum/Vehicles" value="<string name='Buildings/AstraMilitarum/Vehicles'/>"/>
+	<entry name="AstraMilitarum/VehiclesDescription" value="<string name='Buildings/AstraMilitarum/VehiclesDescription'/>"/>
+	<entry name="AstraMilitarum/VehiclesFlavor" value="<string name='Buildings/AstraMilitarum/VehiclesFlavor'/>"/>
+	<entry name="Necrons/Aircraft" value="<string name='Buildings/Necrons/Aircraft'/>"/>
+	<entry name="Necrons/AircraftDescription" value="<string name='Buildings/Necrons/AircraftDescription'/>"/>
+	<entry name="Necrons/AircraftFlavor" value="<string name='Buildings/Necrons/AircraftFlavor'/>"/>
+	<entry name="Necrons/Construction" value="<string name='Buildings/Necrons/Construction'/>"/>
+	<entry name="Necrons/ConstructionDescription" value="<string name='Buildings/Necrons/ConstructionDescription'/>"/>
+	<entry name="Necrons/ConstructionFlavor" value="<string name='Buildings/Necrons/ConstructionFlavor'/>"/>
+	<entry name="Necrons/Heroes" value="<string name='Buildings/Necrons/Heroes'/>"/>
+	<entry name="Necrons/HeroesDescription" value="<string name='Buildings/Necrons/HeroesDescription'/>"/>
+	<entry name="Necrons/HeroesFlavor" value="<string name='Buildings/Necrons/HeroesFlavor'/>"/>
+	<entry name="Necrons/Housing" value="<string name='Buildings/Necrons/Housing'/>"/>
+	<entry name="Necrons/HousingDescription" value="<string name='Buildings/Necrons/HousingDescription'/>"/>
+	<entry name="Necrons/HousingFlavor" value="<string name='Buildings/Necrons/HousingFlavor'/>"/>
+	<entry name="Necrons/Loyalty" value="<string name='Buildings/Necrons/Loyalty'/>"/>
+	<entry name="Necrons/LoyaltyDescription" value="<string name='Buildings/Necrons/LoyaltyDescription'/>"/>
+	<entry name="Necrons/LoyaltyFlavor" value="<string name='Buildings/Necrons/LoyaltyFlavor'/>"/>
+	<entry name="Necrons/Vehicles" value="<string name='Buildings/Necrons/Vehicles'/>"/>
+	<entry name="Necrons/VehiclesDescription" value="<string name='Buildings/Necrons/VehiclesDescription'/>"/>
+	<entry name="Necrons/VehiclesFlavor" value="<string name='Buildings/Necrons/VehiclesFlavor'/>"/>
+	<entry name="Orks/Beasts" value="<string name='Buildings/Orks/Beasts'/>"/>
+	<entry name="Orks/BeastsDescription" value="<string name='Buildings/Orks/BeastsDescription'/>"/>
+	<entry name="Orks/BeastsFlavor" value="<string name='Buildings/Orks/BeastsFlavor'/>"/>
+	<entry name="Orks/Colonizers" value="<string name='Buildings/Orks/Colonizers'/>"/>
+	<entry name="Orks/ColonizersDescription" value="<string name='Buildings/Orks/ColonizersDescription'/>"/>
+	<entry name="Orks/ColonizersFlavor" value="<string name='Buildings/Orks/ColonizersFlavor'/>"/>
+	<entry name="Orks/Construction" value="<string name='Buildings/Orks/Construction'/>"/>
+	<entry name="Orks/ConstructionDescription" value="<string name='Buildings/Orks/ConstructionDescription'/>"/>
+	<entry name="Orks/ConstructionFlavor" value="<string name='Buildings/Orks/ConstructionFlavor'/>"/>
+	<entry name="Orks/Heroes" value="<string name='Buildings/Orks/Heroes'/>"/>
+	<entry name="Orks/HeroesDescription" value="<string name='Buildings/Orks/HeroesDescription'/>"/>
+	<entry name="Orks/HeroesFlavor" value="<string name='Buildings/Orks/HeroesFlavor'/>"/>
+	<entry name="Orks/Housing" value="<string name='Buildings/Orks/Housing'/>"/>
+	<entry name="Orks/HousingDescription" value="<string name='Buildings/Orks/HousingDescription'/>"/>
+	<entry name="Orks/HousingFlavor" value="<string name='Buildings/Orks/HousingFlavor'/>"/>
+	<entry name="Orks/Loyalty" value="<string name='Buildings/Orks/Loyalty'/>"/>
+	<entry name="Orks/LoyaltyDescription" value="<string name='Buildings/Orks/LoyaltyDescription'/>"/>
+	<entry name="Orks/LoyaltyFlavor" value="<string name='Buildings/Orks/LoyaltyFlavor'/>"/>
+	<entry name="Orks/Vehicles" value="<string name='Buildings/Orks/Vehicles'/>"/>
+	<entry name="Orks/VehiclesDescription" value="<string name='Buildings/Orks/VehiclesDescription'/>"/>
+	<entry name="Orks/VehiclesFlavor" value="<string name='Buildings/Orks/VehiclesFlavor'/>"/>
+	<entry name="SpaceMarines/Aircraft" value="<string name='Buildings/SpaceMarines/Aircraft'/>"/>
+	<entry name="SpaceMarines/AircraftDescription" value="<string name='Buildings/SpaceMarines/AircraftDescription'/>"/>
+	<entry name="SpaceMarines/AircraftFlavor" value="<string name='Buildings/SpaceMarines/AircraftFlavor'/>"/>
+	<entry name="SpaceMarines/Construction" value="<string name='Buildings/SpaceMarines/Construction'/>"/>
+	<entry name="SpaceMarines/ConstructionDescription" value="<string name='Buildings/SpaceMarines/ConstructionDescription'/>"/>
+	<entry name="SpaceMarines/ConstructionFlavor" value="<string name='Buildings/SpaceMarines/ConstructionFlavor'/>"/>
+	<entry name="SpaceMarines/GeneseedBunker" value="<string name='Buildings/SpaceMarines/GeneseedBunker'/>"/>
+	<entry name="SpaceMarines/GeneseedBunkerDescription" value="<string name='Buildings/SpaceMarines/GeneseedBunkerDescription'/>"/>
+	<entry name="SpaceMarines/GeneseedBunkerFlavor" value="<string name='Buildings/SpaceMarines/GeneseedBunkerFlavor'/>"/>
+	<entry name="SpaceMarines/Heroes" value="<string name='Buildings/SpaceMarines/Heroes'/>"/>
+	<entry name="SpaceMarines/HeroesDescription" value="<string name='Buildings/SpaceMarines/HeroesDescription'/>"/>
+	<entry name="SpaceMarines/HeroesFlavor" value="<string name='Buildings/SpaceMarines/HeroesFlavor'/>"/>
+	<entry name="SpaceMarines/Housing" value="<string name='Buildings/SpaceMarines/Housing'/>"/>
+	<entry name="SpaceMarines/HousingDescription" value="<string name='Buildings/SpaceMarines/HousingDescription'/>"/>
+	<entry name="SpaceMarines/HousingFlavor" value="<string name='Buildings/SpaceMarines/HousingFlavor'/>"/>
+	<entry name="SpaceMarines/Loyalty" value="<string name='Buildings/SpaceMarines/Loyalty'/>"/>
+	<entry name="SpaceMarines/LoyaltyDescription" value="<string name='Buildings/SpaceMarines/LoyaltyDescription'/>"/>
+	<entry name="SpaceMarines/LoyaltyFlavor" value="<string name='Buildings/SpaceMarines/LoyaltyFlavor'/>"/>
+	<entry name="SpaceMarines/Vehicles" value="<string name='Buildings/SpaceMarines/Vehicles'/>"/>
+	<entry name="SpaceMarines/VehiclesDescription" value="<string name='Buildings/SpaceMarines/VehiclesDescription'/>"/>
+	<entry name="SpaceMarines/VehiclesFlavor" value="<string name='Buildings/SpaceMarines/VehiclesFlavor'/>"/>
+	<entry name="Tyranids/Aircraft" value="<string name='Buildings/Tyranids/Aircraft'/>"/>
+	<entry name="Tyranids/AircraftDescription" value="<string name='Buildings/Tyranids/AircraftDescription'/>"/>
+	<entry name="Tyranids/AircraftFlavor" value="<string name='Buildings/Tyranids/AircraftFlavor'/>"/>
+	<entry name="Tyranids/Construction" value="<string name='Buildings/Tyranids/Construction'/>"/>
+	<entry name="Tyranids/ConstructionDescription" value="<string name='Buildings/Tyranids/ConstructionDescription'/>"/>
+	<entry name="Tyranids/ConstructionFlavor" value="<string name='Buildings/Tyranids/ConstructionFlavor'/>"/>
+	<entry name="Tyranids/Heroes" value="<string name='Buildings/Tyranids/Heroes'/>"/>
+	<entry name="Tyranids/HeroesDescription" value="<string name='Buildings/Tyranids/HeroesDescription'/>"/>
+	<entry name="Tyranids/HeroesFlavor" value="<string name='Buildings/Tyranids/HeroesFlavor'/>"/>
+	<entry name="Tyranids/Housing" value="<string name='Buildings/Tyranids/Housing'/>"/>
+	<entry name="Tyranids/HousingDescription" value="<string name='Buildings/Tyranids/HousingDescription'/>"/>
+	<entry name="Tyranids/HousingFlavor" value="<string name='Buildings/Tyranids/HousingFlavor'/>"/>
+	<entry name="Tyranids/Loyalty" value="<string name='Buildings/Tyranids/Loyalty'/>"/>
+	<entry name="Tyranids/LoyaltyDescription" value="<string name='Buildings/Tyranids/LoyaltyDescription'/>"/>
+	<entry name="Tyranids/LoyaltyFlavor" value="<string name='Buildings/Tyranids/LoyaltyFlavor'/>"/>
+	<entry name="Tyranids/Thropes" value="<string name='Buildings/Tyranids/Thropes'/>"/>
+	<entry name="Tyranids/ThropesDescription" value="<string name='Buildings/Tyranids/ThropesDescription'/>"/>
+	<entry name="Tyranids/ThropesFlavor" value="<string name='Buildings/Tyranids/ThropesFlavor'/>"/>
+	<entry name="Tyranids/Vehicles" value="<string name='Buildings/Tyranids/Vehicles'/>"/>
+	<entry name="Tyranids/VehiclesDescription" value="<string name='Buildings/Tyranids/VehiclesDescription'/>"/>
+	<entry name="Tyranids/VehiclesFlavor" value="<string name='Buildings/Tyranids/VehiclesFlavor'/>"/>
+	
+	<!-- Edicts -->
+	<entry name="AstraMilitarum/AircraftProductionEdict" value="<string name='Actions/AstraMilitarumAircraftProductionEdict'/>"/>
+	<entry name="AstraMilitarum/AircraftProductionEdictDescription" value="<string name='Actions/AstraMilitarumAircraftProductionEdictDescription'/>"/>
+	<entry name="AstraMilitarum/AircraftProductionEdictFlavor" value="<string name='Actions/AstraMilitarumAircraftProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/DefenseEdict" value="<string name='Actions/AstraMilitarumDefenseEdict'/>"/>
+	<entry name="AstraMilitarum/DefenseEdictDescription" value="<string name='Actions/AstraMilitarumDefenseEdictDescription'/>"/>
+	<entry name="AstraMilitarum/DefenseEdictFlavor" value="<string name='Actions/AstraMilitarumDefenseEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/EnergyEdict" value="<string name='Actions/AstraMilitarumEnergyEdict'/>"/>
+	<entry name="AstraMilitarum/EnergyEdictDescription" value="<string name='Actions/AstraMilitarumEnergyEdictDescription'/>"/>
+	<entry name="AstraMilitarum/EnergyEdictFlavor" value="<string name='Actions/AstraMilitarumEnergyEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/FoodEdict" value="<string name='Actions/AstraMilitarumFoodEdict'/>"/>
+	<entry name="AstraMilitarum/FoodEdictDescription" value="<string name='Actions/AstraMilitarumFoodEdictDescription'/>"/>
+	<entry name="AstraMilitarum/FoodEdictFlavor" value="<string name='Actions/AstraMilitarumFoodEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/GrowthEdict" value="<string name='Actions/AstraMilitarumGrowthEdict'/>"/>
+	<entry name="AstraMilitarum/GrowthEdictDescription" value="<string name='Actions/AstraMilitarumGrowthEdictDescription'/>"/>
+	<entry name="AstraMilitarum/GrowthEdictFlavor" value="<string name='Actions/AstraMilitarumGrowthEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/InfantryProductionEdict" value="<string name='Actions/AstraMilitarumInfantryProductionEdict'/>"/>
+	<entry name="AstraMilitarum/InfantryProductionEdictDescription" value="<string name='Actions/AstraMilitarumInfantryProductionEdictDescription'/>"/>
+	<entry name="AstraMilitarum/InfantryProductionEdictFlavor" value="<string name='Actions/AstraMilitarumInfantryProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/LoyaltyEdict" value="<string name='Actions/AstraMilitarumLoyaltyEdict'/>"/>
+	<entry name="AstraMilitarum/LoyaltyEdictDescription" value="<string name='Actions/AstraMilitarumLoyaltyEdictDescription'/>"/>
+	<entry name="AstraMilitarum/LoyaltyEdictFlavor" value="<string name='Actions/AstraMilitarumLoyaltyEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/OreEdict" value="<string name='Actions/AstraMilitarumOreEdict'/>"/>
+	<entry name="AstraMilitarum/OreEdictDescription" value="<string name='Actions/AstraMilitarumOreEdictDescription'/>"/>
+	<entry name="AstraMilitarum/OreEdictFlavor" value="<string name='Actions/AstraMilitarumOreEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/PsykerProductionEdict" value="<string name='Actions/AstraMilitarumPsykerProductionEdict'/>"/>
+	<entry name="AstraMilitarum/PsykerProductionEdictDescription" value="<string name='Actions/AstraMilitarumPsykerProductionEdictDescription'/>"/>
+	<entry name="AstraMilitarum/PsykerProductionEdictFlavor" value="<string name='Actions/AstraMilitarumPsykerProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/ResearchEdict" value="<string name='Actions/AstraMilitarumResearchEdict'/>"/>
+	<entry name="AstraMilitarum/ResearchEdictDescription" value="<string name='Actions/AstraMilitarumResearchEdictDescription'/>"/>
+	<entry name="AstraMilitarum/ResearchEdictFlavor" value="<string name='Actions/AstraMilitarumResearchEdictFlavor'/>"/>
+	<entry name="AstraMilitarum/VehicleProductionEdict" value="<string name='Actions/AstraMilitarumVehicleProductionEdict'/>"/>
+	<entry name="AstraMilitarum/VehicleProductionEdictDescription" value="<string name='Actions/AstraMilitarumVehicleProductionEdictDescription'/>"/>
+	<entry name="AstraMilitarum/VehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
+		
+	<!-- Units -->
+	<entry name="AstraMilitarum/Baneblade" value="<string name='Units/AstraMilitarum/Baneblade'/>"/>
+	<entry name="AstraMilitarum/BanebladeDescription" value="<string name='Units/AstraMilitarum/BanebladeDescription'/>"/>
+	<entry name="AstraMilitarum/BanebladeFlavor" value="<string name='Units/AstraMilitarum/BanebladeFlavor'/>"/>
+	<entry name="AstraMilitarum/Basilisk" value="<string name='Units/AstraMilitarum/Basilisk'/>"/>
+	<entry name="AstraMilitarum/BasiliskDescription" value="<string name='Units/AstraMilitarum/BasiliskDescription'/>"/>
+	<entry name="AstraMilitarum/BasiliskFlavor" value="<string name='Units/AstraMilitarum/BasiliskFlavor'/>"/>
+	<entry name="AstraMilitarum/Bullgryn" value="<string name='Units/AstraMilitarum/Bullgryn'/>"/>
+	<entry name="AstraMilitarum/BullgrynDescription" value="<string name='Units/AstraMilitarum/BullgrynDescription'/>"/>
+	<entry name="AstraMilitarum/BullgrynFlavor" value="<string name='Units/AstraMilitarum/BullgrynFlavor'/>"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad" value="<string name='Units/AstraMilitarum/HeavyWeaponsSquad'/>"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadDescription" value="<string name='Units/AstraMilitarum/HeavyWeaponsSquadDescription'/>"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquadFlavor" value="<string name='Units/AstraMilitarum/HeavyWeaponsSquadFlavor'/>"/>
+	<entry name="AstraMilitarum/Hydra" value="<string name='Units/AstraMilitarum/Hydra'/>"/>
+	<entry name="AstraMilitarum/HydraDescription" value="<string name='Units/AstraMilitarum/HydraDescription'/>"/>
+	<entry name="AstraMilitarum/HydraFlavor" value="<string name='Units/AstraMilitarum/HydraFlavor'/>"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank" value="<string name='Units/AstraMilitarum/LemanRussBattleTank'/>"/>
+	<entry name="AstraMilitarum/LemanRussBattleTankDescription" value="<string name='Units/AstraMilitarum/LemanRussBattleTankDescription'/>"/>
+	<entry name="AstraMilitarum/LemanRussBattleTankFlavor" value="<string name='Units/AstraMilitarum/LemanRussBattleTankFlavor'/>"/>
+	<entry name="AstraMilitarum/LordCommissar" value="<string name='Units/AstraMilitarum/LordCommissar'/>"/>
+	<entry name="AstraMilitarum/LordCommissarDescription" value="<string name='Units/AstraMilitarum/LordCommissarDescription'/>"/>
+	<entry name="AstraMilitarum/LordCommissarFlavor" value="<string name='Units/AstraMilitarum/LordCommissarFlavor'/>"/>
+	<entry name="AstraMilitarum/MarauderBomber" value="<string name='Units/AstraMilitarum/MarauderBomber'/>"/>
+	<entry name="AstraMilitarum/MarauderBomberDescription" value="<string name='Units/AstraMilitarum/MarauderBomberDescription'/>"/>
+	<entry name="AstraMilitarum/MarauderBomberFlavor" value="<string name='Units/AstraMilitarum/MarauderBomberFlavor'/>"/>
+	<entry name="AstraMilitarum/PrimarisPsyker" value="<string name='Units/AstraMilitarum/PrimarisPsyker'/>"/>
+	<entry name="AstraMilitarum/PrimarisPsykerDescription" value="<string name='Units/AstraMilitarum/PrimarisPsykerDescription'/>"/>
+	<entry name="AstraMilitarum/PrimarisPsykerFlavor" value="<string name='Units/AstraMilitarum/PrimarisPsykerFlavor'/>"/>
+	<entry name="AstraMilitarum/ScoutSentinel" value="<string name='Units/AstraMilitarum/ScoutSentinel'/>"/>
+	<entry name="AstraMilitarum/ScoutSentinelDescription" value="<string name='Units/AstraMilitarum/ScoutSentinelDescription'/>"/>
+	<entry name="AstraMilitarum/ScoutSentinelFlavor" value="<string name='Units/AstraMilitarum/ScoutSentinelFlavor'/>"/>
+	<entry name="AstraMilitarum/TankCommander" value="<string name='Units/AstraMilitarum/TankCommander'/>"/>
+	<entry name="AstraMilitarum/TankCommanderDescription" value="<string name='Units/AstraMilitarum/TankCommanderDescription'/>"/>
+	<entry name="AstraMilitarum/TankCommanderFlavor" value="<string name='Units/AstraMilitarum/TankCommanderFlavor'/>"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer" value="<string name='Units/AstraMilitarum/TechpriestEnginseer'/>"/>
+	<entry name="AstraMilitarum/TechpriestEnginseerDescription" value="<string name='Units/AstraMilitarum/TechpriestEnginseerDescription'/>"/>
+	<entry name="AstraMilitarum/TechpriestEnginseerFlavor" value="<string name='Units/AstraMilitarum/TechpriestEnginseerFlavor'/>"/>
+	<entry name="AstraMilitarum/TempestusScion" value="<string name='Units/AstraMilitarum/TempestusScion'/>"/>
+	<entry name="AstraMilitarum/TempestusScionDescription" value="<string name='Units/AstraMilitarum/TempestusScionDescription'/>"/>
+	<entry name="AstraMilitarum/TempestusScionFlavor" value="<string name='Units/AstraMilitarum/TempestusScionFlavor'/>"/>
+	<entry name="AstraMilitarum/Thunderbolt" value="<string name='Units/AstraMilitarum/Thunderbolt'/>"/>
+	<entry name="AstraMilitarum/ThunderboltDescription" value="<string name='Units/AstraMilitarum/ThunderboltDescription'/>"/>
+	<entry name="AstraMilitarum/ThunderboltFlavor" value="<string name='Units/AstraMilitarum/ThunderboltFlavor'/>"/>
+	<entry name="AstraMilitarum/Valkyrie" value="<string name='Units/AstraMilitarum/Valkyrie'/>"/>
+	<entry name="AstraMilitarum/ValkyrieDescription" value="<string name='Units/AstraMilitarum/ValkyrieDescription'/>"/>
+	<entry name="AstraMilitarum/ValkyrieFlavor" value="<string name='Units/AstraMilitarum/ValkyrieFlavor'/>"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker" value="<string name='Units/AstraMilitarum/WyrdvanePsyker'/>"/>
+	<entry name="AstraMilitarum/WyrdvanePsykerDescription" value="<string name='Units/AstraMilitarum/WyrdvanePsykerDescription'/>"/>
+	<entry name="AstraMilitarum/WyrdvanePsykerFlavor" value="<string name='Units/AstraMilitarum/WyrdvanePsykerFlavor'/>"/>
+	<entry name="Necrons/AnnihilationBarge" value="<string name='Units/Necrons/AnnihilationBarge'/>"/>
+	<entry name="Necrons/AnnihilationBargeDescription" value="<string name='Units/Necrons/AnnihilationBargeDescription'/>"/>
+	<entry name="Necrons/AnnihilationBargeFlavor" value="<string name='Units/Necrons/AnnihilationBargeFlavor'/>"/>
+	<entry name="Necrons/CanoptekSpyder" value="<string name='Units/Necrons/CanoptekSpyder'/>"/>
+	<entry name="Necrons/CanoptekSpyderDescription" value="<string name='Units/Necrons/CanoptekSpyderDescription'/>"/>
+	<entry name="Necrons/CanoptekSpyderFlavor" value="<string name='Units/Necrons/CanoptekSpyderFlavor'/>"/>
+	<entry name="Necrons/Cryptek" value="<string name='Units/Necrons/Cryptek'/>"/>
+	<entry name="Necrons/CryptekDescription" value="<string name='Units/Necrons/CryptekDescription'/>"/>
+	<entry name="Necrons/CryptekFlavor" value="<string name='Units/Necrons/CryptekFlavor'/>"/>
+	<entry name="Necrons/DestroyerLord" value="<string name='Units/Necrons/DestroyerLord'/>"/>
+	<entry name="Necrons/DestroyerLordDescription" value="<string name='Units/Necrons/DestroyerLordDescription'/>"/>
+	<entry name="Necrons/DestroyerLordFlavor" value="<string name='Units/Necrons/DestroyerLordFlavor'/>"/>
+	<entry name="Necrons/DoomScythe" value="<string name='Units/Necrons/DoomScythe'/>"/>
+	<entry name="Necrons/DoomScytheDescription" value="<string name='Units/Necrons/DoomScytheDescription'/>"/>
+	<entry name="Necrons/DoomScytheFlavor" value="<string name='Units/Necrons/DoomScytheFlavor'/>"/>
+	<entry name="Necrons/DoomsdayArk" value="<string name='Units/Necrons/DoomsdayArk'/>"/>
+	<entry name="Necrons/DoomsdayArkDescription" value="<string name='Units/Necrons/DoomsdayArkDescription'/>"/>
+	<entry name="Necrons/DoomsdayArkFlavor" value="<string name='Units/Necrons/DoomsdayArkFlavor'/>"/>
+	<entry name="Necrons/HeavyDestroyer" value="<string name='Units/Necrons/HeavyDestroyer'/>"/>
+	<entry name="Necrons/HeavyDestroyerDescription" value="<string name='Units/Necrons/HeavyDestroyerDescription'/>"/>
+	<entry name="Necrons/HeavyDestroyerFlavor" value="<string name='Units/Necrons/HeavyDestroyerFlavor'/>"/>
+	<entry name="Necrons/Immortal" value="<string name='Units/Necrons/Immortal'/>"/>
+	<entry name="Necrons/ImmortalDescription" value="<string name='Units/Necrons/ImmortalDescription'/>"/>
+	<entry name="Necrons/ImmortalFlavor" value="<string name='Units/Necrons/ImmortalFlavor'/>"/>
+	<entry name="Necrons/Lord" value="<string name='Units/Necrons/Lord'/>"/>
+	<entry name="Necrons/LordDescription" value="<string name='Units/Necrons/LordDescription'/>"/>
+	<entry name="Necrons/LordFlavor" value="<string name='Units/Necrons/LordFlavor'/>"/>
+	<entry name="Necrons/Monolith" value="<string name='Units/Necrons/Monolith'/>"/>
+	<entry name="Necrons/MonolithDescription" value="<string name='Units/Necrons/MonolithDescription'/>"/>
+	<entry name="Necrons/MonolithFlavor" value="<string name='Units/Necrons/MonolithFlavor'/>"/>
+	<entry name="Necrons/NightScythe" value="<string name='Units/Necrons/NightScythe'/>"/>
+	<entry name="Necrons/NightScytheDescription" value="<string name='Units/Necrons/NightScytheDescription'/>"/>
+	<entry name="Necrons/NightScytheFlavor" value="<string name='Units/Necrons/NightScytheFlavor'/>"/>
+	<entry name="Necrons/Obelisk" value="<string name='Units/Necrons/Obelisk'/>"/>
+	<entry name="Necrons/ObeliskDescription" value="<string name='Units/Necrons/ObeliskDescription'/>"/>
+	<entry name="Necrons/ObeliskFlavor" value="<string name='Units/Necrons/ObeliskFlavor'/>"/>
+	<entry name="Necrons/TombBlade" value="<string name='Units/Necrons/TombBlade'/>"/>
+	<entry name="Necrons/TombBladeDescription" value="<string name='Units/Necrons/TombBladeDescription'/>"/>
+	<entry name="Necrons/TombBladeFlavor" value="<string name='Units/Necrons/TombBladeFlavor'/>"/>
+	<entry name="Necrons/TranscendentCtan" value="<string name='Units/Necrons/TranscendentCtan'/>"/>
+	<entry name="Necrons/TranscendentCtanDescription" value="<string name='Units/Necrons/TranscendentCtanDescription'/>"/>
+	<entry name="Necrons/TranscendentCtanFlavor" value="<string name='Units/Necrons/TranscendentCtanFlavor'/>"/>
+	<entry name="Necrons/TriarchPraetorian" value="<string name='Units/Necrons/TriarchPraetorian'/>"/>
+	<entry name="Necrons/TriarchPraetorianDescription" value="<string name='Units/Necrons/TriarchPraetorianDescription'/>"/>
+	<entry name="Necrons/TriarchPraetorianFlavor" value="<string name='Units/Necrons/TriarchPraetorianFlavor'/>"/>
+	<entry name="Necrons/TriarchStalker" value="<string name='Units/Necrons/TriarchStalker'/>"/>
+	<entry name="Necrons/TriarchStalkerDescription" value="<string name='Units/Necrons/TriarchStalkerDescription'/>"/>
+	<entry name="Necrons/TriarchStalkerFlavor" value="<string name='Units/Necrons/TriarchStalkerFlavor'/>"/>
+	<entry name="Orks/Battlewagon" value="<string name='Units/Orks/Battlewagon'/>"/>
+	<entry name="Orks/BattlewagonDescription" value="<string name='Units/Orks/BattlewagonDescription'/>"/>
+	<entry name="Orks/BattlewagonFlavor" value="<string name='Units/Orks/BattlewagonFlavor'/>"/>
+	<entry name="Orks/BurnaBommer" value="<string name='Units/Orks/BurnaBommer'/>"/>
+	<entry name="Orks/BurnaBommerDescription" value="<string name='Units/Orks/BurnaBommerDescription'/>"/>
+	<entry name="Orks/BurnaBommerFlavor" value="<string name='Units/Orks/BurnaBommerFlavor'/>"/>
+	<entry name="Orks/Dakkajet" value="<string name='Units/Orks/Dakkajet'/>"/>
+	<entry name="Orks/DakkajetDescription" value="<string name='Units/Orks/DakkajetDescription'/>"/>
+	<entry name="Orks/DakkajetFlavor" value="<string name='Units/Orks/DakkajetFlavor'/>"/>
+	<entry name="Orks/Deffkopta" value="<string name='Units/Orks/Deffkopta'/>"/>
+	<entry name="Orks/DeffkoptaDescription" value="<string name='Units/Orks/DeffkoptaDescription'/>"/>
+	<entry name="Orks/DeffkoptaFlavor" value="<string name='Units/Orks/DeffkoptaFlavor'/>"/>
+	<entry name="Orks/FlashGitz" value="<string name='Units/Orks/FlashGitz'/>"/>
+	<entry name="Orks/FlashGitzDescription" value="<string name='Units/Orks/FlashGitzDescription'/>"/>
+	<entry name="Orks/FlashGitzFlavor" value="<string name='Units/Orks/FlashGitzFlavor'/>"/>
+	<entry name="Orks/GargantuanSquiggoth" value="<string name='Units/Orks/GargantuanSquiggoth'/>"/>
+	<entry name="Orks/GargantuanSquiggothDescription" value="<string name='Units/Orks/GargantuanSquiggothDescription'/>"/>
+	<entry name="Orks/GargantuanSquiggothFlavor" value="<string name='Units/Orks/GargantuanSquiggothFlavor'/>"/>
+	<entry name="Orks/Gorkanaut" value="<string name='Units/Orks/Gorkanaut'/>"/>
+	<entry name="Orks/GorkanautDescription" value="<string name='Units/Orks/GorkanautDescription'/>"/>
+	<entry name="Orks/GorkanautFlavor" value="<string name='Units/Orks/GorkanautFlavor'/>"/>
+	<entry name="Orks/KillaKan" value="<string name='Units/Orks/KillaKan'/>"/>
+	<entry name="Orks/KillaKanDescription" value="<string name='Units/Orks/KillaKanDescription'/>"/>
+	<entry name="Orks/KillaKanFlavor" value="<string name='Units/Orks/KillaKanFlavor'/>"/>
+	<entry name="Orks/Meganob" value="<string name='Units/Orks/Meganob'/>"/>
+	<entry name="Orks/MeganobDescription" value="<string name='Units/Orks/MeganobDescription'/>"/>
+	<entry name="Orks/MeganobFlavor" value="<string name='Units/Orks/MeganobFlavor'/>"/>
+	<entry name="Orks/Mek" value="<string name='Units/Orks/Mek'/>"/>
+	<entry name="Orks/MekDescription" value="<string name='Units/Orks/MekDescription'/>"/>
+	<entry name="Orks/MekFlavor" value="<string name='Units/Orks/MekFlavor'/>"/>
+	<entry name="Orks/MekGun" value="<string name='Units/Orks/MekGun'/>"/>
+	<entry name="Orks/MekGunDescription" value="<string name='Units/Orks/MekGunDescription'/>"/>
+	<entry name="Orks/MekGunFlavor" value="<string name='Units/Orks/MekGunFlavor'/>"/>
+	<entry name="Orks/Painboy" value="<string name='Units/Orks/Painboy'/>"/>
+	<entry name="Orks/PainboyDescription" value="<string name='Units/Orks/PainboyDescription'/>"/>
+	<entry name="Orks/PainboyFlavor" value="<string name='Units/Orks/PainboyFlavor'/>"/>
+	<entry name="Orks/Tankbusta" value="<string name='Units/Orks/Tankbusta'/>"/>
+	<entry name="Orks/TankbustaDescription" value="<string name='Units/Orks/TankbustaDescription'/>"/>
+	<entry name="Orks/TankbustaFlavor" value="<string name='Units/Orks/TankbustaFlavor'/>"/>
+	<entry name="Orks/Warboss" value="<string name='Units/Orks/Warboss'/>"/>
+	<entry name="Orks/WarbossDescription" value="<string name='Units/Orks/WarbossDescription'/>"/>
+	<entry name="Orks/WarbossFlavor" value="<string name='Units/Orks/WarbossFlavor'/>"/>
+	<entry name="Orks/Warbuggy" value="<string name='Units/Orks/Warbuggy'/>"/>
+	<entry name="Orks/WarbuggyDescription" value="<string name='Units/Orks/WarbuggyDescription'/>"/>
+	<entry name="Orks/WarbuggyFlavor" value="<string name='Units/Orks/WarbuggyFlavor'/>"/>
+	<entry name="Orks/Weirdboy" value="<string name='Units/Orks/Weirdboy'/>"/>
+	<entry name="Orks/WeirdboyDescription" value="<string name='Units/Orks/WeirdboyDescription'/>"/>
+	<entry name="Orks/WeirdboyFlavor" value="<string name='Units/Orks/WeirdboyFlavor'/>"/>
+	<entry name="SpaceMarines/Apothecary" value="<string name='Units/SpaceMarines/Apothecary'/>"/>
+	<entry name="SpaceMarines/ApothecaryDescription" value="<string name='Units/SpaceMarines/ApothecaryDescription'/>"/>
+	<entry name="SpaceMarines/ApothecaryFlavor" value="<string name='Units/SpaceMarines/ApothecaryFlavor'/>"/>
+	<entry name="SpaceMarines/AssaultSpaceMarine" value="<string name='Units/SpaceMarines/AssaultSpaceMarine'/>"/>
+	<entry name="SpaceMarines/AssaultSpaceMarineDescription" value="<string name='Units/SpaceMarines/AssaultSpaceMarineDescription'/>"/>
+	<entry name="SpaceMarines/AssaultSpaceMarineFlavor" value="<string name='Units/SpaceMarines/AssaultSpaceMarineFlavor'/>"/>
+	<entry name="SpaceMarines/Captain" value="<string name='Units/SpaceMarines/Captain'/>"/>
+	<entry name="SpaceMarines/CaptainDescription" value="<string name='Units/SpaceMarines/CaptainDescription'/>"/>
+	<entry name="SpaceMarines/CaptainFlavor" value="<string name='Units/SpaceMarines/CaptainFlavor'/>"/>
+	<entry name="SpaceMarines/Chaplain" value="<string name='Units/SpaceMarines/Chaplain'/>"/>
+	<entry name="SpaceMarines/ChaplainDescription" value="<string name='Units/SpaceMarines/ChaplainDescription'/>"/>
+	<entry name="SpaceMarines/ChaplainFlavor" value="<string name='Units/SpaceMarines/ChaplainFlavor'/>"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarine" value="<string name='Units/SpaceMarines/DevastatorSpaceMarine'/>"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineDescription" value="<string name='Units/SpaceMarines/DevastatorSpaceMarineDescription'/>"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarineFlavor" value="<string name='Units/SpaceMarines/DevastatorSpaceMarineFlavor'/>"/>
+	<entry name="SpaceMarines/Dreadnought" value="<string name='Units/SpaceMarines/Dreadnought'/>"/>
+	<entry name="SpaceMarines/DreadnoughtDescription" value="<string name='Units/SpaceMarines/DreadnoughtDescription'/>"/>
+	<entry name="SpaceMarines/DreadnoughtFlavor" value="<string name='Units/SpaceMarines/DreadnoughtFlavor'/>"/>
+	<entry name="SpaceMarines/Hunter" value="<string name='Units/SpaceMarines/Hunter'/>"/>
+	<entry name="SpaceMarines/HunterDescription" value="<string name='Units/SpaceMarines/HunterDescription'/>"/>
+	<entry name="SpaceMarines/HunterFlavor" value="<string name='Units/SpaceMarines/HunterFlavor'/>"/>
+	<entry name="SpaceMarines/LandRaider" value="<string name='Units/SpaceMarines/LandRaider'/>"/>
+	<entry name="SpaceMarines/LandRaiderDescription" value="<string name='Units/SpaceMarines/LandRaiderDescription'/>"/>
+	<entry name="SpaceMarines/LandRaiderFlavor" value="<string name='Units/SpaceMarines/LandRaiderFlavor'/>"/>
+	<entry name="SpaceMarines/LandSpeeder" value="<string name='Units/SpaceMarines/LandSpeeder'/>"/>
+	<entry name="SpaceMarines/LandSpeederDescription" value="<string name='Units/SpaceMarines/LandSpeederDescription'/>"/>
+	<entry name="SpaceMarines/LandSpeederFlavor" value="<string name='Units/SpaceMarines/LandSpeederFlavor'/>"/>
+	<entry name="SpaceMarines/Librarian" value="<string name='Units/SpaceMarines/Librarian'/>"/>
+	<entry name="SpaceMarines/LibrarianDescription" value="<string name='Units/SpaceMarines/LibrarianDescription'/>"/>
+	<entry name="SpaceMarines/LibrarianFlavor" value="<string name='Units/SpaceMarines/LibrarianFlavor'/>"/>
+	<entry name="SpaceMarines/Predator" value="<string name='Units/SpaceMarines/Predator'/>"/>
+	<entry name="SpaceMarines/PredatorDescription" value="<string name='Units/SpaceMarines/PredatorDescription'/>"/>
+	<entry name="SpaceMarines/PredatorFlavor" value="<string name='Units/SpaceMarines/PredatorFlavor'/>"/>
+	<entry name="SpaceMarines/ScoutBiker" value="<string name='Units/SpaceMarines/ScoutBiker'/>"/>
+	<entry name="SpaceMarines/ScoutBikerDescription" value="<string name='Units/SpaceMarines/ScoutBikerDescription'/>"/>
+	<entry name="SpaceMarines/ScoutBikerFlavor" value="<string name='Units/SpaceMarines/ScoutBikerFlavor'/>"/>
+	<entry name="SpaceMarines/StormravenGunship" value="<string name='Units/SpaceMarines/StormravenGunship'/>"/>
+	<entry name="SpaceMarines/StormravenGunshipDescription" value="<string name='Units/SpaceMarines/StormravenGunshipDescription'/>"/>
+	<entry name="SpaceMarines/StormravenGunshipFlavor" value="<string name='Units/SpaceMarines/StormravenGunshipFlavor'/>"/>
+	<entry name="SpaceMarines/StormtalonGunship" value="<string name='Units/SpaceMarines/StormtalonGunship'/>"/>
+	<entry name="SpaceMarines/StormtalonGunshipDescription" value="<string name='Units/SpaceMarines/StormtalonGunshipDescription'/>"/>
+	<entry name="SpaceMarines/StormtalonGunshipFlavor" value="<string name='Units/SpaceMarines/StormtalonGunshipFlavor'/>"/>
+	<entry name="SpaceMarines/Terminator" value="<string name='Units/SpaceMarines/Terminator'/>"/>
+	<entry name="SpaceMarines/TerminatorDescription" value="<string name='Units/SpaceMarines/TerminatorDescription'/>"/>
+	<entry name="SpaceMarines/TerminatorFlavor" value="<string name='Units/SpaceMarines/TerminatorFlavor'/>"/>
+	<entry name="SpaceMarines/ThunderfireCannon" value="<string name='Units/SpaceMarines/ThunderfireCannon'/>"/>
+	<entry name="SpaceMarines/ThunderfireCannonDescription" value="<string name='Units/SpaceMarines/ThunderfireCannonDescription'/>"/>
+	<entry name="SpaceMarines/ThunderfireCannonFlavor" value="<string name='Units/SpaceMarines/ThunderfireCannonFlavor'/>"/>
+	<entry name="SpaceMarines/Vindicator" value="<string name='Units/SpaceMarines/Vindicator'/>"/>
+	<entry name="SpaceMarines/VindicatorDescription" value="<string name='Units/SpaceMarines/VindicatorDescription'/>"/>
+	<entry name="SpaceMarines/VindicatorFlavor" value="<string name='Units/SpaceMarines/VindicatorFlavor'/>"/>
+	<entry name="Tyranids/Exocrine" value="<string name='Units/Tyranids/Exocrine'/>"/>
+	<entry name="Tyranids/ExocrineDescription" value="<string name='Units/Tyranids/ExocrineDescription'/>"/>
+	<entry name="Tyranids/ExocrineFlavor" value="<string name='Units/Tyranids/ExocrineFlavor'/>"/>
+	<entry name="Tyranids/Gargoyle" value="<string name='Units/Tyranids/Gargoyle'/>"/>
+	<entry name="Tyranids/GargoyleDescription" value="<string name='Units/Tyranids/GargoyleDescription'/>"/>
+	<entry name="Tyranids/GargoyleFlavor" value="<string name='Units/Tyranids/GargoyleFlavor'/>"/>
+	<entry name="Tyranids/Haruspex" value="<string name='Units/Tyranids/Haruspex'/>"/>
+	<entry name="Tyranids/HaruspexDescription" value="<string name='Units/Tyranids/HaruspexDescription'/>"/>
+	<entry name="Tyranids/HaruspexFlavor" value="<string name='Units/Tyranids/HaruspexFlavor'/>"/>
+	<entry name="Tyranids/HiveTyrant" value="<string name='Units/Tyranids/HiveTyrant'/>"/>
+	<entry name="Tyranids/HiveTyrantDescription" value="<string name='Units/Tyranids/HiveTyrantDescription'/>"/>
+	<entry name="Tyranids/HiveTyrantFlavor" value="<string name='Units/Tyranids/HiveTyrantFlavor'/>"/>
+	<entry name="Tyranids/Hormagaunt" value="<string name='Units/Tyranids/Hormagaunt'/>"/>
+	<entry name="Tyranids/HormagauntDescription" value="<string name='Units/Tyranids/HormagauntDescription'/>"/>
+	<entry name="Tyranids/HormagauntFlavor" value="<string name='Units/Tyranids/HormagauntFlavor'/>"/>
+	<entry name="Tyranids/Lictor" value="<string name='Units/Tyranids/Lictor'/>"/>
+	<entry name="Tyranids/LictorDescription" value="<string name='Units/Tyranids/LictorDescription'/>"/>
+	<entry name="Tyranids/LictorFlavor" value="<string name='Units/Tyranids/LictorFlavor'/>"/>
+	<entry name="Tyranids/Ravener" value="<string name='Units/Tyranids/Ravener'/>"/>
+	<entry name="Tyranids/RavenerDescription" value="<string name='Units/Tyranids/RavenerDescription'/>"/>
+	<entry name="Tyranids/RavenerFlavor" value="<string name='Units/Tyranids/RavenerFlavor'/>"/>
+	<entry name="Tyranids/Tervigon" value="<string name='Units/Tyranids/Tervigon'/>"/>
+	<entry name="Tyranids/TervigonDescription" value="<string name='Units/Tyranids/TervigonDescription'/>"/>
+	<entry name="Tyranids/TervigonFlavor" value="<string name='Units/Tyranids/TervigonFlavor'/>"/>
+	<entry name="Tyranids/Trygon" value="<string name='Units/Tyranids/Trygon'/>"/>
+	<entry name="Tyranids/TrygonDescription" value="<string name='Units/Tyranids/TrygonDescription'/>"/>
+	<entry name="Tyranids/TrygonFlavor" value="<string name='Units/Tyranids/TrygonFlavor'/>"/>
+	<entry name="Tyranids/Tyrannofex" value="<string name='Units/Tyranids/Tyrannofex'/>"/>
+	<entry name="Tyranids/TyrannofexDescription" value="<string name='Units/Tyranids/TyrannofexDescription'/>"/>
+	<entry name="Tyranids/TyrannofexFlavor" value="<string name='Units/Tyranids/TyrannofexFlavor'/>"/>
+	<entry name="Tyranids/Warrior" value="<string name='Units/Tyranids/Warrior'/>"/>
+	<entry name="Tyranids/WarriorDescription" value="<string name='Units/Tyranids/WarriorDescription'/>"/>
+	<entry name="Tyranids/WarriorFlavor" value="<string name='Units/Tyranids/WarriorFlavor'/>"/>
+	<entry name="Tyranids/Zoanthrope" value="<string name='Units/Tyranids/Zoanthrope'/>"/>
+	<entry name="Tyranids/ZoanthropeDescription" value="<string name='Units/Tyranids/ZoanthropeDescription'/>"/>
+	<entry name="Tyranids/ZoanthropeFlavor" value="<string name='Units/Tyranids/ZoanthropeFlavor'/>"/>
+
+	<!-- Other -->
+	<entry name="SmokeLauncher" value="Дымовая завеса"/>
+	<entry name="SmokeLauncherDescription" value="Даёт наземной технике возможность постановки дымовой завесы, что обеспечивает снижение урона от дальнего огня."/>
+	<entry name="SmokeLauncherFlavor" value="Некоторые автомобили имеют небольшие пусковые установки, смонтированные на них, которые несут заряды дыма. Они используются, чтобы временно скрыть технику за клубящимися облаками дыма, позволяя ей пересекать открытые участки в большей безопасности, хотя огонь из своего оружия тоже становиться слабее."/>
+	<entry name="AstraMilitarum/AdditionalHeavyBolters" value="Дополнительный Тяжелый Болтер"/>
+	<entry name="AstraMilitarum/AdditionalHeavyBoltersDescription" value="Позволяет установить на Гибельный клинок, боевой танк Леман Русс и Валькирию дополнительные тяжелые болтеры."/>
+	<entry name="AstraMilitarum/AdditionalHeavyBoltersFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
+	<entry name="AstraMilitarum/AwakenTheMachine" value="<string name='Actions/AwakenTheMachine'/>"/>
+	<entry name="AstraMilitarum/AwakenTheMachineDescription" value="Позволяет Техножрецу-Машиновидцу увеличить урон наносимый техникой."/>
+	<entry name="AstraMilitarum/AwakenTheMachineFlavor" value="<string name='Actions/AwakenTheMachineFlavor'/>"/>
+	<entry name="AstraMilitarum/BanebladeLascannon" value="Лазпушка для Гибельного клинка"/>
+	<entry name="AstraMilitarum/BanebladeLascannonDescription" value="Позволяет оснастить дополнительными Лазпушками танк Гибельный клинок."/>
+	<entry name="AstraMilitarum/BanebladeLascannonFlavor" value="<string name='Weapons/LascannonFlavor'/>"/>
+	<entry name="AstraMilitarum/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
+	<entry name="AstraMilitarum/BlastDamageDescription" value="Увеличивает урон от взрывного оружия."/>
+	<entry name="AstraMilitarum/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
+	<entry name="AstraMilitarum/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
+	<entry name="AstraMilitarum/BoltDamageDescription" value="Увеличивает урон от болт-оружия."/>
+	<entry name="AstraMilitarum/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
+	<entry name="AstraMilitarum/BruteShield" value="<string name='Traits/BruteShield'/>"/>
+	<entry name="AstraMilitarum/BruteShieldDescription" value="Позволяет Быкринам снижать урон Неуязвимостью ."/>
+	<entry name="AstraMilitarum/BruteShieldFlavor" value="<string name='Traits/BruteShieldFlavor'/>"/>
+	<entry name="AstraMilitarum/CamoNetting" value="<string name='Traits/CamoNetting'/>"/>
+	<entry name="AstraMilitarum/CamoNettingDescription" value="<string name='Traits/CamoNettingDescription'/>"/>
+	<entry name="AstraMilitarum/CamoNettingFlavor" value="<string name='Traits/CamoNettingFlavor'/>"/>
+	<entry name="AstraMilitarum/ChaffLauncher" value="Запуск обманки"/>
+	<entry name="AstraMilitarum/ChaffLauncherDescription" value="Даёт Удару молнии и бомбардировщику Мародер возможность запуска облака ложных целей, которые снижают урон."/>
+	<entry name="AstraMilitarum/ChaffLauncherFlavor" value="<string name='Actions/DispenseChaffFlavor'/>"/>
+	<entry name="AstraMilitarum/CityTier2" value="<string name='Traits/AstraMilitarum/CityTier2'/>"/>
+	<entry name="AstraMilitarum/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="AstraMilitarum/CityTier2Flavor" value="<string name='Traits/AstraMilitarum/CityTier2Flavor'/>"/>
+	<entry name="AstraMilitarum/CityTier3" value="<string name='Traits/AstraMilitarum/CityTier3'/>"/>
+	<entry name="AstraMilitarum/CityTier3Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="AstraMilitarum/CityTier3Flavor" value="<string name='Traits/AstraMilitarum/CityTier3Flavor'/>"/>
+	<entry name="AstraMilitarum/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
+	<entry name="AstraMilitarum/DozerBladeDescription" value="Позволяет танковым подразделениям передвигаться по лесам и Имперским руинам без штрафа."/>
+	<entry name="AstraMilitarum/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
+	<entry name="AstraMilitarum/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="AstraMilitarum/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты."/>
+	<entry name="AstraMilitarum/ExtraInfantryArmourFlavor" value="Большинство пехоты в 41-м тысячелетии оснащены флак броней или её эквивалентом. Если командир хочет, чтобы его бойцы  имели хоть немного шансов на выживание, он снабдит их чем-нибудь похожем на броню из армапласта Астра Милитарум."/>
+	<entry name="AstraMilitarum/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="AstraMilitarum/ExtraVehicleArmourDescription" value="Увеличивает броню техники."/>
+	<entry name="AstraMilitarum/ExtraVehicleArmourFlavor" value="Добавление дополнительных пластин брони на танки для техножрецов является высшей ересью, но для солдат Астра Милитарум это скорее норма. Поглощающее покрытие или специальная броня для защиты от конкретного оружия не является чем-то неслыханным."/>
+	<entry name="AstraMilitarum/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
+	<entry name="AstraMilitarum/FragGrenadeDescription" value="Даёт пехоте возможность бросить гранату."/>
+	<entry name="AstraMilitarum/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="AstraMilitarum/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="AstraMilitarum/HammerOfWrathDescription" value="Даёт Быкринам возможность выполнения более разрушительных атак."/>
+	<entry name="AstraMilitarum/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="AstraMilitarum/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
+	<entry name="AstraMilitarum/HunterKillerMissileDescription" value="Даёт наземной технике возможность стрельбы ракетами Охотник-убийца."/>
+	<entry name="AstraMilitarum/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
+	<entry name="AstraMilitarum/ImperialSplendour" value="<string name='Traits/ImperialSplendour'/>"/>
+	<entry name="AstraMilitarum/ImperialSplendourDescription" value="Увеличивает влияние в городе Астра Милитарум."/>
+	<entry name="AstraMilitarum/ImperialSplendourFlavor" value="<string name='Traits/ImperialSplendourFlavor'/>"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint" value="<string name='Units/AstraMilitarum/ImperialStrongpoint'/>"/>
+	<entry name="AstraMilitarum/ImperialStrongpointDescription" value="Даёт Техножрецам-Машиновидцам возможность построить оборонительные сооружения."/>
+	<entry name="AstraMilitarum/ImperialStrongpointFlavor" value="<string name='Units/AstraMilitarum/ImperialStrongpointFlavor'/>"/>
+	<entry name="AstraMilitarum/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
+	<entry name="AstraMilitarum/KrakGrenadeDescription" value="Позволяет пехоте бросать противотанковые гранаты."/>
+	<entry name="AstraMilitarum/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
+	<entry name="AstraMilitarum/LasDamage" value="<string name='Traits/LasDamage'/>"/>
+	<entry name="AstraMilitarum/LasDamageDescription" value="Увеличивает урон от Лаз-оружия."/>
+	<entry name="AstraMilitarum/LasDamageFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="AstraMilitarum/MediPack" value="<string name='Actions/MediPack'/>"/>
+	<entry name="AstraMilitarum/MediPackDescription" value="Даёт Гвардейцам и Отпрыскам Темпестус способность исцелять себя во время боя."/>
+	<entry name="AstraMilitarum/MediPackFlavor" value="<string name='Actions/MediPackFlavor'/>"/>
+	<entry name="AstraMilitarum/Misfortune" value="<string name='Actions/Misfortune'/>"/>
+	<entry name="AstraMilitarum/MisfortuneDescription" value="Псайкер-вюрдоплетам предоставляется возможность насылать проклятие на вражеские подразделения, чтобы они несли повышенный урон."/>
+	<entry name="AstraMilitarum/MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
+	<entry name="AstraMilitarum/RecoveryGear" value="<string name='Traits/RecoveryGear'/>"/>
+	<entry name="AstraMilitarum/RecoveryGearDescription" value="Увеличивает скорость ремонта для наземной техники."/>
+	<entry name="AstraMilitarum/RecoveryGearFlavor" value="<string name='Traits/RecoveryGearFlavor'/>"/>
+	<entry name="AstraMilitarum/RelicPlating" value="<string name='Traits/RelicPlating'/>"/>
+	<entry name="AstraMilitarum/RelicPlatingDescription" value="Позволяет наземной технике снижать урон от колдовского огня."/>
+	<entry name="AstraMilitarum/RelicPlatingFlavor" value="<string name='Traits/RelicPlatingFlavor'/>"/>
+	<entry name="AstraMilitarum/SkystrikeMissile" value="<string name='Weapons/SkystrikeMissile'/>"/>
+	<entry name="AstraMilitarum/SkystrikeMissileDescription" value="Даёт Удару молнии возможность стрелять ракетами по воздушным целям."/>
+	<entry name="AstraMilitarum/SkystrikeMissileFlavor" value="<string name='Weapons/SkystrikeMissileFlavor'/>"/>
+	<entry name="AstraMilitarum/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
+	<entry name="AstraMilitarum/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
+	<entry name="AstraMilitarum/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
+	<entry name="AstraMilitarum/TrainedSentinelPilots" value="<string name='Traits/TrainedSentinelPilots'/>"/>
+	<entry name="AstraMilitarum/TrainedSentinelPilotsDescription" value="Увеличивает урон от разведчиков Часовых."/>
+	<entry name="AstraMilitarum/TrainedSentinelPilotsFlavor" value="<string name='Traits/TrainedSentinelPilotsFlavor'/>"/>
+	<entry name="AstraMilitarum/VoxCaster" value="<string name='Traits/VoxCaster'/>"/>
+	<entry name="AstraMilitarum/VoxCasterDescription" value="Уменьшает потерю морали Гвардейцев и Отпрысков Темпестус."/>
+	<entry name="AstraMilitarum/VoxCasterFlavor" value="<string name='Traits/VoxCasterFlavor'/>"/>
+	<entry name="CompendiumFlavor" value="Каждая фракция расширяет городах по разному. Иногда, Варбосс Орков приказывает Парням поднять его в буквальном смысле слова и перенести его дальше за защитные стены, или, возможно, Лорд Некронов приказывает своим рабам раскапывать их древние гробницы от поверхности планеты еще дальше. Тем не менее, все делают то, что необходимо для того, чтобы освободить место для новых зданий, которые расширяют возможности их фракции."/>
+	<entry name="Necrons/AircraftBuildingBonus" value="<string name='Traits/Necrons/AircraftBuildingBonus'/>"/>
+	<entry name="Necrons/AircraftBuildingBonusDescription" value="Увеличивает объемы производства Безымянного Пути Причины."/>
+	<entry name="Necrons/AircraftBuildingBonusFlavor" value="<string name='Traits/Necrons/AircraftBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/AttackCityBonus" value="<string name='Traits/Necrons/AttackCityBonus'/>"/>
+	<entry name="Necrons/AttackCityBonusDescription" value="Повышает точность при атаке вражеских подразделений в городах."/>
+	<entry name="Necrons/AttackCityBonusFlavor" value="<string name='Traits/Necrons/AttackCityBonusFlavor'/>"/>
+	<entry name="Necrons/BlastDamage" value="<string name='Traits/Necrons/BlastDamage'/>"/>
+	<entry name="Necrons/BlastDamageDescription" value="Увеличивает урон от взрывного оружия."/>
+	<entry name="Necrons/BlastDamageFlavor" value="<string name='Traits/Necrons/BlastDamageFlavor'/>"/>
+	<entry name="Necrons/CityDefenseBonus" value="Невообразимые препятствия"/>
+	<entry name="Necrons/CityDefenseBonusDescription" value="Увеличивает уменьшение урона подразделений в городах."/>
+	<entry name="Necrons/CityDefenseBonusFlavor" value="Атаки на защитников города-гробницы загадочным образом пресекаются -- энергетические атаки исчезают, отклоняется гравитонное оружие, и физические снаряды, кажется, разбиваются о Циклопические стены появившиеся прямо из гробниц."/>
+	<entry name="Necrons/CityTier2" value="<string name='Traits/Necrons/CityTier2'/>"/>
+	<entry name="Necrons/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="Necrons/CityTier2Flavor" value="<string name='Traits/Necrons/CityTier2Flavor'/>"/>
+	<entry name="Necrons/CityTier3" value="<string name='Traits/Necrons/CityTier3'/>"/>
+	<entry name="Necrons/CityTier3Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="Necrons/CityTier3Flavor" value="<string name='Traits/Necrons/CityTier3Flavor'/>"/>
+	<entry name="Necrons/ConstructionBuildingBonus" value="<string name='Traits/Necrons/ConstructionBuildingBonus'/>"/>
+	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Увеличивает объемы производства Рабов дома Вечности."/>
+	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="<string name='Traits/Necrons/ConstructionBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/DimensionalCorridor" value="<string name='Actions/Necrons/DimensionalCorridor'/>"/>
+	<entry name="Necrons/DimensionalCorridorDescription" value="Дает пехоте возможность телепортироваться к городам и Монолиту."/>
+	<entry name="Necrons/DimensionalCorridorFlavor" value="<string name='Actions/Necrons/DimensionalCorridorFlavor'/>"/>
+	<entry name="Necrons/DimensionalCorridor2" value="Размерная Стабильность"/>
+	<entry name="Necrons/DimensionalCorridor2Description" value="Снижает стоимость влияния для использования Размерных коридоров."/>
+	<entry name="Necrons/DimensionalCorridor2Flavor" value="Опираясь на мощь брошенной техники Древних, Некроны стабилизировали свою технологию призыва, что значительно снижает стоимость воинов проходящих во Врата Вечности."/>
+	<entry name="Necrons/DimensionalCorridor3" value="Размерная Поддержка"/>
+	<entry name="Necrons/DimensionalCorridor3Description" value="Обнуляет стоимость движения и действия для Размерных коридоров."/>
+	<entry name="Necrons/DimensionalCorridor3Flavor" value="Хитроумность Криптека позволили Некронам отладить свою технологию призыва, в значительной степени повысив точность прохождения через них."/>
+	<entry name="Necrons/EnergyBuildingBonus" value="<string name='Traits/Necrons/EnergyBuildingBonus'/>"/>
+	<entry name="Necrons/EnergyBuildingBonusDescription" value="Повышает эффективность энергетических ядер."/>
+	<entry name="Necrons/EnergyBuildingBonusFlavor" value="<string name='Traits/Necrons/EnergyBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="Necrons/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты."/>
+	<entry name="Necrons/ExtraInfantryArmourFlavor" value="Даже после тысячелетий войны и сна Криптеки Некронов не утратили стремления к инновациям. Внося незначительные изменения в свой некродермис, они способны повысить выживаемость своих войск в современной войне."/>
+	<entry name="Necrons/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="Necrons/ExtraVehicleArmourDescription" value="Увеличивает броню техники."/>
+	<entry name="Necrons/ExtraVehicleArmourFlavor" value="Внешне эта техника Некронов идентична своим предшественникам. Но Криптек и, возможно, даже образованный Эльдар, может увидеть, что материал, из которой она сделана, повысил её устойчивость каким-то образом, и не изменил её вес."/>
+	<entry name="Necrons/FabricatorClawArray" value="<string name='Actions/Necrons/FabricatorClawArray'/>"/>
+	<entry name="Necrons/FabricatorClawArrayDescription" value="Даёт Каноптековым паукам возможность ремонта подразделений союзной техники."/>
+	<entry name="Necrons/FabricatorClawArrayFlavor" value="<string name='Actions/Necrons/FabricatorClawArrayFlavor'/>"/>
+	<entry name="Necrons/GaussDamage" value="<string name='Traits/GaussDamage'/>"/>
+	<entry name="Necrons/GaussDamageDescription" value="Увеличивает урон от Гаусс-оружия."/>
+	<entry name="Necrons/GaussDamageFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
+	<entry name="Necrons/GloomPrismDescription" value="Позволяет Каноптековым паукам и соседним союзникам снизить урон от колдовского огня."/>
+	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
+	<entry name="Necrons/GrowthBonus" value="<string name='Traits/Necrons/GrowthBonus'/>"/>
+	<entry name="Necrons/GrowthBonusDescription" value="Увеличивает скорость роста населения городов Некронов."/>
+	<entry name="Necrons/GrowthBonusFlavor" value="<string name='Traits/Necrons/GrowthBonusFlavor'/>"/>
+	<entry name="Necrons/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Necrons/HammerOfWrathDescription" value="Даёт Могильным клинкам, Каноптековым Паукам, Трансцендентным К'тан и Триархическим Преторианцам возможность выполнения более разрушительных атак."/>
+	<entry name="Necrons/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Necrons/HousingBuildingBonus" value="<string name='Traits/Necrons/HousingBuildingBonus'/>"/>
+	<entry name="Necrons/HousingBuildingBonusDescription" value="Увеличивает лимит населения убежищ."/>
+	<entry name="Necrons/HousingBuildingBonusFlavor" value="<string name='Traits/Necrons/HousingBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/InfantryBuildingBonus" value="<string name='Traits/Necrons/InfantryBuildingBonus'/>"/>
+	<entry name="Necrons/InfantryBuildingBonusDescription" value="Увеличивает эффективность Призывного ядра."/>
+	<entry name="Necrons/InfantryBuildingBonusFlavor" value="<string name='Traits/Necrons/InfantryBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/InfluenceBuildingBonus" value="<string name='Traits/Necrons/InfluenceBuildingBonus'/>"/>
+	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Увеличивает влияние Стелы."/>
+	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="<string name='Traits/Necrons/InfluenceBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/LastStandReady" value="<string name='Traits/LastStand'/>"/>
+	<entry name="Necrons/LivingMetal2" value="Бессмертные Формы"/>
+	<entry name="Necrons/LivingMetal2Description" value="Увеличивает скорость восстановления техники."/>
+	<entry name="Necrons/LivingMetal2Flavor" value="В некотором заумном смысле, машины Некронов сейчас помнят свою былую славу и бесконечно стремятся обрести её вновь, перераспределяя живой металл так быстро, чтобы ликвидировать любой полученный урон."/>
+	<entry name="Necrons/LoyaltyBuildingBonus" value="<string name='Traits/Necrons/LoyaltyBuildingBonus'/>"/>
+	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Увеличивает лояльность от Причудливого храма."/>
+	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="<string name='Traits/Necrons/LoyaltyBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/MeleeDamage" value="<string name='Traits/Necrons/MeleeDamage'/>"/>
+	<entry name="Necrons/MeleeDamageDescription" value="Увеличивает урон для оружия ближнего боя."/>
+	<entry name="Necrons/MeleeDamageFlavor" value="<string name='Traits/Necrons/MeleeDamageFlavor'/>"/>
+	<entry name="Necrons/Nebuloscope" value="<string name='Traits/Necrons/Nebuloscope'/>"/>
+	<entry name="Necrons/NebuloscopeDescription" value="Позволяет Могильным клинкам игнорировать уменьшение урона для дальнего огня."/>
+	<entry name="Necrons/NebuloscopeFlavor" value="<string name='Traits/Necrons/NebuloscopeFlavor'/>"/>
+	<entry name="Necrons/NecrodermisRepair2" value="Ускоренное Отрастание"/>
+	<entry name="Necrons/NecrodermisRepair2Description" value="Увеличивает восстановление Очков здоровья от Ремонта Некродермисом."/>
+	<entry name="Necrons/NecrodermisRepair2Flavor" value="Криптеки снова улучшили наномеханическую структуру тел Некронов из живого металла, позволяя им справляться с почти любыми повреждениями."/>
+	<entry name="Necrons/NecrodermisRepair3" value="Ужасный Некродермис"/>
+	<entry name="Necrons/NecrodermisRepair3Description" value="Отменяет перезарядку Ремонта Некродермисом."/>
+	<entry name="Necrons/NecrodermisRepair3Flavor" value="Живой металл, из которого состоят тела Некронов и их техники сейчас постоянно корчится, перестраивается каждое мгновение."/>
+	<entry name="Necrons/OreBuildingBonus" value="<string name='Traits/Necrons/OreBuildingBonus'/>"/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Увеличивает добычу руды в Карьерах Аль-Хемик."/>
+	<entry name="Necrons/OreBuildingBonusFlavor" value="<string name='Traits/Necrons/OreBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Позволяет Аннигиляционным баржам, Ковчегам Судного дня и Триархическим охотникам увеличить броню, которая перезаряжается после каждого боя."/>
+	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
+	<entry name="Necrons/RapidRiseBonus" value="Команда Лорда"/>
+	<entry name="Necrons/RapidRiseBonusDescription" value="Снижает затраты на Быстрый призыв."/>
+	<entry name="Necrons/RapidRiseBonusFlavor" value="Лорд укрепляет свои протоколы патрон-клиент, так что его приказы выполняются с большей скоростью и меньше обдумываются - меньше свободы воли."/>
+	<entry name="Necrons/ReanimationProtocols2" value="Эффективные Протоколы Реанимации "/>
+	<entry name="Necrons/ReanimationProtocols2Description" value="Увеличивает исцеление от Протоколов Реанимации."/>
+	<entry name="Necrons/ReanimationProtocols2Flavor" value="С помощью этих систем восстановления и пробуждения, созданных Криптеком, Некроны еще более невосприимчивы к смертельно опасному урону."/>
+	<entry name="Necrons/ResearchBuildingBonus" value="<string name='Traits/Necrons/ResearchBuildingBonus'/>"/>
+	<entry name="Necrons/ResearchBuildingBonusDescription" value="Увеличивает эффективность исследований в Запретных архивах."/>
+	<entry name="Necrons/ResearchBuildingBonusFlavor" value="<string name='Traits/Necrons/ResearchBuildingBonusFlavor'/>"/>
+	<entry name="Necrons/ScarabHive" value="<string name='Actions/Necrons/ScarabHive'/>"/>
+	<entry name="Necrons/ScarabHiveDescription" value="Даёт Каноптековым паукам возможность построить Каноптековых Скарабеев."/>
+	<entry name="Necrons/ScarabHiveFlavor" value="<string name='Actions/Necrons/ScarabHiveFlavor'/>"/>
+	<entry name="Necrons/SeismicAssault" value="Сейсмический Штурм"/>
+	<entry name="Necrons/SeismicAssaultDescription" value="Предоставляет Трансцендентным К'тан и Тессерактовым Склепам возможность выполнить разрушительный удар."/>
+	<entry name="Necrons/SeismicAssaultFlavor" value="<string name='Weapons/SeismicAssaultTranscendentFlavor'/>"/>
+	<entry name="Necrons/ShieldVane" value="<string name='Traits/Necrons/ShieldVane'/>"/>
+	<entry name="Necrons/ShieldVaneDescription" value="Увеличивает броню Могильных клинков."/>
+	<entry name="Necrons/ShieldVaneFlavor" value="<string name='Traits/Necrons/ShieldVaneFlavor'/>"/>
+	<entry name="Necrons/TargetingRelay" value="<string name='Actions/Necrons/TargetingRelay'/>"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Увеличивает дальность стрельбы Триархических охотников и смежных с ним подразделений."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="<string name='Actions/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/TeslaDamage" value="<string name='Traits/TeslaDamage'/>"/>
+	<entry name="Necrons/TeslaDamageDescription" value="Увеличивает урон от Тесла-оружия."/>
+	<entry name="Necrons/TeslaDamageFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="Necrons/TheBoundCoalescent" value="<string name='Actions/Necrons/TheBoundCoalescent'/>"/>
+	<entry name="Necrons/TheBoundCoalescentDescription" value="Предоставляет Трансцендентному К'тан возможность слиться с Обелиском для создания Тессерактового Склепа."/>
+	<entry name="Necrons/TheBoundCoalescentFlavor" value="<string name='Actions/Necrons/TheBoundCoalescentFlavor'/>"/>
+	<entry name="Necrons/VehiclesBuildingBonus" value="<string name='Traits/Necrons/VehiclesBuildingBonus'/>"/>
+	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Увеличивает объемы производства Гипостильного храма."/>
+	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="<string name='Traits/Necrons/VehiclesBuildingBonusFlavor'/>"/>
+	<entry name="Orks/AmmoRunt" value="<string name='Actions/AmmoRunt'/>"/>
+	<entry name="Orks/AmmoRuntDescription" value="Даёт Понторезам и Мек-пушкам возможность повысить точность дальнего огня."/>
+	<entry name="Orks/AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
+	<entry name="Orks/BattlewagonBigShootas" value="Б'ашая Стриляла на Баивой фуре"/>
+	<entry name="Orks/BattlewagonBigShootasDescription" value="Оснащает Баивую фуру Б'ашой Стрилялой."/>
+	<entry name="Orks/BattlewagonBigShootasFlavor" value="<string name='Weapons/BigShootaFlavor'/>"/>
+	<entry name="Orks/BattlewagonRokkitLaunchas" value="Баивая фура с Ракетомётом"/>
+	<entry name="Orks/BattlewagonRokkitLaunchasDescription" value="Оснащение Баиваой фуры Ракетомётом."/>
+	<entry name="Orks/BattlewagonRokkitLaunchasFlavor" value="<string name='Weapons/RokkitLaunchaFlavor'/>"/>
+	<entry name="Orks/Bigbomm" value="<string name='Weapons/Bigbomm'/>"/>
+	<entry name="Orks/BigbommDescription" value="Позволяет Смертолётам использовать противопехотные бомбы."/>
+	<entry name="Orks/BigbommFlavor" value="<string name='Weapons/BigbommFlavor'/>"/>
+	<entry name="Orks/BlastDamage" value="<string name='Traits/Orks/BlastDamage'/>"/>
+	<entry name="Orks/BlastDamageDescription" value="Увеличивает урон от взрывного оружия."/>
+	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/Orks/BlastDamageFlavor'/>"/>
+	<entry name="Orks/BoltDamage" value="<string name='Traits/Orks/BoltDamage'/>"/>
+	<entry name="Orks/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="Orks/BoltDamageFlavor" value="<string name='Traits/Orks/BoltDamageFlavor'/>"/>
+	<entry name="Orks/BonusBeastsProduction" value="<string name='Traits/Orks/BonusBeastsProduction'/>"/>
+	<entry name="Orks/BonusBeastsProductionDescription" value="<string name='Traits/Orks/BonusBeastsProductionDescription'/>"/>
+	<entry name="Orks/BonusBeastsProductionFlavor" value="<string name='Traits/Orks/BonusBeastsProductionFlavor'/>"/>
+	<entry name="Orks/BonusColonizersProduction" value="<string name='Traits/Orks/BonusColonizersProduction'/>"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="<string name='Traits/Orks/BonusColonizersProductionDescription'/>"/>
+	<entry name="Orks/BonusColonizersProductionFlavor" value="<string name='Traits/Orks/BonusColonizersProductionFlavor'/>"/>
+	<entry name="Orks/BonusInfantryProduction" value="<string name='Traits/Orks/BonusInfantryProduction'/>"/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="<string name='Traits/Orks/BonusInfantryProductionDescription'/>"/>
+	<entry name="Orks/BonusInfantryProductionFlavor" value="<string name='Traits/Orks/BonusInfantryProductionFlavor'/>"/>
+	<entry name="Orks/BonusVehiclesProduction" value="<string name='Traits/Orks/BonusVehiclesProduction'/>"/>
+	<entry name="Orks/BonusVehiclesProductionDescription" value="<string name='Traits/Orks/BonusVehiclesProductionDescription'/>"/>
+	<entry name="Orks/BonusVehiclesProductionFlavor" value="<string name='Traits/Orks/BonusVehiclesProductionFlavor'/>"/>
+	<entry name="Orks/Bosspole" value="<string name='Traits/Bosspole'/>"/>
+	<entry name="Orks/BosspoleDescription" value="Даёт Парням, Меганобам, Танкобоям и Варбоссам  меньшие терять Очки здоровья, когда они страдают от недостатка морали."/>
+	<entry name="Orks/BosspoleFlavor" value="<string name='Traits/BosspoleFlavor'/>"/>
+	<entry name="Orks/CityGrowth" value="<string name='Traits/Orks/CityGrowth'/>"/>
+	<entry name="Orks/CityGrowthDescription" value="Увеличивает скорость роста населения городов Орков."/>
+	<entry name="Orks/CityGrowthFlavor" value="<string name='Traits/Orks/CityGrowthFlavor'/>"/>
+	<entry name="Orks/CityInfluence" value="<string name='Traits/Orks/CityInfluence'/>"/>
+	<entry name="Orks/CityInfluenceDescription" value="Увеличивает влияние в городе Орков."/>
+	<entry name="Orks/CityInfluenceFlavor" value="<string name='Traits/Orks/CityInfluenceFlavor'/>"/>
+	<entry name="Orks/CityLoyalty" value="<string name='Traits/Orks/CityLoyalty'/>"/>
+	<entry name="Orks/CityLoyaltyDescription" value="Увеличивает лояльность в городах Орков."/>
+	<entry name="Orks/CityLoyaltyFlavor" value="<string name='Traits/Orks/CityLoyaltyFlavor'/>"/>
+	<entry name="Orks/CityPopulationLimit" value="<string name='Traits/Orks/CityPopulationLimit'/>"/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Увеличивает лимит населения в городах Орков."/>
+	<entry name="Orks/CityPopulationLimitFlavor" value="<string name='Traits/Orks/CityPopulationLimitFlavor'/>"/>
+	<entry name="Orks/CityResearch" value="<string name='Traits/Orks/CityResearch'/>"/>
+	<entry name="Orks/CityResearchDescription" value="Увеличивает эффективность исследований в городах Орков."/>
+	<entry name="Orks/CityResearchFlavor" value="<string name='Traits/Orks/CityResearchFlavor'/>"/>
+	<entry name="Orks/CityTier2" value="<string name='Traits/Orks/CityTier2'/>"/>
+	<entry name="Orks/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="Orks/CityTier2Flavor" value="<string name='Traits/Orks/CityTier2Flavor'/>"/>
+	<entry name="Orks/CityTier3" value="<string name='Traits/Orks/CityTier3'/>"/>
+	<entry name="Orks/CityTier3Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="Orks/CityTier3Flavor" value="<string name='Traits/Orks/CityTier3Flavor'/>"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeath'/>"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeathDescription'/>"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="<string name='Traits/Orks/CreateOrkoidFungusOnDeathFlavor'/>"/>
+	<entry name="Orks/DakkajetSupaShoota" value="Супир стиляла для Дакка-истребителя"/>
+	<entry name="Orks/DakkajetSupaShootaDescription" value="Даёт Дакка-истребителю Супир стрилялу."/>
+	<entry name="Orks/DakkajetSupaShootaFlavor" value="<string name='Weapons/TwinLinkedSupaShootaFlavor'/>"/>
+	<entry name="Orks/EavyArmour" value="<string name='Traits/EavyArmour'/>"/>
+	<entry name="Orks/EavyArmourDescription" value="Увеличивает броню Парней и Варбоссов."/>
+	<entry name="Orks/EavyArmourFlavor" value="<string name='Traits/EavyArmourFlavor'/>"/>
+	<entry name="Orks/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="Orks/ExtraInfantryArmourDescription" value="Увеличивает броню пехоты."/>
+	<entry name="Orks/ExtraInfantryArmourFlavor" value="Для любой другой расы броня орков кажется смешной: огромные куски толстых металлических пластин, скрепленные тросами, заклёпками, с бессмысленными приборами, раскрашенные золотом безумными Меками и Гротами. Но от небольшого количества веры Орков в них, они работают как зачарованные."/>
+	<entry name="Orks/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="Orks/ExtraVehicleArmourDescription" value="Увеличивает броню техники."/>
+	<entry name="Orks/ExtraVehicleArmourFlavor" value="Когда Мек столкнется с Варбоссом, который рассержен тем, что его мотики и Баивые фуры продолжают взрываться от огня противника, он быстро прикажет своим Гротам наковырять немного лома и прибить дополнительную броню в любом удобном для них месте. В конце концов, он знает, что «Скарасные Уроды» в скором времени всё сломают."/>
+	<entry name="Orks/Flyboss" value="<string name='Traits/Orks/Flyboss'/>"/>
+	<entry name="Orks/FlybossDescription" value="Увеличивает точность дальнего огня Дакка-истребителя против флаеров, Реактивных байков и скиммеров."/>
+	<entry name="Orks/FlybossFlavor" value="<string name='Traits/Orks/FlybossFlavor'/>"/>
+	<entry name="Orks/GrabbinKlaw" value="<string name='Actions/GrabbinKlaw'/>"/>
+	<entry name="Orks/GrabbinKlawDescription" value="Даёт Баивым фурам возможность обездвижить соседнюю наземную технику противника."/>
+	<entry name="Orks/GrabbinKlawFlavor" value="<string name='Actions/GrabbinKlawFlavor'/>"/>
+	<entry name="Orks/GrotRiggers" value="Грот Такелажник"/>
+	<entry name="Orks/GrotRiggersDescription" value="Даёт Баивым багги, Банка-убийцам, Баивым фурам и Горканавтам пассивную регенерацию Очков здоровья.."/>
+	<entry name="Orks/GrotRiggersFlavor" value="<string name='Traits/GrotRiggersFlavor'/>"/>
+	<entry name="Orks/HealingRate" value="Зеленый прилив"/>
+	<entry name="Orks/HealingRateDescription" value="Увеличивает скорость восстановления подразделений."/>
+	<entry name="Orks/HealingRateFlavor" value="Благодаря сотрудничеству команды Сумасшедших Доков и Пагонщиков, ваш военачальник прописал новую диету «баших Орков», чтобы сделать Парней больше, сильнее и быстрее. Независимо от того, что есть, холодное Масло Сквигов на завтрак или грибосквиг на обед, никакого физического эффекта не достигается - но Парни верят в это, и заставляют это работать."/>
+	<entry name="Orks/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Orks/HammerOfWrathDescription" value="Даёт Смертолётам и Гигантским Сквигготам возможность выполнять более разрушительные атаки."/>
+	<entry name="Orks/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Orks/MeleeDamage" value="<string name='Traits/Orks/MeleeDamage'/>"/>
+	<entry name="Orks/MeleeDamageDescription" value="Увеличивает урон от оружия ближнего боя."/>
+	<entry name="Orks/MeleeDamageFlavor" value="<string name='Traits/Orks/MeleeDamageFlavor'/>"/>
+	<entry name="Orks/MightMakesRight2" value="Страшитись, Да Орки!"/>
+	<entry name="Orks/MightMakesRight2Description" value="Увеличивает влияние, когда подразделение наносит урон."/>
+	<entry name="Orks/MightMakesRight2Flavor" value="Когда Вааагх! достаточно мощный, он имеет что-то вроде мультипликативного эффекта, с каждым ударом происходит дальнейшее повышение психического поля, от какой-то ультра-яростной орочьей обратной связи."/>
+	<entry name="Orks/OrkoidFungus" value="<string name='Features/OrkoidFungus'/>"/>
+	<entry name="Orks/OrkoidFungusDescription" value="Даёт Навесам для металлолома способность растить оркоидный гриб, который увеличивает производство пищи и скорость восстановления Орков на плитке."/>
+	<entry name="Orks/OrkoidFungusFlavor" value="<string name='Features/OrkoidFungusFlavor'/>"/>
+	<entry name="Orks/OrkoidFungusBonusHealingRate" value="<string name='Traits/OrkoidFungusBonusHealingRate'/>"/>
+	<entry name="Orks/OrkoidFungusBonusHealingRateDescription" value="Увеличивает скорость исцеления от Оркоидного грибка."/>
+	<entry name="Orks/OrkoidFungusBonusHealingRateFlavor" value="<string name='Traits/OrkoidFungusBonusHealingRateFlavor'/>"/>
+	<entry name="Orks/OrkoidFungusFood" value="<string name='Traits/OrkoidFungusFood'/>"/>
+	<entry name="Orks/OrkoidFungusFoodDescription" value="Увеличивает производство пищи на плитке с Оркоидным грибом."/>
+	<entry name="Orks/OrkoidFungusFoodFlavor" value="<string name='Traits/OrkoidFungusFoodFlavor'/>"/>
+	<entry name="Orks/RedPaintJob" value="Работа Красной Краски "/>
+	<entry name="Orks/RedPaintJobDescription" value="Увеличивает урон от Вар-багги, Баивой фуры и Поджига-бомбилы."/>
+	<entry name="Orks/RedPaintJobFlavor" value="<string name='Traits/RedPaintJobFlavor'/>"/>
+	<entry name="Orks/Scavenger2" value="Грот Мусорщик"/>
+	<entry name="Orks/Scavenger2Description" value="Увеличивает количество подобранной руды при убийстве вражеских подразделений."/>
+	<entry name="Orks/Scavenger2Flavor" value="Харашо арганизованый Пагонщик подготовит своих Гротов для сбора и сортировки металлолома для Орков, а также запретит им трогать более опасное имущество и боеприпасы."/>
+	<entry name="Orks/SkorchaMissile" value="<string name='Weapons/SkorchaMissile'/>"/>
+	<entry name="Orks/SkorchaMissileDescription" value="Позволяет Поджига-бомбилам запускать противопехотные ракеты, которые игнорируют укрытие."/>
+	<entry name="Orks/SkorchaMissileFlavor" value="<string name='Weapons/SkorchaMissileFlavor'/>"/>
+	<entry name="Orks/Stikkbomb" value="<string name='Weapons/Stikkbomb'/>"/>
+	<entry name="Orks/StikkbombDescription" value="Позволяет пехоте бросать противопехотную гранату."/>
+	<entry name="Orks/StikkbombFlavor" value="<string name='Weapons/StikkbombFlavor'/>"/>
+	<entry name="Orks/TankbustaBomb" value="<string name='Weapons/TankbustaBomb'/>"/>
+	<entry name="Orks/TankbustaBombDescription" value="Позволяет Танкобоям бросаться бронебойными бомбами."/>
+	<entry name="Orks/TankbustaBombFlavor" value="<string name='Weapons/TankbustaBombFlavor'/>"/>
+	<entry name="SpaceMarines/AssaultDoctrine" value="<string name='Traits/AssaultDoctrine'/>"/>
+	<entry name="SpaceMarines/AssaultDoctrineDescription" value="<string name='Actions/AssaultDoctrineDescription'/>"/>
+	<entry name="SpaceMarines/AssaultDoctrineFlavor" value="<string name='Traits/AssaultDoctrineFlavor'/>"/>
+	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/SpaceMarines/BlastDamage'/>"/>
+	<entry name="SpaceMarines/BlastDamageDescription" value="Увеличивает урон от взрывного оружия."/>
+	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/SpaceMarines/BlastDamageFlavor'/>"/>
+	<entry name="SpaceMarines/BolsterDefences" value="<string name='Actions/BolsterDefences'/>"/>
+	<entry name="SpaceMarines/BolsterDefencesDescription" value="Дает пушкам Громобой способность не замечать снижение урона дальнего огня."/>
+	<entry name="SpaceMarines/BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
+	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/SpaceMarines/BoltDamage'/>"/>
+	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Upgrades/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="SpaceMarines/BoltDamageFlavor" value="<string name='Traits/SpaceMarines/BoltDamageFlavor'/>"/>
+	<entry name="SpaceMarines/BolterDrill" value="<string name='Traits/BolterDrill'/>"/>
+	<entry name="SpaceMarines/BolterDrillDescription" value="<string name='Actions/BolterDrillDescription'/>"/>
+	<entry name="SpaceMarines/BolterDrillFlavor" value="<string name='Traits/BolterDrillFlavor'/>"/>
+	<entry name="SpaceMarines/CeramitePlating" value="<string name='Traits/CeramitePlating'/>"/>
+	<entry name="SpaceMarines/CeramitePlatingDescription" value="Позволяет Грозовому когтю и Грозовому ворону не получать дополнительный урон от Мелта-оружия."/>
+	<entry name="SpaceMarines/CeramitePlatingFlavor" value="<string name='Traits/CeramitePlatingFlavor'/>"/>
+	<entry name="SpaceMarines/ChapterUnity" value="<string name='Traits/ChapterUnity'/>"/>
+	<entry name="SpaceMarines/ChapterUnityDescription" value="Увеличивает лояльности Великого зала."/>
+	<entry name="SpaceMarines/ChapterUnityFlavor" value="<string name='Traits/ChapterUnityFlavor'/>"/>
+	<entry name="SpaceMarines/CityTier2" value="<string name='Traits/SpaceMarines/CityTier2'/>"/>
+	<entry name="SpaceMarines/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="SpaceMarines/CityTier2Flavor" value="<string name='Traits/SpaceMarines/CityTier2Flavor'/>"/>
+	<entry name="SpaceMarines/CityTier3" value="<string name='Traits/SpaceMarines/CityTier3'/>"/>
+	<entry name="SpaceMarines/CityTier3Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="SpaceMarines/CityTier3Flavor" value="<string name='Traits/SpaceMarines/CityTier3Flavor'/>"/>
+	<entry name="SpaceMarines/CityTier4" value="<string name='Traits/SpaceMarines/CityTier4'/>"/>
+	<entry name="SpaceMarines/CityTier4Description" value="Увеличивает радиус возможного присоединения плиток к городу."/>
+	<entry name="SpaceMarines/CityTier4Flavor" value="<string name='Traits/SpaceMarines/CityTier4Flavor'/>"/>
+	<entry name="SpaceMarines/ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="SpaceMarines/ClusterMinesDescription" value="Даёт Мотоциклетному отделению скаутов возможность устанавливать кластерные мины."/>
+	<entry name="SpaceMarines/ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="SpaceMarines/MeleeDamage" value="<string name='Traits/SpaceMarines/MeleeDamage'/>"/>
+	<entry name="SpaceMarines/MeleeDamageDescription" value="Увеличивает урон для оружия ближнего боя."/>
+	<entry name="SpaceMarines/MeleeDamageFlavor" value="<string name='Traits/SpaceMarines/MeleeDamageFlavor'/>"/>
+	<entry name="SpaceMarines/CombatShield" value="<string name='Traits/CombatShield'/>"/>
+	<entry name="SpaceMarines/CombatShieldDescription" value="Даёт Штурмовикам Космодесанта снижение урона от Неуязвимости."/>
+	<entry name="SpaceMarines/CombatShieldFlavor" value="<string name='Traits/CombatShieldFlavor'/>"/>
+	<entry name="SpaceMarines/DevastatorDoctrine" value="<string name='Traits/DevastatorDoctrine'/>"/>
+	<entry name="SpaceMarines/DevastatorDoctrineDescription" value="<string name='Actions/DevastatorDoctrineDescription'/>"/>
+	<entry name="SpaceMarines/DevastatorDoctrineFlavor" value="<string name='Traits/DevastatorDoctrineFlavor'/>"/>
+	<entry name="SpaceMarines/DozerBlade" value="<string name='Traits/DozerBlade'/>"/>
+	<entry name="SpaceMarines/DozerBladeDescription" value="<string name='Upgrades/AstraMilitarum/DozerBladeDescription'/>"/>
+	<entry name="SpaceMarines/DozerBladeFlavor" value="<string name='Traits/DozerBladeFlavor'/>"/>
+	<entry name="SpaceMarines/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="SpaceMarines/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
+	<entry name="SpaceMarines/ExtraInfantryArmourFlavor" value="Хотя Печати чистоты вполне могут помочь Адептус Астартес дольше продержаться на поле боя, вера не остановит всех летящих в них болтов. Модернизация до более поздних версий их Силовой Брони позволит пехоте Космического Десанта значительно повысить их живучесть."/>
+	<entry name="SpaceMarines/ExtraVehicleArmour" value="<string name='Traits/ExtraVehicleArmour'/>"/>
+	<entry name="SpaceMarines/ExtraVehicleArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraVehicleArmourDescription'/>"/>
+	<entry name="SpaceMarines/ExtraVehicleArmourFlavor" value="После того как истинные противники были разбиты и возданы благодарственные молитвы, Технодесантники вполне могут внести некоторые незначительные изменения в свою технику, конечно в соответствии с Кодексом Астартес, чтобы улучшить её выживаемость."/>
+	<entry name="SpaceMarines/FortressOfRedemptionMissileSilo" value="Ракетная башня Крепости Искупления"/>
+	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloDescription" value="Добавляет Крепости Искупления ракеты Кракшторм."/>
+	<entry name="SpaceMarines/FortressOfRedemptionMissileSiloFlavor" value="<string name='Weapons/KrakstormMissileSiloFlavor'/>"/>
+	<entry name="SpaceMarines/FragGrenade" value="<string name='Weapons/FragGrenade'/>"/>
+	<entry name="SpaceMarines/FragGrenadeDescription" value="<string name='Upgrades/AstraMilitarum/FragGrenadeDescription'/>"/>
+	<entry name="SpaceMarines/FragGrenadeFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="SpaceMarines/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="SpaceMarines/HammerOfWrathDescription" value="Дает Штурмовикам Космодесанта и Мотоциклетному отделению скаутов возможность выполнения более разрушительных атак."/>
+	<entry name="SpaceMarines/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="SpaceMarines/HunterKillerMissile" value="<string name='Weapons/HunterKillerMissile'/>"/>
+	<entry name="SpaceMarines/HunterKillerMissileDescription" value="<string name='Upgrades/AstraMilitarum/HunterKillerMissileDescription'/>"/>
+	<entry name="SpaceMarines/HunterKillerMissileFlavor" value="<string name='Weapons/HunterKillerMissileFlavor'/>"/>
+	<entry name="SpaceMarines/HurricaneBolter" value="Болтер Ураган"/>
+	<entry name="SpaceMarines/HurricaneBolterDescription" value="Добавляет Болтерную установку Ураган Грозовому ворону."/>
+	<entry name="SpaceMarines/HurricaneBolterFlavor" value="Впервые использованная Орденом Черных Храмовников, болтерная установка Ураган объединяет карающую огневую мощь нескольких спаренных болтеров, чтобы посылать по-настоящему испепеляющий шквал снарядов."/>
+	<entry name="SpaceMarines/KrakGrenade" value="<string name='Weapons/KrakGrenade'/>"/>
+	<entry name="SpaceMarines/KrakGrenadeDescription" value="<string name='Upgrades/AstraMilitarum/KrakGrenadeDescription'/>"/>
+	<entry name="SpaceMarines/KrakGrenadeFlavor" value="<string name='Weapons/KrakGrenadeFlavor'/>"/>
+	<entry name="SpaceMarines/LandSpeederMultiMelta" value="<string name='Weapons/MultiMelta'/>"/>
+	<entry name="SpaceMarines/LandSpeederMultiMeltaDescription" value="Оснащение Лэндспидеров и Лендрейдеров Мульти-Мелтой."/>
+	<entry name="SpaceMarines/LandSpeederMultiMeltaFlavor" value="<string name='Weapons/MultiMeltaFlavor'/>"/>
+	<entry name="SpaceMarines/LasDamage" value="<string name='Traits/LasDamage'/>"/>
+	<entry name="SpaceMarines/LasDamageDescription" value="<string name='Upgrades/AstraMilitarum/LasDamageDescription'/>"/>
+	<entry name="SpaceMarines/LasDamageFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="SpaceMarines/LastStand" value="<string name='Traits/LastStand'/>"/>
+	<entry name="SpaceMarines/LastStandDescription" value="Повышает мораль для всех подразделений Космического Десанта."/>
+	<entry name="SpaceMarines/LastStandFlavor" value="<string name='Traits/LastStandFlavor'/>"/>
+	<entry name="SpaceMarines/LastStandReady" value="<string name='Traits/LastStand'/>"/>
+	<entry name="SpaceMarines/LocatorBeacon" value="<string name='Traits/LocatorBeacon'/>"/>
+	<entry name="SpaceMarines/LocatorBeaconDescription" value="Орбитальное развёртывание не потребляет очки действия при размещении подразделений на плитках прилегающих к Мотоциклетным подразделениям скаутов или Грозовым воронам."/>
+	<entry name="SpaceMarines/LocatorBeaconFlavor" value="<string name='Traits/LocatorBeaconFlavor'/>"/>
+	<entry name="SpaceMarines/MachineEmpathy" value="<string name='Traits/MachineEmpathy'/>"/>
+	<entry name="SpaceMarines/MachineEmpathyDescription" value="<string name='Actions/MachineEmpathyDescription'/>"/>
+	<entry name="SpaceMarines/MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
+	<entry name="SpaceMarines/MeltaBomb" value="<string name='Weapons/MeltaBomb'/>"/>
+	<entry name="SpaceMarines/MeltaBombDescription" value="Позволяет Тактическим отделениям Космодесанта возможность устанавливать мелта-бомбу, которая очень эффективна против тяжелой техники."/>
+	<entry name="SpaceMarines/MeltaBombFlavor" value="<string name='Weapons/MeltaBombFlavor'/>"/>
+	<entry name="SpaceMarines/OrbitalBombardment" value="<string name='Actions/OrbitalBombardment'/>"/>
+	<entry name="SpaceMarines/OrbitalBombardmentDescription" value="<string name='Actions/OrbitalBombardmentDescription'/>"/>
+	<entry name="SpaceMarines/OrbitalBombardmentFlavor" value="<string name='Actions/OrbitalBombardmentFlavor'/>"/>
+	<entry name="SpaceMarines/OrbitalDeployment" value="<string name='Actions/OrbitalDeployment'/>"/>
+	<entry name="SpaceMarines/OrbitalDeploymentDescription" value="Дает подразделениям возможность развертываться через Десантную капсулу в любом месте на поле боя."/>
+	<entry name="SpaceMarines/OrbitalDeploymentFlavor" value="<string name='Actions/OrbitalDeploymentFlavor'/>"/>
+	<entry name="SpaceMarines/OrbitalScan" value="<string name='Actions/OrbitalScan'/>"/>
+	<entry name="SpaceMarines/OrbitalScanDescription" value="<string name='Actions/OrbitalScanDescription'/>"/>
+	<entry name="SpaceMarines/OrbitalScanFlavor" value="<string name='Actions/OrbitalScanFlavor'/>"/>
+	<entry name="SpaceMarines/PredatorLascannon" value="Тяжелые болтеры для Хищника"/>
+	<entry name="SpaceMarines/PredatorLascannonDescription" value="Даёт Хищникам дополнительные тяжелые болтеры."/>
+	<entry name="SpaceMarines/PredatorLascannonFlavor" value="<string name='Weapons/HeavyBolterFlavor'/>"/>
+	<entry name="SpaceMarines/SiegeMasters" value="<string name='Traits/SiegeMasters'/>"/>
+	<entry name="SpaceMarines/SiegeMastersDescription" value="<string name='Actions/SiegeMastersDescription'/>"/>
+	<entry name="SpaceMarines/SiegeMastersFlavor" value="<string name='Actions/SiegeMastersFlavor'/>"/>
+	<entry name="SpaceMarines/SiegeShield" value="<string name='Traits/SiegeShield'/>"/>
+	<entry name="SpaceMarines/SiegeShieldDescription" value="Увеличивает броню Поборников и позволяет им двигаться по лесам и Имперским руинам без штрафа."/>
+	<entry name="SpaceMarines/SiegeShieldFlavor" value="<string name='Traits/SiegeShieldFlavor'/>"/>
+	<entry name="SpaceMarines/Signum" value="<string name='Actions/Signum'/>"/>
+	<entry name="SpaceMarines/SignumDescription" value="Даёт Опустошителям Космодесанта возможность кратковременно увеличить их точность."/>
+	<entry name="SpaceMarines/SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="SpaceMarines/SmokeLauncher" value="<string name='Upgrades/SmokeLauncher'/>"/>
+	<entry name="SpaceMarines/SmokeLauncherDescription" value="<string name='Upgrades/SmokeLauncherDescription'/>"/>
+	<entry name="SpaceMarines/SmokeLauncherFlavor" value="<string name='Upgrades/SmokeLauncherFlavor'/>"/>
+	<entry name="SpaceMarines/TacticalDoctrine" value="<string name='Traits/TacticalDoctrine'/>"/>
+	<entry name="SpaceMarines/TacticalDoctrineDescription" value="<string name='Actions/TacticalDoctrineDescription'/>"/>
+	<entry name="SpaceMarines/TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
+	<entry name="SpaceMarines/TeleportHomer" value="<string name='Traits/TeleportHomer'/>"/>
+	<entry name="SpaceMarines/TeleportHomerDescription" value="При орбитальном развертывании не используются очки действия при развертывании Терминаторов рядом с Тактическим отделением Космического Десанта."/>
+	<entry name="SpaceMarines/TeleportHomerFlavor" value="<string name='Traits/TeleportHomerFlavor'/>"/>
+	<entry name="SpaceMarines/TheFleshIsWeak" value="<string name='Traits/TheFleshIsWeak'/>"/>
+	<entry name="SpaceMarines/TheFleshIsWeakDescription" value="<string name='Actions/TheFleshIsWeakDescription'/>"/>
+	<entry name="SpaceMarines/TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
+	<entry name="Tyranids/AcidBlood" value="Едкая кровь"/>
+	<entry name="Tyranids/AcidBloodDescription" value="Даются монструозным существам тиранидов и Тиранид-Прайму, чтобы наносить урон всем атакующим врагам в ближнем бою."/>
+	<entry name="Tyranids/AcidBloodFlavor" value="<string name='Traits/Tyranids/AcidBloodFlavor'/>"/>
+	<entry name="Tyranids/AdrenalGlands" value="Адренальные железы"/>
+	<entry name="Tyranids/AdrenalGlandsDescription" value="Увеличивают движение и увеличивают урон в ближнем бою."/>
+	<entry name="Tyranids/AdrenalGlandsFlavor" value="Адренальные железы насыщают тела своего хозяина химическими веществами, которые повышают метаболизм существа до гиперактивного безумного состояния."/>
+	<entry name="Tyranids/BiomorphDamage" value="<string name='Traits/Tyranids/BiomorphDamage'/>"/>
+	<entry name="Tyranids/BiomorphDamageDescription" value="Увеличивает урон от биоморфов."/>
+	<entry name="Tyranids/BiomorphDamageFlavor" value="<string name='Traits/Tyranids/BiomorphDamageFlavor'/>"/>
+	<entry name="Tyranids/BioPlasma" value="Биоплазма Карнифексов"/>
+	<entry name="Tyranids/BioPlasmaDescription" value="Даёт Карнифексам дополнительное оружие дальнего боя."/>
+	<entry name="Tyranids/BioPlasmaFlavor" value="<string name='Weapons/BioPlasmaFlavor'/>"/>
+	<entry name="Tyranids/BoneMace" value="Костяная булава Карнифекса"/>
+	<entry name="Tyranids/BoneMaceDescription" value="Даёт Карнифексам дополнительное оружие ближнего боя."/>
+	<entry name="Tyranids/BoneMaceFlavor" value="<string name='Weapons/BoneMaceFlavor'/>"/>
+	<entry name="Tyranids/CityCost" value="Метаморфические Малантропы"/>
+	<entry name="Tyranids/CityCostDescription" value="Снижает стоимость основания новых городов."/>
+	<entry name="Tyranids/CityCostFlavor" value="Роль Малантропа в создании новых ульев Тиранидов была мало изучена Имперскими Генеторами, так как в большинстве случаев они либо умерают, либо уходят в другие области, когда улей основан. Тем не менее, считается, что они транспортируют споры городов в новые места, когда требуется изменить местоположение первого выводка. Иногда наблюдаются необычные Малантропы со специализированными физическими структурами, которые позволяют им выполнять эту задачу более эффективно."/>
+	<entry name="Tyranids/CityDamage" value="<string name='Traits/Tyranids/CityDamage'/>"/>
+	<entry name="Tyranids/CityDamageDescription" value="Вражеские отряды в городах Тиранид получают урон каждый ход."/>
+	<entry name="Tyranids/CityDamageFlavor" value="<string name='Traits/Tyranids/CityDamageFlavor'/>"/>
+	<entry name="Tyranids/CityGrowth" value="<string name='Traits/Tyranids/CityGrowth'/>"/>
+	<entry name="Tyranids/CityGrowthDescription" value="Увеличивает скорость роста городов Тиранид."/>
+	<entry name="Tyranids/CityGrowthFlavor" value="<string name='Traits/Tyranids/CityGrowthFlavor'/>"/>
+	<entry name="Tyranids/CityLoyalty" value="<string name='Traits/Tyranids/CityLoyalty'/>"/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Снижает штраф на лояльность за количество городов Тиранидов."/>
+	<entry name="Tyranids/CityLoyaltyFlavor" value="<string name='Traits/Tyranids/CityLoyaltyFlavor'/>"/>
+	<entry name="Tyranids/CityPopulationLimit" value="<string name='Traits/Tyranids/CityPopulationLimit'/>"/>
+	<entry name="Tyranids/CityPopulationLimitDescription" value="Увеличивает лимит населения городов Тиранид."/>
+	<entry name="Tyranids/CityPopulationLimitFlavor" value="<string name='Traits/Tyranids/CityPopulationLimitFlavor'/>"/>
+	<entry name="Tyranids/CityProduction" value="<string name='Traits/Tyranids/CityProduction'/>"/>
+	<entry name="Tyranids/CityProductionDescription" value="Увеличивает выпуск продукции в городах Тиранид."/>
+	<entry name="Tyranids/CityProductionFlavor" value="<string name='Traits/Tyranids/CityProductionFlavor'/>"/>
+	<entry name="Tyranids/CityTier2" value="<string name='Traits/Tyranids/CityTier2'/>"/>
+	<entry name="Tyranids/CityTier2Description" value="Увеличивает радиус доступных плиток для присоединения к городу."/>
+	<entry name="Tyranids/CityTier2Flavor" value="<string name='Traits/Tyranids/CityTier2Flavor'/>"/>
+	<entry name="Tyranids/ConsumeTile2" value="Эффективное пищеварение"/>
+	<entry name="Tyranids/ConsumeTile2Description" value="Снижает затраты влияния на содержание присоединенной плитки."/>
+	<entry name="Tyranids/ConsumeTile2Flavor" value="Хотя челюсти Малантропа или Потрошителя не имеют проблем с тем, чтобы перемалывать плоть, кости или даже пласталь, они работую медленно из-за необходимости потреблять огромное количество земли и камней, но Разуму улья требуется, чтобы они работали масштабнее и быстрее. Предполагается, что специализированные организмы используются для этого - хотя, опять же, никто не выжил после встречи с ними, чтобы сообщить сведения о них."/>
+	<entry name="Tyranids/Deathspitter" value="Равенер Смертоплюй"/>
+	<entry name="Tyranids/DeathspitterDescription" value="Даёт Равенерам оружие дальнего боя."/>
+	<entry name="Tyranids/DeathspitterFlavor" value="<string name='Weapons/DeathspitterFlavor'/>"/>
+	<entry name="Tyranids/DesiccatorLarvae" value="<string name='Weapons/DesiccatorLarvae'/>"/>
+	<entry name="Tyranids/DesiccatorLarvaeDescription" value="Даёт Тиранам улья, Тервигонам и Тиранофексам это типовое оружие."/>
+	<entry name="Tyranids/DesiccatorLarvaeFlavor" value="<string name='Weapons/DesiccatorLarvaeFlavor'/>"/>
+	<entry name="Tyranids/ExtraInfantryArmour" value="<string name='Traits/ExtraInfantryArmour'/>"/>
+	<entry name="Tyranids/ExtraInfantryArmourDescription" value="<string name='Upgrades/AstraMilitarum/ExtraInfantryArmourDescription'/>"/>
+	<entry name="Tyranids/ExtraInfantryArmourFlavor" value="Разум улья имеет бережливый менталитет. Зачем жертвовать ресурсами на вооружение войск, которые все равно будут возвращены обратно? Только когда он встречает сильное сопротивление, Разум вкладывает ресурсы в толстый хитин и кости для своих существ."/>
+	<entry name="Tyranids/ExtraMonstrousCreatureArmour" value="<string name='Traits/ExtraMonstrousCreatureArmour'/>"/>
+	<entry name="Tyranids/ExtraMonstrousCreatureArmourDescription" value="Увеличивает броню монструозных существ."/>
+	<entry name="Tyranids/ExtraMonstrousCreatureArmourFlavor" value=""/>
+	<entry name="Tyranids/FleshHooks" value="<string name='Weapons/FleshHooks'/>"/>
+	<entry name="Tyranids/FleshHooksDescription" value="Даёт Тиранидам-воинам и Тираниду-Прайм дополнительное оружие ближнего боя."/>
+	<entry name="Tyranids/FleshHooksFlavor" value="<string name='Weapons/FleshHooksFlavor'/>"/>
+	<entry name="Tyranids/HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="Tyranids/HammerOfWrathDescription" value="Даёт Экзокринам, Гаргульям, Гаруспикам, Карге, Ликторам, Тервигонам, Тригонам и Тиранофексам способность совершать более разрушительные атаки."/>
+	<entry name="Tyranids/HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="Tyranids/InfantryUpkeep" value="<string name='Traits/Tyranids/InfantryUpkeep'/>"/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Уменьшает затраты биомассы на содержание пехоты."/>
+	<entry name="Tyranids/InfantryUpkeepFlavor" value="<string name='Traits/Tyranids/InfantryUpkeepFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride2" value="Дикий напор"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride2Description" value="Снижает затраты влияния для отмены инстинктивного поведения."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride2Flavor" value="Поддержание контроля над своими войсками является основной заботой Разума улья, которую он пытается преодолеть с помощью различных адаптаций, например таких, как Синаптические существа. Более простой способ - уменьшить естественную жестокость своих подразделений, когда они обращаются к инстинктам, и поэтому требуется меньше психических усилий, чтобы вернуть над ними контроль."/>
+	<entry name="Tyranids/LongRangedDamage" value="<string name='Traits/Tyranids/LongRangedDamage'/>"/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Увеличивает наносимый урон врагу от дальнобойного оружия."/>
+	<entry name="Tyranids/LongRangedDamageFlavor" value="<string name='Traits/Tyranids/LongRangedDamageFlavor'/>"/>
+	<entry name="Tyranids/MeleeDamage" value="<string name='Traits/Tyranids/MeleeDamage'/>"/>
+	<entry name="Tyranids/MeleeDamageDescription" value="Увеличивает наносимый урон врагу в ближнем бою."/>
+	<entry name="Tyranids/MeleeDamageFlavor" value="<string name='Traits/Tyranids/MeleeDamageFlavor'/>"/>
+	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
+	<entry name="Tyranids/ParoxysmDescription" value="Предоставляет Зоантропам способность проклинать вражеские подразделения, чтобы уменьшить их точность."/>
+	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
+	<entry name="Tyranids/PreyAdaptation2" value="Малантропные бичи"/>
+	<entry name="Tyranids/PreyAdaptation2Description" value="Увеличивает выход исследований, когда враги умирают рядом с Малантропами."/>
+	<entry name="Tyranids/PreyAdaptation2Flavor" value="Одна из необычных адаптаций формы Малатропа это как-бы-жгутики - тонкие нитивидные усики, которые окружают Малантропа как мясистое, извивающееся облако. Предполагается, что они позволяют Малантропу собирать и хранить больше генетических данных от недавно умерших врагов."/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="<string name='Traits/Tyranids/ProductionBuildingUpkeep'/>"/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Снижает затраты влияния на содержания производственных зданий."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="<string name='Traits/Tyranids/ProductionBuildingUpkeepFlavor'/>"/>
+	<entry name="Tyranids/Reclamation2" value="<string name='Traits/Tyranids/Reclamation2'/>"/>
+	<entry name="Tyranids/Reclamation2Description" value="Снижает затраты влияния на освоение земель."/>
+	<entry name="Tyranids/Reclamation2Flavor" value="<string name='Traits/Tyranids/Reclamation2Flavor'/>"/>
+	<entry name="Tyranids/Reclamation3" value="<string name='Traits/Tyranids/Reclamation3'/>"/>
+	<entry name="Tyranids/Reclamation3Description" value="Обнуляет время перезарядки для освоения земель."/>
+	<entry name="Tyranids/Reclamation3Flavor" value="<string name='Traits/Tyranids/Reclamation3Flavor'/>"/>
+	<entry name="Tyranids/Regeneration" value="Регенерация"/>
+	<entry name="Tyranids/RegenerationDescription" value="Даёт способность монструозным существам тиранидов и Тиранид-Праймам восстанавливать очки здоровья каждый ход."/>
+	<entry name="Tyranids/RegenerationFlavor" value="<string name='Traits/RegenerationFlavor'/>"/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="<string name='Traits/Tyranids/ResourceBuildingUpkeep'/>"/>
+	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Снижает затраты влияния на содержание ресурсных зданий."/>
+	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="<string name='Traits/Tyranids/ResourceBuildingUpkeepFlavor'/>"/>
+	<entry name="Tyranids/ShortRangedDamage" value="<string name='Traits/Tyranids/ShortRangedDamage'/>"/>
+	<entry name="Tyranids/ShortRangedDamageDescription" value="Увеличивает урон врагу от оружия ближнего боя."/>
+	<entry name="Tyranids/ShortRangedDamageFlavor" value="<string name='Traits/Tyranids/ShortRangedDamageFlavor'/>"/>
+	<entry name="Tyranids/SpineBanks" value="Карнифекс <string name='Weapons/SpineBanks'/>"/>
+	<entry name="Tyranids/SpineBanksDescription" value="Даёт Карнифексам дополнительное дальнобойное взрывное оружие."/>
+	<entry name="Tyranids/SpineBanksFlavor" value="<string name='Weapons/SpineBanksFlavor'/>"/>
+	<entry name="Tyranids/StingerSalvo" value="<string name='Weapons/StingerSalvo'/>"/>
+	<entry name="Tyranids/StingerSalvoDescription" value="Даёт Карге, Тервигонам и Тиранофексам дополнительное дальнобойное оружие."/>
+	<entry name="Tyranids/StingerSalvoFlavor" value="<string name='Weapons/StingerSalvoFlavor'/>"/>
+	<entry name="Tyranids/ThresherScythe" value="<string name='Weapons/ThresherScythe'/>"/>
+	<entry name="Tyranids/ThresherScytheDescription" value="Даёт Экзокринам и Гаруспикам дополнительное оружие для ближнего боя."/>
+	<entry name="Tyranids/ThresherScytheFlavor" value="<string name='Weapons/ThresherScytheFlavor'/>"/>
+	<entry name="Tyranids/ToxinSacs" value="<string name='Traits/Tyranids/ToxinSacs'/>"/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Увеличивает урон от оружия ближнего боя против пехоты."/>
+	<entry name="Tyranids/ToxinSacsFlavor" value="<string name='Traits/Tyranids/ToxinSacsFlavor'/>"/>
+	<entry name="Tyranids/Toxinspike" value="Токсичный шип Тригона"/>
+	<entry name="Tyranids/ToxinspikeDescription" value="Даёт Тригонам дополнительное оружие ближнего боя."/>
+	<entry name="Tyranids/ToxinspikeFlavor" value="<string name='Weapons/ToxinspikeFlavor'/>"/>
+	<entry name="Tyranids/Tunnel2" value="<string name='Traits/Tyranids/Tunnel2'/>"/>
+	<entry name="Tyranids/Tunnel2Description" value="Увеличивает Очки здоровья Выводка улья."/>
+	<entry name="Tyranids/Tunnel2Flavor" value="<string name='Traits/Tyranids/Tunnel2Flavor'/>"/>
+	<entry name="Tyranids/VehiclesUpkeep" value="<string name='Traits/Tyranids/VehiclesUpkeep'/>"/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Уменьшает затраты биомассы на содержание монструозных существ."/>
+	<entry name="Tyranids/VehiclesUpkeepFlavor" value="<string name='Traits/Tyranids/VehiclesUpkeepFlavor'/>"/>
+</language>

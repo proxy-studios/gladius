@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Do not translate! -->
+	<entry name="English" value="English"/>
+	<entry name="French" value="French"/>
+	<entry name="German" value="German"/>
+	<entry name="Russian" value="Russian"/>
+	<entry name="SimplifiedChinese" value="Simplified Chinese"/>
+	<entry name="Spanish" value="Spanish"/>
+</language>

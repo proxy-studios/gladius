@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Ананке"/>
+	<entry name="AstraMilitarum1" value="Вилае Алеа"/>
+	<entry name="AstraMilitarum2" value="Легоменон"/>
+	<entry name="AstraMilitarum3" value="Аристон"/>
+	<entry name="AstraMilitarum4" value="Урания"/>
+	<entry name="AstraMilitarum5" value="Теон"/>
+	<entry name="AstraMilitarum6" value="Викус Фобос"/>
+	<entry name="AstraMilitarum7" value="Хрисофорус"/>
+	<entry name="AstraMilitarum8" value="Генесин"/>
+	<entry name="AstraMilitarum9" value="Эврика"/>
+	<entry name="AstraMilitarum10" value="Моеня Крид"/>
+	<entry name="AstraMilitarum11" value="Муниципия Селестина"/>
+	<entry name="AstraMilitarum12" value="Урбс Коул"/>
+	<entry name="AstraMilitarum13" value="Астикус Грейфакс"/>
+	<entry name="AstraMilitarum14" value="Парадисиус Махариус"/>
+	<entry name="AstraMilitarum15" value="Оппидум Виридиум"/>
+	<entry name="AstraMilitarum16" value="Тенакс"/>
+	<entry name="AstraMilitarum17" value="Цивитус Полипус"/>
+	<entry name="AstraMilitarumCount" value="18"/>
+	<entry name="Necrons0" value="Лектон Копт"/>
+	<entry name="Necrons1" value="Гибель Абиды"/> 
+	<entry name="Necrons2" value="Обол Хермонх"/>
+	<entry name="Necrons3" value="Анхи Сайр"/>
+	<entry name="Necrons4" value="Нехах Бакыр"/>
+	<entry name="Necrons5" value="Аз Птэк Санахт"/>
+	<entry name="Necrons6" value="Ях Хабимх"/>
+	<entry name="Necrons7" value="Абду Хмун"/>
+	<entry name="Necrons8" value="Танис Та"/>
+	<entry name="Necrons9" value="Сзар Агорех"/> 
+	<entry name="Necrons10" value="Шабт Мандрех"/>
+	<entry name="Necrons11" value="Трамун Жех"/>
+	<entry name="Necrons12" value="Фтан Хека"/>
+	<entry name="Necrons13" value="Эчатон Джет"/>
+	<entry name="Necrons14" value="Бакенхон"/>
+	<entry name="Necrons15" value="Хиерак Хар"/>
+	<entry name="Necrons16" value="Д'кан Мефет"/>
+	<entry name="Necrons17" value="Город'тыр"/>
+	<entry name="NecronsCount" value="18"/>
+	<entry name="Orks0" value="Да Дропс"/>
+	<entry name="Orks1" value="Сум Аб'едки "/>
+	<entry name="Orks2" value="Гроттаун"/>
+	<entry name="Orks3" value="Дат Рок"/>
+	<entry name="Orks4" value="Оо ета Валнует?"/>
+	<entry name="Orks5" value="Наздрег был сдеся"/>
+	<entry name="Orks6" value="Гарагхак"/>
+	<entry name="Orks7" value="Вазздакка"/>
+	<entry name="Orks8" value="Да Места Босса"/>
+	<entry name="Orks9" value="Да Дакка Клуб"/>
+	<entry name="Orks10" value="Дат Весчь"/>
+	<entry name="Orks11" value="Д'ом"/>
+	<entry name="Orks12" value="Доктаун"/>
+	<entry name="Orks13" value="Вилка Горка"/>
+	<entry name="Orks14" value="Гаргатес"/>
+	<entry name="Orks15" value="Рокклешня"/> 
+	<entry name="Orks16" value="Да 'Еп"/>
+	<entry name="Orks17" value="Да Империя да Орки"/>
+	<entry name="OrksCount" value="18"/>
+	<entry name="SpaceMarines0" value="Крепость Дорн"/>
+	<entry name="SpaceMarines1" value="Примарис Ревенант"/>
+	<entry name="SpaceMarines2" value="Кузня Вулкана"/>
+	<entry name="SpaceMarines3" value="Шпиль"/>
+	<entry name="SpaceMarines4" value="Крылья Коракса"/>
+	<entry name="SpaceMarines5" value="Хелбрехт"/>
+	<entry name="SpaceMarines6" value="Обитель Верных"/>
+	<entry name="SpaceMarines7" value="Цитадель Умбран "/>
+	<entry name="SpaceMarines8" value="Патер Фиделиум"/>
+	<entry name="SpaceMarines9" value="Гнев Азраила "/>
+	<entry name="SpaceMarines10" value="Осень Танталина"/>
+	<entry name="SpaceMarines11" value="Покои Примарха"/>
+	<entry name="SpaceMarines12" value="Часовня Святого"/>
+	<entry name="SpaceMarines13" value="Кор Империи"/>
+	<entry name="SpaceMarines14" value="Аркс Мортифер"/>
+	<entry name="SpaceMarines15" value="Кастеллум Кэпиталис"/>
+	<entry name="SpaceMarines16" value="Регия Фунестес"/>
+	<entry name="SpaceMarines17" value="Стигиан Моенэ"/>
+	<entry name="SpaceMarinesCount" value="18"/>
+	<entry name="Tyranids0" value="Ямолод"/>
+	<entry name="Tyranids1" value="Двойной пожиратель"/>
+	<entry name="Tyranids2" value="Трахеинс"/>
+	<entry name="Tyranids3" value="Фархор"/>
+	<entry name="Tyranids4" value="Бронхея"/>
+	<entry name="Tyranids5" value="Ёсофекс"/>
+	<entry name="Tyranids6" value="Паниратор"/>
+	<entry name="Tyranids7" value="Электроволос"/>
+	<entry name="Tyranids8" value="Гиполимфекс"/>
+	<entry name="Tyranids9" value="Тервитроид"/>
+	<entry name="Tyranids10" value="Такмать"/>
+	<entry name="Tyranids11" value="Эндотелон"/>
+	<entry name="Tyranids12" value="Ресница"/>
+	<entry name="Tyranids13" value="Тиранотелиум"/>
+	<entry name="Tyranids14" value="Димачера"/>
+	<entry name="Tyranids15" value="Гауфагус"/> 
+	<entry name="Tyranids16" value="Гонадренал"/>
+	<entry name="Tyranids17" value="Паралимпекс"/>
+	<entry name="TyranidsCount" value="18"/>
+</language>

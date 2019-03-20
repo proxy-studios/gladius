@@ -1,0 +1,1650 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarines#0" value="Наблюдаем Космодесантников, командир. Каналы связи открыты."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Замечен Лорд-комиссар. Готовимся подойти к нему ближе."/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommander#0" value="Сэр. Рад видеть офицера, который ценит ценность брони, сэр!"/>
+	<entry name="AstraMilitarum/Baneblade:AlliedUnit:AstraMilitarum/TankCommanderCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Artefact#0" value="Наблюдаем структуру Ксеноса."/>
+	<entry name="AstraMilitarum/Baneblade:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Attack#0" value="Снаряд готов."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#1" value="Цель захвачена."/>
+	<entry name="AstraMilitarum/Baneblade:Attack#2" value="Огонь из ствола 1-11, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:AttackCount" value="3"/>
+	<entry name="AstraMilitarum/Baneblade:Broken#0" value="Включаем заднюю передачу, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Cover#0" value="Не знаю как, но танк в укрытии, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarum#0" value="Наблюдаем предателей, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Necrons#0" value="Наблюдаем Ксеносов, сэр. Готовимся показать им, что такое настоящий металлический монстр."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:Orks#0" value="Зеленокожие в этом районе, сэр. Они не смогут сделать из нас Череподробилку!"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarines#0" value="Враги из Адептус Астартес обнаружены. Никаких Разящих клинков не видно."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/Enslaver#0" value="Сэр, рекомендуем быстрое отступление. Мы не можем гарантировать, что наша техника не будет подвергнута риску."/>
+	<entry name="AstraMilitarum/Baneblade:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Hurt#0" value="Мы получили серьёзный урон, сэр. Советуем вернуться на Марс для ремонта."/>
+	<entry name="AstraMilitarum/Baneblade:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Idle#0" value="Работаем над траками, сэр"/>
+	<entry name="AstraMilitarum/Baneblade:Idle#1" value="Проверка всех одиннадцати стволов, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#2" value="Враг слаб, сэр. Мы поможем им потерпеть поражение."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#3" value="Подсчет заклепок, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#4" value="Когда я вырасту, я хочу быть Адским молотом. Сэр."/>
+	<entry name="AstraMilitarum/Baneblade:Idle#5" value="Вы слышали, что Вэнс Штаббс потерял сотню Гибельных клинков, сэр? Несколько небрежно с его стороны."/>
+	<entry name="AstraMilitarum/Baneblade:IdleCount" value="6"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0#0" value="Готов вернуть нам Гладиуса Прайма, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory0Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1#0" value="Перегруппировка гвардии, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory1Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2#0" value="Сэр, все будут благодарны, если Техножрец не будет смазывать наши спонсоны."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory2Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3#0" value="Мы оставим подземную разведку пехоте. Сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory3Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4#0" value="Мы можем сдержать Ксенос, не проблема, сэр."/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory4Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5#0" value="Кастеляны! Нам понадобятся все одиннадцать стволов, сэр!"/>
+	<entry name="AstraMilitarum/Baneblade:QuestStory5Count" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Shaken#0" value="Мы не отступаем, сэр! Не уверен, но эта штука на самом деле сама идет назад."/>
+	<entry name="AstraMilitarum/Baneblade:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:Victory#0" value="Цель ликвидирована, сэр. Перезарядка всех стволов."/>
+	<entry name="AstraMilitarum/Baneblade:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Baneblade:WireWeed#0" value="Сэр, советуем вам переместить машину; Экипаж не может справиться с этой проволокой."/>
+	<entry name="AstraMilitarum/Baneblade:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarines#0" value="Наблюдаем союзных Астартес, хвала Императору!"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Наблюдаем Комиссара. Рад, что он на передовой ... и далеко от нас."/>
+	<entry name="AstraMilitarum/Basilisk:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#0" value="Снаряды даже не царапают эту штуку. Из чего это сделано?"/>
+	<entry name="AstraMilitarum/Basilisk:Artefact#1" value="Мы будем подвергнуты очистке только за то, что видели это."/>
+	<entry name="AstraMilitarum/Basilisk:ArtefactCount" value="2"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#0" value="Координаты получены, решение принято. Огонь.#"/>
+	<entry name="AstraMilitarum/Basilisk:Attack#1" value="Снаряды уже в пути."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#2" value="Корректировщик на поле боя."/>
+	<entry name="AstraMilitarum/Basilisk:Attack#3" value="Цель накрыта. Рад, что мы вернулись!"/>
+	<entry name="AstraMilitarum/Basilisk:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/Basilisk:Broken#0" value="Бросай пушку и беги!"/>
+	<entry name="AstraMilitarum/Basilisk:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Cover#0" value="Идеальное расположение артиллерии. Они не видят нас."/>
+	<entry name="AstraMilitarum/Basilisk:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarum#0" value="У нас всегда есть подарок для предателей - 132 мм ярости Императора."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Necrons#0" value="Жестяные человечки? 15 км идеальное расстояние, чтобы вступить в бой с ними."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:Orks#0" value="О, зеленокожие. Для этого и была построена эта пушка."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarines#0" value="Отступники-Космодесантники? Интересно, их нимбы защищают их от наших подарочков?"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/Enslaver#0" value="Что это за ШТУКИ? Люди, держимся от них на расстоянии."/>
+	<entry name="AstraMilitarum/Basilisk:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Hurt#0" value="Попадание в отсек экипажа ... здесь месиво."/>
+	<entry name="AstraMilitarum/Basilisk:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#0" value="Вы слышали о Святом Василиске? Его канонизировали. Понимаешь?"/>
+	<entry name="AstraMilitarum/Basilisk:Idle#1" value="Не посылайте Мантикору делать работу Василиска."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#2" value="Мне жаль бедных ворчунов на передовой ... но не настолько, чтобы присоединиться к ним."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#3" value="Просто скажи нам, когда появится то, во что стрелять."/>
+	<entry name="AstraMilitarum/Basilisk:Idle#4" value="Затишье на войне ... и это происходит неоднократно."/>
+	<entry name="AstraMilitarum/Basilisk:IdleCount" value="5"/>
+	<entry name="AstraMilitarum/Basilisk:Shaken#0" value="Кто-то на самом деле стреляет ... в нас?"/>
+	<entry name="AstraMilitarum/Basilisk:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:Victory#0" value="Видел , как превращаются враги в кратеры на десять тысячелетий!"/>
+	<entry name="AstraMilitarum/Basilisk:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Basilisk:WireWeed#0" value="Биопроволока? Я имею в виду, что эти огневые позиции хуже, чем внутри Великого Разлома ..."/>
+	<entry name="AstraMilitarum/Basilisk:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarines#0" value="Босс, Космодесант"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Быкрин лояльный"/>
+	<entry name="AstraMilitarum/Bullgryn:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Artefact#0" value="Большая вещь?"/>
+	<entry name="AstraMilitarum/Bullgryn:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Attack#0" value="Быкрины сражаются, мой босс."/>
+	<entry name="AstraMilitarum/Bullgryn:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Broken#0" value="Огрины не такие крутые."/>
+	<entry name="AstraMilitarum/Bullgryn:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Cover#0" value="Скроемся в кустах."/>
+	<entry name="AstraMilitarum/Bullgryn:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarum#0" value="Подожди, так ты сражаешься за Императора? За нас или за них?"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Necrons#0" value="Не могу жевать жесть. Черт."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:Orks#0" value="Орки. Жесткие, хорошо выглядят, умные. Как мы."/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarines#0" value="Дети Императора? Мы должны бороться с ними?!"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/Enslaver#0" value="Нет, я не понимаю, кто это такие. "/>
+	<entry name="AstraMilitarum/Bullgryn:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Hurt#0" value="Ух."/>
+	<entry name="AstraMilitarum/Bullgryn:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#0" value="Наши костяные головы... они умны."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#1" value="Один Огрин положил мертвого Орка в копилку. Ух ... два! Два Огрина ..."/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#2" value="У нас заострённые дубины, сэр"/>
+	<entry name="AstraMilitarum/Bullgryn:Idle#3" value="Мы делаем что нам сказали. А ты не сказал нам ничего."/>
+	<entry name="AstraMilitarum/Bullgryn:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Bullgryn:Shaken#0" value="Подожди ... а в какую сторону мы пойдем?"/>
+	<entry name="AstraMilitarum/Bullgryn:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:Victory#0" value="Что? Мы победили?"/>
+	<entry name="AstraMilitarum/Bullgryn:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Bullgryn:WireWeed#0" value="Ой, моя нога!"/>
+	<entry name="AstraMilitarum/Bullgryn:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarines#0" value="Слава Императору, Астартес здесь!"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Подтянуться, вобрать животы, здесь Лорд-комиссар."/>
+	<entry name="AstraMilitarum/Guardsman:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Artefact#0" value="Это было сделано ... Ксеносом?"/>
+	<entry name="AstraMilitarum/Guardsman:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#0" value="Кто-нибудь может сказать куда мы стреляем?"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#1" value="Враги впереди, Комиссар сзади ..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#2" value="Отдадим все, что у нас есть!"/>
+	<entry name="AstraMilitarum/Guardsman:Attack#3" value="Я хотел бы, чтобы символ веры был здесь ..."/>
+	<entry name="AstraMilitarum/Guardsman:Attack#4" value="Зальём их лаз-огнём, мы можем это сделать."/>
+	<entry name="AstraMilitarum/Guardsman:AttackCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#0" value="Я не подписывался на это!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#1" value="Ребята, бежим, и будем надееться, что Комиссар этого не увидит!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#2" value="Они истребляют нас! А мы не можем убить их!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#3" value="Это кровавый Мир смерти!"/>
+	<entry name="AstraMilitarum/Guardsman:Broken#4" value="Где подкрепление? Гдеее?"/>
+	<entry name="AstraMilitarum/Guardsman:BrokenCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Cover#0" value="Вернемся в окопы, слава Императору."/>
+	<entry name="AstraMilitarum/Guardsman:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Enslaver#0" value="Поработители? Ох,  храни нас Император."/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/Psychneuein#0" value="Большие насекомые с Просперо - держите их подальше от псайкеров!"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkulls#0" value="Хаос! Здесь?"/>
+	<entry name="AstraMilitarum/Guardsman:EnemyUnitNeutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Hurt#0" value="Нас накрыли, сэр."/>
+	<entry name="AstraMilitarum/Guardsman:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#0" value="На Золотом Троне...!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#1" value="За Жиллимана и Императора!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#2" value="Как сильно, сэр?"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#3" value="Тишина перед битвой - не к добру."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#4" value=" Мы просто играем, сэр, Комиссар говорит, что это хорошо для морального духа."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#5" value="Жизнь в гвардии, сэр. Ужасно тяжело."/>
+	<entry name="AstraMilitarum/Guardsman:Idle#6" value="Всё понятно, сэр!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#7" value="Сэр, да сэр!"/>
+	<entry name="AstraMilitarum/Guardsman:Idle#8" value="Берегись, Комиссар идет!"/>
+	<entry name="AstraMilitarum/Guardsman:IdleCount" value="9"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0#0" value="Я до сих пор не могу поверить, что мы выжили. Так много..."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory0Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1#0" value="Собираем банду вместе, сэр."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory1Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2#0" value="Новый город? Мы уверены ... нет, сэр, мы не подвергаем сомнению ваши приказы, сэр!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory2Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3#0" value="От этих штормов у меня болит голова - неужели мы здесь навечно?"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory3Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4#0" value="Они внутри города! Возвращаемся!"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory4Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5#0" value="Говорила мне мама: «Никогда не доверяй Техножрецу». Как моя мама была права."/>
+	<entry name="AstraMilitarum/Guardsman:QuestStory5Count" value="1"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#0" value="Мы можем помолиться? О, Император, о Жиллиман, защитите нас."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#1" value="Командир, мы отступаем."/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#2" value="Бодрее, ребята, бодрее"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#3" value="Если мы останемся, враг застрелит нас. Если мы побежим, Комиссар пристрелит нас!"/>
+	<entry name="AstraMilitarum/Guardsman:Shaken#4" value="Дайте нам более лучшее оружие, пожалуйста?"/>
+	<entry name="AstraMilitarum/Guardsman:ShakenCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#0" value="Комиссар, сэр, разрешите отпраздновать?"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#1" value="Ха! Я чувствую, что мы повергли Титана с помощью светового жезла."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#2" value="За Кадию и Символ веры..."/>
+	<entry name="AstraMilitarum/Guardsman:Victory#3" value="Мы победили ..? Мы победили!"/>
+	<entry name="AstraMilitarum/Guardsman:Victory#4" value="Отлично, право Наставление! Эти ксеносы легкие враги!"/>
+	<entry name="AstraMilitarum/Guardsman:VictoryCount" value="5"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeed#0" value="Сэр, проволока, она живая!"/>
+	<entry name="AstraMilitarum/Guardsman:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarines#0" value="Командир, из штаба сообщают о приближении союзных Космических десантников."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Рад видеть вас на поле битвы, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Artefact#0" value="Артефакт ксеносов в опасной близости от города, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Attack#0" value="Держим территорию под контролем."/>
+	<entry name="AstraMilitarum/Headquarters:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Broken#0" value="Выполняем последние приказы."/>
+	<entry name="AstraMilitarum/Headquarters:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Cover#0" value="Как, ... этот город ... укрытие?"/>
+	<entry name="AstraMilitarum/Headquarters:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarum#0" value="Предатели приближаются к городу, сэр!"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Necrons#0" value="Войска Некронов на подходе."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:Orks#0" value="Зеленокожие, к сожалению, близко, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarines#0" value="Космодесантники приближаются. Они уничтожат город, если проникнут за стены."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/Enslaver#0" value="ВНИМАНИЕ: ОБНАРУЖЕНЫ ОЧЕНЬ ОПАСНЫЕ КСЕНОСЫ."/>
+	<entry name="AstraMilitarum/Headquarters:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Hurt#0" value="Нанесен урон инфраструктуре!"/>
+	<entry name="AstraMilitarum/Headquarters:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Idle#0" value="Повысить бдительность"/>
+	<entry name="AstraMilitarum/Headquarters:Idle#1" value="Постоянное внимание."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#2" value="Кто играет в Таро? Убрать это быстро."/>
+	<entry name="AstraMilitarum/Headquarters:Idle#3" value="Все тихо, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Headquarters:Shaken#0" value="Занимаем оборонительные позиции, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:Victory#0" value="Город в безопасности, сэр."/>
+	<entry name="AstraMilitarum/Headquarters:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeed#0" value="Было ли строительство этого города на биопроволоке такой прекрасной идеей?"/>
+	<entry name="AstraMilitarum/Headquarters:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarines#0" value="Хорошо, что Астартес появились."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Где Комиссары получают свой обед? В Комиссариате. Эх."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Artefact#0" value="Если вы не можете оценить эту штуку, то мне это не интересно."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#0" value="Кто-нибудь может сказать - цель все еще там?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#1" value="Огонь, отдача!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#2" value="Огонь из тяжелог оружия!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#3" value="Давайте взломаем их оборону!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Attack#4" value="Когда лазгпушки не режут их ..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:AttackCount" value="5"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Broken#0" value="Отступаем, гончие, отступаем!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Cover#0" value="Как говорят на войне: прикрывай свои минометы, и они прикроют тебя."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarum#0" value="Чертовы предатели. Сожжём их!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Necrons#0" value="Давайте отделим их металл от них."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:Orks#0" value="Стрельба по зеленокожим - пустая трата патронов."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarines#0" value="Если вы стреляете в Космического десантника, убедитесь, что вы попали."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/Enslaver#0" value="Загоним эти исчадия ада обратно в Варп!"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Hurt#0" value="У меня нет времени, чтобы истекать кровью."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#0" value="Вы знаете, сколько времени нужно, чтобы починить контакты на лазпушках?"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#1" value="Ксенос может прийти к нам."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#2" value="Там нас что-то ждет ..."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Idle#3" value="Мы как танк, который может поразить цель."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Shaken#0" value="Мы не должны быть под огнем, сэр."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:Victory#0" value="Они, конечно, мертвы."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeed#0" value="Грязные ловушки ксеносов."/>
+	<entry name="AstraMilitarum/HeavyWeaponsSquad:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarines#0" value="Ангелы с нами."/>
+	<entry name="AstraMilitarum/Hydra:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Полезно, чтобы этот человек держал нас в руках."/>
+	<entry name="AstraMilitarum/Hydra:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Artefact#0" value="Что-то чужое."/>
+	<entry name="AstraMilitarum/Hydra:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Attack#0" value="Очистим небо."/>
+	<entry name="AstraMilitarum/Hydra:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Broken#0" value="Отступаем на более возвышенное место."/>
+	<entry name="AstraMilitarum/Hydra:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Cover#0" value="Идеальное прикрытие для наблюдения за небом."/>
+	<entry name="AstraMilitarum/Hydra:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarum#0" value="Имперцы, но с затуманенными мозгами."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Necrons#0" value="Такие странные летательные аппараты, и такие смертоносные."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:Orks#0" value="Летуны зеленокожих грубые, но эффективные."/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarines#0" value="Могу ли я сбить Грозовых птичек? Давай попробую!"/>
+	<entry name="AstraMilitarum/Hydra:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/Enslaver#0" value="Парящий не летун - инопланетные ужасы."/>
+	<entry name="AstraMilitarum/Hydra:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Hurt#0" value="Мы следим за небесами, вы должны следить за нами."/>
+	<entry name="AstraMilitarum/Hydra:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Idle#0" value="Наблюдаем за облаками, сэр."/>
+	<entry name="AstraMilitarum/Hydra:Idle#1" value="Джагатайский нимб, рогатые облака, цирросангвиниус ..."/>
+	<entry name="AstraMilitarum/Hydra:Idle#2" value="Звезды здесь потрясающие."/>	
+	<entry name="AstraMilitarum/Hydra:Idle#3" value="На этой планете удивительные закаты. Сэр."/>
+	<entry name="AstraMilitarum/Hydra:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Hydra:Shaken#0" value="Кто-то по нам стреляет, сэр."/>
+	<entry name="AstraMilitarum/Hydra:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:Victory#0" value="Небо чистое, сэр."/>
+	<entry name="AstraMilitarum/Hydra:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Hydra:WireWeed#0" value="Наземные путальщики, сэр."/>
+	<entry name="AstraMilitarum/Hydra:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarines#0" value="Бастион сообщает, что дружеские Адептус Астартес подходят к нашему периметру."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/Baneblade#0" value="Приятно видеть Гибельный клинок, сэр. Особенно, когда его оружие направлено в другую сторону."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Бастион дежится, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Artefact#0" value="Бастион сообщает об артефакте Ксеносов вблизи от него."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Attack#0" value="Бастион ведет огонь."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Broken#0" value="Бастион потерян, повторяю, Бастион потерян."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarum#0" value="Бастион сообщает о передвижении предателей по его периферии."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Necrons#0" value="Бастион сообщает, что движутся Некроны."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:Orks#0" value="Бастион сообщает о присутствии Орков."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarines#0" value="Бастион сообщает... сохрани нас Император ... враждебные Адептус Астартес."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/Enslaver#0" value="Бастион сообщает о Ксеносе - Поработители, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Hurt#0" value="Бастион сообщает - мы не уверены, сможем ли мы выжить, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#0" value="Гвардия на чеку, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#1" value="Всегда бдительны."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#2" value="Бастион сообщает - никаких изменений."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Idle#3" value="Все тихо, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Shaken#0" value="Сэр, вы нас слышите? Мы под огнем."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:Victory#0" value="Бастион удержан, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeed#0" value="Биопроволока проникла в  командный центр, сэр."/>
+	<entry name="AstraMilitarum/ImperialStrongpoint:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarines#0" value="Космодесант присоединился к нам! Хорошо, мать их."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Еще один благородный пехотинец. Почему только Яррик получил свой собственный Гибельный клинок?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Artefact#0" value="Охранять артефакт? С превеликим удовольствием."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Attack#0" value="Посылаем им снаряды с любовью, сэр."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Broken#0" value="К сожалению, сэр, мы уходим."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Cover#0" value="За деревьями устраиваем засаду, сэр."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarum#0" value="Мы будем перемалывать кости еретиков до наступления ночи."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Necrons#0" value="Ух-ты, это же наши любимые цели - Некроны."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:Orks#0" value="Готовы к самоуничтожению - орки любят захватывать танки Леман Русс."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarines#0" value="Эта пушка предназначена для того, чтобы заставить Космодесантников плакать."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/Enslaver#0" value="Враждебный Ксенос - держим их на расстоянии."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Hurt#0" value="Ничего себе, этот прошел прямо через броню!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#0" value="Леман Русс может двигаться?"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#1" value="Ремонтируем гусеницы."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#2" value="Заправляем баки"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Idle#3" value="Желаю, чтобы Паск был за рулем."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Shaken#0" value="Танк подбит!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:Victory#0" value="Очередная победа самого популярного танка галактики!"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeed#0" value="Биопроволока, единственное, что встречается чаще, чем Леман Русс."/>
+	<entry name="AstraMilitarum/LemanRussBattleTank:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarines#0" value="Всегда приятно видеть верных Астартес ... особенно, если это неожиданно."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ух-ты, товарищ по оружию."/>
+	<entry name="AstraMilitarum/LordCommissar:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Artefact#0" value="Ксеносская грязь. Мы должны сжечь это."/>
+	<entry name="AstraMilitarum/LordCommissar:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Attack#0" value="Стреляй в них или я пристрелю тебя!"/>
+	<entry name="AstraMilitarum/LordCommissar:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Broken#0" value="Я не могу позволить людям видеть меня таким! "/>
+	<entry name="AstraMilitarum/LordCommissar:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Cover#0" value="Тактика требует укрыться, но это плохо повлияет на моральный дух."/>
+	<entry name="AstraMilitarum/LordCommissar:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarum#0" value="Предатели! Отбросы! ВЫ ПРЕДСТАНЕТЕ ПЕРЕД ЛИЦОМ ПРАВОСУДИЯ ИМПЕРАТОРА!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Necrons#0" value="Жестяная мерзость. Давайте расплавим их, чтобы получить большее количество пуль."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:Orks#0" value="Зеленокожие бандиты. Имперская неумолимость должна заставить нас быстро расправиться с ними."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarines#0" value="Это подонки предатели самого гордого создания нашего Императора. Мы должны стереть их с лица галактики."/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/Enslaver#0" value="Ужасы Ксеноса в моей голове!"/>
+	<entry name="AstraMilitarum/LordCommissar:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Hurt#0" value="Это только телесная рана."/>
+	<entry name="AstraMilitarum/LordCommissar:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#0" value="Правосудие так утомительно."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#1" value="Пустые руки делают работу плохо."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#2" value="Рацион делю пополам. Вот почему я выгляжу немного тощим."/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#3" value="Что бы сделал Каин?"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#4" value="Адъютант! Почистите это снова!"/>
+	<entry name="AstraMilitarum/LordCommissar:Idle#5" value="Выполняй свой долг во имя ... О, я всегда забываю об этом."/>
+	<entry name="AstraMilitarum/LordCommissar:IdleCount" value="6"/>
+	<entry name="AstraMilitarum/LordCommissar:Shaken#0" value="Господи, избавь нас от Духа гордыни."/>
+	<entry name="AstraMilitarum/LordCommissar:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:Victory#0" value="Подавать пример своим войскам."/>
+	<entry name="AstraMilitarum/LordCommissar:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeed#0" value="Было бы безрассудно оставаться в биопроволоке, каким бы храбрым я ни был."/>
+	<entry name="AstraMilitarum/LordCommissar:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarines#0" value="Некоторые Астартес там внизу дружественны нам."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/Thunderbolt#0" value="Приятно иметь поддержку истребителей."/>
+	<entry name="AstraMilitarum/MarauderBomber:AlliedUnit:AstraMilitarum/ThunderboltCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Artefact#0" value="Видна высокая цель."/>
+	<entry name="AstraMilitarum/MarauderBomber:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#0" value="Бомбим."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#1" value="Если вы можете видеть их, мы можем ударить по ним."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#2" value="Открыть створки бомболюков."/>
+	<entry name="AstraMilitarum/MarauderBomber:Attack#3" value="Скинуть бомбы на цель."/>
+	<entry name="AstraMilitarum/MarauderBomber:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Broken#0" value="Мы падаем!"/>
+	<entry name="AstraMilitarum/MarauderBomber:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Cover#0" value="Если бы мы не летали низко, тогда зачем нам нужны эти звуки?"/>
+	<entry name="AstraMilitarum/MarauderBomber:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Hurt#0" value="Мы потеряли три двигателя, у нас больше дыр, чем у Грокс-торговца, звуки в воксе пропали, и мы теряем топливо ..."/>
+	<entry name="AstraMilitarum/MarauderBomber:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#0" value="Я не особо умею произносить речи."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#1" value="Клянусь, Карпентер, эти бомбы говорят об обратном."/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#2" value="Кто-нибудь знает, как посадить эту штуку?"/>
+	<entry name="AstraMilitarum/MarauderBomber:Idle#3" value="Практика -критерий истины, как говорится в Наставлении."/>
+	<entry name="AstraMilitarum/MarauderBomber:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/MarauderBomber:Shaken#0" value="Переходим на большие высоты - зенитки стреляют по нам."/>
+	<entry name="AstraMilitarum/MarauderBomber:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/MarauderBomber:Victory#0" value="Какова ближайшая цель?"/>
+	<entry name="AstraMilitarum/MarauderBomber:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarines#0" value="Я чувствую ... очень хорошо их."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Ум искаженный абсолютизмом ... захватывающий."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Artefact#0" value="Древние строили эти маленькие игрушки."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#0" value="Ваш разум сгорит ..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#1" value="Я чувствую на себе взгляд Императора."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Attack#2" value="Я сожгу тебя во имя Его."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:AttackCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Broken#0" value="Его свет... где Его свет?"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Cover#0" value="Скрытый разум - это мудрый разум."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarum#0" value="Похоже, у нас два мнения."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Necrons#0" value="От них ничего не исходит. Ничего."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:Orks#0" value="От них исходит волна, такая свирепая любимая эмоция."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarines#0" value="Такая сильная уверенность... на поверхности."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/Enslaver#0" value="Я чувствую его голод, его желание поглотить наш разум."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Hurt#0" value="Это просто плоть."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#0" value="Даже сквозь эти бури я все еще вижу Его свет."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#1" value="Я знаю, что ты думаешь..."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Idle#2" value="Праздная работа для пустых умов"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:IdleCount" value="3"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Shaken#0" value="Лучше умереть здесь, чем попасть на Черный Корабль."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:Victory#0" value="Как предвидел и Император."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeed#0" value="Здесь есть жизнь, хоть и странная, и кровавая."/>
+	<entry name="AstraMilitarum/PrimarisPsyker:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarines#0" value="Большие наплечники, это Космодесант!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Могу ли я вернуться на передовую?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Artefact#0" value="Ух ты, ты должен это увидеть!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Attack#0" value="Пульнём из всего, что у нас есть!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Broken#0" value="Длинные ноги убегают!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Cover#0" value="Спрячемся за деревом или чем-то другим."/>
+	<entry name="AstraMilitarum/ScoutSentinel:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarum#0" value="Блин, это же мы, но плооохииие."/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Necrons#0" value="Жестяные люди, полундра!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:Orks#0" value="Я вижу красные глаза, мечтающие из нас сделать металлолом!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarines#0" value="Что? Мы сражаемся с ними? Мы что, злодеи?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/Enslaver#0" value="Э-э ... что об этом думают на Терре?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Hurt#0" value="Чёрт, кто-то прорезал мне новую дырку в крыше."/>
+	<entry name="AstraMilitarum/ScoutSentinel:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#0" value="Разве я не должен делать что-то?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#1" value="Эти ноги идут."/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#2" value="Представляете, мы ждём, чтобы хоть что-то увидеть!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Idle#3" value="Давайте начнем!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Shaken#0" value="Вытащи меня отсюда!"/>
+	<entry name="AstraMilitarum/ScoutSentinel:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:Victory#0" value="Всегда знал, что мы победим. Кто следующий?"/>
+	<entry name="AstraMilitarum/ScoutSentinel:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeed#0" value="Быстрее двигаемся, эта дрянь попадает на ноги."/>
+	<entry name="AstraMilitarum/ScoutSentinel:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarines#0" value="Если у них нет лендрейдеров, я ухожу."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/Baneblade#0" value="Оооо ... такая красота."/>
+	<entry name="AstraMilitarum/TankCommander:AlliedUnit:AstraMilitarum/BanebladeCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Artefact#0" value="Если это не вражеская броня, то мне это не интересно."/>
+	<entry name="AstraMilitarum/TankCommander:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#0" value="Бум! Хахаха!"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#1" value="Подойдём ближе! Ты знаешь почему..."/>
+	<entry name="AstraMilitarum/TankCommander:Attack#2" value="Стреляй из пушки! И из другой! Огонь из всех орудий!"/>
+	<entry name="AstraMilitarum/TankCommander:Attack#3" value="Огонь! Хахаха!"/>
+	<entry name="AstraMilitarum/TankCommander:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/TankCommander:Broken#0" value="Нет, не отходим назад! Кто здесь главный?"/>
+	<entry name="AstraMilitarum/TankCommander:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Cover#0" value="Засада? Мне это нравится."/>
+	<entry name="AstraMilitarum/TankCommander:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarum#0" value="Предатели! Еретики ... у них есть танки?"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Necrons#0" value="Монолиты, вот теперь у нас проблемы."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:Orks#0" value="Эх, мы должны были вооружиться Разрушителем."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarines#0" value="Предатели! Они, вероятно, не знают, где зад Носорога."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobot#0" value="О, теперь больше не делают такую броню."/>
+	<entry name="AstraMilitarum/TankCommander:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Hurt#0" value="Не дайте им пробить дыру во мне."/>
+	<entry name="AstraMilitarum/TankCommander:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Idle#0" value="Лучше думать головой, чем быть мертвецом. Ха!"/>
+	<entry name="AstraMilitarum/TankCommander:Idle#1" value="Просто полирую мои медали."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#2" value="Что вы имеете в виду, говоря 'попасть внутрь'? Мне нужно это увидеть."/>
+	<entry name="AstraMilitarum/TankCommander:Idle#3" value="Надо завестись, чтобы что-то делать."/>
+	<entry name="AstraMilitarum/TankCommander:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/TankCommander:Shaken#0" value="Не уверен, что старичок может выдержать еще много таких атак."/>
+	<entry name="AstraMilitarum/TankCommander:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:Victory#0" value="Лучшее место для врага под нашими гусеницами."/>
+	<entry name="AstraMilitarum/TankCommander:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/TankCommander:WireWeed#0" value="Эй, этот провод царапает нашу краску!"/>
+	<entry name="AstraMilitarum/TankCommander:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissar#0" value="Рад быть вне юрисдикции этого фанатика."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AlliedUnit:AstraMilitarum/LordCommissarCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Artefact#0" value="Разобрать это было бы заманчиво."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Attack#0" value="К бою."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Broken#0" value="Плоть слаба и должна отступить."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Cover#0" value="Вероятность баллистического попадания врагом сильно снижена."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarum#0" value="Досадно."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Necrons#0" value="Формы истинных последователей Бога-Машины, с душами грязных Ксеносов."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:Orks#0" value="Примитивы. Держите их подальше от наших священных машин."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarines#0" value="Жалко."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobot#0" value="Священная реликвия! Минимизируйте ущерб этому механизму."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayer#0" value="Еретик? Здесь? Навряд ли."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:EnemyUnit:Neutral/TechpriestBetrayerCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Hurt#0" value="Нужен ремонт."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#0" value="Применяю священные смазки."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#1" value="Проверка когитаторов."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#2" value="Выполнение машинных обрядов."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Idle#3" value="Оживление духа машины."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Shaken#0" value="Омниссия со мной."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:Victory#0" value="Предсказуемо."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeed#0" value="Биопроволока так забавляет. Мы должны повторить это."/>
+	<entry name="AstraMilitarum/TechpriestEnginseer:WireWeedCount" value="1"/>
+	<entry name="AstraMilitarum/TempestusScion" value="AstraMilitarum/Guardsman"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarines#0" value="Там что-то блестящее!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomber#0" value="Нам, летунам, нужно держаться вместе!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AlliedUnit:AstraMilitarum/MarauderBomberCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Artefact#0" value="Кто-нибудь увидел, что это было? Вот это да!"/>
+	<entry name="AstraMilitarum/Thunderbolt:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Attack#0" value="Стреляем только короткими очередями! Сохраняйте патроны!"/>
+	<entry name="AstraMilitarum/Thunderbolt:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Broken#0" value="Направляюсь домой."/>
+	<entry name="AstraMilitarum/Thunderbolt:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Cover#0" value="Только укроюсь за облаками."/>
+	<entry name="AstraMilitarum/Thunderbolt:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarum#0" value="Гвардейцы-отступники? Хорошая для нас цель."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:Orks#0" value="Орки. Я не рад, что они приземляются слишком быстро, но открою по ним огонь."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarines#0" value="Космодесант. Они тратят больше времени на украшение своих доспехов, чем на сражение."/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/Psychneuein#0" value="Кто-нибудь мечтает о большой пчеле?"/>
+	<entry name="AstraMilitarum/Thunderbolt:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Hurt#0" value="Хм, ни одного очка за второе место."/>
+	<entry name="AstraMilitarum/Thunderbolt:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#0" value="Я чувствую желание стрелять."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#1" value="Нет времени думать об этом."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#2" value="Бои на этой планете просто прогулка в парке."/>
+	<entry name="AstraMilitarum/Thunderbolt:Idle#3" value="Ты можешь быть моим ведомым в любое время."/>
+	<entry name="AstraMilitarum/Thunderbolt:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Thunderbolt:Shaken#0" value="Давайте развернемся и сожжем их!"/>
+	<entry name="AstraMilitarum/Thunderbolt:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Thunderbolt:Victory#0" value="Победа дает гораздо больше, чем воображаемый полет."/>
+	<entry name="AstraMilitarum/Thunderbolt:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Artefact#0" value="Не, серьезно, я не могу поднять это."/>
+	<entry name="AstraMilitarum/Valkyrie:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Attack#0" value="Тренируем выдержку под огнем."/>
+	<entry name="AstraMilitarum/Valkyrie:AttackCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Broken#0" value="Мы здесь, и в тоже время нас здесь нет!"/>
+	<entry name="AstraMilitarum/Valkyrie:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarum#0" value="Ворчуны как на ладоне."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Necrons#0" value="Жестяные человечки быстро поднимаются."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:Orks#0" value="Зеленокожие в прицеле."/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarines#0" value="Я никогда не подписывался на бой с Космодесантом!"/>
+	<entry name="AstraMilitarum/Valkyrie:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Hurt#0" value="Здесь жарко, очень жарко!"/>
+	<entry name="AstraMilitarum/Valkyrie:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#0" value="Можем ли мы оптимизировать ораторов?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#1" value="Блин, а где бои?"/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#2" value="Затишье перед бурей."/>
+	<entry name="AstraMilitarum/Valkyrie:Idle#3" value="Мы не остановимся, пока не упадем."/>
+	<entry name="AstraMilitarum/Valkyrie:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/Valkyrie:Shaken#0" value="Мы не на переднем крае! отстань от нас!"/>
+	<entry name="AstraMilitarum/Valkyrie:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/Valkyrie:Victory#0" value="Враг внизу это добыча."/>
+	<entry name="AstraMilitarum/Valkyrie:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarines#0" value="Мы чувствуем себя ... более уверенно."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsyker#0" value="Наш брат с Черных Кораблей..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AlliedUnit:AstraMilitarum/PrimarisPsykerCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Artefact#0" value="Нечестивая святость."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:ArtefactCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#0" value="Давай быстрее, сейчас вместе мы разорвем их."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#1" value="Вот конец их грустной жизни."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#2" value="И, как один, мы сведем их с ума."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Attack#3" value="Простой шторм духов, чтобы не взывать к ним отдельно."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:AttackCount" value="4"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Broken#0" value="Мы разбиты, мы потерпели поражение."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:BrokenCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Cover#0" value="Защита от глаз, а не от разума."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:CoverCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarum#0" value="Родные и близкие, но погрязшие в грехе."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Necrons#0" value="Ничего, там ничего нет."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:Orks#0" value="Другая орда ... чуждая."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:OrksCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarines#0" value="Оскверненные сыновья Императора ..."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/Psychneuein#0" value="Аватары плодовитости, ждём порождения еще больше ужасов."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Hurt#0" value="Наступает диссонанс, мы расходимся."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:HurtCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#0" value="Они просто вне поля зрения. Это просто деформация."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#1" value="Так далеко от Его света."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#2" value="Мы пережили Черные Корабли, мы можем пережить и это."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Idle#3" value="Планета шепчет нам."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:IdleCount" value="4"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Shaken#0" value="Наша гармония рушится, реквием для нас приближается."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:ShakenCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:Victory#0" value="Этот скорбный напев для тех, кто умирает как скот?"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:VictoryCount" value="1"/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeed#0" value="Серебряные змеи обвивают нас, колют нас."/>
+	<entry name="AstraMilitarum/WyrdvanePsyker:WireWeedCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Attack#0" value="Боевой протокол"/>
+	<entry name="Necrons/CanoptekScarab:AttackCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Broken#0" value="Ремонтно-восстановительные работы"/>
+	<entry name="Necrons/CanoptekScarab:BrokenCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Hurt#0" value="Ущерб получен."/>
+	<entry name="Necrons/CanoptekScarab:HurtCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Idle#0" value="Протокол обслуживания."/>
+	<entry name="Necrons/CanoptekScarab:Idle#1" value="Минимизация энергопотребления."/>
+	<entry name="Necrons/CanoptekScarab:Idle#2" value="Устранение повреждений."/>
+	<entry name="Necrons/CanoptekScarab:Idle#3" value="Мы ждали вечность. Мы можем ждать ... дольше."/>
+	<entry name="Necrons/CanoptekScarab:IdleCount" value="4"/>
+	<entry name="Necrons/CanoptekScarab:Shaken#0" value="Рекомендуется уклонение."/>
+	<entry name="Necrons/CanoptekScarab:ShakenCount" value="1"/>
+	<entry name="Necrons/CanoptekScarab:Victory#0" value="Оккупанты отброшены."/>
+	<entry name="Necrons/CanoptekScarab:VictoryCount" value="1"/>
+	<entry name="Necrons/CanoptekSpyder" value="Necrons/CanoptekScarab"/>
+	<entry name="Necrons/Cryptek:Attack#0" value="Умри, животное."/>
+	<entry name="Necrons/Cryptek:Attack#1" value="Физика сама выдает тебя."/>
+	<entry name="Necrons/Cryptek:Attack#2" value="Ты никогда не поймешь, что тебя убило."/>
+	<entry name="Necrons/Cryptek:AttackCount" value="3"/>
+	<entry name="Necrons/Cryptek:Broken#0" value="Эпохи обучения, и я наконец научился бояться."/>
+	<entry name="Necrons/Cryptek:BrokenCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarum#0" value="Рабские расы Древнего врага."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Necrons#0" value="Еще один царский двор? Возможно, им нужны мои услуги..."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:Orks#0" value="Вооруженная плоть. Замечательно."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarines#0" value="Самоусовершенствованные рабы. Вскрытие может многому нас научить."/>
+	<entry name="Necrons/Cryptek:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Cryptek:Hurt#0" value="Очаровательно, они сумели ранить меня."/>
+	<entry name="Necrons/Cryptek:HurtCount" value="1"/>
+	<entry name="Necrons/Cryptek:Idle#0" value="Расчленение или вивисекция? Вечный вопрос...."/>
+	<entry name="Necrons/Cryptek:Idle#1" value="Ты помнишь ... сны? Я, да."/>
+	<entry name="Necrons/Cryptek:Idle#2" value="Я буду расщеплять атомы, пока мне это нужно."/>
+	<entry name="Necrons/Cryptek:Idle#3" value="Так долго ждать, чтобы узнать, что я сижу здесь."/>
+	<entry name="Necrons/Cryptek:IdleCount" value="4"/>
+	<entry name="Necrons/Cryptek:Shaken#0" value="Возможно, что-то есть в творениях Древних."/>
+	<entry name="Necrons/Cryptek:ShakenCount" value="1"/>
+	<entry name="Necrons/Cryptek:Victory#0" value="И так заканчивает всякая жизнь, которая бросает нам вызов."/>
+	<entry name="Necrons/Cryptek:VictoryCount" value="1"/>
+	<entry name="Necrons/DestroyerLord" value="Necrons/Lord"/>
+	<entry name="Necrons/DoomScythe:Attack#0" value="Идем на двигателях."/>
+	<entry name="Necrons/DoomScythe:AttackCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Broken#0" value="Мы должны уйти."/>
+	<entry name="Necrons/DoomScythe:BrokenCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Hurt#0" value="Как они ... смеют?"/>
+	<entry name="Necrons/DoomScythe:HurtCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Idle#0" value="Облет."/>
+	<entry name="Necrons/DoomScythe:Idle#1" value="Маневр."/>
+	<entry name="Necrons/DoomScythe:Idle#2" value="Обозревать горизонт."/>
+	<entry name="Necrons/DoomScythe:Idle#3" value="Сосредоточены."/>
+	<entry name="Necrons/DoomScythe:IdleCount" value="4"/>
+	<entry name="Necrons/DoomScythe:Shaken#0" value="Поврежден?"/>
+	<entry name="Necrons/DoomScythe:ShakenCount" value="1"/>
+	<entry name="Necrons/DoomScythe:Victory#0" value="Наши враги уничтожены."/>
+	<entry name="Necrons/DoomScythe:VictoryCount" value="1"/>
+	<entry name="Necrons/DoomsdayArk" value="Necrons/AnnihilationBarge"/>
+	<entry name="Necrons/Headquarters" value="Necrons/Monolith"/>
+	<entry name="Necrons/HeavyDestroyer:Attack#0" value="Жизнь - наш враг!"/>
+	<entry name="Necrons/HeavyDestroyer:AttackCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Broken#0" value="Смерть - наша победа!"/>
+	<entry name="Necrons/HeavyDestroyer:BrokenCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarum#0" value="Сокрушить слабую плоть!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Necrons#0" value="Мы, гордый враг!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:Orks#0" value="Очистить галактику от грибковой грязи!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarines#0" value="Пешки Бога-Императора!"/>
+	<entry name="Necrons/HeavyDestroyer:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Hurt#0" value="Страдание ведет нас!"/>
+	<entry name="Necrons/HeavyDestroyer:HurtCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#0" value="Мы нигилисты!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#1" value="Мы жаждем!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#2" value="Мы должны совершенствоваться, чтобы уничтожать!"/>
+	<entry name="Necrons/HeavyDestroyer:Idle#3" value="Почему мы стоим? Почему мы не убиваем?!"/>
+	<entry name="Necrons/HeavyDestroyer:IdleCount" value="4"/>
+	<entry name="Necrons/HeavyDestroyer:Shaken#0" value="Почему они быстро не умирают?"/>
+	<entry name="Necrons/HeavyDestroyer:ShakenCount" value="1"/>
+	<entry name="Necrons/HeavyDestroyer:Victory#0" value="Они умирают! Этого не достаточно!"/>
+	<entry name="Necrons/HeavyDestroyer:VictoryCount" value="1"/>
+	<entry name="Necrons/Immortal" value="Necrons/Warrior"/>
+	<entry name="Necrons/Lord:Attack#0" value="Почувствуй бессмертную силу Некронов!"/>
+	<entry name="Necrons/Lord:Attack#1" value="Погибни с честью от моих рук."/>
+	<entry name="Necrons/Lord:Attack#2" value="Кто смеет бросить мне вызов?"/>
+	<entry name="Necrons/Lord:Attack#3" value="Вы научитесь послушанию!"/>
+	<entry name="Necrons/Lord:AttackCount" value="4"/>
+	<entry name="Necrons/Lord:Broken#0" value="Где мои Бессмертные? Где мои охранники?"/>
+	<entry name="Necrons/Lord:BrokenCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarum#0" value="Наживка, которой суждено жить, но один день."/>
+	<entry name="Necrons/Lord:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:Necrons#0" value="Беззаконие! Соперники, на моем Коронном мире?!"/>
+	<entry name="Necrons/Lord:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:Orks#0" value="Такие скоты! И все же они правят моей галактикой."/>
+	<entry name="Necrons/Lord:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Lord:EnemyFaction:SpaceMarines#0" value="Такой умный, такой молодой. Он не будет жить долго."/>
+	<entry name="Necrons/Lord:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Lord:Hurt#0" value="Они опалили мой плащ? Уничтожь их!"/>
+	<entry name="Necrons/Lord:HurtCount" value="1"/>
+	<entry name="Necrons/Lord:Idle#0" value="Совесть - это простое слово, чтобы сдерживать сильных."/>
+	<entry name="Necrons/Lord:Idle#1" value="Пророк, я убью их последними."/>
+	<entry name="Necrons/Lord:Idle#2" value="Что мне делать в первую очередь, когда мы станем править этим миром?"/>
+	<entry name="Necrons/Lord:IdleCount" value="3"/>
+	<entry name="Necrons/Lord:Shaken#0" value="Смерть не может оставить на мне след."/>
+	<entry name="Necrons/Lord:Shaken#1" value="Древние хорошо обучили их."/>
+	<entry name="Necrons/Lord:ShakenCount" value="2"/>
+	<entry name="Necrons/Lord:Victory#0" value="Познай отчаянье и умри."/>
+	<entry name="Necrons/Lord:VictoryCount" value="1"/>
+	<entry name="Necrons/Monolith:Attack#0" value="Ядерный Кнут развернут."/>
+	<entry name="Necrons/Monolith:AttackCount" value="1"/>
+	<entry name="Necrons/Monolith:Broken#0" value="Отступать ... медленно."/>
+	<entry name="Necrons/Monolith:BrokenCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarum#0" value="Наблюдаем людей."/>
+	<entry name="Necrons/Monolith:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:Necrons#0" value="Враг двора на планете."/>
+	<entry name="Necrons/Monolith:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:Orks#0" value="Наблюдаем Орков."/>
+	<entry name="Necrons/Monolith:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarines#0" value="Наблюдаем людей. Больших."/>
+	<entry name="Necrons/Monolith:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Monolith:Hurt#0" value="Броня пробита, экипаж поврежден."/>
+	<entry name="Necrons/Monolith:HurtCount" value="1"/>
+	<entry name="Necrons/Monolith:Idle#0" value="Поддержка канала Врат Вечности."/>
+	<entry name="Necrons/Monolith:Idle#1" value="Генерация Непостижимых тайн."/>
+	<entry name="Necrons/Monolith:Idle#2" value="Разложение сингулярных значений."/>
+	<entry name="Necrons/Monolith:Idle#3" value="Реконструкция фундаментальных частиц"/>
+	<entry name="Necrons/Monolith:Idle#4" value="Вираж дуговой памяти."/>
+	<entry name="Necrons/Monolith:Idle#5" value="Сетчатые сплайны."/>
+	<entry name="Necrons/Monolith:IdleCount" value="6"/>
+	<entry name="Necrons/Monolith:Shaken#0" value="Мы под огнём. Ослабление."/>
+	<entry name="Necrons/Monolith:ShakenCount" value="1"/>
+	<entry name="Necrons/Monolith:Victory#0" value="Враг устранен. Как и ожидалось."/>
+	<entry name="Necrons/Monolith:VictoryCount" value="1"/>
+	<entry name="Necrons/NightScythe" value="Necrons/DoomScythe"/>
+	<entry name="Necrons/Obelisk" value="Necrons/Monolith"/>
+	<entry name="Necrons/TesseractVault:Attack#0" value="Почувствуй ярость Звездного Бога!"/>
+	<entry name="Necrons/TesseractVault:AttackCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Broken#0" value="Я почти свободен!"/>
+	<entry name="Necrons/TesseractVault:BrokenCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Necrons#0" value="Обратить мои силы против некронов? Глупые существа."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:Orks#0" value="Презренные дикари."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarines#0" value="Их жизнь моя."/>
+	<entry name="Necrons/TesseractVault:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Hurt#0" value="Моя тюрьма ослабевает ..."/>
+	<entry name="Necrons/TesseractVault:HurtCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Idle#0" value="Часовые, скарабеи, личи ... все это для меня?"/>
+	<entry name="Necrons/TesseractVault:Idle#1" value="О, освободите меня? "/>
+	<entry name="Necrons/TesseractVault:Idle#2" value="Эта тюрьма не может удержать меня."/>
+	<entry name="Necrons/TesseractVault:Idle#3" value="Я так ... уменьшился. Я был звездным богом!"/>
+	<entry name="Necrons/TesseractVault:Idle#4" value="Я звездный бог. Дай мне удивить тебя."/>
+	<entry name="Necrons/TesseractVault:IdleCount" value="5"/>
+	<entry name="Necrons/TesseractVault:Shaken#0" value="Да, разрушь мою тюрьму ..."/>
+	<entry name="Necrons/TesseractVault:ShakenCount" value="1"/>
+	<entry name="Necrons/TesseractVault:Victory#0" value="Этого недостаточно. Пока моя жизнь...."/>
+	<entry name="Necrons/TesseractVault:VictoryCount" value="1"/>
+	<entry name="Necrons/TombBlade:Attack#0" value="Атака на скорости."/>
+	<entry name="Necrons/TombBlade:AttackCount" value="1"/>
+	<entry name="Necrons/TombBlade:Broken#0" value="Разошлись, отступили."/>
+	<entry name="Necrons/TombBlade:BrokenCount" value="1"/>
+	<entry name="Necrons/TombBlade:Hurt#0" value="Низкий уровень огня, воины вниз."/>
+	<entry name="Necrons/TombBlade:HurtCount" value="1"/>
+	<entry name="Necrons/TombBlade:Idle#0" value="Никогда пока еще."/>
+	<entry name="Necrons/TombBlade:Idle#1" value="Программирование шаблонов атак."/>
+	<entry name="Necrons/TombBlade:Idle#2" value="Космос... мы помним."/>
+	<entry name="Necrons/TombBlade:Idle#3" value="Тестирование размерных репульсоров."/>
+	<entry name="Necrons/TombBlade:IdleCount" value="4"/>
+	<entry name="Necrons/TombBlade:Shaken#0" value="Поражен. Невероятно, мы были поражены."/>
+	<entry name="Necrons/TombBlade:ShakenCount" value="1"/>
+	<entry name="Necrons/TombBlade:Victory#0" value="Враг ... дезъинтегрирован."/>
+	<entry name="Necrons/TombBlade:VictoryCount" value="1"/>
+	<entry name="Necrons/TranscendentCtan" value="Necrons/TesseractVault"/>
+	<entry name="Necrons/TriarchPraetorian:Attack#0" value="Первый закон ... не стоять напротив Триарха."/>
+	<entry name="Necrons/TriarchPraetorian:AttackCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Broken#0" value="Последний закон ... идти снова в бой."/>
+	<entry name="Necrons/TriarchPraetorian:BrokenCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarum#0" value="Это примитивы. Когда-то мы были их богами."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Necrons#0" value="Еще один двор? Они должны быть приведены в повиновение."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:Orks#0" value="Неуязвимый дикарь."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarines#0" value="Почетные враги. Мы должны их убить с уважением."/>
+	<entry name="Necrons/TriarchPraetorian:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Hurt#0" value="Мы есть закон!"/>
+	<entry name="Necrons/TriarchPraetorian:HurtCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#0" value="Знаете ли вы коды закона?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#1" value="Первый код чести."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#2" value="Второй код гордости."/>
+	<entry name="Necrons/TriarchPraetorian:Idle#3" value="Третий код ... я должен поделиться этими данными?"/>
+	<entry name="Necrons/TriarchPraetorian:Idle#4" value="Пятьдесят седьмой код ... включает все предыдущие коды."/>
+	<entry name="Necrons/TriarchPraetorian:IdleCount" value="5"/>
+	<entry name="Necrons/TriarchPraetorian:Shaken#0" value="Такое пробуждение ... ведет к потерям."/>
+	<entry name="Necrons/TriarchPraetorian:ShakenCount" value="1"/>
+	<entry name="Necrons/TriarchPraetorian:Victory#0" value="Мы не получаем удовольствия от этого."/>
+	<entry name="Necrons/TriarchPraetorian:VictoryCount" value="1"/>
+	<entry name="Necrons/TriarchStalker" value="Necrons/TriarchPraetorian"/>
+	<entry name="Necrons/Warrior:Artefact#0" value="Ужасы Древних на нашем Коронном Мире? Как они посмели?"/>
+	<entry name="Necrons/Warrior:ArtefactCount" value="1"/>
+	<entry name="Necrons/Warrior:Attack#0" value="Тебе больно, когда твои нервы оголяются, атом за атомом?"/>
+	<entry name="Necrons/Warrior:Attack#1" value="Вступаем в бой."/>
+	<entry name="Necrons/Warrior:Attack#2" value="История их забудет."/>
+	<entry name="Necrons/Warrior:Attack#3" value="Их сопротивление ... раздражает."/>
+	<entry name="Necrons/Warrior:AttackCount" value="4"/>
+	<entry name="Necrons/Warrior:Broken#0" value="Моделирование повреждений работает на 99%."/>
+	<entry name="Necrons/Warrior:Broken#1" value="Наше подразделение рассеяно. Мы отступаем."/>
+	<entry name="Necrons/Warrior:Broken#2" value="Протокол отзыва инициирован. "/>
+	<entry name="Necrons/Warrior:Broken#3" value="Гробница зовет, и мы подчиняемся."/>
+	<entry name="Necrons/Warrior:Broken#4" value="Твой приказ невыполним, мой Лорд."/>
+	<entry name="Necrons/Warrior:BrokenCount" value="5"/>
+	<entry name="Necrons/Warrior:Cover#0" value="Использовать укрытие."/>
+	<entry name="Necrons/Warrior:CoverCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarum#0" value="Слабые, плотские вещи, но прекрасная раса рабов."/>
+	<entry name="Necrons/Warrior:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:Necrons#0" value="Наши двоюродные братья, по ошибке."/>
+	<entry name="Necrons/Warrior:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:Orks#0" value="Шаловливое биооружие. Дико эффективное."/>
+	<entry name="Necrons/Warrior:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarines#0" value="Плоть, переделанная по нашей форме. С ними не шутить."/>
+	<entry name="Necrons/Warrior:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevil#0" value="Органический насекомый, гигантский. Возможный предшественник тиранид?"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Enslaver#0" value="Побочный эффект деятельности Древних? Датчики эффективны только на 30%."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobot#0" value="Люди насмехаются над нами? Такие неумелые копии."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="1"/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="Датчики неисправны! Неизвестность, неизвестность, неизвестность."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/Psychneuein#0" value="Мегафауна. Угроза только для органических рас."/>
+	<entry name="Necrons/Warrior:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="Necrons/Warrior:Hurt#0" value="Ущерб превосходит ожидания ... протоколы вызова?"/>
+	<entry name="Necrons/Warrior:HurtCount" value="1"/>
+	<entry name="Necrons/Warrior:Idle#0" value="Все системы функционируют."/>
+	<entry name="Necrons/Warrior:Idle#1" value="На все времена ... проклятие Обманщику."/>
+	<entry name="Necrons/Warrior:Idle#2" value="Протокол ожидания инициирован."/>
+	<entry name="Necrons/Warrior:Idle#3" value="Низкая мощность."/>
+	<entry name="Necrons/Warrior:Idle#4" value="Это металлическое тело ... инопланетное."/>
+	<entry name="Necrons/Warrior:Idle#5" value="Машина сильна, плоть слаба."/>
+	<entry name="Necrons/Warrior:Idle#6" value="Мы ждали тысячелетия ... мы можем ждать на тысячелетие больше."/>
+	<entry name="Necrons/Warrior:IdleCount" value="7"/>
+	<entry name="Necrons/Warrior:QuestStory0#0" value="Наблюдаем признаки Древних."/>
+	<entry name="Necrons/Warrior:QuestStory0Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory1#0" value="Преторианцы и Криптеки? Наши силы растут."/>
+	<entry name="Necrons/Warrior:QuestStory1Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory2#0" value="Бессмысленно жалеть проклятых К'Таном."/>
+	<entry name="Necrons/Warrior:QuestStory2Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory3#0" value="Преследовать до конца эти безделушки Древних? Да мой Лорд."/>
+	<entry name="Necrons/Warrior:QuestStory3Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory4#0" value="Где Преторианцы?"/>
+	<entry name="Necrons/Warrior:QuestStory4Count" value="1"/>
+	<entry name="Necrons/Warrior:QuestStory5#0" value="Мефет'ран? Посланник! Обманщик! Похититель душ!"/>
+	<entry name="Necrons/Warrior:QuestStory5Count" value="1"/>
+	<entry name="Necrons/Warrior:Shaken#0" value="Меньшая раса исчезнет."/>
+	<entry name="Necrons/Warrior:Shaken#1" value="Триархи не информировали нас об этом."/>
+	<entry name="Necrons/Warrior:Shaken#2" value="Это невозможно. Мы ... проигрываем?"/>
+	<entry name="Necrons/Warrior:Shaken#3" value="Мы не ведаем страха."/>
+	<entry name="Necrons/Warrior:ShakenCount" value="4"/>
+	<entry name="Necrons/Warrior:Victory#0" value="Приемлемые потери. Их потери."/>
+	<entry name="Necrons/Warrior:Victory#1" value="Как и предполагалось, мы победили."/>
+	<entry name="Necrons/Warrior:Victory#2" value="Устранено."/>
+	<entry name="Necrons/Warrior:Victory#3" value="За Безмолвного Царя и за моего Владыку."/>
+	<entry name="Necrons/Warrior:Victory#4" value="Мой Лорд, враг оказался слабым."/>
+	<entry name="Necrons/Warrior:Victory#5" value="Древние породили такую хрупкую плоть."/>
+	<entry name="Necrons/Warrior:Victory#6" value="Они узнают Некронов и познают страх."/>
+	<entry name="Necrons/Warrior:Victory#7" value="Так легко победить ... неудовлетворительно."/>
+	<entry name="Necrons/Warrior:VictoryCount" value="8"/>
+	<entry name="Neutral/Ambull:Attack#0" value="РойКой!"/>
+	<entry name="Neutral/Ambull:AttackCount" value="1"/>
+	<entry name="Neutral/Ambull:Broken#0" value="Куррр."/>
+	<entry name="Neutral/Ambull:BrokenCount" value="1"/>
+	<entry name="Neutral/Ambull:Hurt#0" value="Роу Роу."/>
+	<entry name="Neutral/Ambull:HurtCount" value="1"/>
+	<entry name="Neutral/Ambull:Idle#0" value="Гуру гуру."/>
+	<entry name="Neutral/Ambull:Idle#1" value="Грл грл"/>
+	<entry name="Neutral/Ambull:Idle#2" value="Куркууруку"/>
+	<entry name="Neutral/Ambull:Idle#3" value="Оо хо оо хо"/>
+	<entry name="Neutral/Ambull:IdleCount" value="4"/>
+	<entry name="Neutral/Ambull:Shaken#0" value="Бурукк"/>
+	<entry name="Neutral/Ambull:ShakenCount" value="1"/>
+	<entry name="Neutral/Ambull:Victory#0" value="Ууу"/>
+	<entry name="Neutral/Ambull:VictoryCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Attack#0" value="Кыкилики..."/>
+	<entry name="Neutral/CatachanDevil:AttackCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Broken#0" value="Кукелеку"/>
+	<entry name="Neutral/CatachanDevil:BrokenCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Hurt#0" value="Чичиричи"/>
+	<entry name="Neutral/CatachanDevil:HurtCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Idle#0" value="ке-кок-о"/>
+	<entry name="Neutral/CatachanDevil:Idle#1" value="кок-ко-о"/>
+	<entry name="Neutral/CatachanDevil:Idle#2" value="Ко-ко-о"/>
+	<entry name="Neutral/CatachanDevil:Idle#3" value="ко-ке-коко"/>
+	<entry name="Neutral/CatachanDevil:IdleCount" value="4"/>
+	<entry name="Neutral/CatachanDevil:Shaken#0" value=""/>
+	<entry name="Neutral/CatachanDevil:ShakenCount" value="1"/>
+	<entry name="Neutral/CatachanDevil:Victory#0" value="Хчекелику!"/>
+	<entry name="Neutral/CatachanDevil:VictoryCount" value="1"/>
+	<entry name="Neutral/Enslaver:Attack#0" value="Хейиии..."/>
+	<entry name="Neutral/Enslaver:AttackCount" value="1"/>
+	<entry name="Neutral/Enslaver:Broken#0" value="Оуммм"/>
+	<entry name="Neutral/Enslaver:BrokenCount" value="1"/>
+	<entry name="Neutral/Enslaver:Hurt#0" value="Хархмм"/>
+	<entry name="Neutral/Enslaver:HurtCount" value="1"/>
+	<entry name="Neutral/Enslaver:Idle#0" value="ХммМмм."/>
+	<entry name="Neutral/Enslaver:Idle#1" value="МммХммм."/>
+	<entry name="Neutral/Enslaver:Idle#2" value="Тст тст."/>
+	<entry name="Neutral/Enslaver:Idle#3" value="Чирррр."/>
+	<entry name="Neutral/Enslaver:IdleCount" value="4"/>
+	<entry name="Neutral/Enslaver:Shaken#0" value="Хрхрхрх"/>
+	<entry name="Neutral/Enslaver:ShakenCount" value="1"/>
+	<entry name="Neutral/Enslaver:Victory#0" value="мммМММ!"/>
+	<entry name="Neutral/Enslaver:VictoryCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Attack#0" value="Цель сопоставлена, Датамастер."/>
+	<entry name="Neutral/KastelanRobot:AttackCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Broken#0" value="Приказ неполный, следующий протокол."/>
+	<entry name="Neutral/KastelanRobot:BrokenCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Hurt#0" value="Требуется ремонт, Датамастер. Ввод?"/>
+	<entry name="Neutral/KastelanRobot:HurtCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Idle#0" value="Ввод?"/>
+	<entry name="Neutral/KastelanRobot:Idle#1" value="Данные не найдены?"/>
+	<entry name="Neutral/KastelanRobot:Idle#2" value="Пустые протоколы в 5,4,3"/>
+	<entry name="Neutral/KastelanRobot:Idle#3" value="Наблюдать!"/>
+	<entry name="Neutral/KastelanRobot:IdleCount" value="4"/>
+	<entry name="Neutral/KastelanRobot:Shaken#0" value="Обнаружены противоречивые данные!"/>
+	<entry name="Neutral/KastelanRobot:ShakenCount" value="1"/>
+	<entry name="Neutral/KastelanRobot:Victory#0" value="Цель атомизирована. В соответствии с лимитами параметров."/>
+	<entry name="Neutral/KastelanRobot:VictoryCount" value="1"/>
+	<entry name="Neutral/KrootHound:Attack#0" value="Хоеаа!"/>
+	<entry name="Neutral/KrootHound:Attack#1" value="Хрррр!"/>
+	<entry name="Neutral/KrootHound:AttackCount" value="2"/>
+	<entry name="Neutral/KrootHound:Broken#0" value="оуооо"/>
+	<entry name="Neutral/KrootHound:BrokenCount" value="1"/>
+	<entry name="Neutral/KrootHound:Hurt#0" value="ухууу"/>
+	<entry name="Neutral/KrootHound:HurtCount" value="1"/>
+	<entry name="Neutral/KrootHound:Idle#0" value="ооу"/>
+	<entry name="Neutral/KrootHound:Idle#1" value="ча-ча"/>
+	<entry name="Neutral/KrootHound:Idle#2" value="ояух ояух"/>
+	<entry name="Neutral/KrootHound:Idle#3" value="гуф гуф"/>
+	<entry name="Neutral/KrootHound:IdleCount" value="4"/>
+	<entry name="Neutral/KrootHound:Shaken#0" value="йу-йу-йуууу"/>
+	<entry name="Neutral/KrootHound:ShakenCount" value="1"/>
+	<entry name="Neutral/KrootHound:Victory#0" value="Ооойехх!"/>
+	<entry name="Neutral/KrootHound:VictoryCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Attack#0" value="КРОВЬ ДЛЯ БОГА КРОВИ"/>
+	<entry name="Neutral/LordOfSkulls:AttackCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Broken#0" value="ВЛАДЫКА, Я ТЕРЯЮ ТЕБЯ"/>
+	<entry name="Neutral/LordOfSkulls:BrokenCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Hurt#0" value="МОЯ КРОВЬ ДЛЯ МОЕГО БОГА"/>
+	<entry name="Neutral/LordOfSkulls:HurtCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Idle#0" value="СЛЕЗЫ УКРЕПЛЯЮТ СМЕРТЬ"/>
+	<entry name="Neutral/LordOfSkulls:Idle#1" value="Убить убить убить"/>
+	<entry name="Neutral/LordOfSkulls:Idle#2" value="СПИННЫЕ ЧЕРЕПА ВОПЯТ"/>
+	<entry name="Neutral/LordOfSkulls:Idle#3" value="УТОПИТЬ В КРОВИ"/>
+	<entry name="Neutral/LordOfSkulls:Idle#4" value="ДОЛЖЕН ... УБИТЬ"/>
+	<entry name="Neutral/LordOfSkulls:IdleCount" value="5"/>
+	<entry name="Neutral/LordOfSkulls:Shaken#0" value="Я НЕ ЗНАЮ СТРАХА!"/>
+	<entry name="Neutral/LordOfSkulls:ShakenCount" value="1"/>
+	<entry name="Neutral/LordOfSkulls:Victory#0" value="КРОВЬ! ДЛЯ! ХОРНА!"/>
+	<entry name="Neutral/LordOfSkulls:VictoryCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Attack#0" value="Зззз!"/>
+	<entry name="Neutral/Psychneuein:AttackCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Broken#0" value="Зззее!"/>
+	<entry name="Neutral/Psychneuein:BrokenCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Hurt#0" value="Зззааа."/>
+	<entry name="Neutral/Psychneuein:HurtCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Idle#0" value="Зззм"/>
+	<entry name="Neutral/Psychneuein:Idle#1" value="Зззц. Зззц."/>
+	<entry name="Neutral/Psychneuein:Idle#2" value="Зззааа. Зззм."/>
+	<entry name="Neutral/Psychneuein:Idle#3" value="Зззхззз."/>
+	<entry name="Neutral/Psychneuein:IdleCount" value="4"/>
+	<entry name="Neutral/Psychneuein:Shaken#0" value="Ззззм!"/>
+	<entry name="Neutral/Psychneuein:ShakenCount" value="1"/>
+	<entry name="Neutral/Psychneuein:Victory#0" value="ЗЗЗЗ!"/>
+	<entry name="Neutral/Psychneuein:VictoryCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Attack#0" value="Умри за Омниссию!"/>
+	<entry name="Neutral/TechpriestBetrayer:AttackCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Broken#0" value="Вероятность отказа, 100%"/>
+	<entry name="Neutral/TechpriestBetrayer:BrokenCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Hurt#0" value="Функциональные возможности нарушены."/>
+	<entry name="Neutral/TechpriestBetrayer:HurtCount" value="1"/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#0" value="Тестирование..."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#1" value="Выключение ... включение."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#2" value="Мази применены."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#3" value="Раб в Сервочерепе ... завершено."/>
+	<entry name="Neutral/TechpriestBetrayer:Idle#4" value="Артефакт приобретен..."/>
+	<entry name="Neutral/TechpriestBetrayer:IdleCount" value="5"/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#0" value="Я должен выжить!"/>
+	<entry name="Neutral/TechpriestBetrayer:Shaken#1" value="Марс должен быть проинформирован."/>
+	<entry name="Neutral/TechpriestBetrayer:ShakenCount" value="2"/>
+	<entry name="Neutral/TechpriestBetrayer:Victory#0" value="Спасение - единственная победа."/>
+	<entry name="Neutral/TechpriestBetrayer:VictoryCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Attack#0" value="За Культ!"/>
+	<entry name="Neutral/NeophyteHybrid:Attack#1" value="Магус командует."/>
+	<entry name="Neutral/NeophyteHybrid:Attack#2" value="Пожиратель приходит."/>
+	<entry name="Neutral/NeophyteHybrid:AttackCount" value="3"/>
+	<entry name="Neutral/NeophyteHybrid:Broken#0" value="Где Праймус?"/>
+	<entry name="Neutral/NeophyteHybrid:BrokenCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Hurt#0" value="Патриарх сохрани нас!"/>
+	<entry name="Neutral/NeophyteHybrid:HurtCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Idle#0" value="Это приходит, братья."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#1" value="Тень приближается."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#2" value="Магус предсказывает великий голод."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#3" value="Когда придет день, мы охотно войдем."/>
+	<entry name="Neutral/NeophyteHybrid:Idle#4" value="Это почти ЗДЕСЬ."/>
+	<entry name="Neutral/NeophyteHybrid:IdleCount" value="5"/>
+	<entry name="Neutral/NeophyteHybrid:Shaken#0" value="Мы бедное мясо в действительности."/>
+	<entry name="Neutral/NeophyteHybrid:ShakenCount" value="1"/>
+	<entry name="Neutral/NeophyteHybrid:Victory#0" value="Это мясо для Королевы!"/>
+	<entry name="Neutral/NeophyteHybrid:VictoryCount" value="1"/>
+	<entry name="Orks/Battlewagon:Attack#0" value="Ву, дакка, висде!"/>
+	<entry name="Orks/Battlewagon:Attack#1" value="Крастный ета крута!"/>
+	<entry name="Orks/Battlewagon:Attack#2" value="Направем их внис."/>
+	<entry name="Orks/Battlewagon:Attack#3" value="Стриляю ва всио што движитца!"/>
+	<entry name="Orks/Battlewagon:AttackCount" value="4"/>
+	<entry name="Orks/Battlewagon:Broken#0" value="Пара павирнуть назад!"/>
+	<entry name="Orks/Battlewagon:Broken#1" value="Штоб их! Двигаим атсьуда!"/>
+	<entry name="Orks/Battlewagon:BrokenCount" value="2"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarum#0" value="Людишки! Сажгем их всах!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Necrons#0" value="Паламаим их для штуковин Мека!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:Orks#0" value="Ета мы! Типерь им нада вправить мазги!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarines#0" value="Хароший матириал для клешней!"/>
+	<entry name="Orks/Battlewagon:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="Orks/Battlewagon:Hurt#0" value="Скока калес у миня есть?"/>
+	<entry name="Orks/Battlewagon:HurtCount" value="1"/>
+	<entry name="Orks/Battlewagon:Idle#0" value="И тада я сказал, а што если бы у ниго было два двишка?"/>
+	<entry name="Orks/Battlewagon:Idle#1" value="У тибя есть красная краска?"/>
+	<entry name="Orks/Battlewagon:Idle#2" value="Нада ити быстра, босс! БЫСТРА!"/>
+	<entry name="Orks/Battlewagon:Idle#3" value="Туу, Тутуууу!"/>
+	<entry name="Orks/Battlewagon:IdleCount" value="4"/>
+	<entry name="Orks/Battlewagon:Shaken#0" value="Мне нада заминить эту пружыну?"/>
+	<entry name="Orks/Battlewagon:Shaken#1" value="Сквиги приврастчаются в гротов пожирателей!"/>
+	<entry name="Orks/Battlewagon:Shaken#2" value="Ани пуляют в нас!"/>
+	<entry name="Orks/Battlewagon:ShakenCount" value="3"/>
+	<entry name="Orks/Battlewagon:Victory#0" value="ВАААГХ! ОРКИ!"/>
+	<entry name="Orks/Battlewagon:VictoryCount" value="1"/>
+	<entry name="Orks/Boy:Attack#0" value="Стрелним по ним жостка!"/>
+	<entry name="Orks/Boy:Attack#1" value="Дакка, Дакка, Дакка!"/>
+	<entry name="Orks/Boy:Attack#2" value="Хура-хура, вот ета жисть!"/>
+	<entry name="Orks/Boy:Attack#3" value="ВАААГХ!"/>
+	<entry name="Orks/Boy:Attack#4" value="Давай мне ету весчь!"/>
+	<entry name="Orks/Boy:AttackCount" value="5"/>
+	<entry name="Orks/Boy:Broken#0" value="АААВГХ! Я в аути."/>
+	<entry name="Orks/Boy:Broken#1" value="Каждый Орк сам за сибя!"/>
+	<entry name="Orks/Boy:Broken#2" value="Йа аставел жареца сквига ... скора вирнусь!"/>
+	<entry name="Orks/Boy:Broken#3" value="Счас... счас, счас, счас."/>
+	<entry name="Orks/Boy:Broken#4" value="Бегим тикаем сматываимся!"/>
+	<entry name="Orks/Boy:BrokenCount" value="5"/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarum#0" value="Людишки! Ани дают нам бал'шие весчи."/>
+	<entry name="Orks/Boy:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="Orks/Boy:EnemyFaction:Necrons#0" value="Алавянные голавы. Ети жистьянки ни становятся мьортвыми!"/>
+	<entry name="Orks/Boy:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Orks/Boy:EnemyFaction:Orks#0" value="Эй, естчо адин ВАААГХ! Типеря мы знаим, што у нас будит атличный бой."/>
+	<entry name="Orks/Boy:EnemyFaction:OrksCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevil#0" value="Скока ног? Ани хараши для наший еды."/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Enslaver#0" value="О, мая башка. Нада держаца падальше!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobot#0" value="Скуката! И где виселье в бою с етим жистяным парнем?"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="О, ванючий деман сдеся? У нас будит атличный бой!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/Psychneuein#0" value="Шкверные весчи! Ети твари пападайут внутрь нас, а затем - хлоп!"/>
+	<entry name="Orks/Boy:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="Orks/Boy:Hurt#0" value="Держатца, маи мозги растекаютца... У каво нибудь есть малаток и сумка гваздей?"/>
+	<entry name="Orks/Boy:Hurt#1" value="Ета смерть! Ё! Чур нийа!"/>
+	<entry name="Orks/Boy:Hurt#2" value="Хто даст мне браню?"/>
+	<entry name="Orks/Boy:Hurt#3" value="Мы самыи сильные сдеся?"/>
+	<entry name="Orks/Boy:HurtCount" value="4"/>
+	<entry name="Orks/Boy:Idle#0" value="Ета, Босс! Што хочиш, Босс?"/>
+	<entry name="Orks/Boy:Idle#1" value="Чем больше ствалов, тем больше дакка. Больше дакка значет больше виселья!"/>
+	<entry name="Orks/Boy:Idle#2" value="Не, приятель, ета мой сквиг. Найди свой собствиный!"/>
+	<entry name="Orks/Boy:Idle#3" value="Ой босс, што праисходит?"/>
+	<entry name="Orks/Boy:Idle#4" value="Адин зельоный сквиг, сидясчий на стине. Два..."/>
+	<entry name="Orks/Boy:Idle#5" value="Эта рубила ни такая бальшая!"/>
+	<entry name="Orks/Boy:Idle#6" value="Где драка?"/>
+	<entry name="Orks/Boy:Idle#7" value="Што ты хочишь, штобы я зделал?"/>
+	<entry name="Orks/Boy:Idle#8" value="Што ета?"/>
+	<entry name="Orks/Boy:IdleCount" value="9"/>
+	<entry name="Orks/Boy:QuestStory0#0" value="Ипатый Горк, нам скушно, босс. Есть што-та для етаго?"/>
+	<entry name="Orks/Boy:QuestStory0Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory1#0" value="Диржити етаго Чудилу падальше ат нас, не нада, штобы наше галава разлителась."/>
+	<entry name="Orks/Boy:QuestStory1Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory2#0" value="Хто-та живьот пад зимлей? Ничиво такова, там внизу."/>
+	<entry name="Orks/Boy:QuestStory2Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory3#0" value="Вы хатити, штобы мы сабрали многа хлама? Нет праблем, Босс."/>
+	<entry name="Orks/Boy:QuestStory3Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory4#0" value="Давай раскрасим етат горад в красный, Босс, ха-ха-ха."/>
+	<entry name="Orks/Boy:QuestStory4Count" value="1"/>
+	<entry name="Orks/Boy:QuestStory5#0" value="Я никода ни мог жрать сквиггота, Босс, все ети воласы застривают во мне."/>
+	<entry name="Orks/Boy:QuestStory5Count" value="1"/>
+	<entry name="Orks/Boy:Shaken#0" value="Иди сам туда, Босс."/>
+	<entry name="Orks/Boy:Shaken#1" value="Мне нужна грибное пива для смеласти."/>
+	<entry name="Orks/Boy:Shaken#2" value="Я ни Макари, я хачу жить! Я палучил ету весчь в драки!"/>
+	<entry name="Orks/Boy:Shaken#3" value="Ета ни для Орков."/>
+	<entry name="Orks/Boy:ShakenCount" value="4"/>
+	<entry name="Orks/Boy:Victory#0" value="Как тибе нравица смерть ат гарячева митала?"/>
+	<entry name="Orks/Boy:Victory#1" value="Ета весчи ни Оркав, патаму што ани так лигко ламаюца."/> 
+	<entry name="Orks/Boy:Victory#2" value="Агонь, агонь, агонь, БУМ. ДА УЖ!"/>
+	<entry name="Orks/Boy:Victory#3" value="Ха ха ха!"/>
+	<entry name="Orks/Boy:Victory#4" value="Ни ажидал етаго, да?"/>
+	<entry name="Orks/Boy:Victory#5" value="Ой, вирнись! Мы ище ни закончили таптать тибя!"/>
+	<entry name="Orks/Boy:Victory#6" value="Орки созданы с двумя пальцами! Штобы дратца, пабиждать и щитать!"/>
+	<entry name="Orks/Boy:Victory#7" value="ТОП. ТОП. ТОП."/>
+	<entry name="Orks/Boy:Victory#8" value="Ети разбиты, Босс. Ище есть, чтобы падратца?"/>
+	<entry name="Orks/Boy:VictoryCount" value="9"/>
+	<entry name="Orks/BurnaBommer:Attack#0" value="Сабираюсь литеть, Босс!"/>
+	<entry name="Orks/BurnaBommer:AttackCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Broken#0" value="Балшое праклятие сдеся!"/>
+	<entry name="Orks/BurnaBommer:BrokenCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Hurt#0" value="Балшие дыры делают ево более летучим, да?"/>
+	<entry name="Orks/BurnaBommer:HurtCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Idle#0" value="Идьом по кругу и по кругу..."/>
+	<entry name="Orks/BurnaBommer:Idle#1" value="Поднимаимся вверх вверх и вниз вниз ..."/>
+	<entry name="Orks/BurnaBommer:Idle#2" value="Ети харошии меки в етих машинах литают..."/>
+	<entry name="Orks/BurnaBommer:Idle#3" value="Паджигать или бамбить, вот вапрос?"/>
+	<entry name="Orks/BurnaBommer:IdleCount" value="4"/>
+	<entry name="Orks/BurnaBommer:Shaken#0" value="Праклятие, дайти нам шанс!"/>
+	<entry name="Orks/BurnaBommer:ShakenCount" value="1"/>
+	<entry name="Orks/BurnaBommer:Victory#0" value="ВАААГХ! Ета здорава!"/>
+	<entry name="Orks/BurnaBommer:VictoryCount" value="1"/>
+	<entry name="Orks/Dakkajet" value="Orks/BurnaBommer"/>
+	<entry name="Orks/Deffkopta:Attack#0" value="А типерь рубится!"/>
+	<entry name="Orks/Deffkopta:AttackCount" value="1"/>
+	<entry name="Orks/Deffkopta:Broken#0" value="О, у миня кружица галава ..."/>
+	<entry name="Orks/Deffkopta:BrokenCount" value="1"/>
+	<entry name="Orks/Deffkopta:Hurt#0" value="Ой, вставай, прежди чем я смогу ударить тибя!"/>
+	<entry name="Orks/Deffkopta:HurtCount" value="1"/>
+	<entry name="Orks/Deffkopta:Idle#0" value="Я люблю запах гари па утрам."/>
+	<entry name="Orks/Deffkopta:Idle#1" value="Мы далжны сражаца или мы далжны сражаца?"/>
+	<entry name="Orks/Deffkopta:Idle#2" value="Тута нечиво искать."/>
+	<entry name="Orks/Deffkopta:Idle#3" value="Интирестно, можит ли ета весчь литать вверх галавой?"/>
+	<entry name="Orks/Deffkopta:IdleCount" value="4"/>
+	<entry name="Orks/Deffkopta:Shaken#0" value="Скока штук нужна, штобы астановить их? Э-э."/>
+	<entry name="Orks/Deffkopta:ShakenCount" value="1"/>
+	<entry name="Orks/Deffkopta:Victory#0" value="Кода-нибудь ета война закончица..."/>
+	<entry name="Orks/Deffkopta:VictoryCount" value="1"/>
+	<entry name="Orks/FlashGitz" value="Orks/Boy"/>
+	<entry name="Orks/GargantuanSquiggoth:Attack#0" value="Ета аставим для сквигав, аааа!"/>
+	<entry name="Orks/GargantuanSquiggoth:AttackCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Broken#0" value="Неа, ты тупой сквиг, как ни крути."/>
+	<entry name="Orks/GargantuanSquiggoth:BrokenCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Hurt#0" value="Ни гавари ему, если он ни умир."/>
+	<entry name="Orks/GargantuanSquiggoth:HurtCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#0" value="Сдесь, сквигги, кормятся."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#1" value="Харашо, сквигги."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#2" value="Плахой сквигги. Пливать на Удгруба! ПЛАХОЙ!."/>
+	<entry name="Orks/GargantuanSquiggoth:Idle#3" value="УРП! Не могу харашо начистить рожу за чаем."/>
+	<entry name="Orks/GargantuanSquiggoth:IdleCount" value="4"/>
+	<entry name="Orks/GargantuanSquiggoth:Shaken#0" value="Харашо, сквигги, прадалжай есть."/>
+	<entry name="Orks/GargantuanSquiggoth:ShakenCount" value="1"/>
+	<entry name="Orks/GargantuanSquiggoth:Victory#0" value="Хароший сквиггу! Время ужина!"/>
+	<entry name="Orks/GargantuanSquiggoth:VictoryCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Attack#0" value="ДАККА ДАККА!"/>
+	<entry name="Orks/Gorkanaut:Attack#1" value="ТОП ТОП!"/>
+	<entry name="Orks/Gorkanaut:AttackCount" value="2"/>
+	<entry name="Orks/Gorkanaut:Broken#0" value="Маи части все разбиты!"/>
+	<entry name="Orks/Gorkanaut:BrokenCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Hurt#0" value="Эй, прикрати стрилять! Ты знаеш, скока ета стоит?"/>
+	<entry name="Orks/Gorkanaut:HurtCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Idle#0" value="Ты можиш наделать на нее больши дакки? Пажалуста?"/>
+	<entry name="Orks/Gorkanaut:Idle#1" value="Я чуствую силу Горка!"/>
+	<entry name="Orks/Gorkanaut:Idle#2" value="Если мы дабавим больше железа, мы сможим зделать Гарганта?"/>
+	<entry name="Orks/Gorkanaut:Idle#3" value="Думаю, я бросил свой ужин там. На прошлай нидели."/>
+	<entry name="Orks/Gorkanaut:IdleCount" value="4"/>
+	<entry name="Orks/Gorkanaut:Shaken#0" value="ЭТА НЕ ПУГАИТ НАС!"/>
+	<entry name="Orks/Gorkanaut:ShakenCount" value="1"/>
+	<entry name="Orks/Gorkanaut:Victory#0" value="ВАААГХ! Жилезные парни рулят!"/>
+	<entry name="Orks/Gorkanaut:VictoryCount" value="1"/>
+	<entry name="Orks/Headquarters:Attack#0" value="Наканец, стриляйте в талстиков."/>
+	<entry name="Orks/Headquarters:AttackCount" value="1"/>
+	<entry name="Orks/Headquarters:Broken#0" value="Босс, памаги нам!"/>
+	<entry name="Orks/Headquarters:BrokenCount" value="1"/>
+	<entry name="Orks/Headquarters:Hurt#0" value="Ани стриляют в форт, Босс!"/>
+	<entry name="Orks/Headquarters:HurtCount" value="1"/>
+	<entry name="Orks/Headquarters:Idle#0" value="Дижурная стража! Где наш ВАААГХ?"/>
+	<entry name="Orks/Headquarters:Idle#1" value="Где босс?"/>
+	<entry name="Orks/Headquarters:Idle#2" value="Кровавые топоры пиридают привет!"/>
+	<entry name="Orks/Headquarters:Idle#3" value="Орки ни прячются за стенами."/>
+	<entry name="Orks/Headquarters:IdleCount" value="4"/>
+	<entry name="Orks/Headquarters:Shaken#0" value="Орки ни хочу идти!"/>
+	<entry name="Orks/Headquarters:ShakenCount" value="1"/>
+	<entry name="Orks/Headquarters:Victory#0" value="ВАААГХ! Чорт вазми!"/>
+	<entry name="Orks/Headquarters:VictoryCount" value="1"/>
+	<entry name="Orks/KillaKan" value="Orks/Gorkanaut"/>
+	<entry name="Orks/Meganob" value="Orks/Boy"/>
+	<entry name="Orks/Mek:Attack#0" value="Маи все стволы стриляют!"/>
+	<entry name="Orks/Mek:AttackCount" value="1"/>
+	<entry name="Orks/Mek:Broken#0" value="Этай весчи нужен римонт в форте."/>
+	<entry name="Orks/Mek:BrokenCount" value="1"/>
+	<entry name="Orks/Mek:Hurt#0" value="Мая любимая весчь сламалась!"/>
+	<entry name="Orks/Mek:HurtCount" value="1"/>
+	<entry name="Orks/Mek:Idle#0" value="Я думаю, я магу зделать эту весчь особенной ..."/>
+	<entry name="Orks/Mek:Idle#1" value="Здеся есть штуковина. Нет, диржи ета пака я бью по..."/>
+	<entry name="Orks/Mek:Idle#2" value="Ваабрази выстрел из ПЯТИ ствалов. Даааа."/>
+	<entry name="Orks/Mek:Idle#3" value="Хм. Банка-убийца ни работаит. Нужен больший грот и меньшие гвозди."/>
+	<entry name="Orks/Mek:IdleCount" value="4"/>
+	<entry name="Orks/Mek:Shaken#0" value="Кишки Морка, ета ни ритуал!"/>
+	<entry name="Orks/Mek:ShakenCount" value="1"/>
+	<entry name="Orks/Mek:Victory#0" value="ВАААГХ! Мазги Мека пабедили сиводня!"/>
+	<entry name="Orks/Mek:VictoryCount" value="1"/>
+	<entry name="Orks/MekGun:Attack#0" value="Дирёмся за бальшойо куш, мистер Босс Орков!"/>
+	<entry name="Orks/MekGun:AttackCount" value="1"/>
+	<entry name="Orks/MekGun:Broken#0" value="Каждный грот за себя!"/>
+	<entry name="Orks/MekGun:BrokenCount" value="1"/>
+	<entry name="Orks/MekGun:Hurt#0" value="Многа миортвых гротов."/>
+	<entry name="Orks/MekGun:HurtCount" value="1"/>
+	<entry name="Orks/MekGun:Idle#0" value="Гроты самые умные и лучшие."/>
+	<entry name="Orks/MekGun:Idle#1" value="Вдали от драки, с балшой пушкой. Лучший."/>
+	<entry name="Orks/MekGun:Idle#2" value="Моки, убирай ствалы!"/>
+	<entry name="Orks/MekGun:Idle#3" value="Ванючий Мек."/>
+	<entry name="Orks/MekGun:IdleCount" value="4"/>
+	<entry name="Orks/MekGun:Shaken#0" value="Ни пуляйти в нас, мы ни сабираимся бижать!"/>
+	<entry name="Orks/MekGun:ShakenCount" value="1"/>
+	<entry name="Orks/MekGun:Victory#0" value="Гроты, я имею в виду, Орки, правда лутше, Босс?"/>
+	<entry name="Orks/MekGun:VictoryCount" value="1"/>
+	<entry name="Orks/Painboy:Attack#0" value="Хи-хи, апирация на поле боя!"/>
+	<entry name="Orks/Painboy:AttackCount" value="1"/>
+	<entry name="Orks/Painboy:Broken#0" value="Доки и малинькие сноты впириди!"/>
+	<entry name="Orks/Painboy:BrokenCount" value="1"/>
+	<entry name="Orks/Painboy:Hurt#0" value="Проста нада прибить ета снова на старое место."/>
+	<entry name="Orks/Painboy:HurtCount" value="1"/>
+	<entry name="Orks/Painboy:Idle#0" value="Нет, Босс, как насщот харошей большой новай брони?"/>
+	<entry name="Orks/Painboy:Idle#1" value="Нужен твой зуб. Открой широко. Типерь скажи ВАААГХ!"/>
+	<entry name="Orks/Painboy:Idle#2" value="Палюбому, што значет без умный?"/>
+	<entry name="Orks/Painboy:Idle#3" value="Нужин башой игольчатый сквиг."/>
+	<entry name="Orks/Painboy:IdleCount" value="4"/>
+	<entry name="Orks/Painboy:Shaken#0" value="Ета на обряд."/>
+	<entry name="Orks/Painboy:ShakenCount" value="1"/>
+	<entry name="Orks/Painboy:Victory#0" value="Пасматри на все запчасти... Васторг."/>
+	<entry name="Orks/Painboy:VictoryCount" value="1"/>
+	<entry name="Orks/Tankbusta" value="Orks/Boy"/>
+	<entry name="Orks/Warboss:Attack#0" value="Оо, лутший Орк ета я. ВАААГХ!"/>
+	<entry name="Orks/Warboss:AttackCount" value="1"/>
+	<entry name="Orks/Warboss:Broken#0" value="Я тока использавал тактики, ета всё."/>
+	<entry name="Orks/Warboss:BrokenCount" value="1"/>
+	<entry name="Orks/Warboss:Hurt#0" value="Ой, ты ни знаиш о мне?"/>
+	<entry name="Orks/Warboss:HurtCount" value="1"/>
+	<entry name="Orks/Warboss:Idle#0" value="Ничиво ни делать. Ничиво!"/>
+	<entry name="Orks/Warboss:Idle#1" value="ГДЕ АГОНЬ?"/>
+	<entry name="Orks/Warboss:Idle#2" value="Кариевый сквиг на ланч СНОВА? Где капли?"/>
+	<entry name="Orks/Warboss:Idle#3" value="Мне нужна ета весчь!"/>
+	<entry name="Orks/Warboss:Idle#4" value="Ты палучил етих сквигов из Башой Брони, грот?"/>
+	<entry name="Orks/Warboss:IdleCount" value="5"/>
+	<entry name="Orks/Warboss:Shaken#0" value="Рана, мы уходим, ета лучше."/>
+	<entry name="Orks/Warboss:ShakenCount" value="1"/>
+	<entry name="Orks/Warboss:Victory#0" value="Канешна, мы выиграли, и я был сдесь!"/>
+	<entry name="Orks/Warboss:VictoryCount" value="1"/>
+	<entry name="Orks/Warbuggy" value="Orks/Battlewagon"/>
+	<entry name="Orks/Weirdboy:Attack#0" value="Оуууу... мая галава."/>
+	<entry name="Orks/Weirdboy:AttackCount" value="1"/>
+	<entry name="Orks/Weirdboy:Broken#0" value="Забири миня атсюда!"/>
+	<entry name="Orks/Weirdboy:BrokenCount" value="1"/>
+	<entry name="Orks/Weirdboy:Hurt#0" value="Мазги выскакивйут!"/>
+	<entry name="Orks/Weirdboy:HurtCount" value="1"/>
+	<entry name="Orks/Weirdboy:Idle#0" value="Бисполезна."/>
+	<entry name="Orks/Weirdboy:Idle#1" value="Морк гаварит. Горк ходит."/>
+	<entry name="Orks/Weirdboy:Idle#2" value="Тень в варпе..!"/>
+	<entry name="Orks/Weirdboy:Idle#3" value="Внизу Гладиуса лживый Крорк ждёт паследний битвы."/>
+	<entry name="Orks/Weirdboy:IdleCount" value="4"/>
+	<entry name="Orks/Weirdboy:Shaken#0" value="Горка и Морка заставляют тибя!!"/>
+	<entry name="Orks/Weirdboy:ShakenCount" value="1"/>
+	<entry name="Orks/Weirdboy:Victory#0" value="Как-как, ВАААГХ!"/>
+	<entry name="Orks/Weirdboy:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Attack#0" value="Это не только исцеление."/>
+	<entry name="SpaceMarines/Apothecary:AttackCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Broken#0" value="Я не могу оставить геносемя!"/>
+	<entry name="SpaceMarines/Apothecary:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarum#0" value="Они не достойны даже нашего презрения."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Necrons#0" value="Бескровные злодеи."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:Orks#0" value="Зеленокожие! Эх, если бы мы могли отращивать конечности, как они."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarines#0" value="Братья ренегаты, но не предатели. Я все равно восстановлю их геносемя."/>
+	<entry name="SpaceMarines/Apothecary:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Hurt#0" value="Подлечу сам себя."/>
+	<entry name="SpaceMarines/Apothecary:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Idle#0" value="Апотекарей по вызову."/>
+	<entry name="SpaceMarines/Apothecary:Idle#1" value="Докам не нужен отдых."/>
+	<entry name="SpaceMarines/Apothecary:Idle#2" value="Редукторная практика."/>
+	<entry name="SpaceMarines/Apothecary:Idle#3" value="Этот прогеноид связан с Бетчерами и анабиозом..."/>
+	<entry name="SpaceMarines/Apothecary:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Apothecary:Shaken#0" value="Хорошие новости! Я не мертв."/>
+	<entry name="SpaceMarines/Apothecary:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Apothecary:Victory#0" value="Они мертвы! Я не уверен, что это лучшее использование моего времени!"/>
+	<entry name="SpaceMarines/Apothecary:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/AssaultSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/Captain:Attack#0" value="Умри с улыбкой, мразь, осознавая, что ты умер от моей руки!"/>
+	<entry name="SpaceMarines/Captain:Attack#1" value="Съешь болтган."/>
+	<entry name="SpaceMarines/Captain:Attack#2" value="За Императора!"/>
+	<entry name="SpaceMarines/Captain:Attack#3" value="За Императора!"/>
+	<entry name="SpaceMarines/Captain:Attack#4" value="Жиллиман ждет."/>
+	<entry name="SpaceMarines/Captain:Attack#5" value="Моя вера - мой щит!"/>
+	<entry name="SpaceMarines/Captain:AttackCount" value="6"/>
+	<entry name="SpaceMarines/Captain:Broken#0" value="Император защищает нас!"/>
+	<entry name="SpaceMarines/Captain:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarum#0" value="Гвардия предателей. Тривиально."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Necrons#0" value="Искореним их гробницы! Сокрушим эти механические ужасы!"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:Orks#0" value="Разве Император никогда не освободит нас от этой зеленой чумы?"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarines#0" value="Отступники. Космодесант, подготовить оружие, мы сражаемся за нашу честь."/>
+	<entry name="SpaceMarines/Captain:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Hurt#0" value="Как это проникло через мою броню?"/>
+	<entry name="SpaceMarines/Captain:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Idle#0" value="Я должен быть лидером на поле боя."/>
+	<entry name="SpaceMarines/Captain:Idle#1" value="Вдохновляющие речи не пишутся сами."/>
+	<entry name="SpaceMarines/Captain:Idle#2" value="Мы должны спасти человечество от самого себя."/>
+	<entry name="SpaceMarines/Captain:Idle#3" value="Почему здесь? Почему Гладиус? Мы тренируемся?"/>
+	<entry name="SpaceMarines/Captain:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Captain:Shaken#0" value="Я никогда не сгибаюсь!"/>
+	<entry name="SpaceMarines/Captain:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Captain:Victory#0" value="Таким же образом падут все враги Золотого Трона!"/>
+	<entry name="SpaceMarines/Captain:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Attack#0" value="Будьте благословенны Крозиусом!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#1" value="Я заставлю тебя уверовать!"/>
+	<entry name="SpaceMarines/Chaplain:Attack#2" value="Во имя Императора!"/>
+	<entry name="SpaceMarines/Chaplain:AttackCount" value="3"/>
+	<entry name="SpaceMarines/Chaplain:Broken#0" value="Ни шагу назад!"/>
+	<entry name="SpaceMarines/Chaplain:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Hurt#0" value="Хотя я терплю их удары, я не упаду."/>
+	<entry name="SpaceMarines/Chaplain:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Idle#0" value="В нашей смерти нет ничего необычного, кроме того, что наша работа будет не выполнена."/>
+	<entry name="SpaceMarines/Chaplain:Idle#1" value="Отдай свою жизнь за Императора и она не будет напрасной."/>
+	<entry name="SpaceMarines/Chaplain:Idle#2" value="Здесь не будет мира, пока наши враги живы."/>
+	<entry name="SpaceMarines/Chaplain:Idle#3" value="Мы плюем на ваше неподобающее поведение."/>
+	<entry name="SpaceMarines/Chaplain:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Chaplain:Shaken#0" value="Для воина, единственным преступлением является трусость."/>
+	<entry name="SpaceMarines/Chaplain:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Chaplain:Victory#0" value="Вера сильнее адамантиума."/>
+	<entry name="SpaceMarines/Chaplain:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/DevastatorSpaceMarine" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#0" value="Каждое убийство очищает нас, даже сейчас."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#1" value="За Орден!"/>
+	<entry name="SpaceMarines/Dreadnought:Attack#2" value="Хм ... снова на войне."/>
+	<entry name="SpaceMarines/Dreadnought:Attack#3" value="Десять тысяч лет войны ..."/>
+	<entry name="SpaceMarines/Dreadnought:AttackCount" value="4"/>
+	<entry name="SpaceMarines/Dreadnought:Broken#0" value="После тысячелетий я знаю, когда отступить."/>
+	<entry name="SpaceMarines/Dreadnought:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#0" value="Мой саркофаг ... подбит."/>
+	<entry name="SpaceMarines/Dreadnought:Hurt#1" value="Литания о сохранении, Капеллан?"/>
+	<entry name="SpaceMarines/Dreadnought:HurtCount" value="2"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#0" value="Ходячая гробница..."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#1" value="Действительно ли война вечна?"/>
+	<entry name="SpaceMarines/Dreadnought:Idle#2" value="Сплю ... но мечтаю. Это очковтирательсво."/>
+	<entry name="SpaceMarines/Dreadnought:Idle#3" value="Кто меня будит?"/>
+	<entry name="SpaceMarines/Dreadnought:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Dreadnought:Shaken#0" value="Страх иногда приходит."/>
+	<entry name="SpaceMarines/Dreadnought:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Dreadnought:Victory#0" value="История нашего Ордена растет."/>
+	<entry name="SpaceMarines/Dreadnought:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/FortressOfRedemption" value="SpaceMarines/Headquarters"/>
+	<entry name="SpaceMarines/Headquarters:Attack#0" value="Разбейтесь о нашу оборону!"/>
+	<entry name="SpaceMarines/Headquarters:Attack#1" value="Дураки, потому что собрались атаковать цитадель Адептус Астартес."/>
+	<entry name="SpaceMarines/Headquarters:Attack#2" value="Командующий крепостью здесь. Огонь."/>
+	<entry name="SpaceMarines/Headquarters:Attack#3" value="Почему бы не попробовать постучаться в дверь?"/>
+	<entry name="SpaceMarines/Headquarters:AttackCount" value="4"/>
+	<entry name="SpaceMarines/Headquarters:Broken#0" value="Наш Орден будет существовать. НЕТ. Падет."/>
+	<entry name="SpaceMarines/Headquarters:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarum#0" value="Гвардия на горизонте. Враждебная."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Necrons#0" value="Сюда пришли Некроны. Убери их."/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:Orks#0" value="Снова Зеленокожие? Готовьте болтганы!"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarines#0" value="Разведчики обнаружили ренегатов. Грязные предатели, здесь?"/>
+	<entry name="SpaceMarines/Headquarters:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Hurt#0" value="В крепости пробита брешь, повторяю, в крепости пробита брешь."/>
+	<entry name="SpaceMarines/Headquarters:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Idle#0" value="В тылу все тихо."/>
+	<entry name="SpaceMarines/Headquarters:Idle#1" value="Командир, мы готовы на все."/>
+	<entry name="SpaceMarines/Headquarters:Idle#2" value="Литании читаются в Реклюзиаме."/>
+	<entry name="SpaceMarines/Headquarters:Idle#3" value="Рабочие усердно работают, сэр."/>
+	<entry name="SpaceMarines/Headquarters:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Headquarters:Shaken#0" value="Вызвать все подразделения к крепости!"/>
+	<entry name="SpaceMarines/Headquarters:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Headquarters:Victory#0" value="Захватчики уничтожены. Как они осмелились на это?"/>
+	<entry name="SpaceMarines/Headquarters:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Attack#0" value="Целься."/>
+	<entry name="SpaceMarines/Hunter:AttackCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Broken#0" value="Бронетанковым войскам отступать."/>
+	<entry name="SpaceMarines/Hunter:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Hurt#0" value="Броня пробита."/>
+	<entry name="SpaceMarines/Hunter:Hurt#1" value="Огонь из стрелкового оружия."/>
+	<entry name="SpaceMarines/Hunter:Hurt#2" value="Траки перебиты."/>
+	<entry name="SpaceMarines/Hunter:HurtCount" value="3"/>
+	<entry name="SpaceMarines/Hunter:Idle#0" value="Когитатор находится в рабочем состоянии."/>
+	<entry name="SpaceMarines/Hunter:Idle#1" value="Вызываем духа машины."/>
+	<entry name="SpaceMarines/Hunter:Idle#2" value="Производим ремонт."/>
+	<entry name="SpaceMarines/Hunter:IdleCount" value="3"/>
+	<entry name="SpaceMarines/Hunter:Shaken#0" value="Экипаж немного не в форме, сэр."/>
+	<entry name="SpaceMarines/Hunter:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Hunter:Victory#0" value="Броня движется."/>
+	<entry name="SpaceMarines/Hunter:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/LandRaider" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/LandSpeeder" value="SpaceMarines/ScoutBiker"/>
+	<entry name="SpaceMarines/Librarian:Attack#0" value="Позвольте мне заглянуть в ваше будущее ... ах. Оно короткое."/>
+	<entry name="SpaceMarines/Librarian:Attack#1" value="У меня есть дар. Было бы не благородно не поделиться им ..."/>
+	<entry name="SpaceMarines/Librarian:Attack#2" value="Щелчок пальцами ...и кости сломаны."/>
+	<entry name="SpaceMarines/Librarian:AttackCount" value="3"/>
+	<entry name="SpaceMarines/Librarian:Broken#0" value="Я слышу, как демон воет в моих ушах."/>
+	<entry name="SpaceMarines/Librarian:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Hurt#0" value="Физическая боль ничто, по сравнению с вечным проклятием."/>
+	<entry name="SpaceMarines/Librarian:HurtCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Idle#0" value="Благословенный разум, слишком мал для сомнений."/>
+	<entry name="SpaceMarines/Librarian:Idle#1" value="Варп не заставит меня испугаться."/>
+	<entry name="SpaceMarines/Librarian:Idle#2" value="Варп-шторм ... иногда боль слишком сильна."/>
+	<entry name="SpaceMarines/Librarian:Idle#3" value="Когда это закончится ... позовите Библиария."/>
+	<entry name="SpaceMarines/Librarian:IdleCount" value="4"/>
+	<entry name="SpaceMarines/Librarian:Shaken#0" value="Прежние знания не сообщают ничего об этом ..."/>
+	<entry name="SpaceMarines/Librarian:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/Librarian:Victory#0" value="Их поражение было предвидено."/>
+	<entry name="SpaceMarines/Librarian:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/Predator" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/ScoutBiker:Attack#0" value="Бить быстро и сильно."/>
+	<entry name="SpaceMarines/ScoutBiker:AttackCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Broken#0" value="Передвинуться на безопасное расстояние."/>
+	<entry name="SpaceMarines/ScoutBiker:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Hurt#0" value="Мы не имеем броню для этого."/>
+	<entry name="SpaceMarines/ScoutBiker:HurtCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Idle#0" value="Ленивый разведчик бесполезен."/>
+	<entry name="SpaceMarines/ScoutBiker:IdleCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Shaken#0" value="Нам нужно продолжать двигаться."/>
+	<entry name="SpaceMarines/ScoutBiker:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/ScoutBiker:Victory#0" value="Долг обязывает провести еще одну быструю атаку."/>
+	<entry name="SpaceMarines/ScoutBiker:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Attack#0" value="Поддержка авиации обеспечена."/>
+	<entry name="SpaceMarines/StormravenGunship:AttackCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Broken#0" value="Возвращаемся на базу."/>
+	<entry name="SpaceMarines/StormravenGunship:BrokenCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#0" value="Мы под зенитным огнём."/>
+	<entry name="SpaceMarines/StormravenGunship:Hurt#1" value="Двигатель заглох!"/>
+	<entry name="SpaceMarines/StormravenGunship:HurtCount" value="2"/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#0" value="А разве есть приказ?"/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#1" value="Кружу, ищу цели."/>
+	<entry name="SpaceMarines/StormravenGunship:Idle#2" value="Наблюдаю за небом."/>
+	<entry name="SpaceMarines/StormravenGunship:IdleCount" value="3"/>
+	<entry name="SpaceMarines/StormravenGunship:Shaken#0" value="Ой, как будто летишь через гору."/>
+	<entry name="SpaceMarines/StormravenGunship:ShakenCount" value="1"/>
+	<entry name="SpaceMarines/StormravenGunship:Victory#0" value="Там больше ничего не видно."/>
+	<entry name="SpaceMarines/StormravenGunship:VictoryCount" value="1"/>
+	<entry name="SpaceMarines/StormtalonGunship" value="SpaceMarines/StormravenGunship"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Artefact#0" value="Что это за мерзкое устройство Ксеносов?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:ArtefactCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#0" value="Съешь болт!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#1" value="Хороший враг!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#2" value="Во славу Империума!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#3" value="Я твое спасение!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#4" value="Космические Десантники, атакуем!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#5" value="Испытай гнев Императора!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#6" value="Мы кулак Жиллимана."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Attack#7" value="Ты оскверняешь этот мир, тварь!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:AttackCount" value="8"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#0" value="Возвращаемся к подготовленной обороне!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#1" value="Сражаемся до последнего десантника!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#2" value="Сохраним геносемя!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#3" value="Император покинул нас!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Broken#4" value="Мы опозорили наш Орден!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:BrokenCount" value="5"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Cover#0" value="Император защищает тех, кто защищает сам себя."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:CoverCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarum#0" value="Гвардии нельзя доверять, даже в качестве союзников."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:AstraMilitarumCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Necrons#0" value="Древние ужасы хотят реванша? Ха! В сердце человека есть гораздо более мрачные вещи."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:Orks#0" value="Ты смеешь вторгаться в НАШ родной мир, зеленокожая мразь?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:OrksCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarines#0" value="Предатели, на нашем родном мире?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyFaction:SpaceMarinesCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevil#0" value="Дьявол! Держаться на расстоянии и целится в ноги."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/CatachanDevilCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Enslaver#0" value="Проклятые кукловоды - где Библиарии?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/EnslaverCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobot#0" value="Наши собственные творения сражаются против нас."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KastelanRobotCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkulls#0" value="Подлый Хаос, здесь, на нашей планете? Призываем Инквизицию!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/KhorneLordOfSkullsCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/Psychneuein#0" value="Космические Десантники, запечатать свои костюмы, чтобы предотвратить заражение."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:EnemyUnit:Neutral/PsychneueinCount" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#0" value="Мы будем стоять до последнего десантника."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Hurt#1" value="Мы ... не ... падем!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:HurtCount" value="2"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#0" value="Сожги еретика."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#1" value="Я жажду битвы."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#2" value="Пусть они наконец придут ... я теряю терпение."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#3" value="Так много Ксеносов ... так мало болтов."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#4" value="Мы кулак Императора."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#5" value="Мы сражаемся, мы побеждаем."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#6" value="Мы не должны вмешиваться в работу этих артефактов Ксеноса, мой Лорд."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Idle#7" value="Какие приказы, мой Лорд?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:IdleCount" value="8"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0#0" value="Низкое количество боеприпасов ... нужно беречь каждый выстрел."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory0Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1#0" value="Библиарий говорит, что Гвардии нельзя доверять - мы сделаем то, что должно."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory1Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2#0" value="Родной мир ... пуст?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory2Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3#0" value="Изучать ксеносов? Мой Лорд, это есть в Кодексе Астартес?"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory3Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4#0" value="Я ничего не боюсь, даже Экстерминатуса."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory4Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5#0" value="Геносемя должно пережить нас всех!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:QuestStory5Count" value="1"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#0" value="... блаженный разум слишком мал для сомнений."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#1" value="Мы победим, сражаясь против этой тьмы."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#2" value="Я несокрушимый щит, выкованный против тьмы."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#3" value="Я ... верю в Императора. Это символ веры!"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Shaken#4" value="Пока наши враги дышат, мы не можем позволить себе страх."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:ShakenCount" value="5"/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#0" value="Все Ксеносы и предатели - это твари, от которых нужно очистить галактику."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#1" value="По приказу Лорда-командора."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#2" value="Смерть от наших рук - не бесчестье."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#3" value="Во имя Императора."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#4" value="Мой кулак, крепко сжатого керамита, разит силой Ордена."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#5" value="Так падут все враги Империума."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#6" value="Убивая наших врагов, мы заслужили наше спасение."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:Victory#7" value="Мы месть Императора, ставшие плотью."/>
+	<entry name="SpaceMarines/TacticalSpaceMarine:VictoryCount" value="8"/>
+	<entry name="SpaceMarines/Terminator" value="SpaceMarines/TacticalSpaceMarine"/>
+	<entry name="SpaceMarines/ThunderfireCannon" value="SpaceMarines/Hunter"/>
+	<entry name="SpaceMarines/Vindicator" value="SpaceMarines/Hunter"/>
+	<entry name="Tyranids/Carnifex:Attack#0" value="Кррккк!"/>
+	<entry name="Tyranids/Carnifex:Attack#1" value="Ррррр!"/>
+	<entry name="Tyranids/Carnifex:Attack#2" value="Ннннн!"/>
+	<entry name="Tyranids/Carnifex:Attack#3" value="Сррр!"/>
+	<entry name="Tyranids/Carnifex:Attack#4" value="Крк!"/>
+	<entry name="Tyranids/Carnifex:Attack#5" value="Рррр!"/>
+	<entry name="Tyranids/Carnifex:Attack#6" value="Нррррр!"/>
+	<entry name="Tyranids/Carnifex:Attack#7" value="Врррк!"/>
+	<entry name="Tyranids/Carnifex:AttackCount" value="8"/>
+	<entry name="Tyranids/Carnifex:Broken#0" value="...мммм..."/>
+	<entry name="Tyranids/Carnifex:Broken#1" value="...зхххх..."/>
+	<entry name="Tyranids/Carnifex:Broken#2" value="...фхххх..."/>
+	<entry name="Tyranids/Carnifex:Broken#3" value="...ссссс..."/>
+	<entry name="Tyranids/Carnifex:BrokenCount" value="4"/>
+	<entry name="Tyranids/Carnifex:EnemyFaction:Necrons#0" value="Нрнннн."/>
+	<entry name="Tyranids/Carnifex:EnemyFaction:NecronsCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Hurt#0" value="Ссссссс!"/>
+	<entry name="Tyranids/Carnifex:HurtCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Idle#0" value="Крррккк."/>
+	<entry name="Tyranids/Carnifex:Idle#1" value="Нрррк."/>
+	<entry name="Tyranids/Carnifex:Idle#2" value="Ррррк."/>
+	<entry name="Tyranids/Carnifex:Idle#3" value="Кцкцкц."/>
+	<entry name="Tyranids/Carnifex:IdleCount" value="4"/>
+	<entry name="Tyranids/Carnifex:Shaken#0" value="Ррхххррр."/>
+	<entry name="Tyranids/Carnifex:ShakenCount" value="1"/>
+	<entry name="Tyranids/Carnifex:Victory#0" value="Хвлллллл!"/>
+	<entry name="Tyranids/Carnifex:Victory#1" value="Йаяяяя!"/>
+	<entry name="Tyranids/Carnifex:Victory#2" value="Улулулу!"/>
+	<entry name="Tyranids/Carnifex:Victory#3" value="Ффф!"/>
+	<entry name="Tyranids/Carnifex:Victory#4" value="Уллллла!"/>
+	<entry name="Tyranids/Carnifex:VictoryCount" value="5"/>
+	<entry name="Tyranids/Exocrine" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Gargoyle" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Haruspex" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Headquarters" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/HiveCrone" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/HiveTyrant" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Hormagaunt" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Lictor" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Malanthrope" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Ravener" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Termagant" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Tervigon" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Trygon" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/TyranidPrime" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Tyrannofex" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Warrior" value="Tyranids/Carnifex"/>
+	<entry name="Tyranids/Zoanthrope" value="Tyranids/Carnifex"/>
+</language>

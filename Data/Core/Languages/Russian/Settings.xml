@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Audio" value="Аудио"/>
+	<entry name="Audio/AmbientVolume" value="Громкость Окружения "/>
+	<entry name="Audio/AmbientVolumeHint" value="Регулирует громкость окружающей среды."/>
+	<entry name="Audio/CinematicVolume" value="Громкость внутриигровых роликов"/>
+	<entry name="Audio/CinematicVolumeHint" value="Регулирует громкость кинематографических роликов."/>
+	<entry name="Audio/EffectVolume" value="Громкость эффектов "/>
+	<entry name="Audio/EffectVolumeHint" value="Регулирует громкость эффектов."/>
+	<entry name="Audio/EnvironmentalProcessing" value="Обработка Окружения"/>
+	<entry name="Audio/EnvironmentalProcessingHint" value="Обработка звуковых эффектов окружающей среды необходимодля таких эфектов как реверберация, отражение и звуковая окклюзия или обструкция промежуточных объектов. Без этих окружающих эффектов слушатель может понять направление каждого источника звука, но будет сложнее точно определить, как далеко он находиться от их источников. Кроме того, слушатель не имеет представления о среде, где находятся источники."/>
+	<entry name="Audio/HRTF" value="HRTF"/>
+	<entry name="Audio/HRTFHint" value="Это требуется для смешения звука с помощью передаточной функции слухового аппарата человека, или HRTF.<br/><br/>HRTF может обеспечить лучшую пространственную остроту звуков при использовании наушников с помощью специальных фильтров, предназначенных для репликации, так как звуки зависят от формы головы слушателя, и они приходят из заданного направления.<br/><br/>Включение  HRTF смешивания может привести к переконфигурированию устройства на определенный режим воспроизведения и ограничению используемого диапазона частот.<br/><br/><style color='GUI/Yellow'/>Предупреждаем: хотя HRTF может давать лучший  звук с наушниками, он может привести к увеличению использования ресурсов и это может оказаться не очень хорошим выбором для обычных динамиков, особенно если у пользователя есть звук Surround."/>
+	<entry name="Audio/InterfaceVolume" value="Громкость интерфейса"/>
+	<entry name="Audio/InterfaceVolumeHint" value="Регулировка звуков Интерфейса."/>
+	<entry name="Audio/MasterVolume" value="Мастер громкости"/>
+	<entry name="Audio/MasterVolumeHint" value="Регулирует уровень громкости."/>
+	<entry name="Audio/MusicVolume" value="Громкость Музыки "/>
+	<entry name="Audio/MusicVolumeHint" value="Регулирует громкость музыки."/>
+	<entry name="General/AnimationSpeed" value="Скорость анимации"/>
+	<entry name="General/AnimationSpeedHint" value=""/>
+	<entry name="General" value="Общие"/>
+	<entry name="General/AutoCycleUnits" value="Автоцикл подразделений"/>
+	<entry name="General/AutoCycleUnitsHint" value="Автоматический цикл для перехода к следующему подразделению."/>
+	<entry name="General/Language" value="Язык"/>
+	<entry name="General/LanguageHint" value="Выбор языка.<br/><br/><style color='GUI/Red'/>Изменение этого параметра требует перезапуска игры, чтобы изменения вступили в силу."/>
+	<entry name="General/ResetTips" value="Сбросить Советы"/>
+	<entry name="General/ResetTipsHint" value="Сбросить советы игры."/>
+	<entry name="General/ScrollAcceleration" value="Ускорение Прокрутки "/>
+	<entry name="General/ScrollAccelerationHint" value=""/>
+	<entry name="General/ScrollSpeed" value="Скорость Прокрутки "/>
+	<entry name="General/ScrollSpeedHint" value=""/>
+	<entry name="General/ScrollToAction" value="Фокус на действии"/>
+	<entry name="General/ScrollToActionHint" value="Камера автоматически фокусируется на любом действии, которое происходит во время ходаа ИИ."/>
+	<entry name="General/ShowCinematics" value="Показывать игровые ролики"/>
+	<entry name="General/ShowCinematicsHint" value="Показывать игровые ролики"/>
+	<entry name="General/ShowPerformance" value="Показывать вступительный ролик"/>
+	<entry name="General/ShowPerformanceHint" value="Показывать вступительный ролик. [Ctrl+F]"/>
+	<entry name="General/ShowSubtitles" value="Показывать субтитры"/>
+	<entry name="General/ShowSubtitlesHint" value="Показывать субтитры внизу кинематографических роликов, которые переводят или расшифровывают диалоги и повествование."/>
+	<entry name="General/ShowTips" value="Показать Советы"/>
+	<entry name="General/ShowTipsHint" value="Показывать полезные советы в игре."/>
+	<entry name="Network" value="Сеть"/>
+	<entry name="Network/ListenPort" value="Прослушать порт"/>
+	<entry name="Network/ListenPortHint" value=""/>
+	<entry name="Network/RemoteAddress" value="Удаленный адрес"/>
+	<entry name="Network/RemotePort" value="Удаленный порт"/>
+	<entry name="Video" value="Видео"/>
+	<entry name="Video/AnisotropicFiltering" value="Анизотропная фильтрация"/>
+	<entry name="Video/AnisotropicFilteringHint" value=""/>
+	<entry name="Video/Brightness" value="Яркость"/>
+	<entry name="Video/BrightnessHint" value=""/>
+	<entry name="Video/CloudShadows" value="Тени облаков"/>
+	<entry name="Video/CloudShadowsHint" value=""/>
+	<entry name="Video/Contrast" value="Контраст"/>
+	<entry name="Video/ContrastHint" value=""/>
+	<entry name="Video/DepthFog" value="Глубина Тумана"/>
+	<entry name="Video/DepthFogHint" value=""/>
+	<entry name="Video/DepthOfField" value="Глубина резкости"/>
+	<entry name="Video/DepthOfFieldHint" value=""/>
+	<entry name="Video/DisplayMode" value="Режим Отображения "/>
+	<entry name="Video/DisplayMode0" value="Полноэкранный [Alt+Enter]"/>
+	<entry name="Video/DisplayMode1" value="Оконный [Alt+Enter]"/>
+	<entry name="Video/DisplayMode2" value="Оконный не украшенный"/>
+	<entry name="Video/DisplayModeHint" value="Позволяет изменять режим отображения игры. Оконный режимы может привести к снижению производительности.<br/><br/><style color='GUI/Yellow'/>Оконный режим может работать лучше для записи в родном разрешении."/>
+	<entry name="Video/FixedTimeOfDay" value="Определенное время суток"/>
+	<entry name="Video/FixedTimeOfDayHint" value=""/>
+	<entry name="Video/FixedTimeOfDayAt" value="Фиксировать время суток на"/>
+	<entry name="Video/FixedTimeOfDayAtHint" value=""/>
+	<entry name="Video/FXAA" value="Анти-сглаживание"/>
+	<entry name="Video/FXAAHint" value="Уменьшает сглаживание, сглаживая края с помощью FXAA, но может снизить производительность. Зависит от вычислительной мощности вашей видеокарты."/>
+	<entry name="Video/Gamma" value="Гамма"/>
+	<entry name="Video/GammaHint" value=""/>
+	<entry name="Video/Resolution" value="Разрешение"/>
+	<entry name="Video/ResolutionHint" value="Позволяет изменить Разрешение экрана игры. Более высокое разрешение приведет к увеличению четкости, но существенно повлиять на производительность."/>
+	<entry name="Video/ShadowQuality" value="Качество Теней "/>
+	<entry name="Video/ShadowQuality0" value="Низкое"/>
+	<entry name="Video/ShadowQuality1" value="Среднее"/>
+	<entry name="Video/ShadowQuality2" value="Высокое"/>
+	<entry name="Video/ShadowQualityHint" value="Определяет размер карты теней, которая используется для рендеринга теней. Более качественные тени приведут к более детализированным теням, но требует большей мощной видеокарты."/>
+	<entry name="Video/ShowGrid" value="Показать Сетку"/>
+	<entry name="Video/ShowGridHint" value="Показывает сетку на земле."/>
+	<entry name="Video/TextureQuality" value="Качество Текстур "/>
+	<entry name="Video/TextureQuality0" value="Низкое"/>
+	<entry name="Video/TextureQuality1" value="Среднее"/>
+	<entry name="Video/TextureQuality2" value="Высокое"/>
+	<entry name="Video/TextureQualityHint" value="Определяет размер текстуры используемый на протяжении всей игры. Высокое качество текстур приведет к более детальным прорисовкам рельефа и подразделений, но требуется больше видео памяти .<br/><br/>Низкое: 1 ГБ<br/>Среднее: 2 ГБ<br/>Высокое: 3 ГБ"/>
+	<entry name="Video/UIScale" value="Масштаб интерфейса"/>
+	<entry name="Video/UIScale0" value="100%"/>
+	<entry name="Video/UIScale1" value="125%"/>
+	<entry name="Video/UIScale2" value="150%"/>
+	<entry name="Video/UIScale3" value="175%"/>
+	<entry name="Video/UIScale4" value="200%"/>
+	<entry name="Video/UIScaleHint" value="Масштабирование пользовательского интерфейса."/>
+	<entry name="Video/VerticalSynchronization" value="Вертикальная Синхронизация"/>
+	<entry name="Video/VerticalSynchronization-1" value="Адаптивная"/> <!-- TODO: Hints -->
+	<entry name="Video/VerticalSynchronization0" value="Нет"/>
+	<entry name="Video/VerticalSynchronization1" value="Регулярная"/>
+	<entry name="Video/VerticalSynchronizationHint" value="Синхронизирует частоту кадров с частотой обновления вашего монитора."/>
+</language>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarumBroken0" value="&quot;Я не подписывался на это!&quot;"/>
+	<entry name="AstraMilitarumBroken1" value="&quot;Они убивают нас! И мы не можем убить их!&quot;"/>
+	<entry name="AstraMilitarumBroken2" value="&quot;Это настоящий мир смерти! &quot;"/>
+	<entry name="AstraMilitarumBroken3" value="&quot;Где подкрепления! Где....&quot;"/>
+	<entry name="AstraMilitarumBroken4" value="&quot;Бежим братва и будем надеется, что Комиссар этого не увидит!&quot;"/>
+	<entry name="AstraMilitarumBrokenCount" value="5"/>
+	<entry name="AstraMilitarumShaken0" value="&quot;Может нам помолиться? О, Император, о Джиллиман, спасите и сохраните нас. &quot;"/>
+	<entry name="AstraMilitarumShaken1" value="&quot;Проклятье. Можем ли мы получить лучшее оружие, пожалуйста?&quot;"/>
+	<entry name="AstraMilitarumShaken2" value="&quot;Командир, мы отступаем.&quot;"/>
+	<entry name="AstraMilitarumShaken3" value="&quot;Если мы останемся, то мы умрем. Если мы побежим, то Комиссар пристрелит нас!&quot;"/>
+	<entry name="AstraMilitarumShaken4" value="&quot;Мужайтесь, ребята, мужайтесь. &quot;"/>
+	<entry name="AstraMilitarumShakenCount" value="5"/>
+	<entry name="NecronsBroken0" value="&quot;Протокол отзыва завершен.&quot;"/>
+	<entry name="NecronsBroken1" value="&quot;Моделирование повреждений завершен на 99%.&quot;"/>
+	<entry name="NecronsBroken2" value="&quot;Наше подразделение рассеяно. Мы отступаем.&quot;"/>
+	<entry name="NecronsBroken3" value="&quot;Твои приказы невозможно выполнить, мой Господин.&quot;"/>
+	<entry name="NecronsBroken4" value="&quot;Могила зовет нас, и мы подчиняемся.&quot;"/>
+	<entry name="NecronsBrokenCount" value="5"/>
+	<entry name="NecronsShaken0" value="&quot;Мы сильнее страха. &quot;"/>
+	<entry name="NecronsShaken1" value="&quot;Меньшая раса исчезнет.&quot;"/>
+	<entry name="NecronsShaken2" value="&quot;Древние хорошо обучили их.&quot;"/>
+	<entry name="NecronsShaken3" value="&quot;Триархи не рассказали нам об этом.&quot;"/>
+	<entry name="NecronsShaken4" value="&quot;Это невозможно. Мы ... проигрываем?&quot;"/>
+	<entry name="NecronsShakenCount" value="5"/>
+	<entry name="NeutralBrokenCount" value="0"/>
+	<entry name="NeutralShakenCount" value="0"/>
+	<entry name="OrksBroken0" value="&quot;Теперя каждый Орк за себя!&quot;"/>
+	<entry name="OrksBroken1" value="&quot;Я думайу я забыл коешто в маих бирлогах... я скора вирнусь!&quot;"/>
+	<entry name="OrksBroken2" value="&quot;Счас.... счас, счас, счас.&quot;"/>
+	<entry name="OrksBroken3" value="&quot;АААГХ! Я в ауте.&quot;"/>
+	<entry name="OrksBroken4" value="&quot;... линяим линяим ЛИНЯИМ!&quot;"/>
+	<entry name="OrksBrokenCount" value="5"/>
+	<entry name="OrksShaken0" value="&quot;Я не хачу преблежатца к им!&quot;"/>
+	<entry name="OrksShaken1" value="&quot;Иди и бей его сам, Босс.&quot;"/>
+	<entry name="OrksShaken2" value="&quot;Эта Орки не хочут.&quot;"/>
+	<entry name="OrksShaken3" value="&quot;Мэне нужна многа пива мужества.&quot;"/>
+	<entry name="OrksShaken4" value="&quot;Я не Макари, я хачу жить!&quot;"/>
+	<entry name="OrksShakenCount" value="5"/>
+	<entry name="SpaceMarinesBroken0" value="&quot;Император покинул нас!&quot;"/>
+	<entry name="SpaceMarinesBroken1" value="&quot;Сохраним геносемя!&quot;"/>
+	<entry name="SpaceMarinesBroken2" value="&quot;Отходим к подготовленной защитной линии!&quot;"/>
+	<entry name="SpaceMarinesBroken3" value="&quot;Сражаемся до последнего десантника!&quot;"/>
+	<entry name="SpaceMarinesBroken4" value="&quot;Мы навлекли позор на наш Орден!&quot;"/>
+	<entry name="SpaceMarinesBrokenCount" value="5"/>
+	<entry name="SpaceMarinesShaken0" value="&quot;Сражаясь с этой тьмой, мы победим.&quot;"/>
+	<entry name="SpaceMarinesShaken1" value="&quot;Я ... верю в Императора. Это мой символ веры!&quot;"/>
+	<entry name="SpaceMarinesShaken2" value="&quot;Я нерушимый щит, выкованный против тьмы.&quot;"/>
+	<entry name="SpaceMarinesShaken3" value="&quot;... благословенный ум слишком мал для сомнений.&quot;"/>
+	<entry name="SpaceMarinesShaken4" value="&quot;Пока наши враги дышат, мы не можем позволить себе испытывать страх.&quot;"/>
+	<entry name="SpaceMarinesShakenCount" value="5"/>
+</language>

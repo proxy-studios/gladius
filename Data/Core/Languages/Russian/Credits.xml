@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AdditionalAnimations" value="Дополнительная анимация"/>
+	<entry name="AdditionalGraphics" value="Дополнительная графика"/>
+	<entry name="AdditionalProgramming" value="Дополнительное программирование"/>
+	<entry name="AdditionalWriting" value="Дополнительные тексты"/>
+	<entry name="Administration" value="Администрация"/>
+	<entry name="Chairman" value="Председатель"/>
+	<entry name="CreativeDirector" value="Креативный директор"/>
+	<entry name="CustomerSupport" value="Служба поддержки"/>
+	<entry name="DesignAndProgramming" value="Дизайн и программирование"/>
+	<entry name="DevelopedBy" value="Разработчик %1%"/>
+	<entry name="DevelopmentDirector" value="Директор по развитию"/>
+	<entry name="Fonts" value="Шрифты"/>
+	<entry name="FrenchLocalisation" value="Французская локализация"/>
+	<entry name="GermanLocalisation" value="Немецкая локализация"/>
+	<entry name="GraphicsAndAnimations" value="Графика и анимация"/>
+	<entry name="IntroCinematics" value="Вступительные видеоролики"/>
+	<entry name="MediaRelations" value="Связи со СМИ"/>
+	<entry name="JuniorProductManager" value="Младший менеджер по продукции"/>
+	<entry name="Libraries" value="Библиотеки"/>
+	<entry name="Manual" value="Руководство по игре"/>
+	<entry name="ManualLayout" value="Макет Руководства по игре"/>
+	<entry name="MarketingDirector" value="Директор по маркетингу"/>
+	<entry name="Music" value="Музыка"/>
+	<entry name="OperationsDirector" value="Финансовый директор"/>
+	<entry name="Producers" value="Продюсеры"/>
+	<entry name="ProductManagers" value="Менеджеры продуктов"/>
+	<entry name="ProductionDesign" value="Дизайн продукции"/>
+	<entry name="ProductionLead" value="Руководство производством"/>
+	<entry name="ProductionTeam" value="Производственная команда"/>
+	<entry name="PublishedBy" value="Издатель %1%"/>
+	<entry name="RussianLocalisation" value="Русская локализация"/>
+	<entry name="Sound" value="Звук"/>
+	<entry name="SpanishLocalisation" value="Испанская локализация"/>
+	<entry name="SpecialThanks" value="Особая Благодарность"/>
+	<entry name="TechnicalDirector" value="Технический директор"/>
+	<entry name="Translation" value="Перевод"/>
+	<entry name="VoiceActors" value="Озвучивание"/>
+	<entry name="WarhammerBy" value="Warhammer 40000 %1%"/>
+	<entry name="WebDevelopment" value="Web дизайн"/>
+	<entry name="Writing" value="Тексты"/>
+</language>

@@ -1,0 +1,989 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Artefacts/Accuracy" value="<string name='Units/Neutral/Artefacts/Accuracy'/>"/>
+	<entry name="Artefacts/AccuracyDescription" value="Увеличивает точность."/>
+	<entry name="Artefacts/Armor" value="<string name='Units/Neutral/Artefacts/Armor'/>"/>
+	<entry name="Artefacts/ArmorDescription" value="Увеличивает броню."/>
+	<entry name="Artefacts/ArmorPenetration" value="<string name='Units/Neutral/Artefacts/ArmorPenetration'/>"/>
+	<entry name="Artefacts/ArmorPenetrationDescription" value="Увеличивает пробивание брони."/>
+	<entry name="Artefacts/Damage" value="<string name='Units/Neutral/Artefacts/Damage'/>"/>
+	<entry name="Artefacts/DamageDescription" value="Увеличивает урон."/>
+	<entry name="Artefacts/Healing" value="<string name='Units/Neutral/Artefacts/Healing'/>"/>
+	<entry name="Artefacts/HealingDescription" value="Восстанавливайте очки здоровья каждый ход."/>
+	<entry name="Artefacts/Hitpoints" value="<string name='Units/Neutral/Artefacts/Hitpoints'/>"/>
+	<entry name="Artefacts/HitpointsDescription" value="Увеличивает очки здоровья."/>
+	<entry name="Artefacts/Loyalty" value="<string name='Units/Neutral/Artefacts/Loyalty'/>"/>
+	<entry name="Artefacts/LoyaltyDescription" value="Увеличивает лояльность."/>
+	<entry name="Artefacts/Movement" value="<string name='Units/Neutral/Artefacts/Movement'/>"/>
+	<entry name="Artefacts/MovementDescription" value="Увеличивает движение."/>
+	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
+	<entry name="Artefacts/SightDescription" value="Увеличивает радиус обзора."/>
+	
+	<entry name="Items/AdamantiumWeaveVest" value="<string name='Items/AdamantiumWeaveVest'/>"/>
+	<entry name="Items/AdamantiumWeaveVestDescription" value="<string name='Items/AdamantiumWeaveVestDescription'/>"/>
+	<entry name="Items/AdamantiumWeaveVestFlavor" value="<string name='Items/AdamantiumWeaveVestFlavor'/>"/>
+	<entry name="Items/ArmaplasBracers" value="<string name='Items/ArmaplasBracers'/>"/>
+	<entry name="Items/ArmaplasBracersDescription" value="<string name='Items/ArmaplasBracersDescription'/>"/>
+	<entry name="Items/ArmaplasBracersFlavor" value="<string name='Items/ArmaplasBracersFlavor'/>"/>
+	<entry name="Items/CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
+	<entry name="Items/CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="Items/CombatStimulantFlavor" value="<string name='Items/CombatStimulantFlavor'/>"/>
+	<entry name="Items/ConcealedWeaponSystem" value="<string name='Items/ConcealedWeaponSystem'/>"/>
+	<entry name="Items/ConcealedWeaponSystemDescription" value="<string name='Items/ConcealedWeaponSystemDescription'/>"/>
+	<entry name="Items/ConcealedWeaponSystemFlavor" value="<string name='Items/ConcealedWeaponSystemFlavor'/>"/>
+	<entry name="Items/EnduranceImplant" value="<string name='Items/EnduranceImplant'/>"/>
+	<entry name="Items/EnduranceImplantDescription" value="<string name='Items/EnduranceImplantDescription'/>"/>
+	<entry name="Items/EnduranceImplantFlavor" value="<string name='Items/EnduranceImplantFlavor'/>"/>
+	<entry name="Items/LightningGauntlet" value="<string name='Items/LightningGauntlet'/>"/>
+	<entry name="Items/LightningGauntletDescription" value="<string name='Items/LightningGauntletDescription'/>"/>
+	<entry name="Items/LightningGauntletFlavor" value="<string name='Items/LightningGauntletFlavor'/>"/>
+	<entry name="Items/MourningBladeOfLazaerek" value="<string name='Items/MourningBladeOfLazaerek'/>"/>
+	<entry name="Items/MourningBladeOfLazaerekDescription" value="<string name='Items/MourningBladeOfLazaerekDescription'/>"/>
+	<entry name="Items/MourningBladeOfLazaerekFlavor" value="<string name='Items/MourningBladeOfLazaerekFlavor'/>"/>
+	<entry name="Items/PoweredGauntlet" value="<string name='Items/PoweredGauntlet'/>"/>
+	<entry name="Items/PoweredGauntletDescription" value="<string name='Items/PoweredGauntletDescription'/>"/>
+	<entry name="Items/PoweredGauntletFlavor" value="<string name='Items/PoweredGauntletFlavor'/>"/>
+	<entry name="Items/TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
+	<entry name="Items/TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
+	<entry name="Items/TemporaryShieldFlavor" value="<string name='Items/TemporaryShieldFlavor'/>"/>
+	<entry name="Items/VolcanisShroud" value="<string name='Items/VolcanisShroud'/>"/>
+	<entry name="Items/VolcanisShroudDescription" value="<string name='Items/VolcanisShroudDescription'/>"/>
+	<entry name="Items/VolcanisShroudFlavor" value="<string name='Items/VolcanisShroudFlavor'/>"/>
+	<entry name="Items/ZoatHideJerkin" value="<string name='Items/ZoatHideJerkin'/>"/>
+	<entry name="Items/ZoatHideJerkinDescription" value="<string name='Items/ZoatHideJerkinDescription'/>"/>
+	<entry name="Items/ZoatHideJerkinFlavor" value="<string name='Items/ZoatHideJerkinFlavor'/>"/>
+	
+	<entry name="AerialAttack" value="Воздушная атака"/>
+	<entry name="AerialAttackDescription" value="Целью могут быть только летающие подразделения"/>
+	<entry name="AmmoRunt" value="Боеприпас-коротышка"/>
+	<entry name="AmmoRuntDescription" value="Увеличивает точность дальнего огня."/>
+	<entry name="AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
+	<entry name="AndTheyShallKnowNoFear" value="И они не будут знать страха"/>
+	<entry name="AndTheyShallKnowNoFearDescription" value="Подразделение не может иметь сломленную мораль."/>
+	<entry name="AndTheyShallKnowNoFearFlavor" value="Некоторые воины отказываются сдаваться, сражаясь с кем угодно."/>
+	<entry name="Animosity" value="Злобность"/>
+	<entry name="AnimosityDescription" value="Уменьшает урон."/>
+	<entry name="AnimosityFlavor" value="Когда начинаются приливы Вааагх! потоков, Орки становятся заметно сильнее -- но когда происходят отливы, Орки в след за ними слабнут."/>
+	<entry name="AntiGravUpwash" value="Антигравитационный снос"/>
+	<entry name="AntiGravUpwashDescription" value="Увеличивает движение, когда здоровье выше 66%."/>
+	<entry name="ApocalypticBarrage" value="Апокалиптический заградительный огонь"/>
+	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ApocalypticBlast" value="Апокалиптический взрыв"/>
+	<entry name="ApocalypticBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ApocalypticMegaBlast" value="Апокалиптический Мега-Взрыв"/>
+	<entry name="ApocalypticMegaBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticMegaBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ArmoriumCherub" value="<string name='Actions/ArmoriumCherub'/>"/>
+	<entry name="ArmoriumCherubDescription" value="Повышает точность."/>
+	<entry name="ArmoriumCherubFlavor" value="<string name='Actions/ArmoriumCherubFlavor'/>"/>
+	<entry name="Armourbane" value="Погибель брони"/>
+	<entry name="ArmourbaneDescription" value="Увеличивает пробиваемость брони."/>
+	<entry name="ArmourbaneFlavor" value="Это оружие было создано с одной целью: пробить шкуру бронированной машины."/>
+	<entry name="Artefact" value="Артефакт"/>
+	<entry name="Assault" value="Штурм"/>
+	<entry name="AssaultDescription" value="Classification."/>
+	<entry name="AssaultDoctrine" value="Доктрина штурма"/>
+	<entry name="AssaultDoctrineDescription" value="Повышает точность."/>
+	<entry name="AssaultDoctrineFlavor" value="<string name='Actions/AssaultDoctrineFlavor'/>"/>
+	<entry name="AssaultVehicle" value="Техника для высадки десанта"/>
+	<entry name="AssaultVehicleDescription" value="Высадка не потребляет очков движения."/>
+	<entry name="AssaultVehicleFlavor" value="Эта техника специально разработана для того, чтобы высаживать войска в самое пекло боя."/>
+	<entry name="AstraMilitarum/BlastDamage" value="Улучшенная оболочка Фраг-гранаты"/>
+	<entry name="AstraMilitarum/BlastDamageDescription" value="Увеличивает урон."/>
+	<entry name="AstraMilitarum/BlastDamageFlavor" value="Используя более совершенный рисунок гравировки на корпусе, значительно улучшается летальность взрывчатого вещества."/>
+	<entry name="AstraMilitarum/BoltDamage" value="Крак-болт"/>
+	<entry name="AstraMilitarum/BoltDamageDescription" value="Увеличивает урон."/>
+	<entry name="AstraMilitarum/BoltDamageFlavor" value="Астартес сделали модернизацию стандартного болтера. Этот комплект позволяет болтеру стрелять штурмовыми Крак-ракетами, снарядами с твердым наконечником и более тяжелым взрывным зарядом. Эти более тяжелые снаряды пользуются большим спросом у Космодесантников Караула Смерти для охоты на чужих."/>
+	<entry name="AstraMilitarum/CityTier2" value="Расширение инфраструктуры"/>
+	<entry name="AstraMilitarum/CityTier2Description" value="Увеличивает радиус присоединения плиток."/>
+	<entry name="AstraMilitarum/CityTier2Flavor" value="Однажды здесь будет город-улей -- миллиард людей под одной крышей -- возвышающийся над отравленным миром, но сначала это поселение должно немного расшириться, чтобы через века превратиться в самые большие города галактики."/>
+	<entry name="AstraMilitarum/CityTier3" value="Инфраструктура туннелей снабжения"/>
+	<entry name="AstraMilitarum/CityTier3Description" value="Увеличивает радиус присоединения плиток."/>
+	<entry name="AstraMilitarum/CityTier3Flavor" value="Департаменто Муниторум может быть где-то неэффективным, но зато они могут планировать, а Техножрецы Геологи и Сервиторы могут это построить. Эти бункерные туннели позволяют командованию Астра Милитарум надзирать за гораздо большей площадью города, не теряя оборонительного потенциала."/>
+	<entry name="AstraMilitarumAircraftProductionEdict" value="<string name='Actions/AstraMilitarumAircraftProductionEdict'/>"/>
+	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="<string name='Actions/AstraMilitarumAircraftProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumDefenseEdict" value="<string name='Actions/AstraMilitarumDefenseEdict'/>"/>
+	<entry name="AstraMilitarumDefenseEdictDescription" value="Увеличивает броню."/>
+	<entry name="AstraMilitarumDefenseEdictFlavor" value="<string name='Actions/AstraMilitarumDefenseEdictFlavor'/>"/>
+	<entry name="AstraMilitarumEnergyEdict" value="<string name='Actions/AstraMilitarumEnergyEdict'/>"/>
+	<entry name="AstraMilitarumEnergyEdictDescription" value="Увеличивает генерирование энергии."/>
+	<entry name="AstraMilitarumEnergyEdictFlavor" value="<string name='Actions/AstraMilitarumEnergyEdictFlavor'/>"/>
+	<entry name="AstraMilitarumFoodEdict" value="<string name='Actions/AstraMilitarumFoodEdict'/>"/>
+	<entry name="AstraMilitarumFoodEdictDescription" value="Увеличивает производство пищи."/>
+	<entry name="AstraMilitarumFoodEdictFlavor" value="<string name='Actions/AstraMilitarumFoodEdictFlavor'/>"/>
+	<entry name="AstraMilitarumGrowthEdict" value="<string name='Actions/AstraMilitarumGrowthEdict'/>"/>
+	<entry name="AstraMilitarumGrowthEdictDescription" value="Увеличивает скорость роста населения."/>
+	<entry name="AstraMilitarumGrowthEdictFlavor" value="<string name='Actions/AstraMilitarumGrowthEdictFlavor'/>"/>
+	<entry name="AstraMilitarumInfantryProductionEdict" value="<string name='Actions/AstraMilitarumInfantryProductionEdict'/>"/>
+	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="AstraMilitarumInfantryProductionEdictFlavor" value="<string name='Actions/AstraMilitarumInfantryProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumInfluenceEdict" value="<string name='Actions/AstraMilitarumInfluenceEdict'/>"/>
+	<entry name="AstraMilitarumInfluenceEdictDescription" value="Увеличивает влияние."/>
+	<entry name="AstraMilitarumInfluenceEdictFlavor" value="<string name='Actions/AstraMilitarumInfluenceEdictFlavor'/>"/>
+	<entry name="AstraMilitarumLoyaltyEdict" value="<string name='Actions/AstraMilitarumLoyaltyEdict'/>"/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Увеличивает лояльность."/>
+	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="<string name='Actions/AstraMilitarumLoyaltyEdictFlavor'/>"/>
+	<entry name="AstraMilitarumOreEdict" value="<string name='Actions/AstraMilitarumOreEdict'/>"/>
+	<entry name="AstraMilitarumOreEdictDescription" value="Увеличивает добычу руды."/>
+	<entry name="AstraMilitarumOreEdictFlavor" value="<string name='Actions/AstraMilitarumOreEdictFlavor'/>"/>
+	<entry name="AstraMilitarumPsykerProductionEdict" value="<string name='Actions/AstraMilitarumPsykerProductionEdict'/>"/>
+	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="AstraMilitarumPsykerProductionEdictFlavor" value="<string name='Actions/AstraMilitarumPsykerProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumResearchEdict" value="<string name='Actions/AstraMilitarumResearchEdict'/>"/>
+	<entry name="AstraMilitarumResearchEdictDescription" value="Увеличивает эффективность исследований."/>
+	<entry name="AstraMilitarumResearchEdictFlavor" value="<string name='Actions/AstraMilitarumResearchEdictFlavor'/>"/>
+	<entry name="AstraMilitarumVehicleProductionEdict" value="<string name='Actions/AstraMilitarumVehicleProductionEdict'/>"/>
+	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
+	<entry name="Barrage" value="Заградительный огонь"/>
+	<entry name="BarrageDescription" value="Не требует прямой видимости."/>
+	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
+	<entry name="Beam" value="Луч"/>
+	<entry name="BeamDescription" value="Увеличивает урон группы от целевого подразделения."/>
+	<entry name="Blast" value="Взрыв"/>
+	<entry name="BlastDescription" value="Увеличивает точность и урон группы от целевого подразделения."/>
+	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Blighted" value="Отравление"/>
+	<entry name="BlightedDescription" value="Наносит урон каждый ход."/>
+	<entry name="Blind" value="Слепой"/>
+	<entry name="BlindDescription" value="Снижает точность."/>
+	<entry name="BlindFlavor" value="Эта атака выпускает ярчайшую вспышку света, ослепляя жертву и заставляя его сражаться в слепую несколько мгновений."/>
+	<entry name="Blinding" value="Ослепление"/>
+	<entry name="BlindingDescription" value="Временно уменьшает точность выбранного подразделения."/>
+	<entry name="BolsterDefences" value="<string name='Actions/BolsterDefences'/>"/>
+	<entry name="BolsterDefencesDescription" value="Уменьшает урон от дальнобойности."/>
+	<entry name="BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
+	<entry name="BoltWeapon" value="Болт-оружие"/>
+	<entry name="BoltWeaponFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BolterDrill" value="Болтер-дрель"/>
+	<entry name="BolterDrillDescription" value="Повышает точность."/>
+	<entry name="BolterDrillFlavor" value="<string name='Actions/BolterDrillFlavor'/>"/>
+	<entry name="Bomb" value="Бомба"/>
+	<entry name="BombDescription" value=""/>
+	<entry name="Bosspole" value="Боссо-Шест"/>
+	<entry name="BosspoleDescription" value="Снижает потерю очков здоровья при потери морали."/>
+	<entry name="BosspoleFlavor" value="Ноб Орков часто играет трофейный шестом, который показывает его значимость. Ноб с шестом часто считает, что эта палка может пригодится, чтобы треснуть по головам и восстановить хоть какой-то порядок в рядах своих войск в разгар битвы."/>
+	<entry name="BringItDown" value="&quot;Обратим их в прах!&quot;"/>
+	<entry name="BringItDownDescription" value="Увеличивает бронепробиваемость"/>
+	<entry name="Broken" value="Сломленный"/>
+	<entry name="BrokenDescription" value="Уменьшает точность и увеличивает получаемый урон."/>
+	<entry name="BruteShield" value="Брутальный щит"/>
+	<entry name="BruteShieldDescription" value="Позволяет уменьшить урон от неуязвимости."/>
+	<entry name="BruteShieldFlavor" value="Эти щиты напоминают большие энергетические баклеры. Их несут некоторые Быкрины, и они одинаково хорошо действуют в бою в качестве защитной стены и удобной дубинки."/>
+	<entry name="CamoNetting" value="Масксеть"/>
+	<entry name="CamoNettingDescription" value="Позволяет уменьшить урон от дальнего огня наземной технике."/>
+	<entry name="CamoNettingFlavor" value="Независимо от того, это редкая камелионовая сеть или сырая ткань, сливающаяся с местной флорой - камуфляжная сетка помогает скрыть технику от посторонних глаз."/>
+	<entry name="Capturable" value="Захватываемый"/>
+	<entry name="CapturableDescription" value="Подразделение может быть захвачено другим соседним подразделением."/>
+	<entry name="CeramitePlating" value="Керамитовое покрытие"/>
+	<entry name="CeramitePlatingDescription" value="Мелта-оружие не получает дополнительной бронепробиваемости при атаке этого подразделения."/>
+	<entry name="CeramitePlatingFlavor" value="Эти пластины корпуса трижды благословлены Технодесантниками Ордена и помазаны семью священными мазями термического покрытия для защиты от экстремальных условий полета с орбиты. Такие меры предосторожности также спасают от огня определенного оружия. Они поглощают и рассеивают даже самые экстремальные температуры и микроволновое излучение."/>
+	<entry name="Chaff" value="Дипольный отражатель"/>
+	<entry name="ChaffDescription" value="Позволяет уменьшить урон от дальнего огня."/>
+	<entry name="ChapterUnity" value="Единство Ордена"/>
+	<entry name="ChapterUnityDescription" value="Увеличивает лояльность."/>
+	<entry name="ChapterUnityFlavor" value="Реликвии, размещенные в Великом зале, напоминают Адептус Астартес о героях прошлого, и вселяют в их души надежду, что однажды их доспехи, оружие и кости также будут почитать здесь."/>
+	<entry name="City" value="Город"/>
+	<entry name="CityDescription" value="Позволяет уменьшить урон, увеличить скорость лечения и снижает стоимость движения для союзных подразделений. Позволяет уменьшить урон от дальнего огня для пехоты."/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Наносит урон при входе в плитку."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="CombatShield" value="Боевой щит"/>
+	<entry name="CombatShieldDescription" value="Неуязвимость позволяет уменьшить урон."/>
+	<entry name="CombatShieldFlavor" value="Боевой щит - это более легкая версия штормового щита, вделанная в наручи владельца. Он оставляет руки свободными, чтобы использовать другое оружие, и обеспечивая защиту от направленных на владельца атак."/>
+	<entry name="CompendiumFlavor" value="Если воины 41-го тысячелетия были бы похожи друг на друга, то победа в войнах была бы делом простой численности бойцов, и человечество давно бы их все выиграло. Вместо этого у каждой расы, каждого типа войск и и каждого солдата есть свои особенности, которые делают их идеальными в определенных ситуациях - и оставляют их совершенно беззащитными в других."/>
+	<entry name="Concussion" value="Контузия"/>
+	<entry name="ConcussionDescription" value="Уменьшает точность."/>
+	<entry name="Concussive" value="Шок"/>
+	<entry name="ConcussiveDescription" value="Уменьшает точность подразделения-цели."/>
+	<entry name="ConcussiveFlavor" value="Некоторые виды оружия предназначены для того, чтобы остановить любого врага, которому удастся выдержать удар, дезориентировать, а затем легко убить его."/>
+	<entry name="ConvergentTargeting" value="Конвергентное прицеливание"/>
+	<entry name="ConvergentTargetingDescription" value="Увеличивает точность, если по соседству располагается союзная пушка Громобой."/>
+	<entry name="CultAmbush" value="Культ Засад"/>
+	<entry name="CultAmbushDescription" value="Повышают точность при атаке из засады."/>
+	<entry name="CultAmbushFlavor" value="Культы Генокрадов тщательно оценивают свои шансы на успех перед нанесением каждого удара. Их стратегия отточена, чтобы получить все преимущества, когда они поднимаются как один для атаки."/>
+	<entry name="Daemon" value="Демон"/>
+	<entry name="DaemonDescription" value="Уменьшает полученный урон из-зи Неуязвимости."/>
+	<entry name="DaemonFlavor" value="Существует много мерзких Варп-существ. Они бесконечно разнообразны, но некоторые их характеристики присуще им всем."/> 
+	<entry name="DeedsOfGlory" value="Славные подвиги"/>
+	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
+	<entry name="DestroyerWeapon" value="Оружие Разрушителя"/>
+	<entry name="DestroyerWeaponDescription" value="Увеличивает урон."/>
+	<entry name="DevastatorDoctrine" value="Доктрина Разрушителя"/>
+	<entry name="DevastatorDoctrineDescription" value="Повышает точность."/>
+	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
+	<entry name="Discipline" value="Дисциплина"/>
+	<entry name="DisciplineDescription" value="Повышает точность."/>
+	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
+	<entry name="DogmaAstrates" value="Догма Астратес"/>
+	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
+	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
+	<entry name="DozerBlade" value="Лезвие бульдозера"/>
+	<entry name="DozerBladeDescription" value="Уменьшает штраф за движение в лесах и по Имперским руинам."/>
+	<entry name="DozerBladeFlavor" value="Лезвия бульдозера - это тяжелые плуги, лезвия, тараны или ковши, используемые для устранения препятствий с пути транспортного средства."/>
+	<entry name="EavyArmour" value="'Тьажолый даспех"/>
+	<entry name="EavyArmourDescription" value="Увеличивает броню."/>
+	<entry name="EavyArmourFlavor" value="Тьажолый даспех Орка куется из металлолома, листового металла и награбленных боевых пластин павших противников. Хотя подгонка такого костюма сомнительна, тьажолая броня обеспечивает надежную защиту для своего владельца."/>
+	<entry name="Enslaved" value="Порабощенный"/>
+	<entry name="EnslavedDescription" value="Убейте Поработителей, чтобы освободить подразделение."/>
+	<entry name="EreWeGo" value="Сдеся мы идем!"/>
+	<entry name="EreWeGoDescription" value="Увеличивает движение."/>
+	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
+	<entry name="ExtraInfantryArmour" value="Особая броня пехоты"/>
+	<entry name="ExtraInfantryArmourDescription" value="Увеличивает броню."/>
+	<entry name="ExtraMonstrousCreatureArmour" value="Броня монструозного существа"/>
+	<entry name="ExtraMonstrousCreatureArmourDescription" value="Увеличивает броню."/>
+	<entry name="ExtraVehicleArmour" value="Особая броня техники"/>
+	<entry name="ExtraVehicleArmourDescription" value="Увеличивает броню."/>
+	<entry name="Fear" value="Страх"/>
+	<entry name="FearDescription" value="Уменьшает урон в ближнем бою."/>
+	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
+	<entry name="Fearless" value="Бесстрашие"/>
+	<entry name="FearlessDescription" value="Характеристики подразделения не восприимчивы к изменению морали и имеют иммунитет к страху."/>
+	<entry name="FearlessFlavor" value="Бесстрашные войска никогда не сдаются и редко используют укрытие, даже если было бы разумнее сделать это."/>
+	<entry name="FeelNoPain" value="Не чувствую боли"/>
+	<entry name="FeelNoPainDescription" value="Позволяет не испытывать боли, уменьшая урон."/>
+	<entry name="FeelNoPainFlavor" value="Независимо от силы воли, бионического усиления или колдовства, этот воин может сражаться, несмотря на страшные раны."/>
+	<entry name="Fleet" value="Флот"/>
+	<entry name="FleetDescription" value="Увеличивает движение."/>
+	<entry name="FleetFlavor" value="Сверхестественно быстрые, эти воины могут двигаться по земле быстрее, чем их враги."/>
+	<entry name="Fleshbane" value="Ядовитая плоть"/>
+	<entry name="FleshbaneDescription" value="Увеличивает урон против пехоты."/>
+	<entry name="Flyer" value="Летун"/>
+	<entry name="FlyerDescription" value="<icon texture='GUI/Bullet'/>Может летать над горами, водой и вражескими подразделениями.<br/><icon texture='GUI/Bullet'/>Не может захватывать Артефакты или Заставы.<br/><icon texture='GUI/Bullet'/>Игнорирует зону контроля наземных вражеских подразделений.<br/><icon texture='GUI/Bullet'/>Летуны не могут быть сбиты наземным оружием ближнего боя, и в них трудно попасть из оружия без зенитной особенности.<br/><icon texture='GUI/Bullet'/>Нет никакого штрафа от огня тяжелого оружия и артиллерии."/>
+	<entry name="FlyerFlavor" value="Воздушное пространство над полем битвы не пустует. Истребители и бомбардировщики проносятся по небу, сходясь в дуэли друг с другом и обеспечивают огневую поддержку войскам на земле."/>
+	<entry name="Forest" value="Лес"/>
+	<entry name="ForestDescription" value="Позволяет уменьшить урон для находящегося в нём подразделения пехоты."/>
+	<entry name="ForestFlavor" value="<string name='Features/ForestFlavor'/>"/>
+	<entry name="ForestStealth" value="Невидимый в лесу"/>
+	<entry name="ForestStealthDescription" value="Увеличивает урон от дальнобойного оружия в лесу."/>
+	<entry name="Fortification" value="Фортификация"/>
+	<entry name="FortificationDescription" value="Стационарное и сильно укрепленное сооружение, которое осуществляет контроль над соседними Заставами."/>
+	<entry name="FullThrottle" value="&quot;Полный вперед!&quot;"/>
+	<entry name="FullThrottleDescription" value="Увеличивает движение."/>
+	<entry name="FuelledByRage" value="Питающийся яростью"/>
+	<entry name="FuelledByRageDescription" value="Увеличивает атаку при уменьшении очков здоровья."/>
+	<entry name="FuriousCharge" value="Яростная атака"/>
+	<entry name="FuriousChargeDescription" value="Увеличивает урон в ближнем бою."/>
+	<entry name="FuriousChargeFlavor" value="Некоторые воины используют атакующий порыв, чтобы подпитывать собственную ярость."/>
+	<entry name="GargantuanCreature" value="Гигантское существо"/>
+	<entry name="GargantuanCreatureDescription" value="Классификация"/>
+	<entry name="GargantuanCreatureFlavor" value="Гигантские существа имеют такой огромный размер, что могут заменить собой целые армии. Они заставляют землю содрогаться продвигаясь по полю битвы, втаптывая меньшие существа в землю своими неуклюжими ногами."/>
+	<entry name="Gauss" value="Гаусс"/>
+	<entry name="GaussDescription" value="Изменяет минимальный урон в зависимости от Очков здоровья подразделения-цели."/>
+	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussDamage" value="Летящие атомы"/>
+	<entry name="GaussDamageDescription" value="Увеличивает урон."/>
+	<entry name="GaussDamageFlavor" value="Для галактики, наполненной жестоким, чудовищным и безумным оружием, технология Гаусса особенно страшная. Болтерный снаряд просто взорвется внутри вас, а оружие Гаусса будет сдирать с вас плоть живьем, атом за атомом."/>
+	<entry name="GetsHot" value="Слишком горячий"/>
+	<entry name="GetsHotDescription" value="Подразделение теряет Очки здоровья каждый раз, когда оружие стреляет."/>
+	<entry name="GetsHotFlavor" value="Некоторые виды оружия подпитываются от нестабильных источников энергии и перегреваются при каждом выстреле -- часто в ущерб тому, кто его применяет."/>
+	<entry name="Grenade" value="Граната"/>
+	<entry name="GrotRiggers" value="Гроты-монтажники"/>
+	<entry name="GrotRiggersDescription" value="Восстанавливает Очки здоровья каждый ход."/>
+	<entry name="GrotRiggersFlavor" value="Будь то повторное использование хлама, присоединяя его заклёпками к оружию, или просто вытаскивание техники из грязи и толкании её вперед, Гроты-монтажники могут помочь достаточно долго сохранять работоспособность техники Орков в битве, когда по всем канонам она должна была давно развалиться."/>
+	<entry name="GroundAttack" value="Наземная атака"/>
+	<entry name="GroundAttackDescription" value="Может использоваться только по наземных подразделениям."/>
+	<entry name="GunnersKillOnSight" value="&quot;Пушкарь, убей всё что видишь!&quot;"/>
+	<entry name="GunnersKillOnSightDescription" value="Увеличивает урон."/>
+	<entry name="Immobilized" value="Неподвижный"/>
+	<entry name="ImmobilizedDescription" value="Подразделение не может двигаться."/>
+	<entry name="ItWillNotDie" value="Бессмертный"/>
+	<entry name="ItWillNotDieDescription" value="Восстанавливает Очки здоровья каждый ход."/>
+	<entry name="ItWillNotDieFlavor" value="В темных уголках галактики есть существа, которые восстанавливают своё здоровье с ужасающей скоростью."/>
+	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="HammerOfWrathDescription" value="Увеличивает наносимый урон."/>
+	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="HarvestResourceFeatures" value="Использование ресурсных плиток"/>
+	<entry name="HarvestResourceFeaturesDescription" value="Сбор ресурс от смежных специальных способностей ресурсных плиток."/>
+	<entry name="Headquarters" value="Штаб"/>
+	<entry name="HeadquartersDescription" value="Уничтожение штаба уничтожает весь город."/>
+	<entry name="HeavyWeapon" value="Тяжелый"/>
+	<entry name="HeavyWeaponDescription" value="Снижает точность после перемещения."/>
+	<entry name="HellstormTemplate" value="Шаблон Адской бури"/>
+	<entry name="HellstormTemplateDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="HighPower" value="Высокая мощность"/>
+	<entry name="HighPowerDescription" value="Активно перед перемещением."/>
+	<entry name="HitAndRun" value="Бей и беги"/>
+	<entry name="HitAndRunDescription" value="Игнорирует вражескую зону контроля."/>
+	<entry name="HitAndRunFlavor" value="Некоторые войска используют гибкую боевую тактику, наносят быстрый удар по врагу и моментально отходят назад, прежде чем враг ответит, чтобы снова нанести удар с новой силой."/>
+	<entry name="Hero" value="Герой"/>
+	<entry name="HeroDescription" value="Позволяет герою получать меньший урон от пехоты."/>
+	<entry name="HeroFlavor" value="Что значит быть героем? Многие определяют его как необычайно смелого, умного или сильного представителя вида. Во вселенной бесконечной войны это, к сожалению, обозначает того, кто очень, очень хорош в убийстве своих врагов и непонятным образом выживает в этой бойне."/>
+	<entry name="IgnoresCover" value="Игнорирует укрытие"/>
+	<entry name="IgnoresCoverDescription" value="Игнорирует уменьшение урон от дальнего огня для этого подразделения."/>
+	<entry name="IgnoresCoverFlavor" value="Это оружие стреляет боеприпасами, которые находят врага в его укрытиях."/>
+	<entry name="Illuminated" value="Подсвеченный"/>
+	<entry name="IlluminatedDescription" value="Уменьшает снижение урона от дальнего огня для этого подразделения."/>
+	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
+	<entry name="ImperialRuinDescription" value="Позволяет уменьшать урон для пехоты."/>
+	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
+	<entry name="ImperialSplendour" value="Блеск Империи"/>
+	<entry name="ImperialSplendourDescription" value="Увеличивает влияние."/>
+	<entry name="ImperialSplendourFlavor" value="Успешный планетарный губернатор будет отображать новообретенное богатство своего домена памятниками Империи - грандиозной Базиликой и статуями Космических десантников, Примархов и Императора."/>
+	<entry name="Infiltrate" value="Проникать в тыл"/>
+	<entry name="InfiltrateDescription" value="Спасает подразделение от атак из засад."/>
+	<entry name="InfiltrateFlavor" value=""/>
+	<entry name="IronHalo" value="Железный нимб"/>
+	<entry name="IronHaloDescription" value="Предоставляет Неуязвимость уменьшая урон."/>
+	<entry name="IronHaloFlavor" value="Железный нимб - честь, присуждаемая командирам Космических Десантников и символ их исключительной храбрости и мудрости. Обычно его устанавливают на рюкзак или встраивают в бронированный воротник. Он содержит энергетическое поле, которое защищает владельца даже от самых мощных вражеских вооружений."/>
+	<entry name="IronWill" value="Железная воля"/>
+	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
+	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
+	<entry name="ItWillNotDie" value="Этот не умрет"/>
+	<entry name="ItWillNotDieDescription" value="Восстанавливайте очки здоровья каждый ход."/>
+	<entry name="Jetbike" value="Реактивный байк"/>
+	<entry name="JetbikeDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за пересечение рек и движения через проволочный сорняк."/>
+	<entry name="JetbikeFlavor" value="Технология создания надежных, небольших и быстрых машин сложнее, чем кажется, и на протяжении многих лет только у Эльдар были технические ноу-хау в этой области. Совсем недавно Орки разработали свою собственную неуклюжую версию, Смертолет, и появляющиеся Некроны принесли с собой непредсказуемые Могильные клинки."/>
+	<entry name="Jink" value="Уклонение"/>
+	<entry name="JinkDescription" value="Позволяет уменьшать урон от дальнего огня."/>
+	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
+	<entry name="Killshot" value="Смертельный выстрел"/>
+	<entry name="KillshotDescription" value="Увеличивает бронепробиваемость при атаке наземной техники и фортификационных сооружений, и урон Гигантским существам, если рядом расположен союзный Хищник."/>
+	<entry name="KillshotFlavor" value="Есть несколько вещей, которые могут устоять перед объединенной мощью отряда Ассасинов Хищников - трио Хищников - их артиллеристы Космодесантники создают блокирующие зоны смерти, чтобы уничтожить даже Гиантские существа Ксеноса или приплющенные боевые машины, фокусируя на них заградительный пушечный огонь."/>
+	<entry name="Lance" value="Ланцет"/>
+	<entry name="LanceDescription" value="Пробивает броню подразделения цели."/>
+	<entry name="LanceFlavor" value="В командиров танков вселяет ужас Ланцетное оружие, которое стреляет концентрированным лучом энергии. Оно может пробивать любую броню, независимо от её толщины."/>
+	<entry name="LargeBlast" value="Большой взрыв"/>
+	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="LasDamage" value="Пакет Мощный выстрел"/>
+	<entry name="LasDamageDescription" value="Увеличивает урон."/>
+	<entry name="LasDamageFlavor" value="Эти превосходные модульные паки модернизации превращают стандартный лазер в «адскую пушку», с улучшенным диапазоном и мощностью, но это уменьшает мощность блока питания и ухудшает надежность, что требует постоянного обслуживания. Даже подразделение, у которого уже есть лазеры Мощный выстрел, выигрывают от более надежных источников питания Мощный выстрел."/>
+	<entry name="LastStand" value="Последний бой"/>
+	<entry name="LastStandDescription" value="Увеличивает мораль."/>
+	<entry name="LastStandFlavor" value="&quot;Здесь мы стоим, и мы здесь умрем, несломленными и непокоренными. Хотя сама смерть стоит за нашими спинами, мы плюём на неё, и выказываем ей своё пренебрежение до конца!&quot;<br/>  -- Капеллан-дредноут Тит из Воющих Грифонов."/>
+	<entry name="LifeDrain" value="Осушение жизни"/>
+	<entry name="LifeDrainDescription" value="Увеличивает урон против пехоты."/>
+	<entry name="LifeSteal" value="Кража жизни"/>
+	<entry name="LifeStealDescription" value="Преобразует урон в очки жизни."/>
+	<entry name="LinebreakerBombardment" value="Бомбардировка линии"/>
+	<entry name="LinebreakerBombardmentDescription" value="Игнорирует уменьшение урона от дальнего огня при смежном расположении с союзным Поборником."/>
+	<entry name="Luminagen" value="Люминаген"/>
+	<entry name="LuminagenDescription" value="Временно уменьшает снижение урона от дальнего огня."/>
+	<entry name="LocatorBeacon" value="Локаторный маяк"/>
+	<entry name="LocatorBeaconDescription" value="При орбитальном развертывание не используются очки действия при развертывании рядом с этим подразделением."/>
+	<entry name="LocatorBeaconFlavor" value="Локаторные маяки часто переносятся мотоциклистами скаутами или монтируются на Десантную капсулу, и представляют собой комплекс из сигнализации, коммуникаторов широкого спектра и гео-позиционнго отслеживания. При активации маяк загружает подробную информацию о диспозиции в тактическую сеть, позволяя точнее управлять резервами."/>
+	<entry name="LowPower" value="Малая мощность"/>
+	<entry name="LowPowerDescription" value="Действует после перемещения."/>
+	<entry name="MachineEmpathy" value="Машинное сочувствие"/>
+	<entry name="MachineEmpathyDescription" value="Восстанавливает Очки здоровья."/>
+	<entry name="MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
+	<entry name="MassiveBlast" value="Большой взрыв"/>
+	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Melee" value="Рукопашная"/>
+	<entry name="MeleeDescription" value="Classification"/>
+	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="Melta" value="Мелта"/>
+	<entry name="MeltaDescription" value="Увеличивает бронепробиваемость на половине дальности."/>
+	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MindControl" value="Контроль разума"/>
+	<entry name="MindControlDescription" value="Уменьшает мораль каждый ход."/>
+	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
+	<entry name="MisfortuneDescription" value="Увеличивает получаемый урон."/>
+	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
+	<entry name="MobRule" value="Правила банды"/>
+	<entry name="MobRuleDescription" value="Подразделение теряет несколько очков здоровья вместо морали."/>
+	<entry name="MobRuleFlavor" value="Орки - примитивные звероподобные существа, любящие сражения. Они лучше сражаются когда их много."/>
+	<entry name="MonstrousCreature" value="Чудовищное существо"/>
+	<entry name="MonstrousCreatureDescription" value="Классификация."/>
+	<entry name="MoraleSoak" value="Пропитанный моралью"/>
+	<entry name="MoraleSoakDescription" value="Снижает урон в соответствии с моралью цели."/>
+	<entry name="MoveThroughCover" value="Движется прыжками"/>
+	<entry name="MoveThroughCoverDescription" value="Отменяет штраф за движение в лесах и по Имперским руинам."/>
+	<entry name="MoveThroughCoverFlavor" value="Некоторые воины умеют двигаться по сложной и засоренной местности."/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Мифический спящий"/>
+	<entry name="Necrons/AircraftBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Necrons/AircraftBuildingBonusFlavor" value="Кажется, что это инородное изгибающееся пространство из камня занимает большую площадь, чем есть на самом деле. Летающие машины Некронов растягиваются, мерцают и исчезают, когда они пересекают его границы."/>
+	<entry name="Necrons/AttackCityBonus" value="Статический прицел"/>
+	<entry name="Necrons/AttackCityBonusDescription" value="Повышает точность при атаке подразделений в городах."/>
+	<entry name="Necrons/AttackCityBonusFlavor" value="Технология Некронов, была поднята из пыльных древних гробниц, но несколько рас за последние 60 миллионов лет сравнялись с их мастерством в манипулировании переменных размеров. Никакая стена, бункерная или лазерная сетка не защищают от такого оружия."/>
+	<entry name="Necrons/BlastDamage" value="Дисперсный прицел"/>
+	<entry name="Necrons/BlastDamageDescription" value="Увеличивает урон."/>
+	<entry name="Necrons/BlastDamageFlavor" value="Системы прицеливания людей, как правило, сосредоточены на точности попадания и уменьшения рассеивания выстрелов оружия. Совсем интуитивно не понятные, более продвинутые системы прицеливания Некронов, рассчитаны на широкий захват области поражения атакующего оружия, но тем не менее это увеличивают вероятность того, что каждый выстрел попадет в цель."/>
+	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Увеличивает урон."/>
+	<entry name="Necrons/CityTier2" value="Предварительные раскопки"/>
+	<entry name="Necrons/CityTier2Description" value="Увеличивает радиус присоединяемых плиток."/>
+	<entry name="Necrons/CityTier2Flavor" value="Большинство древних городов было обнаружено копающимися рабами, которые теперь работают над восстановлением давно погребенных зданий."/>
+	<entry name="Necrons/CityTier3" value="Раскопанный город"/>
+	<entry name="Necrons/CityTier3Description" value="Увеличивает радиус присоединяемых плиток."/>
+	<entry name="Necrons/CityTier3Flavor" value="В настоящее время раскрыта вся территория скрытого некрополя. Теперь он сверкает своим первозданным ужасом."/>
+	<entry name="Necrons/ConstructionBuildingBonus" value="Обогащение рабов"/>
+	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Незначительные изменения в телах и умах ваших рабов позволяют им меньше спать и больше работать, пока их хрупкие тела еще шевелятся."/>
+	<entry name="Necrons/CtanNecrodermis" value="Некродермис К'Тан"/>
+	<entry name="Necrons/CtanNecrodermisDescription" value="Допускает Неуязвимость к повреждениям."/>
+	<entry name="Necrons/CtanNecrodermisBlast" value="Взрыв Некродермиса К'Тан"/>
+	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Убивает близлежащие подразделения находящиеся присмерти."/>
+	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Увеличивает броню."/>
+	<entry name="Necrons/DestructionProtocols" value="<string name='Actions/Necrons/DestructionProtocols'/>"/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Увеличивает получаемый урон."/>
+	<entry name="Necrons/Dynasty" value="<string name='Actions/Necrons/Dynasty'/>"/>
+	<entry name="Necrons/DynastyDescription" value="<string name='Actions/Necrons/DynastyDescription'/>"/>
+	<entry name="Necrons/EnergyBuildingBonus" value="Неземной аккумулятор"/>
+	<entry name="Necrons/EnergyBuildingBonusDescription" value="Увеличивает производство энергии."/>
+	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Мало что изменилось за пределами этого баррочного саркофага - тем не менее, внутри его неизвестной структуры, темные устройства Криптеков стабилизируют работу значительно улучшенного устройства."/>
+	<entry name="Necrons/EntropicStrike" value="Энтропийный удар"/>
+	<entry name="Necrons/EntropicStrikeDescription" value="Изменяет минимальный урон в соответствии с Очками здоровья цели."/>
+	<entry name="Necrons/EternityGate" value="Врата Вечности"/>
+	<entry name="Necrons/EternityGateDescription" value="Некроны могут телепортироваться в соседние плитки."/>
+	<entry name="Necrons/EternityGateFlavor" value="Врата Вечности Монолита - это пространственный коридор между полем битвы и гробницей мира, позволяющий легионам воинов Некронов преодолевать огромные расстояния и вступать в бой на одном ходу."/>
+	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
+	<entry name="Necrons/GloomPrismDescription" value="Позволяет колдовству уменьшать урон."/>
+	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
+	<entry name="Necrons/GravityPulse" value="<string name='Actions/Necrons/GravityPulse'/>"/>
+	<entry name="Necrons/GravityPulseDescription" value="Уменьшает перемещение и наносит урон соседним летунам, реактивным мотоциклам и скиммерам."/>
+	<entry name="Necrons/GrowthBonus" value="Реанимационные ритуалы"/>
+	<entry name="Necrons/GrowthBonusDescription" value="Увеличивает скорость роста населения."/>
+	<entry name="Necrons/GrowthBonusFlavor" value="Введение более эффективных протоколов для пробуждения давно похороненных Некронов из их могил, уменьшает потери от неуклюжих действий рабов."/>
+	<entry name="Necrons/HousingBuildingBonus" value="Сжатое убежище"/>
+	<entry name="Necrons/HousingBuildingBonusDescription" value="Увеличивает лимит населения."/>
+	<entry name="Necrons/HousingBuildingBonusFlavor" value="Изменяя размерные ограничения для каждого укрытия, много других Некронов могут быть привлечены для ремонта или обслуживания в городе."/>
+	<entry name="Necrons/ImmuneToNaturalLaw" value="Иммунитет к естественным законам"/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за движение через реки и проволочный сорняк. Игнорирует вражескую зону контроля"/>
+	<entry name="Necrons/InfantryBuildingBonus" value="Рафинированное ядро"/>
+	<entry name="Necrons/InfantryBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Necrons/InfantryBuildingBonusFlavor" value="Благодаря лучшим инструментам и меньшим ограничениям Криптеки и Каноптеки способны быстрее пробуждать спящих Некронов."/>
+	<entry name="Necrons/InfluenceBuildingBonus" value="Призрачные надписи"/>
+	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Увеличивает влияние."/>
+	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Горе любого смертному, который посмотрит на эти надписи - их острые края, кажется, колеблются в уголках глаз, принося страх в человеческие сердца."/>
+	<entry name="Necrons/InvasionBeams" value="Лучи нашествия"/>
+	<entry name="Necrons/InvasionBeamsDescription" value="Высадка не требует очков движения."/>
+	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
+	<entry name="Necrons/JetChargeDescription" value="Позволяет уменьшить урон Неуязвимостью."/>
+	<entry name="Necrons/LivingMetal" value="Живой металл"/>
+	<entry name="Necrons/LivingMetalDescription" value="Восстанавливайте Очки здоровья каждый ход."/>
+	<entry name="Necrons/LivingMetalFlavor" value="Понятно, почему Некроны строят свои транспортные средства из того же живого металла, что и их собственные тела, учитывая, насколько он прочен и насколько хорошо он подходит для ремонта повреждений, полученных на поле боя."/>
+	<entry name="Necrons/LoyaltyBuildingBonus" value="Барочный завет"/>
+	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Увеличивает лояльность."/>
+	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="Теперь раскрывается тайное предназначение святилища, хотя история его не закончится до того момента, как Безмолвный Царь отомстит ненасытным Звездным Богам, которые лишили его людей своих душ."/>
+	<entry name="Necrons/MeleeDamage" value="Лезвия из Некродермиса"/>
+	<entry name="Necrons/MeleeDamageDescription" value="Увеличивает урон."/>
+	<entry name="Necrons/MeleeDamageFlavor" value="Изготовленные из невероятно тонких кусочков живого металла Некронов, эти лезвия с беспощадной легкостью проходят через кожу, кости и броню."/>
+	<entry name="Necrons/Nebuloscope" value="Туманоскоп"/>
+	<entry name="Necrons/NebuloscopeDescription" value="Игнорирует уменьшение урона для дальнего огня."/>
+	<entry name="Necrons/NebuloscopeFlavor" value="Это мистическое устройство позволяет пилоту Могильного Клинка отслеживать свою добычу с помощью различных измерений, не оставляя им возможности скрыться."/>
+	<entry name="Necrons/OreBuildingBonus" value="Доверенные рабы"/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Увеличивает добычу руды."/>
+	<entry name="Necrons/OreBuildingBonusFlavor" value="Многим может показаться глупым, вселять некоторую веру в порабощенные молодые расы созданные Древними и улучшать их, но это увеличивает производительность их труда."/>
+	<entry name="Necrons/Chronometron" value="<string name='Actions/Necrons/Chronometron'/>"/>
+	<entry name="Necrons/ChronometronDescription" value="Позволяет уменьшить урон Неуязвимостью."/>
+	<entry name="Necrons/ChronometronFlavor" value="<string name='Actions/Necrons/ChronometronFlavor'/>"/>
+	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Увеличивает броню."/>
+	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
+	<entry name="Necrons/ReanimationProtocols" value="Реанимационные протоколы"/>
+	<entry name="Necrons/ReanimationProtocolsDescription" value="Восстанавливает Очки здоровья каждый ход."/>
+	<entry name="Necrons/ReanimationProtocolsFlavor" value="Некроны имеют сложные системы самовосстановления, которые возвращают даже критически поврежденных воинов в бой."/>
+	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
+	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
+	<entry name="Necrons/ResearchBuildingBonus" value="Инфотип Криптека"/>
+	<entry name="Necrons/ResearchBuildingBonusDescription" value="Увеличивает исследования."/>
+	<entry name="Necrons/ResearchBuildingBonusFlavor" value="Мечтать о новых технологий - это прерогатива Криптеков - и с Инфотипом они могут получать доступ к общей информации без рисков, связанных с прямым соединением «разум - разум»."/>
+	<entry name="Necrons/ShieldVane" value="Щит стабилизатор"/>
+	<entry name="Necrons/ShieldVaneDescription" value="Увеличивает броню."/>
+	<entry name="Necrons/ShieldVaneFlavor" value="Могильные клинки, которые развернуты непосредственно в центре обороны, часто оснащены дополнительными щитами брони."/>
+	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
+	<entry name="Necrons/SleepingSentryDescription" value="Предоставляет Неуязвимость к повреждениям, но препятствует движению или действию подразделения."/>
+	<entry name="Necrons/TargetingRelay" value="<string name='Actions/Necrons/TargetingRelay'/>"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Увеличивает точность дальнего огня."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="<string name='Actions/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/Technomancer" value="Техноколдун"/>
+	<entry name="Necrons/TechnomancerDescription" value="Позволяет Не чувствовать боли, уменьшая урон."/>
+	<entry name="Necrons/VehiclesBuildingBonus" value="Каноптек-рабочий"/>
+	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Назначение конструкторов Каноптеков, для обслуживания и ремонта различных долго бездействующих боевых машин, значительно ускоряет их ремонт."/>
+	<entry name="Necrons/VengeanceOfTheEnchained" value="Отмщение прикованного"/>
+	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Смертельный взрыв наносит дополнительный урон."/>
+	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
+	<entry name="NoEscape" value="Отступление невозможно"/>
+	<entry name="NoEscapeDescription" value="Увеличивает атаку на подразделение с открытым верхом."/>
+	<entry name="OpenTopped" value="Открытый верх"/>
+	<entry name="OpenToppedDescription" value="Классификация"/>
+	<entry name="OpenToppedFlavor" value="У некоторых автомобилей есть только небольшая броня, что делает их более уязвимыми к повреждению из-за их легкой конструкции."/>
+	<entry name="OrationOfRestoration" value="Оракул восстановления"/>
+	<entry name="OrationOfRestorationDescription" value="Восстанавливает очки жизни."/>
+	<entry name="Ordnance" value="Артиллерия"/>
+	<entry name="OrdnanceDescription" value="Увеличивает бронепробиваемость при атаке техники и фортификационных сооружений. Нельзя использовать против пехоты после движения."/>
+	<entry name="OrkoidFungus" value="Оркоидный грибок"/>
+	<entry name="OrkoidFungusDescription" value="Восстанавливает Очки здоровья каждый ход наземных подразделений Орков."/>
+	<entry name="OrkoidFungusFlavor" value="Орки имеют странную симбиотическую связь с грибом, который распространен на их планетах - Орки генетически идентичны им, Сквигам и Гротам. Все эти виды, как правило, появляются из спор гриба, а не рождаются. Орков, потрепанных в битве, было бы разумно отпустить в эти поля грибов, чтобы приобрести (буквально) свежих новобранцев."/>
+	<entry name="OrkoidFungusBonusHealingRate" value="Лес Грибов"/>
+	<entry name="OrkoidFungusBonusHealingRateDescription" value="Восстанавливает Очки здоровья каждый ход наземных подразделений Орков."/>
+	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Как только споры гриба Орков хорошо приживаются на планете, они могут напоминать леса, хотя и состоящие из огромных грибов, выплёвывающих диких Орков, Гротов и Сквигов."/>
+	<entry name="OrkoidFungusFood" value="Снотгриб"/>
+	<entry name="OrkoidFungusFoodDescription" value="Увеличивает производство пищи."/>
+	<entry name="OrkoidFungusFoodFlavor" value="Крошечные Снотлинги, как и все оркоиды, происходят из той же базовой генетической структуры гриба. Хотя в отличие от других оркоидов, ленивые Снотлинги могут так наестся грибами, что стать гигантскими наполовину грибными существами - особым деликатесом для их более крупных братьев Орков."/>
+	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
+	<entry name="Orks/BigBossDescription" value="Увеличивает Очки здоровья."/>
+	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
+	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
+	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
+	<entry name="Orks/BoltDamage" value="Б'алшой Болт"/>
+	<entry name="Orks/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="Orks/BoltDamageFlavor" value="Подобно Крак-болтам Космодесанта, этот модифицированный Меком ствол позволяет пуляле использовать еще более крупные надкалиберные боеприпасы, и дает удачливому получателю сего чуда право хвастаться тем, что он обладает очень убойной пушкой."/>
+	<entry name="Orks/BonusBeastsProduction" value="Б'алшой кнут"/>
+	<entry name="Orks/BonusBeastsProductionDescription" value="Увеличивает выпуск продукции Загона Пагонщиков."/>
+	<entry name="Orks/BonusBeastsProductionFlavor" value="&quot;Мене нужин б'ашой кнут.&quot;<br/>  -- Пагонщик Газл Снотсмер, незадолго до того, как Сквиггот наступил на него."/>
+	<entry name="Orks/BonusColonizersProduction" value="Лом-молот"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="Увеличивает выпуск продукции Двора Мека."/>
+	<entry name="Orks/BonusColonizersProductionFlavor" value="Когда не хватает малогабаритного лома для того, чтобы строить неуклюжие творения, Мек-парни берут более внушительный инструмент, и создают причудливые машины, которые рушат всё на завоеванных мирах."/>
+	<entry name="Orks/BonusInfantryProduction" value="Бол'ше Дакка"/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="Увеличивает выпуск продукции Кучи для Дакки."/>
+	<entry name="Orks/BonusInfantryProductionFlavor" value="&quot;Да лутчая стреляла, каторую я стделал, это д'ля тарчасчий бочки,так ето ана атчаяна стриляет. Што ета была ,памоиму ета да поджига, каторая загарелась. Да, ета харошая дела. Да бессмыслинна - етат бух ... Они пуляют в миня, думая што я стриляю. Да, эта кнопка ... да, это лутший ход. Што ета за дурь, смотри, есть ... есть ... о, чёрт. Нет, етат наглый Босс. Нет, тибе не нужна, чтобы ты ета видил, что кнопка  ... не честна. Не талкайти ета!&quot;<br/>  -- Последние слова, Наздакка Бумсника, Мека."/>
+	<entry name="Orks/BonusVehiclesProduction" value="Чиню-латаю"/>
+	<entry name="Orks/BonusVehiclesProductionDescription" value="Увеличивает выпуск продукции Культа Скорости."/>
+	<entry name="Orks/BonusVehiclesProductionFlavor" value="Большинство технологий Орков не должны работать - жизненно важные компоненты часто отсутствуют или создать такое устройство просто невозможно. Искренняя вера Орков - воплощенная в форме Вааагх! энергии, которая их окружает, - заполняет эти пробелы. Вот почему ускорение производства техники и оружия Орков практически не влияет на его качество..."/>
+	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
+	<entry name="Orks/BustHeadsDescription" value="Уменьшает потерю морали."/>
+	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
+	<entry name="Orks/ChannelMentalEmissionsDescription" value="Увеличивает исследования."/>
+	<entry name="Orks/CityGrowth" value="Босс оратор"/>
+	<entry name="Orks/CityGrowthDescription" value="Увеличивает темп роста населения."/>
+	<entry name="Orks/CityGrowthFlavor" value="&quot;Счас, я не хачу, штобы тута злобна чирикали. Я хочу, штобы Горк пабасил ... был, каторый падымался над адинатцати!&quot;<br/>  -- Краваточащие Уши, Мерфник, военачальник Гоффа и Рока"/>
+	<entry name="Orks/CityInfluence" value="Б'ашая блискала"/>
+	<entry name="Orks/CityInfluenceDescription" value="Увеличивает влияние."/>
+	<entry name="Orks/CityInfluenceFlavor" value="&quot;Я ни знаю, што ета такое, но я хочу их.&quot;-- Варбосс Флзшгруб Ниевиц, глядя на золотые чеканные двери Базилики Империалис на Каталине VII."/>
+	<entry name="Orks/CityLoyalty" value="Поля трофеев"/>
+	<entry name="Orks/CityLoyaltyDescription" value="Увеличивает лояльность."/>
+	<entry name="Orks/CityLoyaltyFlavor" value="Нет ничего другого, что бы так возбуждало Орка, как вид их побежденных врагов (или их останков), сваленных в высоченную кучу, чтобы все могли это видеть."/>
+	<entry name="Orks/CityPopulationLimit" value="Глубокие норы"/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Увеличивает лимит населения."/>
+	<entry name="Orks/CityPopulationLimitFlavor" value="Используя последние механизмы Меков, лачуги и кузницы Орков теперь располагаются глубоко под поверхностью города. Конечно, случайный обвал заставляет Орков кричать из глубин, но это стоит того, чтобы высвободить дополнительное пространства где можно ходить."/>
+	<entry name="Orks/CityResearch" value="Комната для думанья"/>
+	<entry name="Orks/CityResearchDescription" value="Увеличивает эффективность исследований."/>
+	<entry name="Orks/CityResearchFlavor" value="Учитывая, что технология зашита к генах орков, умный Варбосс решит, что надо выделить пространство в городе, рабочую силу и дать немного времени Меку запертому внутри маленькой комнаты полной лома, приказав ему придумать какую-то действительно хорошую Дакку. Это неизменно окупается."/>
+	<entry name="Orks/CityTier2" value="Город трущоб"/>
+	<entry name="Orks/CityTier2Description" value="Увеличивает радиус присоединяемых плиток."/>
+	<entry name="Orks/CityTier2Flavor" value="За пределами каждой стены крепости вырастает город из трущоб Гретчинов, Сквигов, Снотлинги и низших Орков, и коварные зеленые грибы распространяются повсюду, превращая этот мир в генетический образ Орков."/>
+	<entry name="Orks/CityTier3" value="Город хибар"/>
+	<entry name="Orks/CityTier3Description" value="Увеличивает радиус присоединяемых плиток."/>
+	<entry name="Orks/CityTier3Flavor" value="Слава Варбосса распространилась по всей планете невидимой Вааагх! энергией. Везде, где Орки начали размножаться, они ощущают непреодолимую тягу к городам Варбосса, которые теперь разбросаны по близлежащей местности, пристраиваясь к ним бесконечными рядами трущоб и хибар."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Быстрое размножение"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Подразделение создаёт оркоидный грибок, когда оно умирает."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="&quot;Иллюстрация 27: одна «спора» вида Ксеноса № 0451 «Орк». Мы можем заметить в ней грибную текстуру и микрогомункулярные структуры. Мы предполагаем, что эти «споры» порождают новых «Орков» в любой достаточно плодородной обстановке. Когда Орк достигает зрелости (обычно через 30 минут после появления), он испускает споры постоянно, но они появляются в массовом порядке в момент смерти Орка. Пожалуйста, не роняйте это.&quot;<br/>  -- стенограммы лекций, Григомен &quot;любитель Орков&quot; Делр, Вольный торговец и любитель-ксенолог."/>
+	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
+	<entry name="Orks/CyborkImplantsDescription" value="Увеличивает урон и позволяет не боятся уменьшения урона."/>
+	<entry name="Orks/ExtraBitz" value="<string name='Actions/Orks/ExtraBitz'/>"/>
+	<entry name="Orks/ExtraBitzDescription" value="Уменьшает расходы на содержание зданий пищи, руды и энергии."/>
+	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Увеличивает урон и позволяет не боятся уменьшения урона."/>
+	<entry name="Orks/Flyboss" value="Летунабосс"/>
+	<entry name="Orks/FlybossDescription" value="Увеличивает точность дальнобойного огня."/>
+	<entry name="Orks/FlybossFlavor" value="Летунабосс - летун-ас, который пережил больше боев, чем он может посчитать (даже используя пальцы ног)."/>
+	<entry name="Orks/Gitfinda" value="Паискавик"/>
+	<entry name="Orks/GitfindaDescription" value="Повышает точность дальнего огня, если подразделение остается неподвижным."/>
+	<entry name="Orks/GitfindaFlavor" value="Это могут быть сложные бионические окуляры, или монокуляры на шапки, или большие телескопы, или Морк знает что еще. Функция Паискавика заключается в повышении точности при ешо использовании до уровня, близкого к среднему."/>
+	<entry name="Orks/GreenTide" value="Зеленый прилив"/>
+	<entry name="Orks/GreenTideDescription" value=""/>
+	<entry name="Orks/GreenTideFlavor" value="Орков чертовски трудно убить. Кажущиеся мёртвыми в одном бою, они частенько возвращаются в следующем, будучи подлеченными Безумным Доком, либо чудесным образом исцелённые. С каждым боем они становятся всё более жестокими и опытными."/>
+	<entry name="Orks/GreenTideGrowth" value="<string name='Traits/Orks/GreenTide'/>"/>
+	<entry name="Orks/GreenTideGrowthDescription" value="Увеличивает скорость роста населения."/>
+	<entry name="Orks/GreenTideGrowthFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
+	<entry name="Orks/GreenTideHealing" value="<string name='Traits/Orks/GreenTide'/>"/>
+	<entry name="Orks/GreenTideHealingDescription" value="Увеличивает скорость выздоровления."/>
+	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
+	<entry name="Orks/GrotGunner" value="Грот-пушкар"/>
+	<entry name="Orks/GrotGunnerDescription" value="Повышает точность."/>
+	<entry name="Orks/MeleeDamage" value="Б'ашая рубила"/>
+	<entry name="Orks/MeleeDamageDescription" value="Увеличивает урон."/>
+	<entry name="Orks/MeleeDamageFlavor" value="Когда Орки думают об модернизации своего оснащения, они не очень сильно задумываются. Мега-броня, Гигастреляла ... и Б'ашая рубила. Если вы можете носить её, вы можете ею размахивать, а если вы можете ею размахивать, вы можете ударить кого-нибудь ей."/>
+	<entry name="Orks/MightMakesRight" value="Нада делать правелна"/>
+	<entry name="Orks/MightMakesRightDescription" value="Увеличивает влияние при атаке."/>
+	<entry name="Orks/MightMakesRightFlavor" value="Орки чувствуют себя полными жизни, когда они в Вааагх!, а Вааагх! может с﻿уществовать лишь благодаря постоянным битвам. Пока Орки сражаются, Вааагх! будет расти."/>
+	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Позволяет тратить влияние на содержание при атаке."/>
+	<entry name="Orks/Scavenger" value="Мусарщек"/>
+	<entry name="Orks/ScavengerDescription" value="Увеличивает руду при убийстве врага."/>
+	<entry name="Orks/ScavengerFlavor" value="Орки не любят трудиться, предпочитая сиднем сидеть между битвами, выбирая зубы изо рта сквигов и драться друг с другом. Поэтому, вместо того, чтобы добывать полезные ископаемые из земли, они, как правило, собирают её где угодно. Или, скорее не они, а их слуги Гроты."/>
+	<entry name="Orks/Warpath" value="<string name='Actions/Orks/Warpath'/>"/>
+	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
+	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
+	<entry name="Outpost" value="Застава"/>
+	<entry name="OutpostDescription" value="Предоставляет уменьшение урона и увеличивает скорость восстановления союзных подразделений. Позволяет уменьшить урон от дальнего огня для пехоты."/>
+	<entry name="Outflank" value="Обход с фланга"/>
+	<entry name="OutflankDescription" value="Увеличивает точность при расположенном рядом союзным подразделении."/>
+	<entry name="OutflankFlavor" value="Лучший способ удивить врага - ударить из неожиданного места."/>
+	<entry name="Pinned" value="Пришпиленный"/>
+	<entry name="PinnedDescription" value="Уменьшает движение и точность стрельбы, позволяет уменьшить урон от дальнего огня и препятствует тому, чтобы подразделение попадало в засаду."/>
+	<entry name="PinnedFlavor" value="Огонь не известно откуда, или град снарядов с неба, может поколебать решимость даже самых храбрых воинов, заставляя их залечь и прятаться за любым укрытием."/>
+	<entry name="Pinning" value="Пришпиливать"/>
+	<entry name="PinningDescription" value="Временно уменьшает движение выбранное вражеское подразделение и препятствует тому, чтобы подразделение попадало в засаду."/>
+	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
+	<entry name="Poisoned" value="Отравленные"/>
+	<entry name="PoisonedDescription" value="Увеличивает наносимый урон вражеской пехоте."/>
+	<entry name="PoisonedFlavor" value="В темном будущем существует много отравляющих веществ и смертельных ядов. Самое простое их использование в войне - это адаптировать такие токсины для применения их в битве. Не имеет значения, покрывают ли они лезвия или пули оружия, или скрыты внутри инопланетных чудовищ - все они смертельно опасны."/>
+	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
+	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
+	<entry name="PowerOfTheMachineSpiritFlavor" value="<string name='Actions/PowerOfTheMachineSpiritFlavor'/>"/>
+	<entry name="PrecisionShots" value="Меткий выстрел"/>
+	<entry name="PrecisionShotsDescription" value="Повышает точность."/>
+	<entry name="PreferredEnemy" value="Удобный враг"/>
+	<entry name="PreferredEnemyDescription" value="Повышает точность."/>
+	<entry name="PreferredEnemyFlavor" value="Многие из воинов галактики упорно тренируются, чтобы противостоять определенному противнику, что позволяет им предсказывать расстановку противника и тем самым наносить удар в самое слабое место."/>
+	<entry name="PrimaryWeapon" value="Основное оружие"/>
+	<entry name="PrimaryWeaponDescription" value="Увеличивает бронепробиваемость."/>
+	<entry name="PsychicBlock" value="Психический блок"/>
+	<entry name="PsychicBlockDescription" value="Блокирует урон и эффекты следующего вражеского психического воздействия."/>
+	<entry name="PsychicHood" value="Психический капюшон"/>
+	<entry name="PsychicHoodDescription" value="Позволяет уменьшить урон от колдовства."/>
+	<entry name="PsychicLash" value="Психический кнут"/>
+	<entry name="PsychicLashDescription" value="Атаки проникают через все доспехи."/>
+	<entry name="PsychicPower" value="Психическая сила"/>
+	<entry name="PsychicPowerDescription" value="Классификация"/>
+	<entry name="PsychneueinInfest" value="Психнойен-инфекция"/>
+	<entry name="PsychneueinInfestDescription" value="Заражает атакованное подразделение. Если зараженное подразделение умирает, то оно превращается в Психнойенов."/>
+	<entry name="PsychneueinInfestation" value="Заражённый Психнойеном"/>
+	<entry name="PsychneueinInfestationDescription" value="Превращается в Психнойенов после своей смерти."/>
+	<entry name="Psyker" value="Псайкер"/>
+	<entry name="PsykerDescription" value="Классификация"/>
+	<entry name="PsykerFlavor" value="Псайкеры - это мистики поля битвы, которые используют силу Варпа."/>
+	<entry name="Rage" value="Ярость"/>
+	<entry name="RageDescription" value="Увеличивает атаку."/>
+	<entry name="RageFlavor" value="Кровожадность - мощное оружие на поле битвы, побуждающее воина кромсать своих врагов в разгаре бессмысленной (но в высшей степени приносящей удовлетворение) резни."/>
+	<entry name="Rampage" value="Буйство"/>
+	<entry name="RampageDescription" value="Увеличивает силу атак, когда в соседних плитках больше врагов, чем союзников."/>
+	<entry name="RampageFlavor" value="Для некоторых воинов, превосходящая численность врагов, это не повод для отчаяния, а возможность бить своих врагов в неистовых контратаках."/>
+	<entry name="RapidFire" value="Быстрый огонь"/>
+	<entry name="RapidFireDescription" value="Увеличивает атаку на половине дальности."/>
+	<entry name="RecoveryGear" value="Ремкомплекты"/>
+	<entry name="RecoveryGearDescription" value="Увеличивает скорость восстановления."/>
+	<entry name="RecoveryGearFlavor" value="Многие экипажи загружают свои автомобили большим количеством инструментов, буксировочных тросов и другого полезного имущества, которые помогут выкопать застрявшую в грязи технику и не бросать её на произвол судьбы."/>
+	<entry name="RedPaintJob" value="Красная краска"/>
+	<entry name="RedPaintJobDescription" value="Увеличивает урон."/>
+	<entry name="RedPaintJobFlavor" value="Орки считают, что техника, окрашенная в красный цвет, может обогнать аналогичное, не красное транспортное средство. Как ни странно, они не ошибаются."/>
+	<entry name="RefractorField" value="Поле рефрактора"/>
+	<entry name="RefractorFieldDescription" value="Предоставляет Неуязвимость."/>
+	<entry name="RefractorFieldFlavor" value="Часто, переносимые высокопоставленными офицерами и Имперскими героями, мерцающие рефракторные поля, преломляют энергетические атаки вокруг своего носителя, отталкивая взрывы и отражая лезвия, которые в противном случае достигли бы цели."/>
+	<entry name="Regeneration" value="Регенерация"/>
+	<entry name="RegenerationDescription" value="Восстанавливает Очки здоровья каждый ход."/>
+	<entry name="RegenerationFlavor" value="У некоторых подразделений есть возможность оправиться от ужасных ран и травм, которые должны были оказаться смертельными."/>
+	<entry name="Relentless" value="Безжалостный"/>
+	<entry name="RelentlessDescription" value="Нет штрафа за тяжелое оружие и артиллерию."/>
+	<entry name="RelentlessFlavor" value="Бесстрашные воины с сильным вооружением -- ничто не может замедлить их неумолимое наступление."/>
+	<entry name="RelicPlating" value="Гравюра-реликвия"/>
+	<entry name="RelicPlatingDescription" value="Позволяет уменьшить урон от колдовства."/>
+	<entry name="RelicPlatingFlavor" value="Иногда экипаж достигнет эмпатических отношений с машинным духом своего боевого танка. Когда такая команда погибает, их останки могут быть настолько переплетены внутри транспортного средства, что дух продолжает защищаться, отгоняя зловещие силы пустоты."/>
+	<entry name="Rending" value="Разорвать"/>
+	<entry name="RendingDescription" value="Увеличивает урон."/>
+	<entry name="RendingFlavor" value="Некоторое оружие может нанести критический удар, против которых никакая защита не поможет."/>
+	<entry name="RepulsorGrid" value="Сетка репульсор"/>
+	<entry name="RepulsorGridDescription" value="Неуязвимость уменьшает урон."/>
+	<entry name="RitesOfWar" value="Обряды войны"/>
+	<entry name="RitesOfWarDescription" value="Увеличивает урон."/>
+	<entry name="Rosarius" value="Розарий"/>
+	<entry name="RosariusDescription" value="Неуязвимость уменьшает урон."/>
+	<entry name="RosariusFlavor" value="Розарий носят Капелланы Космического Десанта как для защиты, так и как символ должности. Он излучает защитное энергетическое поле вокруг носителя. Он способен отклонять удары и выстрелы, которые могли бы разбить даже ферробетонный бункер. Говорят, что чем сильнее вера Капеллна в могущество Императора, тем сильнее будет силовое поле розария."/>
+	<entry name="Salvo" value="Залп"/>
+	<entry name="SalvoDescription" value="Увеличивает атаку на половине дальности, если подразделение не двигалось."/>
+	<entry name="SavantInterlocution" value="Ученый дуэт"/>
+	<entry name="SavantInterlocutionDescription" value="Увеличивает точность дальнего огня против флаеров и скиммеров, когда подразделение стоит рядом с союзным Охотником."/>
+	<entry name="SavantLock" value="Ученый замок"/>
+	<entry name="SavantLockDescription" value="Повышает точность против летунов, реактивных мотоциклов и скиммеров."/>
+	<entry name="Seeking" value="Ищущий"/>
+	<entry name="SeekingDescription" value="Увеличивает точность дальнего огня против летунов."/>
+	<entry name="Shaken" value="Потрясенный"/>
+	<entry name="ShakenDescription" value="Уменьшает точность и увеличивает получаемый урон."/>
+	<entry name="Shop" value="Магазин"/>
+	<entry name="ShopDescription" value="Позволяет подразделениям героев покупать и продавать предметы."/>
+	<entry name="Shrouded" value="Окутанный пеленой"/>
+	<entry name="ShroudedDescription" value="Позволяет уменьшить урон от дальнего огня."/>
+	<entry name="ShroudedFlavor" value="Природа тьмы вокруг этих воинов не имеет значения для противника - только удачный выстрел имеет шанс пробить саван, который скрывает их."/>
+	<entry name="SiegeMasters" value="Осадный мастер"/>
+	<entry name="SiegeMastersDescription" value="Увеличивает урон при атаке вражеских частей в городах и укреплениях."/>
+	<entry name="SiegeShield" value="Осадный щит"/>
+	<entry name="SiegeShieldDescription" value="Увеличивает броню и уменьшает штраф за передвижение в лесах и по Имперским руинам."/>
+	<entry name="SiegeShieldFlavor" value="Многие Поборники оснащены огромным бульдозерным лезвием, позволяя им без риска передвигаться через руины по полю боя."/>
+	<entry name="Signum" value="Сигнум"/>
+	<entry name="SignumDescription" value="Увеличивает точность дальнего огня."/>
+	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="Skimmer" value="Скиммер"/>
+	<entry name="SkimmerDescription" value="Подразделение может перемещаться по воде и игнорировать штраф за движение через реки и проволочный сорняк."/>
+	<entry name="SkimmerFlavor" value="Некоторая высокотехнологичная техника оснащена антигравитационными приводами, которые позволяют им быстро перемещаться по трудной местности в отрыве от основных войск, что делает их идеальными подразделениями для неожиданных фланговых атак."/>
+	<entry name="SkullsForTheSkullThrone" value="Черепа для Трона черепов"/>
+	<entry name="SkullsForTheSkullThroneDescription" value="Уменьшает урон."/>
+	<entry name="SkullsForTheSkullThroneFlavor" value="Кхорн уважает только сильных и безгранично кровожадных."/>
+	<entry name="Skyfire" value="Небесный огонь"/>
+	<entry name="SkyfireDescription" value="Повышает точность против флаеров и скиммеров, и снижает точность против наземных подразделений."/>
+	<entry name="SkyfireFlavor" value="Оружие Небесный огонь превосходно подходит для стрельбы по вражеским самолетам и скиммерам."/>
+	<entry name="Slowed" value="Тормознутый"/>
+	<entry name="SlowedDescription" value="Снижает точность и движение."/>
+	<entry name="Smash" value="Разгром"/>
+	<entry name="SmashDescription" value="Увеличивает бронепробиваемость в ближнем бою."/>
+	<entry name="SmashFlavor" value="Самым страшным существам достаточно одного удара, чтобы пробить броню танков или раздавить живое существо в кровавую лепёшку."/>
+	<entry name="SmokeScreen" value="Дымовой экран"/>
+	<entry name="SmokeScreenDescription" value="Позволяет уменьшить урон от дальнего огня."/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="SoulBlaze" value="Пламя души"/>
+	<entry name="SoulBlazeDescription" value="Наносит урон каждый ход."/>
+	<entry name="SoulBlazed" value="Пылающая душа"/>
+	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
+	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
+	<entry name="SpaceMarines/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
+	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
+	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
+	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="SpaceMarines/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
+	<entry name="SpaceMarines/CityTier2" value="Расширение крепости"/>
+	<entry name="SpaceMarines/CityTier2Description" value="Увеличивает радиус присоединения плиток."/>
+	<entry name="SpaceMarines/CityTier2Flavor" value="Начался второй этап строительства Крепости. Благодаря созданной основе крепости, Технодесантники получили приказ расширять свою деятельность и создавать вторую линию обороны."/>
+	<entry name="SpaceMarines/CityTier3" value="Передовые редуты"/>
+	<entry name="SpaceMarines/CityTier3Description" value="Увеличивает радиус присоединения плиток.."/>
+	<entry name="SpaceMarines/CityTier3Flavor" value="Третий этап строительства крепости предполагает создание независимых гарнизонов и контрфорсов вдоль дополнительной линии городских стен. В тени этих циклопических барьеров, Сервиторы и крепостные рабочие проводят свою жизнь, решая одну задачу за другой."/>
+	<entry name="SpaceMarines/CityTier4" value="Крепость-Вселенная"/>
+	<entry name="SpaceMarines/CityTier4Description" value="Увеличивает радиус присоединения плиток."/>
+	<entry name="SpaceMarines/CityTier4Flavor" value="Это расширение Мастер-механик объявляет последним этапом строительства Крепости. Теперь она соперничает по своим масштабам с городом-ульем. Внутри его неприступных стен вы можете чувствовать всю мощь Империи. Снаружи, местные племена приходят и с огромного расстояния отдают вам дань уважения, в то время как их лучшие воины надеются быть принятыми для смертельных испытаний, которые могут привести их к преобразованию в Космические Десантники."/>
+	<entry name="SpaceMarines/MeleeDamage" value="Мастерство ближнего боя"/>
+	<entry name="SpaceMarines/MeleeDamageDescription" value="Увеличивает урон."/>
+	<entry name="SpaceMarines/MeleeDamageFlavor" value="Некоторые Ордена Адептус Астартеса - Космические Волки, Кровопийцы, Минотавры - славятся своим мастерством ближнего боя. Чтобы выучить технику ударов, даже вновь посвященным скаутам Десантникам из этих Орденов, нужно впитать в себя поколениями накопленные знания и много учиться."/>
+	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
+	<entry name="SpaceSlipDescription" value="Неуязвимость снижает урон."/>
+	<entry name="Stealth" value="По тихому"/>
+	<entry name="StealthDescription" value="Увеличивает уменьшение урона от дальнего огня."/>
+	<entry name="StealthFlavor" value="Некоторые воины - мастера маскировки и скрытности, способные исчезнуть в руинах поля битвы, пока не подготовятся к удару."/>
+	<entry name="StrafingRun" value="Огонь с бреющего полёта"/>
+	<entry name="StrafingRunDescription" value="Увеличивает точность дальнего огня при атаке наземных подразделений."/>
+	<entry name="StrafingRunFlavor" value="Эта машина спроектирован для наземной атаки с воздуха, её оружие имеет разную дальность и предназначено для максимизации урона наносимого противнику расположенного ниже."/>
+	<entry name="Strikedown" value="Свалить с ног"/>
+	<entry name="StrikedownDescription" value="Временно уменьшает движение и точность пехотного подразделения."/>
+	<entry name="StrikedownFlavor" value="Достаточно сильный удар может сбить с ног даже самого сильного воина."/>
+	<entry name="Stubborn" value="Упрямый"/>
+	<entry name="StubbornDescription" value="У подразделения не может быть сломлена мораль."/>
+	<entry name="StubbornFlavor" value="Многие воины живут и умирают в соответствии с принципом «смерть, а не бесчестье». Такие воины не делают шага назад перед лицом опасности."/>
+	<entry name="Stunned" value="Ошеломление"/>
+	<entry name="StunnedDescription" value="Препятствует перемещению или действию подразделению."/>
+	<entry name="Summon" value="Призыв"/>
+	<entry name="SummonDescription" value="Классификация"/>
+	<entry name="SuperHeavy" value="Сверхтяжелый"/>
+	<!-- <entry name="SuperHeavyDescription" value="Сверхтяжелые машины взрываются при их уничтожении, нанося ущерб всем соседним подразделениям."/> -->
+	<entry name="SuperHeavyFlavor" value="Огромные бронированные конструкции, каждая из которых обладает достаточной огневой мощью для разгрома, испарения или сжигания всей армии."/>
+	<entry name="Supersonic" value="Сверхзвуковой"/>
+	<entry name="SupersonicDescription" value="Увеличивает движение."/>
+	<entry name="SupersonicFlavor" value="Сверхзвуковые транспортные средства в высшей степени быстры, даже по меркам стандартных самолетов, что делает их исключительно мобильными в бою."/>
+	<entry name="Swarms" value="Стая"/>
+	<entry name="SwarmsDescription" value="Полученный урон распределяется равномерно по всей группе подразделений, но группа получает дополнительный урон от взрывного и типичного оружия."/>
+	<entry name="SwarmsFlavor" value="Эти существа настолько многочисленны, что не могут действовать индивидуально, и их нужно вести только группой."/>
+	<entry name="Swiftstrike" value="Быстрый удар"/>
+	<entry name="SwiftstrikeDescription" value="Увеличивает атаку."/>
+	<entry name="TacticalDoctrine" value="Тактическая доктрина"/>
+	<entry name="TacticalDoctrineDescription" value="Повышает точность."/>
+	<entry name="TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
+	<entry name="Tank" value="Танк"/>
+	<entry name="TankDescription" value="Классификация"/>
+	<entry name="TankFlavor" value="Танки могут использовать свою массу в качестве оружия, направляясь прямо и через плотно расположенных врагов. Это часто повергает противника в беспорядок, такой чудовищный металлический бегемот, идущий прямо на вас, нервирует всех."/>
+	<entry name="TankHunters" value="Охотники за танками"/>
+	<entry name="TankHuntersDescription" value="Увеличивает бронепробиваемость при атаке вражеской техники."/>
+	<entry name="TankHuntersFlavor" value="Эти ветераны бронетанковой войны могут идентифицировать слабые места вражеской техники и соответствующим образом нацеливать свой огонь на уязвимые места."/>
+	<entry name="TelekineDome" value="Телекин-колпак"/>
+	<entry name="TelekineDomeDescription" value="Позволяет уменьшить урон от дальнего огня."/>
+	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
+	<entry name="TeleportHomer" value="Маяк Телепора"/>
+	<entry name="TeleportHomerDescription" value="При орбитальном развертывание не используются очки действия при развертывании Отделения Терминаторов рядом с этим подразделением."/>
+	<entry name="TeleportHomerFlavor" value="Телепортационный маяк испускает мощный сигнал, позволяющий с орбиты Ударным Крейсерам зафиксировать их своим телепортационным оборудованием. Пеленгация точных координат этого сигнала,  значительно снижает риск пропустить намеченную цель."/>
+	<entry name="Template" value="Образец"/>
+	<entry name="TemplateDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="TerminatorArmour" value="Броня Терминатора"/>
+	<entry name="TerminatorArmourDescription" value="Неуязвимость уменьшает урон."/>
+	<entry name="TerminatorArmourFlavor" value="Броня Терминатора - лучшая защита, которую может получить Космодесантник. Говорят, что броня Терминатора может противостоять гигантской энергии ядра плазменного генератора и что это, по сути,и есть оригинальная цель создания этой брони."/>
+	<entry name="Tesla" value="Тесла"/>
+	<entry name="TeslaDescription" value="Увеличивает атаку."/>
+	<entry name="TeslaFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TeslaDamage" value="Виридианский разряд"/>
+	<entry name="TeslaDamageDescription" value="Увеличивает урон."/>
+	<entry name="TeslaDamageFlavor" value="Светящаяся зеленая молния, выбрасываемая этими экзотическим и древним оружием Некронов, слегка потрескивает, извивается и, визуально ползает по любой цели, в которую она попадает, двигаясь так, как будто у нее есть собственный разум."/>
+	<entry name="TheFleshIsWeak" value="Слабая плоть"/>
+	<entry name="TheFleshIsWeakDescription" value="Позволяет не испытывать боли, уменьшая урон."/>
+	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
+	<entry name="TrainedSentinelPilots" value="Обученные пилоты Часового"/>
+	<entry name="TrainedSentinelPilotsDescription" value="Увеличивает урон."/>
+	<entry name="TrainedSentinelPilotsFlavor" value="Часовой используется в разных ролях во всем Империуме людей - от силовых подъемников для загрузки оружия в звездолет, до разведчиков с открытым верхов. Некоторые Часовые оснащены улучшенной броней и стабилизаторами для несения более тяжелого оружия. Это изменяет роль Часового от поддержки и разведки, до уровня тяжелой огневой платформы."/>
+	<entry name="Traktor" value="Тормоз"/>
+	<entry name="TraktorDescription" value="Временно снижает движение и точность летунов."/>
+	<entry name="Transport" value="Транспорт"/>
+	<entry name="TransportDescription" value="Позволяет транспортировать пехотные подразделения."/>
+	<entry name="TurboBoost" value="Турбоускорение"/>
+	<entry name="TurboBoostDescription" value="Увеличивает движение."/>
+	<entry name="Tusked" value="Бивни"/>
+	<entry name="TuskedDescription" value="Увеличивает атаку оружия ближнего боя."/>
+	<entry name="Tyranids/AcidBlood" value="Едкая кровь"/>
+	<entry name="Tyranids/AcidBloodDescription" value="Враги, атакующие это подразделение в ближнем бою, получают урон."/>
+	<entry name="Tyranids/AcidBloodFlavor" value="Инопланетная кровь, пролитая определенными видами тиранидов, настолько агрессивна, что она может проникнуть через керамитовые доспехи и растворить плоть в один момент."/>
+	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Увеличивает уменьшение уронаот Не чувствовать боли."/>
+	<entry name="Tyranids/AdaptiveBiologyFlavor" value="<string name='Actions/Tyranids/AdaptiveBiologyFlavor'/>"/>
+	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Повышает точность."/>
+	<entry name="Tyranids/AlphaWarriorFlavor" value="<string name='Actions/Tyranids/AlphaWarriorFlavor'/>"/>
+	<entry name="Tyranids/Biomorph" value="Биоморф"/>
+	<entry name="Tyranids/BiomorphDescription" value="Классификация"/>
+	<entry name="Tyranids/BiomorphDamage" value="Биоморфная адаптация"/>
+	<entry name="Tyranids/BiomorphDamageDescription" value="Увеличивает урон."/>
+	<entry name="Tyranids/BiomorphDamageFlavor" value="Рожденные не в полной готовности к любой ситуации, тираниды имеют различную степень адаптации, которая определяеется их ДНК. Расширение этой возможности является дорогостоящей с точки зрения ресурсов, но позволяет им изменять свое поведение и физические возможности в полевых условиях."/>
+	<entry name="Tyranids/BoundingLeap" value="Затяжной прыжок"/>
+	<entry name="Tyranids/BoundingLeapDescription" value="Отменяет штраф за движение через реки."/>
+	<entry name="Tyranids/BroodProgenitor" value="<string name='Actions/Tyranids/BroodProgenitor'/>"/>
+	<entry name="Tyranids/BroodProgenitorDescription" value="Повышает атаку."/>
+	<entry name="Tyranids/BroodProgenitorFlavor" value="<string name='Actions/Tyranids/BroodProgenitorFlavor'/>"/>
+	<entry name="Tyranids/ChameleonicSkin" value="Кожа хамелеона"/>
+	<entry name="Tyranids/ChameleonicSkinDescription" value="Увеличивает уменьшение получаемого урона от дальнего боя."/>
+	<entry name="Tyranids/CityDamage" value="Зал Пауков"/>
+	<entry name="Tyranids/CityDamageDescription" value="Наносит урон каждый ход."/>
+	<entry name="Tyranids/CityDamageFlavor" value="Войти в зрелый город Тиранид - значит идти среди великанов - враждебных, биологически созданных великанов, полных решимости поглотить вас. Покрытый токсином лес ворсинок, долины прорастающие зубами закрывающимися, как пасть, и сжиматели размером с городскую площадь - все это внезапно открывается, сбрасывая целые неосторожные армии в кислотные Пищеварительные бассейны."/>
+	<entry name="Tyranids/CityGrowth" value="Агрессивное Расширение"/>
+	<entry name="Tyranids/CityGrowthDescription" value="Увеличивает темпы роста населения."/>
+	<entry name="Tyranids/CityGrowthFlavor" value="Города тиранидов уделяют мало внимания своим размерам, а вместо этого сосредотачиваются на производительности. Пока город эффективно производит войска, не имеет значения, сколько занимает он земли. Но когда город должен расширяться, он может сделать это чрезвычайно быстро - от сжимателей вылетают крючковатые сухожилия, выкидывая семенные коробочки в ландшафт, где они прорываются, как колючие душители. В один момент земля захватывается быстро растущей новой структурой."/>
+	<entry name="Tyranids/CityLoyalty" value="Расщепление серого вещества"/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Уменьшает штраф лояльности для количества городов."/>
+	<entry name="Tyranids/CityLoyaltyFlavor" value="Во всём улье, от огромных рожающих организмов, до более мелких существ, занимающихся обслуживанием, рассеяны небольшие порции серого вещества, которые повышают легкость контроля за роем."/>
+	<entry name="Tyranids/CityPopulationLimit" value="Биогенез Органеллы"/>
+	<entry name="Tyranids/CityPopulationLimitDescription" value="Увеличивает лимит населения."/>
+	<entry name="Tyranids/CityPopulationLimitFlavor" value="Ничто не «живет» в городе-улье Тиранидов в истинном смысле этого слова. Безмозглые существа порождают «органеллы», которые выполняют важные функции, прежде чем их вновь поглотят. Можно внести изменения в структуру города, позволяющие этим организмам размножаться и перерождаться в гораздо более короткие сроки, что позволяет увеличить их общую численность."/>
+	<entry name="Tyranids/CityProduction" value="Продвинутые роды"/>
+	<entry name="Tyranids/CityProductionDescription" value="Увеличивает выпуск продукции."/>
+	<entry name="Tyranids/CityProductionFlavor" value="Врямя за которое новорожденные тираниды покидают свои родовые дома, относительно велико, и это неэффективно. Генеторы, однако, заметили некоторые специальные приспособления зданий, которые изгоняют новорожденное существо из своего мешка для рождения судорожным электрическим импульсом, позволяя быстро его использовать мешок повторно."/>
+	<entry name="Tyranids/CityTier2" value="Расщипление рыхлителя"/>
+	<entry name="Tyranids/CityTier2Description" value="Увеличивает радиус возможного присоединения плиток."/>
+	<entry name="Tyranids/CityTier2Flavor" value="По мере созревания улья больше нет нужды таких огромных количествах Потрошителей для целей безопасности. Направляя их в соседнюю местность Разум улья может координировать свое  пищевое поведение в более широком диапазоне дальности."/>
+	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
+	<entry name="Tyranids/DominionDescription" value="Увеличивает лояльность."/>
+	<entry name="Tyranids/DominionFlavor" value="<string name='Actions/Tyranids/DominionFlavor'/>"/>
+	<entry name="Tyranids/ExploitWeaknesses" value="<string name='Actions/Tyranids/ExploitWeaknesses'/>"/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Уменьшает броню."/>
+	<entry name="Tyranids/ExploitWeaknessesFlavor" value="<string name='Actions/Tyranids/ExploitWeaknessesFlavor'/>"/>
+	<entry name="Tyranids/FeederBeast" value="Чудовище-едок"/>
+	<entry name="Tyranids/FeederBeastDescription" value="Повреждения полученные этим подразделением, преобразуются в Очки здоровья."/>
+	<entry name="Tyranids/GraspingTail" value="<string name='Actions/Tyranids/GraspingTail'/>"/>
+	<entry name="Tyranids/GraspingTailDescription" value="Уменьшает атаки."/>
+	<entry name="Tyranids/GraspingTailFlavor" value="<string name='Actions/Tyranids/GraspingTailFlavor'/>"/>
+	<entry name="Tyranids/HiveCommander" value="<string name='Actions/Tyranids/HiveCommander'/>"/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Увеличивает урон для врагов и уменьшение урона для своих."/>
+	<entry name="Tyranids/HiveCommanderFlavor" value="<string name='Actions/Tyranids/HiveCommanderFlavor'/>"/>
+	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Уменьшает мораль каждый ход."/>
+	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
+	<entry name="Tyranids/InfantryUpkeep" value="Инстинкты тощих"/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Снижает содержание биомассы."/>
+	<entry name="Tyranids/InfantryUpkeepFlavor" value="Разум улья обычно осуществляет строгий контроль над своим роем, направляя все, кроме бессознательных действий, - но ослабив этот контроль, меньшие организмы могут получат достаточные условия, чтобы кормиться самим."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Инстинктивное поведение (питаться)"/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="Подразделение теряет Очки здоровья каждый ход, находясь за пределами влияния синаптического существа."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedFlavor" value="Если не контрольная,координирующая и доминирующая воля Разума улья, многие существа тиранидов вернутся к своим основным инстинктам."/>
+	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Инстинктивное поведение (Охота)"/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="Подразделение теряет движение каждый ход, находясь вне зоны действия синаптического существа."/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Инстинктивное поведение (прятаться)"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="Подразделение теряет мораль каждый ход, находясь за пределами действия синаптического существа."/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Отмена инстинктивного поведения"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="Инстинктивное поведение подразделение отменено."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Увеличивает урон."/>
+	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
+	<entry name="Tyranids/LongRangedDamage" value="Окулярное распространение"/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Увеличивает урон."/>
+	<entry name="Tyranids/LongRangedDamageFlavor" value="Прицеливание во врагов на дальнем расстоянии может быть затруднено с помощью простого бинокулярного зрения. Разумная адаптация состоит в том, чтобы увеличить разнообразие и количество глазных датчиков, доступных организму, чтобы улучшить прицеливание на все типы врагов."/>
+	<entry name="Tyranids/MassIncubation" value="<string name='Actions/Tyranids/MassIncubation'/>"/>
+	<entry name="Tyranids/MassIncubationDescription" value="<string name='Actions/Tyranids/MassIncubationDescription'/>"/>
+	<entry name="Tyranids/MassIncubationFlavor" value="<string name='Actions/Tyranids/MassIncubationFlavor'/>"/>
+	<entry name="Tyranids/MeleeDamage" value="Симбиоз Биооружия"/>
+	<entry name="Tyranids/MeleeDamageDescription" value="Увеличивает урон."/>
+	<entry name="Tyranids/MeleeDamageFlavor" value="Когда тираниды были впервые обнаружены, в частности их предшественники - зоаты, их вооружение, как правило, представляло собой ряд раздельных организмов. Со временем Тираниды и их оружие слились в одно."/>
+	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
+	<entry name="Tyranids/OnslaughtDescription" value="Увеличивает движение."/>
+	<entry name="Tyranids/OnslaughtFlavor" value="<string name='Actions/Tyranids/OnslaughtFlavor'/>"/>
+	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
+	<entry name="Tyranids/ParoxysmDescription" value="Снижает точность."/>
+	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
+	<entry name="Tyranids/PreyAdaptation" value="Адаптация к жертве"/>
+	<entry name="Tyranids/PreyAdaptationDescription" value="Разум улья увеличивает исследования, когда Малантроп приобретает опыт."/>
+	<entry name="Tyranids/PreyAdaptationFlavor" value="Малантроп не только собирает новые генетические данные от трупов - он также вполне способен наблюдать за изученными закономерностями, передаваемыми существами друг другу, будь то родитель или учитель, и сохранять их для кодирования в существах Ума Разума."/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="Родовые каналы"/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Уменьшает затраты влияние на содержание."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="Это простой эволюционный сдвиг в структуре больших организмов, составляющих улей тиранидов. Родильные каналы - это что-то вроде биологических производственных линий, позволяющих производить много существ параллельно, без непосредственного надзора за разумом улья."/>
+	<entry name="Tyranids/RakingStrike" value="Сметающий удар"/>
+	<entry name="Tyranids/RakingStrikeDescription" value="Увеличивает атаку Карги в ближнем бою. Дополнительно увеличивает атаки в ближнем бою против летунов."/>
+	<entry name="Tyranids/RakingStrikeFlavor" value="Удлинение и закалка остроконечных шпор Карги позволяет ей наносить смертельные удары по врагу. Кроме того, заостренные кончики крыльев позволяют Карге метко поражать вражеских пилотов."/>
+	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
+	<entry name="Tyranids/RapaciousHungerDescription" value="Увеличивает атаку."/>
+	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
+	<entry name="Tyranids/Reclamation2" value="Синаптический арчевор"/>
+	<entry name="Tyranids/Reclamation2Description" value="Снижает стоимость влияния."/>
+	<entry name="Tyranids/Reclamation2Flavor" value="Пищеварительные бассейны могут показаться самыми простыми из организмов тиранидов - пузырящиеся пищеварительные ямы для переваривания биомассы - но учитывая их основную функцию в жизненном цикле тиранидов, они, несомненно, были усовершенствовались на протяжении многих поколений. Эта конкретная адаптация размещает управляющие синапсы на краю каждого бассейна для управления пищеварением с меньшим затратами на контроль Разума улья."/>
+	<entry name="Tyranids/Reclamation3" value="Ускорители ассимиляции"/>
+	<entry name="Tyranids/Reclamation3Description" value="Обнуляет время перезарядки."/>
+	<entry name="Tyranids/Reclamation3Flavor" value="Пищеварение должно быть эффективным процессом, чтобы наилучшим образом служить Разуму улья - каждая базовая частица биомассы, которая теряется, может означать поражение роя. Эта адаптация делает регенерацию непрерывным процессом, который обеспечивает высокий процент извлечения биомассы."/>
+	<entry name="Tyranids/Regeneration" value="Регенерация"/>
+	<entry name="Tyranids/RegenerationDescription" value=""/>
+	<entry name="Tyranids/RegenerationFlavor" value="Некоторые тираниды обладают способностью восстанавливаться после полученных ужасных ран и травм, которые должны были оказаться смертельными."/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="Адаптация мусорщиков"/>
+	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Уменьшает затраты влияния на содержание."/>
+	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="Разум улья обычно осуществляет строгий контроль над своим роем, направляя все, кроме бессознательных действий, - но ослабив этот контроль, меньшие организмы могут получат достаточные условия, чтобы кормиться самим."/>
+	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Уменьшает броню."/>
+	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
+	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Уменьшает мораль каждый ход."/>
+	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
+	<entry name="Tyranids/ShortRangedDamage" value="Улей Гигабурильщиков"/>
+	<entry name="Tyranids/ShortRangedDamageDescription" value="Увеличивает урон."/>
+	<entry name="Tyranids/ShortRangedDamageFlavor" value="Уникальное отвратительное гнездо бурильщиков состоит из компактного гнезда жуков-бурильщиков, кислотных насекомых, которые запускаются из оружия. Ульи Гигабурильщиков содержат меньшее количество гораздо больших жуков, которые наносят больший урон."/>
+	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
+	<entry name="Tyranids/SporeCloudDescription" value="Позволяет уменьшить получаемый урон от дальнего огня."/>
+	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
+	<entry name="Tyranids/SymbioticTargeting" value="Симбиотическое прицеливание"/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Увеличивает точность дальнего огня, если подразделение остается неподвижным."/>
+	<entry name="Tyranids/SynapseLink" value="Синаптическая связь"/>
+	<entry name="Tyranids/SynapseLinkDescription" value="Подразделение не зависит от морали, невосприимчиво к страху и не подвержено инстинктивному поведению."/>
+	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/SynapticBacklash" value="Синаптический люфт"/>
+	<entry name="Tyranids/SynapticBacklashDescription" value="Термаганты в области получают урон, когда тервигон умирает."/>
+	<entry name="Tyranids/SynapticBacklashFlavor" value="Тираниды не испытывают привязанности друг к другу. Обычно они будут спокойно наблюдать за тем, как их соседи по гнезду умирают или уходят в Пищеварительный бассейн. Поэтому психическая травма, которую выводок Тервигона получает в момент его смерти, является странной, особенно учитывая кажущуюся неспособность Разума улья устранить это. Возможно, это наследие какой-либо давно умершей расы, на которой были основаны генетическая матрица Тервигона, и символ того, что Разум улья редко вводит в инновации, и в основном это заимствования от других рас."/>
+	<entry name="Tyranids/ToxinSacs" value="Мешочки токсинов"/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Увеличивает урон вражеской пехоты."/>
+	<entry name="Tyranids/ToxinSacsFlavor" value="Эти паразитарные железы выделяют ужасную жидкость, которая покрывает когти и клыки Тиранид летальным разнообразием чужеродных ядов."/>
+	<entry name="Tyranids/Tunnel2" value="Эхиуридные стены"/>
+	<entry name="Tyranids/Tunnel2Description" value="Увеличивает Очки здоровья"/>
+	<entry name="Tyranids/Tunnel2Flavor" value="Стены выводков быстро растут, хотя они, как правило, являются относительно хрупкими существами по меркам Тиранид. Генеторы наблюдали адаптации, которые растут медленнее, но со временем наращивают мышечную массу и становятся более устойчивыми к воздействиям противника."/>
+	<entry name="Tyranids/VehiclesUpkeep" value="Мегаинстинкты"/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Снижает расходы биомассы на содержание."/>
+	<entry name="Tyranids/VehiclesUpkeepFlavor" value="Разум улья обычно поддерживает строгий контроль в своём рое, направляя всё, кроме бессознательных действий. Исключением являются альфа-существа. Разум ослабляет контроль над более крупными организмами может передать им управление над меньшим организмам, что позволяет им выживать без прямого контроля."/>
+	<entry name="Tyranids/WarpField" value="Поле Варпа"/>
+	<entry name="Tyranids/WarpFieldDescription" value="Предоставляет неуязвимость уменьшению урона."/>
+	<entry name="Tyranids/WarpFieldFlavor" value="Зоантропы являются жизненно важными существами для передачи психической силы Разума улья и создаются с мощным чувством самосохранения. Поэтому они инстинктивно проецируют мощное Варп поле, чтобы защитить себя в битве. Невидимый щит слегка мерцает,одинаково защищая его от стрелкового и тяжелого оружия."/>
+	<entry name="TwinLinked" value="Спаренные Близнецы"/>
+	<entry name="TwinLinkedDescription" value="Повышает точность."/>
+	<entry name="TwinLinkedFlavor" value="Для большей точности эти орудия связаны одной и той же системой прицеливания."/>
+	<entry name="Unwieldy" value="Неуклюжий"/>
+	<entry name="UnwieldyDescription" value="Снижает точность."/>
+	<entry name="UnwieldyFlavor" value="Это оружие очень большое и более чем неуклюжее, что делает быстрый огонь практически невозможным."/>
+	<entry name="VectoredAfterburners" value="Векторный форсаж"/>
+	<entry name="VectoredAfterburnersDescription" value="Увеличивает скорость передвижения и уменьшает урон от дальнего огня."/>
+	<entry name="Vehicle" value="Техника"/>
+	<entry name="VehicleDescription" value="Отменяет штраф за тяжелое оружие и артиллерию."/>
+	<entry name="VehicleFlavor" value="Война - это не обмен исключительно жизнями солдат, а также могучими военными машинами и танками."/>
+	<entry name="VoxCaster" value="Вокс станция"/>
+	<entry name="VoxCasterDescription" value="Уменьшает потерю морали."/>
+	<entry name="VoxCasterFlavor" value="Вокс станция - это надежный коммуникационный массив, подключенный к тактической командной сети, с помощью узконаправленных передатчиков."/>
+	<entry name="Waaagh" value="Вааагх!"/>
+	<entry name="WaaaghDescription" value="Увеличивает урон."/>
+	<entry name="WaaaghFlavor" value="Вааагх! это радость жизни, крестовый поход, огромная психическая сила, осязаемая аура веры и, возможно, сами боги Орков. Всё превращается в один шумный, гудящий рев восхитительной агрессии, гонящий Орков через галактику и требующий от них ввязываться в бой. Это основа бытия Орков."/>
+	<entry name="Weakened" value="Ослабленные"/>
+	<entry name="WeakenedDescription" value="Уменьшает движение и урон."/>
+	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="WireWeedDescription" value="Несёт урон каждый ход."/>
+	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
+	<entry name="Witchfire" value="Колдовской огонь"/>
+	<entry name="WitchfireDescription" value="Классификация"/>
+	<entry name="Zzap" value="Ззап"/>
+	<entry name="ZzapDescription" value=""/>
+	<entry name="ZzapFlavor" value="Ззап пушки стреляют нестабильными болтами молниями. Они могут пробить корпус даже самой тяжелой техники противника, потрескивающим ливней искр, но они имеют тенденцию к перегрузке и электромутации пушкаря."/>
+	<entry name="Zealot" value="Фанатик"/>
+	<entry name="ZealotDescription" value="Увеличивает мораль и урон в ближнем бою, а также предоставляет иммунитет к страху."/>
+	<entry name="ZealotFlavor" value="Фанатики сражаются независимо от их потерь и не обращая внимания на ужасы войны; их ведет вперед их убеждение."/>
+</language>

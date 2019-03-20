@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Climate0Name0" value="Поля из Рифм"/>
+	<entry name="Climate0Name1" value="Домен Вайтут"/>
+	<entry name="Climate0Name2" value="Изморозь"/>
+	<entry name="Climate0Name3" value="Нулевое Раздолье"/>
+	<entry name="Climate0Name4" value="Ундрах"/>
+	<entry name="Climate0Name5" value="Цикл"/>
+	<entry name="Climate0Name6" value="Белая льдина"/>
+	<entry name="Climate0Name7" value="Гелит"/>
+	<entry name="Climate0Name8" value="Точки Элдсноса"/> 
+	<entry name="Climate0Name9" value="Тихий лёд"/>
+	<entry name="Climate0Name10" value="Шкура ледяного языка"/>
+	<entry name="Climate0Name11" value="Кристаллическое Пальто"/>
+	<entry name="Climate0Name12" value="Замороженная Тоска"/>
+	<entry name="Climate0Name13" value="Тайга и Тундра"/>
+	<entry name="Climate0Name14" value="Бесплодная Арктика"/>
+	<entry name="Climate0Name15" value="Криосфера Перешейка"/>
+	<entry name="Climate0Name16" value="Хребет Заструги"/>
+	<entry name="Climate0Name17" value="Морская полынья"/>
+	<entry name="Climate0Name18" value="Берег Алмаза "/>
+	<entry name="Climate0Name19" value="Ледниковый дреф"/>
+	<entry name="Climate0NameCount" value="20"/>
+	<entry name="Climate1Name0" value="Пустыня Санси "/>
+	<entry name="Climate1Name1" value="Пески Ссизиз"/>
+	<entry name="Climate1Name2" value="Джумес"/>
+	<entry name="Climate1Name3" value="Oё"/>
+	<entry name="Climate1Name4" value="Сикахара"/>
+	<entry name="Climate1Name5" value="Шопот"/>
+	<entry name="Climate1Name6" value="Пустыня Сухих костей "/>
+	<entry name="Climate1Name7" value="Море Каменных волн"/>
+	<entry name="Climate1Name8" value="Паачлип"/>
+	<entry name="Climate1Name9" value="Солнечная смерть"/>
+	<entry name="Climate1Name10" value="Долина Засухи "/>
+	<entry name="Climate1Name11" value="Тропа из костей Примарха"/>
+	<entry name="Climate1Name12" value="Оазисы пыли"/>
+	<entry name="Climate1Name13" value="Песочные часы Древних"/>
+	<entry name="Climate1Name14" value="Брошення земля"/>
+	<entry name="Climate1Name15" value="Сьерра Плохой дом"/>
+	<entry name="Climate1Name16" value="Унылый песчаный дрейф"/>
+	<entry name="Climate1Name17" value="Падшие Земли"/>
+	<entry name="Climate1Name18" value="Долина Костей "/>
+	<entry name="Climate1Name19" value="Могильный дрейф"/>
+	<entry name="Climate1NameCount" value="20"/>
+	<entry name="Climate2Name0" value="Потеющий"/>
+	<entry name="Climate2Name1" value="Молчаливые небесные листья"/>
+	<entry name="Climate2Name2" value="Большая отравленная ловушка"/>
+	<entry name="Climate2Name3" value="Душа леса"/>
+	<entry name="Climate2Name4" value="Лес Ксилхоем"/>
+	<entry name="Climate2Name5" value="Зеленые кошки"/>
+	<entry name="Climate2Name6" value="Жизнь бездны"/>
+	<entry name="Climate2Name7" value="Имперское что-то"/>
+	<entry name="Climate2Name8" value="Течка"/>
+	<entry name="Climate2Name9" value="Корневище"/>
+	<entry name="Climate2Name10" value="Навес Альтемора"/>
+	<entry name="Climate2Name11" value="Джунгли когтей"/>
+	<entry name="Climate2Name12" value="Дебри Отчаянья"/>
+	<entry name="Climate2Name13" value="Рай для вшивых"/>
+	<entry name="Climate2Name14" value="Сады Потерь"/>
+	<entry name="Climate2Name15" value="Джунгли чёрного корня"/>
+	<entry name="Climate2Name16" value="Проклятая пустыня."/>
+	<entry name="Climate2Name17" value="Дурной куст"/>
+	<entry name="Climate2Name18" value="Бесконечные колючки"/>
+	<entry name="Climate2Name19" value="Веб Лиана"/>
+	<entry name="Climate2Name20" value="Роща шипов"/>
+	<entry name="Climate2Name21" value="Лабиринт шпор"/>
+	<entry name="Climate2NameCount" value="22"/>
+	<entry name="Climate3Name0" value="Ветер праха"/>
+	<entry name="Climate3Name1" value="Горы Небесногог пекла "/>
+	<entry name="Climate3Name2" value="Имперский Тремлан"/>
+	<entry name="Climate3Name3" value="Область Аккрак "/>
+	<entry name="Climate3Name4" value="Новая отдушина Мэга"/>
+	<entry name="Climate3Name5" value="Пыринг"/>
+	<entry name="Climate3Name6" value="Каменное Море"/>
+	<entry name="Climate3Name7" value="Флом и Флек"/>
+	<entry name="Climate3Name8" value="Каменный дождь"/>
+	<entry name="Climate3Name9" value="Трус"/>
+	<entry name="Climate3Name10" value="Новый Сухой холм"/>
+	<entry name="Climate3Name11" value="Поток смерти Кальдерона"/>
+	<entry name="Climate3Name12" value="Трон Древних"/>
+	<entry name="Climate3Name13" value="Красная Гора"/>
+	<entry name="Climate3Name14" value="Дрожащий Тор"/>
+	<entry name="Climate3Name15" value="Искрящиеся Скалы"/>
+	<entry name="Climate3Name16" value="Адские Земли"/>
+	<entry name="Climate3Name17" value="Голочар"/>
+	<entry name="Climate3Name18" value="Угли Кауста"/>
+	<entry name="Climate3Name19" value="Раскаленный Хребет "/>
+	<entry name="Climate3Name20" value="Риолайт Лахар"/>
+	<entry name="Climate3NameCount" value="21"/>	
+</language>

@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Ветеран Миралы"/>
+	<entry name="AstraMilitarum1" value="Катурский нерегуляр"/>
+	<entry name="AstraMilitarum2" value="Гвардия пустошей Нурза"/>
+	<entry name="AstraMilitarum3" value="Железный кулак Стигии"/>
+	<entry name="AstraMilitarum4" value="Каменный легион Предис-Зеты"/>
+	<entry name="AstraMilitarum5" value="Горцы мира Хамман"/>
+	<entry name="AstraMilitarum6" value="Обученный на Перлии"/>
+	<entry name="AstraMilitarum7" value="Мститель Кадии"/>
+	<entry name="AstraMilitarum8" value="Танитский летописец"/>
+	<entry name="AstraMilitarum9" value="Собственность Иолина"/>
+	<entry name="AstraMilitarum10" value="Осаждающий из Лелитара"/>
+	<entry name="AstraMilitarum11" value="Человек из Тумалида"/>
+	<entry name="AstraMilitarumCount" value="12"/>
+	<entry name="Necrons0" value="Древний проводник"/>
+	<entry name="Necrons1" value="Золотые гарпии"/>
+	<entry name="Necrons2" value="Высшая грардия"/>
+	<entry name="Necrons3" value="Выбор Владыки"/>
+	<entry name="Necrons4" value="Анатомист"/>
+	<entry name="Necrons5" value="Йота Бесконечного Роя"/>
+	<entry name="Necrons6" value="Язык Обманщика"/>
+	<entry name="Necrons7" value="Рок живодера"/>
+	<entry name="Necrons8" value="Эмберс сжигатель Древних"/>
+	<entry name="Necrons9" value="Тени аутсайдера"/>
+	<entry name="Necrons10" value="Рассвет ночного неба"/>
+	<entry name="NecronsCount" value="11"/>
+	<entry name="Orks0" value="Странный Моб"/>
+	<entry name="Orks1" value="Безумиц Морка"/>
+	<entry name="Orks2" value="Подлый Понторез"/>
+	<entry name="Orks3" value="Б'ашой парень"/>
+	<entry name="Orks4" value="Грабитель"/>
+	<entry name="Orks5" value="Парень Горка"/>
+	<entry name="Orks6" value="Гофф-гвардеец"/>
+	<entry name="Orks7" value="Кровавый топор Горка"/>
+	<entry name="Orks8" value="Пиришытый Смерточереп"/>
+	<entry name="Orks9" value="Моб блеска Плохой луны"/>
+	<entry name="Orks10" value="Змеекус змееубивца"/>
+	<entry name="Orks11" value="Быстрый урод Злых Солнц"/>
+	<entry name="OrksCount" value="12"/>
+	<entry name="SpaceMarines0" value="Неукротимый гвардеец"/>
+	<entry name="SpaceMarines1" value="Заслуженный тактик"/>
+	<entry name="SpaceMarines2" value="Почитаемый ветеран"/>
+	<entry name="SpaceMarines3" value="Почетный страж"/>
+	<entry name="SpaceMarines4" value="Защитник Гладиуса"/>
+	<entry name="SpaceMarines5" value="Бессмертный"/>
+	<entry name="SpaceMarines6" value="Крест Терминатус"/>
+	<entry name="SpaceMarines7" value="Лавры Империалис"/>
+	<entry name="SpaceMarines8" value="Честь снайпера"/>
+	<entry name="SpaceMarines9" value="Прайм спирали"/>
+	<entry name="SpaceMarines10" value="Печать чистоты"/>
+	<entry name="SpaceMarines11" value="Опус Машина"/>
+	<entry name="SpaceMarinesCount" value="12"/>
+	<entry name="Tyranids0" value="The Purestrains"/>
+	<entry name="Tyranids1" value="Глаза Норна"/>
+	<entry name="Tyranids2" value="Размножение книдоцит"/>
+	<entry name="Tyranids3" value="Жнецы автофага"/>
+	<entry name="Tyranids4" value="Пакет Акросомик"/>
+	<entry name="Tyranids5" value="Лизосомическая масса"/>
+	<entry name="Tyranids6" value="Флагелоидные ужасы"/>
+	<entry name="Tyranids7" value="Крюк пилоиды"/>
+	<entry name="Tyranids8" value="Тилакоидный паразит"/>
+	<entry name="Tyranids9" value="Симбиот рыхлителей"/>
+	<entry name="Tyranids10" value="Тощие охотники"/>
+	<entry name="Tyranids11" value="Вдохновленный мириад"/>
+	<entry name="TyranidsCount" value="12"/>
+</language>

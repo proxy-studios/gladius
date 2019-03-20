@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- Generic -->
+	<entry name="Accuracy" value="Точность"/>
+	<entry name="AccuracyDescription" value="Каждая единица точности увеличивает шанс попадания примерно на 8%."/>
+	<entry name="AccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="ActionPoints" value="Очки Действия "/>
+	<entry name="ActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionPointsMax" value="Максимум Очков Действия"/>
+	<entry name="ActionPointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="Actions" value="Действия"/>
+	<entry name="ActionsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ActionsDescription" value="Количество действий (включая ответные действия), которые подразделение может выполнить. Все действия могут быть использованы для движения."/>
+	<entry name="AdditionalMembersHit" value="Дополнительный удар партнеров"/>
+	<entry name="AdditionalMembersHitIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Armor" value="Броня"/>
+	<entry name="ArmorDescription" value="Уменьшает количество <icon height='20' texture='Icons/Attributes/Damage'/> урона от оружия и особенностей.<br/><br/>Каждое очко брони снижает урон примерно на 8%(но не более 80%), а оружие и способности игнорируют часть брони, меньшую или равную собственного уровня бронепробиваемости."/>
+	<entry name="ArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="ArmorPenetration" value="Бронепробиваемость "/>
+	<entry name="ArmorPenetrationDescription" value=""/>
+	<entry name="ArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="Attacks" value="Атаки"/>
+	<entry name="AttacksDescription" value=""/>
+	<entry name="AttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="Biomass" value="Биомасса"/>
+	<entry name="BiomassIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassCost" value="Стоимость Биомассы"/>
+	<entry name="BiomassCostIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BiomassOnConsume" value="Биомасса"/>
+	<entry name="BiomassOnConsumeIcon" value="<icon height='20' texture='Icons/Attributes/Biomass'/>"/>
+	<entry name="BuildingSlots" value="Слоты Зданий "/>
+	<entry name="BuildingSlotsIcon" value="<icon height='20' texture='Icons/Attributes/BuildingSlots'/>"/>
+	<entry name="CargoSlots" value="Слоты для грузов"/>
+	<entry name="CargoSlotsIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CargoSlotsRequired" value="Требуемые Слоты для грузов"/>
+	<entry name="CargoSlotsRequiredIcon" value="<icon height='20' texture='Icons/Attributes/CargoSlots'/>"/>
+	<entry name="CircumstanceMeleeDamage" value="Урон в ближнем бою от Церемоний"/>
+	<entry name="CircumstanceMeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="CityDamageReduction" value="Снижение урона в городе"/>
+	<entry name="CityDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="CityRadius" value="Радиус города"/>
+	<entry name="CityRadiusIcon" value="<icon height='20' texture='Icons/Attributes/Radius'/>"/>
+	<entry name="ConstructionCost" value="Стоимость Строительства "/>
+	<entry name="ConstructionCostIcon" value="<icon height='20' texture='Icons/Attributes/ConstructionCost'/>"/>
+	<entry name="ConsumedActionPoints" value="Стоимость Действий "/>
+	<entry name="ConsumedActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="ConsumedMovement" value="Стоимость Движения"/>
+	<entry name="ConsumedMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Cooldown" value="Перезарядка"/>
+	<entry name="CooldownIcon" value="<icon height='20' texture='Icons/Attributes/Cooldown'/>"/>
+	<entry name="Damage" value="Урон"/>
+	<entry name="DamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageDescription" value=""/>
+	<entry name="DamageFromHitpoints" value="Урон от Очков здоровья противника"/>
+	<entry name="DamageFromHitpoints" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTaken" value="Полученный урон"/>
+	<entry name="DamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="DamageTakenByGroupSizeFactor" value="Полученный урон от  размера группы "/>
+	<entry name="DamageTakenByGroupSizeFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Energy" value="Энергия"/>
+	<entry name="EnergyIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="EnergyCost" value="Стоимость Энергии "/>
+	<entry name="EnergyCostIcon" value="<icon height='20' texture='Icons/Attributes/Energy'/>"/>
+	<entry name="ExperienceGainRate" value="Коэффициент прироста опыта"/>
+	<entry name="ExperienceGainRateIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="FeelNoPainDamageReduction" value="Снижение урона от Нечувствовать боль "/>
+	<entry name="FeelNoPainDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="FlankingDamageFactor" value="Урон от Фланговой атаки "/>
+	<entry name="FlankingDamageFactorIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Food" value="Еда"/>
+	<entry name="FoodIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="FoodCost" value="Стоимость Еды"/>
+	<entry name="FoodCostIcon" value="<icon height='20' texture='Icons/Attributes/Food'/>"/>
+	<entry name="Growth" value="Рост населения"/>
+	<entry name="GrowthHint" value="<style name='Title'/>Рост<br/><style name='Default'/> Показывает, как быстро увеличивается население города. После того, как накоплен достаточный прирост, население увеличивается на единицу. Темпы роста снижаются, когда оно приближается к пределу численности населения."/>
+	<entry name="GrowthIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="GrowthFactor" value="Рост населения"/>
+	<entry name="GrowthFactorIcon" value="<icon height='20' texture='Icons/Attributes/Growth'/>"/>
+	<entry name="HeroDamageReduction" value=" Уменьшение урона для героя"/>
+	<entry name="HeroDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="HealingRate" value="Скорость восстановления"/>
+	<entry name="HealingRateIcon" value="<icon height='20' texture='Icons/Attributes/HealingRate'/>"/>
+	<entry name="Hitpoints" value="Очки здоровья"/>
+	<entry name="HitpointsDescription" value="Количество <icon height='20' texture='Icons/Attributes/Damage'/> урона, которое может выдержать подразделение, прежде чем будет уничтожено."/>
+	<entry name="HitpointsIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsFraction" value="Очки здоровья"/>
+	<entry name="HitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsMax" value="Максимум Очков здоровья"/>
+	<entry name="HitpointsMaxIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="HitpointsPerMoraleLoss" value="Очки здоровья за Потерю морали"/>
+	<entry name="HitpointsPerMoraleLossIcon" value="<icon height='20' texture='Icons/Attributes/Hitpoints'/>"/>
+	<entry name="Influence" value="Влияние"/>
+	<entry name="InfluenceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluenceCost" value="Стоимость Влияния "/>
+	<entry name="InfluenceCostIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombat" value="Влияние от боя"/>
+	<entry name="InfluencePerCombatIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerCombatFromUpkeepFactor" value="Влияние результатов боя на стоимость содержания подразделений и зданий."/>
+	<entry name="InfluencePerCombatFromUpkeepFactorIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerDamage" value="Влияние от Урона"/>
+	<entry name="InfluencePerDamageIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InfluencePerExperience" value="Влияние от Опыта"/>
+	<entry name="InfluencePerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Influence'/>"/>
+	<entry name="InvulnerableDamageReduction" value="Снижение урона Неуязвимостью"/>
+	<entry name="InvulnerableDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="ItemSlots" value="Слоты предметов "/>
+	<entry name="ItemSlotsHint" value="<style name='Title'/>Слоты предметов<br/><style name='Default'/>"/>
+	<entry name="ItemSlotsIcon" value="<icon height='20' texture='Icons/Attributes/ItemSlots'/>"/>
+	<entry name="Level" value="Уровень"/>
+	<entry name="LevelDescription" value="Уровень опыта подразделения.<br/><br/>Каждый уровень выше первого, увеличивает его <icon height='20' texture='Icons/Attributes/Hitpoints'/> Очки здоровья и <icon height='20' texture='Icons/Attributes/Damage'/> наносимый им урон на 5%, а также <icon height='20' texture='Icons/Attributes/Morale'/> мораль на 10%."/>
+	<entry name="LevelIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LevelMax" value="Максимальный Уровень"/>
+	<entry name="LevelMaxIcon" value="<icon height='20' texture='Icons/Attributes/Level'/>"/>
+	<entry name="LifeSteal" value="Кража жизни"/>
+	<entry name="LifeStealIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="LifeStealFactor" value="Кража жизни"/>
+	<entry name="LifeStealFactorIcon" value="<icon height='20' texture='Icons/Attributes/LifeSteal'/>"/>
+	<entry name="Loyalty" value="Лояльность"/>
+	<entry name="LoyaltyHint" value="<style name='Title'/>Лояльность<br/><style name='Default'/> указывает на приверженность населения своему делу. Каждое положительное очко лояльности увеличивает производство ресурсов города на 1%, тогда как каждое отрицательное очко  уменьшается производство ресурсов города на 2% (до -50%). Основание каждого города кроме первого снижает лояльность во всех городах на 6 очков."/>
+	<entry name="LoyaltyIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="LoyaltyPerCity" value="Лояльность на город"/>
+	<entry name="LoyaltyPerCityIcon" value="<icon height='20' texture='Icons/Attributes/Loyalty'/>"/>
+	<entry name="MeleeAccuracy" value="Точность ближнего боя "/>
+	<entry name="MeleeAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="MeleeArmorPenetration" value="Бронепробиваемость в ближнем бою"/>
+	<entry name="MeleeArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="MeleeAttacks" value="Атаки в ближнем бою"/>
+	<entry name="MeleeAttacksIcon" value="<icon height='20' texture='Icons/Attributes/Attacks'/>"/>
+	<entry name="MeleeDamage" value="Урон в ближнем бою"/>
+	<entry name="MeleeDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MeleeDamageReduction" value="Уменьшение получаемого урона в ближнем бою"/>
+	<entry name="MeleeDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="MeleeDamageTaken" value="Полученный урон в ближнем бою"/>
+	<entry name="MeleeDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="MinDamageFromHitpointsFraction" value="Минимальный получаемый Урон от Очков здоровья выбранного подразделения."/>
+	<entry name="MinDamageFromHitpointsFractionIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="Morale" value="Мораль"/>
+	<entry name="MoraleIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleDescription" value="Психологическое состояние подразделения.<br/><br/><icon texture='GUI/Bullet'/>Падение морали ниже 66% <icon height='20' texture='Icons/Traits/Shaken'/> потрясает боевой дух подразделения, снижая точность и увеличивая получаемый урона на 17%.<br/><icon texture='GUI/Bullet'/>Мораль ниже 33% делает подразделение  <icon height='20' texture='Icons/Traits/Broken'/> сломленным, снижая точность и увеличивая получаемый урона на 33%."/>
+	<entry name="MoraleRegeneration" value="Восстановление морали"/>
+	<entry name="MoraleRegenerationIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleLossFactor" value="Потеря Морали"/>
+	<entry name="MoraleLossFactorIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="MoraleMax" value="Максимальная мораль"/>
+	<entry name="MoraleMaxIcon" value="<icon height='20' texture='Icons/Attributes/Morale'/>"/>
+	<entry name="Movement" value="Движение"/>
+	<entry name="MovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementDescription" value="Количество плиток, которое подразделение может преодолеть за один ход.<br/><br/><icon texture='GUI/Bullet'/>Пересеченная местность требует более одного очка движения.<br/><icon texture='GUI/Bullet'/>Переход в плитку рядом с врагом заканчивает движение."/>
+	<entry name="MovementCost" value="Стоимость Движения "/>
+	<entry name="MovementCostIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="MovementMax" value="Максимальное движение"/>
+	<entry name="MovementMaxIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Ore" value="Руда"/>
+	<entry name="OreIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCost" value="Стоимость Руды "/>
+	<entry name="OreCostIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="OreCostHint" value="<style name='Title'/>Стоимость Руды<br/><style name='Default'/>"/>
+	<entry name="OrePerKillValue" value="Руда за число убийств"/>
+	<entry name="OrePerKillValueIcon" value="<icon height='20' texture='Icons/Attributes/Ore'/>"/>
+	<entry name="Population" value="Население"/>
+	<entry name="PopulationIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationHint" value="<style name='Title'/>Население<br/><style name='Default'/> используется для эксплуатации зданий в городе. Для каждого здания требуется одна единица населения. Если требуемая зданиями численность превышает текущее население, эффективность работы зданий уменьшается."/>
+	<entry name="PopulationLimit" value="Лимит Населения "/>
+	<entry name="PopulationLimitIcon" value="<icon height='20' texture='Icons/Attributes/PopulationLimit'/>"/>
+	<entry name="PopulationLimitHint" value="<style name='Title'/>Лимит Населения<br/><style name='Default'/> показывает максимальное население, которое может содержать город."/>
+	<entry name="Production" value="Производство"/>
+	<entry name="ProductionIcon" value="<icon height='20' texture='Icons/Attributes/Production'/>"/>
+	<entry name="ProductionHint" value="<style name='Title'/>Производство<br/><style name='Default'/> показывает, как быстро здание создает продукцию."/>
+	<entry name="ProductionCost" value="Стоимость Производства"/>
+	<entry name="ProductionCostIcon" value="<icon height='20' texture='Icons/Attributes/ProductionCost'/>"/>
+	<entry name="Range" value="Дальность"/>
+	<entry name="RangeIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeDescription" value=""/>
+	<entry name="RangeMax" value="Максимальная дальность"/>
+	<entry name="RangeMaxIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangeMin" value="Минимальная дальность"/>
+	<entry name="RangeMinIcon" value="<icon height='20' texture='Icons/Attributes/Range'/>"/>
+	<entry name="RangedAccuracy" value="Точность дальнего огня"/>
+	<entry name="RangedAccuracyIcon" value="<icon height='20' texture='Icons/Attributes/Accuracy'/>"/>
+	<entry name="RangedArmorPenetration" value="Бронепробиваемость дальнобойного оружия"/>
+	<entry name="RangedArmorPenetrationIcon" value="<icon height='20' texture='Icons/Attributes/ArmorPenetration'/>"/>
+	<entry name="RangedDamage" value="Наносимый урон от дальнего огня"/>
+	<entry name="RangedDamageIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RangedDamageReduction" value="Снижение получаемого урона от дальнего огня"/>
+	<entry name="RangedDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	<entry name="RangedDamageReductionBypass" value="Уменьшение получаемого урона от дальнего огня при обходе с тыла "/>
+	<entry name="RangedDamageTaken" value="Полученный урон от дальнего огня"/>
+	<entry name="RangedDamageTakenIcon" value="<icon height='20' texture='Icons/Attributes/Damage'/>"/>
+	<entry name="RequiredActionPoints" value="Необходимо действие"/>
+	<entry name="RequiredActionPointsIcon" value="<icon height='20' texture='Icons/Attributes/Actions'/>"/>
+	<entry name="RequiredMovement" value="Необходимо движение"/>
+	<entry name="RequiredMovementIcon" value="<icon height='20' texture='Icons/Attributes/Movement'/>"/>
+	<entry name="Requisitions" value="Снабжение"/>
+	<entry name="RequisitionsIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="RequisitionsCost" value="Стоимость снабжения"/>
+	<entry name="RequisitionsCostIcon" value="<icon height='20' texture='Icons/Attributes/Requisitions'/>"/>
+	<entry name="Research" value="Исследования"/>
+	<entry name="ResearchCost" value="Стоимость Исследования"/>
+	<entry name="ResearchCostIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchHint" value="<style name='Title'/>Исследования<br/><style name='Default'/>Позволяют изучать новые технологии."/>
+	<entry name="ResearchIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="ResearchPerExperience" value="Исследования за опыт"/>
+	<entry name="ResearchPerExperienceIcon" value="<icon height='20' texture='Icons/Attributes/Research'/>"/>
+	<entry name="Sight" value="Прямая видимость"/>
+	<entry name="SightIcon" value="<icon height='20' texture='Icons/Attributes/Sight'/>"/>
+	<entry name="SightDescription" value="Как далеко подразделение можно видеть.<br/><br/>Прямая видимость снижается из-за особенностей местностей, таких как леса, туман и скалы."/>
+	<entry name="SlotsRequired" value="Требуются Слоты"/>
+	<entry name="TargetArmor" value="Броня цели"/>
+	<entry name="TargetArmorIcon" value="<icon height='20' texture='Icons/Attributes/Armor'/>"/>
+	<entry name="Turns" value="Ходы"/>
+	<entry name="TurnsIcon" value="<icon height='20' texture='Icons/Attributes/Turns'/>"/>
+	<entry name="WitchfireDamageReduction" value="Снижение урона от колдовского огня "/>
+	<entry name="WitchfireDamageReductionIcon" value="<icon height='20' texture='Icons/Attributes/DamageReduction'/>"/>
+	
+	<!-- Faction-specific -->
+	<entry name="BiomassHint" value="<style name='Title'/>Биомасса<br/><style name='Default'/>Используется для поддержания населения в городах, строительства зданий, а также для производства и содержания подразделений."/>
+	<entry name="EnergyHint" value="<style name='Title'/>Энергия<br/><style name='Default'/> используется для поддержания работы зданий, а также для создания и содержания специальных подразделений."/>
+	<entry name="FoodHint" value="<style name='Title'/>Еда<br/><style name='Default'/> используется для содержания населения в городах, а также создания и поддержания пехотных подразделений."/>
+	<entry name="OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/> используется для строительства зданий, а также создания и поддержания механизированных подразделений."/>
+	<entry name="AstraMilitarum/InfluenceHint" value="<style name='Title'/>Влияние<br/><style name='Default'/> используется для расширения и содержания городских плиток, издания эдиктов, а также наёма сильных героев, и приобретения предметов для них."/>
+	<entry name="Necrons/EnergyHint" value="<style name='Title'/>Энергия<br/><style name='Default'/> используется для строительства зданий и создания подразделений."/>
+	<entry name="Necrons/InfluenceHint" value="<style name='Title'/>Влияние<br/><style name='Default'/> используется для присоединения и содержания городских плиток, выполнения специальных способностей, а также позволяет нанимать могучих героев, и приобретать для них предметы."/>
+	<entry name="Necrons/OreHint" value="<style name='Title'/>Руда<br/><style name='Default'/> используется для содержания населения в городах, зданий и подразделений."/>
+	<entry name="Orks/InfluenceHint" value="<style name='Title'/>Влияние<br/><style name='Default'/> используется для присоединения и содержания городских плиток, поддержания Вааагх!, а также для наёма могучих героев, и приобретения для них предметов."/>
+	<entry name="SpaceMarines/InfluenceHint" value="<style name='Title'/>Влияние<br/><style name='Default'/> используется для присоединения и содержания городских плиток, вызова тактик и операций, а также найма могучих героев и приобретения для них предметов."/>
+	<entry name="SpaceMarines/RequisitionsHint" value="<style name='Title'/>Снабжение<br/><style name='Default'/> используется для содержания населения в города, строительства зданий, а также создания и содержания подразделений."/>
+	<entry name="Tyranids/InfluenceHint" value="<style name='Title'/>Влияние<br/><style name='Default'/> используется для присоединения и содержания городских плиток, эксплуатации зданий, использования специальных способностей, а также набора мощных подразделений героев и покупки предметов."/>
+</language>

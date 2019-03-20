@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectingToServer" value="Подключение к серверу ..."/>
+	<entry name="ConnectionLost" value="Соединение потеряно."/>
+	<entry name="GameLoaded" value="Загрузка игры"/>
+	<entry name="GameSaved" value="Сохранение игры"/>
+	<entry name="IncompatibleVersion" value="Несовместимая версия игры."/>
+	<entry name="Kicked" value="Вас отключили от сервера."/>
+	<entry name="MasterServerUnreachable" value="Не удалось подключиться к главному серверу."/>
+	<entry name="MissingDLC" value="DLC не установлено."/>
+	<entry name="NetworkError" value="Ошибка сети"/>
+	<entry name="NoFreeSlots" value="На сервере нет свободного места."/>
+	<entry name="NoGames" value="В настоящее время нет открытых игр.<br/>Почему бы Вам не создать самом новую игру?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>Нет подходящих целей"/>
+	<entry name="PlayerJoined" value="%1% присоединилось."/>
+	<entry name="PlayerLeft" value="%1% осталось."/>
+	<entry name="PleaseEnterYourName" value="Пожалуйста, введите Ваше имя."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Пожалуйста, подождите"/>
+	<entry name="ReceivingInfo" value="Получение информации ..."/>
+	<entry name="RetrievingServerList" value="Получение списка серверов ..."/>
+	<entry name="ScreenShotSaved" value="Скриншот сохранен"/>
+	<entry name="ScreenShotSaveError" value="Ошибка сохранения скриншота"/>
+	<entry name="ServerInfo" value="Информация о сервере"/>
+	<entry name="ServerUnreachable" value="Не удалось подключиться к серверу.<br/><br/>Чтобы улучшить подключение, убедитесь, что вы отключили брандмауэры и включили UPnP на своем маршрутизаторе или открыли TCP порт %1% на вашей локальной машине."/>
+	<entry name="SelectTarget" value="Выбор цели действия"/>
+</language>

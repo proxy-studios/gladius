@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<!-- %1% = subject, %2% = object -->
+	<entry name="CityGrownSummary" value="<style name='ShadowedHeading'/>Рост города<br/><style name='Default'/>Население %1% достигло %2%."/>
+	<entry name="FactionDiscovered" value="Обнаружена Фракция"/>
+	<entry name="FactionDefeated" value="Фракция Побеждена"/>
+	<entry name="FactionDiscoveredSummary" value="<style name='ShadowedHeading'/>Обнаружена Фракция<br/><style name='Default'/>%1%."/>
+	<entry name="FeatureExploredSummary" value="<style name='ShadowedHeading'/>Исследование территории.<br/><style name='Default'/>%1% исследовал %2%."/>
+	<entry name="FeatureTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Открыто<br/><style name='Default'/>%1%."/>
+	<entry name="LordOfSkullsAppearedSummary" value="<style name='ShadowedHeading'/>%1% появился"/>
+	<entry name="LordOfSkullsDisappearedSummary" value="<style name='ShadowedHeading'/>%1% исчез"/>
+	<entry name="PlayerLost" value="Поражение!"/>
+	<entry name="PlayerLostSummary" value="<style name='ShadowedHeading'/>Фракция побеждена<br/><style name='Default'/>%1% · %2% %3% потерпели поражения!"/>
+	<entry name="PlayerWon" value="Победа!"/>
+	<entry name="PlayerWonSummary" value="<style name='ShadowedHeading'/>Фракция победила<br/><style name='Default'/>%1% · %2% %3% победили!"/>
+	<entry name="ProductionCompletedSummary" value="<style name='ShadowedHeading'/>Производство завершено<br/><style name='Default'/>%1% произвел %2%."/>
+	<entry name="QuestAdded" value="Добавлен квест"/>
+	<entry name="QuestCompleted" value="Квест завершен"/>
+	<entry name="QuestUpdated" value="Квест обновлен"/>
+	<entry name="RegionDiscoveredSummary" value="<style name='ShadowedHeading'/>Обнаружена область<br/><style name='Default'/>%1%."/>
+	<entry name="ResearchCompleted" value="Исследование завершено"/>
+	<entry name="TileAcquiredSummary" value="<style name='ShadowedHeading'/>Плитка присоединена<br/><style name='Default'/>%1% присоединил %2%."/>
+	<entry name="TileCapturedSummary" value="<style name='ShadowedHeading'/>Плитка захвачена<br/><style name='Default'/>%1% захватили %2%."/>
+	<entry name="TileClearedSummary" value="<style name='ShadowedHeading'/>Плитка очищена<br/><style name='Default'/>%1% очистил %2% на %3%."/>
+	<entry name="UnitAffectedSummary" value="<style name='ShadowedHeading'/>Использована способность<br/><style name='Default'/>%1% использовал %2% на %3%."/>
+	<entry name="UnitAttackedSummary" value="<style name='ShadowedHeading'/>Подразделение атакованно<br/><style name='Default'/>%1% атаковал<br/>%2%."/>
+	<entry name="UnitCapturedSummary" value="<style name='ShadowedHeading'/>Подразделение захвачено<br/><style name='Default'/>%1% захватил <br/>%2%."/>
+	<entry name="UnitKilledSummary" value="<style name='ShadowedHeading'/>Уничтоженное подразделение<br/><style name='Default'/>%1% уничтожило<br/>%2%."/>
+	<entry name="UnitTypeDiscoveredSummary" value="<style name='ShadowedHeading'/>Открыто подразделением<br/><style name='Default'/>%1%."/>
+</language>

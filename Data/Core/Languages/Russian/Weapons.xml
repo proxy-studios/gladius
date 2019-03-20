@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+
+	<!-- Generic -->
+	<entry name="AutoFlavor" value=" Самозарядное огнестрельное оружие является надежным автоматическим вооружением. Оно может стрелять как очередями с высокой скоростью, так одиночными выстрелами. Автоматическое оружие поставляется в войска в самых разных формах: от обычного автопистолета до тяжелого оружия поддержки, такого как Карающая пушка Гатлинга."/>
+	<entry name="BarrageFlavor" value="Снаряды Заградительного огня подбрасываются высоко в воздух, и падают в самой гущи врагов."/>
+	<entry name="BlastFlavor" value="Взрывные снаряды, ракеты или взрыв-пакеты взрываются при ударе."/>
+	<entry name="BoltFlavor" value="Болтружьё, или болтер, стреляет небольшими ракетами, известными как болты. Каждый самодвижущийся болт взрывается с разрушительным эффектом, как только он проник в свою цель. Существует много вариаций болтеров, от короткоствольного болт-пистолета до мега-болтера Вулкан, часто устанавливаемого на Титанах и других сверхтяжелых машинах."/>
+	<entry name="FlamerFlavor" value="Огнеметы - это оружие короткой дистанции, извергающее высоколетучие облака жидких химикатов, которые зажигаются при контакте с воздухом. Они в основном используются для выкуривания противника с защищенных позиций, поскольку стены не защищают от пламени высокотемпературных газов."/>
+	<entry name="ForceFlavor" value="Угнетающее оружие - это мощное психическое оружие, используемое исключительно обученными псайкерами. Путем внушения, часть ментальной силы становиться оружием. Псайкер может поразить своего врага невероятной бурей силы, которая разрушает и перегружает нервную систему его врага, делая его безмозглым чучелом."/>
+	<entry name="GaussFlavor" value="Оружие Гаусса различается по внешнему виду от живодеров, размером с винтовку, до массивной тяжелой гауссовой пушки. В отличие от обычного энергетического оружия, гауссов проектор излучает молекулярный луч, который расщепляет плоть, кости и даже броню на составляющие их атомы."/>
+	<entry name="KlawFlavor" value="Оркам больше нравятся брутальные силовые клишни, чем более изысканные силовые кулаки других рас. Эти огромные гидравлические ножницы способны раздирать и измельчить даже самых суровых врагов. Ходоки Орков оснащены клешнями, соответствующими их большому размеру, и могут порвать всё что угодно, по глупости стоящее на их пути."/>
+	<entry name="LasFlavor" value="Лаз-оружие посылает огненные пакеты лазерной энергии -- чем больше пушка, тем мощнее выстрел. Независимо от размера, лаз-оружие невероятно надежное, что делает его популярным орудием войны во всём Империуме."/>
+	<entry name="MeltaFlavor" value="Мелта-оружие -- это смертоносное оружие против брони, наиболее эффективное на очень короткой дистанции. Когда оно стреляет, сверхнагрев воздуха создает своеобразное и зловещее шипение. Твердая порода превращается в расплавленный шлак, а живые существа мгновенно испаряются!"/>
+	<entry name="MeleeFlavor" value="Воины по всей галактике используют большое количество оружия ближнего боя. Покрытые брызгами крови цепные мечи и грубые скальпели занимают достойные места рядом с механическим оружием всех видов: мечами, топорами, молотами и многим другим. Все такое оружие предназначено для быстрой и болезненной смерти врага, поскольку даже маленькая задержка в каждом моменте битвы делает поражение врага на шаг ближе."/>
+	<entry name="ParticleFlavor" value="Это оружие излучает поток мельчайших частиц антивещества, которое детонируют при контакте с мишенью. Оно невероятно надежно, но нуждается в достаточно большом количестве энергии для поддержания защитного поля, которое предотвращает детонацию антивещества внутри собственного механизма стрельбы."/>
+	<entry name="PhosphorFlavor" value="Фосфорное оружие варьируется от ручного Серпента, которое многие Техножрецы предпочитают тяжелому фосфорному бластеру, установленному на боевых Сервиторах-катафронах. Горящие белые сферы, стреляющие из фосфорного оружия, цепко прилипают к своим целям, испепеляя её, проникая в плоть и щели брони или экзоскелета. Чаще всего, именно эти светящиеся шары наносят смертельный удар. Даже если враг окажется достаточно крепким, чтобы выжить от жгучей боли, фосфоресцирующее свечение, которое излучают эти сферы, может направить залп союзников на ту же цель."/>
+	<entry name="PlasmaFlavor" value="Плазменное оружие стреляет импульсами высокотемпературной энергии, которые чрезвычайно эффективны против тяжелой пехоты и легких транспортных средств. Тем не менее, оно генерирует огромные температуры при стрельбе и, следовательно, подвержено перегреву, иногда становясь смертоносным для своего владельца."/>
+	<entry name="PowerFlavor" value="Силовое оружие подёрнуто смертоносной дымкой разрушительного энергетического поля, которое с легкостью пожирает броню, плоть и кости."/>
+	<entry name="ShootaFlavor" value="Стрелялы - шумные, крупнокалиберные пулеметы. Они сильно отличаются по размеру и дизайну от тех, которые носят пешие Парни с пулялами и от длинных супир-стрелял, которые установлены на летунах. Независимо от их конкретного дизайна, все стрелялы являются очень громкими и смертоносными."/>
+	<entry name="TailBiomorphFlavor" value="Хвосты некоторых тиранидов являются смертоносным оружием. Костные выступы, достаточно твердые, чтобы проделать дырку в  танке. Жала на них содержат достаточное количество яда, чтобы убить целые полки."/>
+	<entry name="TeslaFlavor" value="Тесла оружие разлетается из болта пучком потрескивающих живых молний, который перекидывается от врага врагу после удара по цели, обугливая плоть и плавя броню. Болты Теслы питаются энергией выделяемой разрушением, и молний становится все больше и они сильнее с каждой новой дугой."/>
+	<entry name="ThoraxBiomorphFlavor" value="Некоторые тираниды имеют грудные полости, вмещающие рои паразитов - некоторые из этих мельчайших существ высасывают жизненно важные жидкости своих жертв, другие испускают электрический заряд, который разрушает вражеские машины. А некоторые прилипают к брони противника, прежде чем взорваться ужасным образом."/>
+	
+	<!-- Specific -->
+	<entry name="Autogun" value="Автоган"/>
+	<entry name="AutogunFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="AttackSquig" value="Сквиг-Атак"/>
+	<entry name="AttackSquigFlavor" value="Сквиг-Атак является прожорливым хищником, с огромным кусающим ртом."/>
+	<entry name="Autocannon" value="Автопушка"/>
+	<entry name="AutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="BanebladeCannon" value="Пушка Гибельный клинок"/>
+	<entry name="BanebladeCannonFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="BattleCannon" value="Боевая пушка"/>
+	<entry name="BattleCannonFlavor" value="Боевая пушка, установленная на вращающейся башне, является самым распространенным боевым танковым вооружением в 41-м тысячелетии. Тяжелые взрывные снаряды Боевой пушки способны выкосить пехотные полки и уничтожить вражеские танки с одинаковой легкостью."/>
+	<entry name="BigShoota" value="Б'ашая стреляла"/>
+	<entry name="BigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="Bigbomm" value="Б'ашой Бум"/>
+	<entry name="BigbommFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="BioElectricPulse" value="Биоэлектрический импульс"/>
+	<entry name="BioElectricPulseFlavor" value="По мере того как Тригон движется, он генерирует мощное биостатическое поле, которое сбрасывается с летальным эффектом на врагов, когда Трайон находит жертву. У Тригона Прайм есть изогнутые шипы, прорастающие из его тела, которые усиливают эту энергию."/>
+	<entry name="BioPlasma" value="Биоплазма"/>
+	<entry name="BioPlasmaFlavor" value="Некоторые Карнифексы могут генерировать в своих телах ревущий шар биоплазмы и извергать полученную энергию в виде раскаленной порции огня."/>
+	<entry name="BioPlasmicCannon" value="Биоплазменная пушка"/>
+	<entry name="BioPlasmicCannonFlavor" value="Это гигантское оружие может направлять биоплазму через ряд различных желудочков, чтобы уничтожить свою добычу. Оно выпускает огромный шар ревущей энергии через свою центральную камеру или выпускает несколько сфокусированных потоков смертельной энергии через соседние стволы."/>
+	<entry name="Blighted" value="Ослепление"/>
+	<entry name="BlindingVenom" value="Ослепляющий яд"/>
+	<entry name="BlindingVenomFlavor" value="Некоторые тираниды плюются едким ядом в глаза своей жертвы."/>
+	<entry name="Boneswords" value="Костяные мечи"/>
+	<entry name="BoneswordsFlavor" value="Костяные мечи - это живые мономолекулярные лезвия, которые могут наносить урон жизненной силе своих жертв."/>
+	<entry name="BoltPistol" value="Болт-пистолет"/>
+	<entry name="BoltPistolFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="Boltgun" value="Болтер"/>
+	<entry name="BoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BoneMace" value="Костяная булава"/>
+	<entry name="BoneMaceFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="BurnaBomb" value="Бомба поджига"/>
+	<entry name="BurnaBombFlavor" value="Бомба поджига - это большой металлический баллон с внутренним предохранителем. Она заполняется прометиумом и сквиг-маслом, и взрывается при ударе, распространяя эту адскую пылающую смерть на большой территории."/>
+	<entry name="Chainsword" value="Цепной меч"/>
+	<entry name="ChainswordFlavor" value="Цепной меч - это высокоскоростная цепная пила, оснащенная рукояткой, подлокотником и защитой, чтобы сделать ее менее громоздкой и безопасной для владельца. Это обычное оружие во всём Империуме, с довольно ужасающей репутацией за действия, которые она может нанести небронированному индивидуму."/>
+	<entry name="Choppa" value="Рубила"/>
+	<entry name="ChoppaFlavor" value="Орки используют различное клинковое оружие и цепные лезвия. Большие ручные рубила могут расчленить пополам большинство врагов за один удар, в то время как те, что устанавливаются на Таптуны, могут разрезать Титана на две части."/>
+	<entry name="CrushingClaws" value="Мощные клешни"/>
+	<entry name="CrushingClawsFlavor" value="Гигантская сила этих когтей позволяет им сокрушить любого врага."/>
+	<entry name="CloseCombatWeapon" value="Оружие ближнего боя"/>
+	<entry name="CloseCombatWeaponFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="ClusterMines" value="Кластерная мина"/>
+	<entry name="ClusterMinesFlavor" value="Во время работы в тылу врага, скауты-мотоциклисты расставляют кластерные мины - взрывные устройства, набитые крошечными противопехотными бомбами и подрываемые триггерами или датчиками давления."/>
+	<entry name="CompendiumFlavor" value="Чтобы победить в этой бесконечной войне, каждая фракция использует бесконечное число усовершенствованных методов искусства убийства. От самой грубой Рубилы Орка до элегантной сюрикеновой катапульты Эльдаров -- оружие 41-го тысячелетия приносят смерть сотнями различных способов. Часто оно настолько же опасно для своего владельца, как и для враг, - например, могущественные Макробатареи Имперских Флотов, которые плюются снарядами размером с жилой блок, убивают сотни слуг с каждым выстрелом."/>
+	<entry name="CroziusArcanum" value="Крозиус Арканум"/>
+	<entry name="CroziusArcanumFlavor" value="КрозиусАрканум - это одновременно и Жезл Капеллана, указывающий на его должностные полномочия, и орудие праведного суда. Каждый из них - древняя реликвия, с выгравированными на нем легендарными деяниями его прошлых владельцев."/>
+	<entry name="CtanNecrodermisExplosion" value="Взрывной некродермис К'Тан"/>
+	<entry name="DeathRay" value="Луч смерти"/>
+	<entry name="DeathRayFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Deathspitter" value="Смертоплюй"/>
+	<entry name="DeathspitterFlavor" value="Это симбиотичесмое мультисущество стреляет личинко подобными организмами, с разъедающими внутренностями. Ракообразное существо вытаскивает личинку из внутреннего инкубатора оружия и удаляет его раковину. Затем Смертоплюй вызывает спазматическую реакцию плоти, выстреливая личинку, которая взрывается ливнем едкой слизи рядом со своей целью."/>
+	<entry name="DeffstormMegaShoota" value="Мегастреляла Смертошторм"/>
+	<entry name="DeffstormMegaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="DemolisherCannon" value="Пушка Разрушитель"/>
+	<entry name="DemolisherCannonFlavor" value="Не дальнобойные, но смертельно опасные, осадные орудия огромной разрушительной силы. Каждый Разрушитель в три раза превышает размер обычной боевой пушки, его огромный вес и разрывной снаряд гарантируют, что он уничтожит почти все, что попадает под его выстрел."/>
+	<entry name="Devourer" value="Пожиратель"/>
+	<entry name="DevourerFlavor" value="Это оружие выбрасывает червеподобных паразитов, которые зарываются в плоть жертвы и пробираются через ее нервную систему в мозг. Пожиратели, которыми обладают большие тираниды, порождают рои мозгопиявок, которые более агрессивны и прожорливее  обычных червей Пожирателей."/>
+	<entry name="DoomsdayCannonHighPower" value="Пушка Судный день (большой мощности)"/>
+	<entry name="DoomsdayCannonHighPowerFlavor" value="Даже выстрел на малой мощности из пушки Судного дня - страшно разрушительный; при стрельбе с полной мощностью, только пустотные щиты Титана могут дать надежду на выживание."/>
+	<entry name="DoomsdayCannonLowPower" value="Пушка Судный день (малой мощности)"/>
+	<entry name="DoomsdayCannonLowPowerFlavor" value="<string name='Weapons/DoomsdayCannonHighPowerFlavor'/>"/>
+	<entry name="DesiccatorLarvae" value="Иссушающие Личинки"/>
+	<entry name="DesiccatorLarvaeFlavor" value="<string name='Weapons/ThoraxBiomorphFlavor'/>"/>
+	<entry name="DroolCannon" value="Мокротная пушка"/>
+	<entry name="DroolCannonFlavor" value="Мокротные пушки распыляют порции едкого пищеварительного сока над жертвами."/>
+	<entry name="EarthshakerCannon" value="Пушка Сотрясатель"/>
+	<entry name="EarthshakerCannonFlavor" value="Надвигающийся на вас ствол пушки Сотрясатель - это жуткое зрелище, способное породить страх в головах многих врагов Империума. Эти артиллерийские орудия с длинным стволом обладают внушительным диапазоном стрельбы и могут поддерживать страшный темп огня, отправляя снаряд за снарядом по врагам и уничтожает их, перемешивая с руинами."/>
+	<entry name="Flamer" value="Огнемет"/>
+	<entry name="Fleshborer" value="Бурильщик"/>
+	<entry name="FleshborerFlavor" value="Бурильшик - это компактное гнездо выводок для остроконечных жуков бурильщиков. Когда оружие стреляет, жук-бурильщик выпрыгивает вперед одним толчком своих блохо-подобных ног. Затем жук направляет свою оставшуюся жизненную энергию в течении несколько секунд на то, чтобы пробуриться сквозь броню, плоть и кости первого встречного на его пути."/>
+	<entry name="FleshHooks" value="Мышечные крючья"/>
+	<entry name="FleshHooksFlavor" value="Мышечные крючья прикрепляются к грудной клетке Тиранида липкими усиками и позволяют им сдирать биомассу с поверхности или ловить сильно приблизившуюся добычу."/>
+	<entry name="ForceStave" value="Силовой посох"/>
+	<entry name="ForceStaveFlavor" value="<string name='Weapons/ForceFlavor'/>"/>
+	<entry name="FragGrenade" value="Фраг-граната"/>
+	<entry name="FragGrenadeFlavor" value="Смертельный дождь шрапнели из этих гранат вынуждает противников искать укрытия и терять несколько драгоценных моментов, давая нападавшим больше времени закрепиться и надежду нанести удар первыми по дезориентированному врагу."/>
+	<entry name="GaussCannon" value="Гаусс-пушка"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayer" value="Гаусс-живодеры"/>
+	<entry name="GaussFlayerFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFlayerArray" value="Массив Гаусс-живодеров"/>
+	<entry name="GaussFlayerArrayFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussFluxArc" value="Мерцающая гаусс-дуга"/>
+	<entry name="GaussFluxArcFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussCannon" value="Гаусс-пушка"/>
+	<entry name="GaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GorestormCannon" value="Пушка Кровавый Шторм "/>
+	<entry name="GorestormCannonFlavor" value="Пушка Кровавый Шторм - это простое, но ужасно эффективное оружие, которое распыляет поток кипящей крови под высоким давлением на широкой территории. Те, кто не растворяется в этом ужасном наводнения, утонут или сварятся живьём в своих доспехах."/>
+	<entry name="GraspingTongue" value="Цепкий язык"/>
+	<entry name="GraspingTongueFlavor" value="Ккогтистый язык этого существа захватывает выбранную добычу, прежде чем проглотить ее."/>
+	<entry name="GreaterCleaverOfKhorne" value="Большой Топор Кхорна"/>
+	<entry name="GreaterCleaverOfKhorneFlavor" value="Каждое из этих огромных, медных лезвий весит столько же, сколько боевой танк. Одним ударом, напитанный психотической яростью Владыки Черепов, Большой Топор может отрубить ногу Титану."/>
+	<entry name="GrenadierGauntlet" value="Руковица гренадёра"/>
+	<entry name="GrenadierGauntletFlavor" value="Эти простые рукавицы подбрасывают Фраг-бомбы, которые летят в гущу врагов."/>
+	<entry name="HadesGatlingCannon" value="Адская Пушка Гатлинга"/>
+	<entry name="HadesGatlingCannonFlavor" value="Если Адская автопушка  порождает дождь огня, то значительно увеличенная в размерах Адская пушка Гатлинга вызывает ураган огня. Стреляя несколькими сотнями рунных выстрелов в секунду, это оружие взбивает в неузнаваемую пульпу всё, что попадает в его прицел."/>
+	<entry name="HeatRayDispersed" value="Рассеянный Тепловой луч"/>
+	<entry name="HeatRayDispersedFlavor" value="Тепловой луч является многоцелевым оружием, сфокусированные взрывы могут разрезать танк противника пополам от начала до конца. Если тепловой луч будет применен по вражеской пехоте, оператор может выстрелить рассеянным лучом, погружая свою цель в облака палящей плазмы."/>
+	<entry name="HeatRayFocused" value="Фокусированный Тепловой луч"/>
+	<entry name="HeatRayFocusedFlavor" value="<string name='Weapons/HeatRayDispersedFlavor'/>"/>
+	<entry name="HeavyBolter" value="Тяжелый болтер"/>
+	<entry name="HeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="HeavyBombClusters" value="Кластеры тяжелых бомб"/>
+	<entry name="HeavyGaussCannon" value="Тяжелая Гаусс-пушка"/>
+	<entry name="HeavyGaussCannonFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="HeavyVenomCannon" value="Тяжелая ядовитая пушка"/>
+	<entry name="HeavyVenomCannonFlavor" value="Это мощное биологическое оружие стреляющее ядовитыми кристаллами. Летящие на огромных скоростях, кристаллы разрушаются при ударе и уничтожают противника."/>
+	<entry name="HellstrikeMissile" value="Ракета Адский удар"/>
+	<entry name="HellstrikeMissileFlavor" value="Эти ракеты могут разорвать еретическую броню и плоть Ксенонов."/>
+	<entry name="HotShotLasgun" value="Пробивное лазружьё"/>
+	<entry name="HotShotLasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="HunterKillerMissile" value="Ракета Охотник-убийца"/>
+	<entry name="HunterKillerMissileFlavor" value="Ракетами Охотник-убийца обычно оснащаются имперские транспортные средства. Эти одноразовые системы вооружения позволяют этой технике, такой как Носорог, поражать бронированные вражеские машины, которые превосходят их по огневой мощи."/>
+	<entry name="FlameBreath" value="Дыхание пламени"/>
+	<entry name="FlameBreathFlavor" value="Из глаз и рта псайкера вытекает поток психического огня, окутывающую цель."/>
+	<entry name="Frazzle" value="Иссушитель"/>
+	<entry name="FrazzleFlavor" value="Чудилы посылает дуги потрескивающей психической энергии, которые упираются во врага, иссушая их до сморщенной шелухи на глазах их испуганных товарищей."/>
+	<entry name="IncendineCombustor" value="Возжигатель"/>
+	<entry name="IncendineCombustorFlavor" value="Как правило монтируемый на боевых роботах Кастеллян. Возжигатель выбрасывает большие сгустки пламени от трижды благословленного прометиума. Связанные Магос-благословенными мазями и зажигаемые освещенным пламенем из Вечной Кузницы, каждый святой огневой метатель может превратить техноэфир в грязный жир за считанные секунды."/>
+	<entry name="JokaeroDigitalWeapon" value="<string name='Items/JokaeroDigitalWeapon'/>"/>
+	<entry name="JokaeroDigitalWeaponDescription" value="<string name='Items/JokaeroDigitalWeaponDescription'/>"/>
+	<entry name="JokaeroDigitalWeaponFlavor" value="<string name='Items/JokaeroDigitalWeaponFlavor'/>"/>
+	<entry name="KanKlaw" value="Кансервная клишня "/>
+	<entry name="KanKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="KlawOfGork" value="Клишня Горка"/>
+	<entry name="KlawOfGorkFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="KrakGrenade" value="Крак-граната"/>
+	<entry name="KrakGrenadeFlavor" value="Крак-гранаты - это взрывные заряды, предназначенные для взлома брони."/>
+	<entry name="KrakMissileLauncher" value="Крак-ракетная установка"/>
+	<entry name="KrakMissileLauncherFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KrakstormMissileSilo" value="Ракетная шахта Крак-шторм"/>
+	<entry name="KrakstormMissileSiloFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="KustomMegaSlugga" value="Кастомное Мегапуляло"/>
+	<entry name="KustomMegaSluggaFlavor" value="Любимое оружие Мека часто становится его любимым проектом, с которым он возится до тех пор, пока он не похвастается обилием трудоемких прибамбасов. В хороший день даже самые портативные образцы такого оружия могут прожечь дыру в Космодесантнике с двадцати шагах. Разумеется, за мощь кастомного мега-оружия приходится платить. Перегруженная конструкция оружия, вероятно, приведет к взрыву. Тем не менее впечатляющий урон, который может нанести такое оружие, считается более притягательным для Орка, чем риск его использования."/>
+	<entry name="Lascannon" value="Лаз-пушка"/>
+	<entry name="LascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="Lasgun" value="Лаз-ружьё"/>
+	<entry name="LasgunFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LashWhipAndBonesword" value="Стегающий хлыст Костяной меч"/>
+	<entry name="LashWhipAndBoneswordFlavor" value="Некоторые существа Тиранидов обладают этими биовооружениями в такой смертоносной симбиотической комбинации."/>
+	<entry name="Laspistol" value="Лаз-пистолет"/>
+	<entry name="LaspistolFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="LifeLeech" value="Высасыватель жизни"/>
+	<entry name="LifeLeechFlavor" value="Скручивая свои корявые руки, гневный псайкер разрушает жизненную силу своего врага, накапливая украденную сущность и используя ее, чтобы восстановить поврежденную плоть своих союзников."/>
+	<entry name="MeltaBomb" value="Мелта бомба"/>
+	<entry name="MeltaBombDescription" value="Может использоваться только против техники, Гигантских существ и укреплений."/>
+	<entry name="MeltaBombFlavor" value="Мелта бомбы - это плавящие заряды, предназначенные для прожигания бронированного корпуса за считанные секунды."/>
+	<entry name="MoltenBeam" value="Плавящий луч"/>
+	<entry name="MoltenBeamFlavor" value="Пиромант хлопает в ладоши и поворачивает их к врагу. Когда он это делает, из его ладоней вылетает яркий луч пылающей энергии. Металл брони превращается в шлак, плоть испаряется, оставляя на пути луча только ужасные тени."/>
+	<entry name="MultiLaser" value="Мультилазер"/>
+	<entry name="MultiLaserFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="MultiMelta" value="Мульти-Мелта"/>
+	<entry name="MultiMeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="None" value="Нет"/>
+	<entry name="OrbitalBombardment" value="Орбитальная бомбардировка"/>
+	<entry name="ParticleWhip" value="Атомный кнут"/>
+	<entry name="ParticleWhipFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="PlasmaCutter" value="Плазморезка"/>
+	<entry name="PlasmaCutterFlavor" value="<string name='Weapons/PlasmaFlavor'/>"/>
+	<entry name="PowerAxe" value="Силовой топор"/>
+	<entry name="PowerAxeFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerFist" value="Силовой кулак"/>
+	<entry name="PowerFistFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerKlaw" value="Силавая клишня"/>
+	<entry name="PowerKlawFlavor" value="<string name='Weapons/KlawFlavor'/>"/>
+	<entry name="PowerMaul" value="Булава Маула"/>
+	<entry name="PowerMaulFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PowerSword" value="Силовой меч"/>
+	<entry name="PowerSwordFlavor" value="<string name='Weapons/PowerFlavor'/>"/>
+	<entry name="PrehensilePincer" value="Хватательная клешня"/>
+	<entry name="PrehensilePincerFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="PsychicMaelstrom" value="Психический Мальстрём"/>
+	<entry name="PsychicMaelstromFlavor" value="Телекин фокусирует всю свою ментальную мощь на создании огромного водоворота разрушительной силы, призывая бурю психической энергии, которая полностью поглощает его врагов."/>
+	<entry name="PsychicScream" value="Психический крик"/>
+	<entry name="PsychicScreamFlavor" value="Через своего вассала Разум улья посылает пронзительный крик неразбавленной психической энергии, которая уничтожает умы тех, кого его уловил."/>
+	<entry name="RendingClaws" value="Раздирающие лапы"/>
+	<entry name="RendingClawsFlavor" value="Наконечники этих когтей тверже алмаза. Они  могут порвать броню."/>
+	<entry name="RodOfCovenantMelee" value="Жезл Завета  (ближний бой)"/>
+	<entry name="RodOfCovenantMeleeFlavor" value="Тех, кто разгневает Триархических преторианцев, ожидает быстрая казнь при помощи жезла Завета. Внутри его навершия содержится бушующая частичка умирающей звезды, удерживаемая за счёт мощного силового поля. Благодаря ей это оружие при ударе прожигает броню противника, будто это сухой пергамент. Вдобавок, обладатель жезла может выпустить эту энергию в виде обжигающего сгустка, который даже Некрона превращает в блеклую лужу расплавленного металла; органические существа же попросту испаряются в облаке пылающего праха."/>
+	<entry name="RodOfCovenantRanged" value="Жезл Завета (дальний бой)"/>
+	<entry name="RodOfCovenantRangedFlavor" value="<string name='Weapons/RodOfCovenantMeleeFlavor'/>"/>
+	<entry name="RokkitLauncha" value="Ракетамёт"/>
+	<entry name="RokkitLaunchaFlavor" value="Грубый, но простой в изготовлении, ракетамёт - это крепкая палка с простым триггерным механизмом, которая позволяет Орку с «бес'апаснава» конца стрелять извращённо выглядящими ракетами в общем направлении в сторону противника."/>
+	<entry name="RollOverThem" value="&quot;Раздавите их!&quot;"/>
+	<entry name="RuptureCannon" value="Пушка-разрыватель"/>
+	<entry name="RuptureCannonFlavor" value="Это оружие стреляет двумя разными видами высокоскоростных снарядов. Первый - раздутый клещ, который разрывается при ударе, обливая мишень густым маслянистым веществом. Второй, это кокон семян, который реагирует на контакт с липкими остатками первого снаряда, создавая взрыв, который может даже вывернуть бронированную машину наизнанку."/>
+	<entry name="ScythingTalons" value="Косовидные когти"/>
+	<entry name="ScythingTalonsFlavor" value="Косовидные когти - длинные,острые как бритва, когти из зазубренного хитина."/>
+	<entry name="SeismicAssaultCoalescent" value="Сейсмическая атака (Коалесцентная)"/>
+	<entry name="SeismicAssaultCoalescentFlavor" value="Камни трескаются и руда вспыхивает огнем в серебренных потоках, когда Осколок К'тан притягивает приливы магмы из глубины планеты."/>
+	<entry name="SeismicAssaultTranscendent" value="Сейсмическая атака (Трансцендентная)"/>
+	<entry name="SeismicAssaultTranscendentFlavor" value="<string name='Weapons/SeismicAssaultCoalescentFlavor'/>"/>
+	<entry name="ServoArm" value="Сервомеханизм"/>
+	<entry name="ServoArmFlavor" value="Техножрецы и их слуги Сервиторы часто обладают мощными сервомеханизмами. Эти механизированные конечности могут быть с равной степенью легкости осуществить сложный ремонт на поле боя или крушить жизни врагов. Хотя это оружие медленное, для нанесения удара, благословленная гидравлика сервомеханической клишни хватает и начинает сжиматься врага с отвратительной неумолимостью, приводящей к смерти."/>
+	<entry name="Shockwave" value="Ударная волна"/>
+	<entry name="ShockwaveFlavor" value="Псайкер сжимает ладони, и шум увеличивается в сотни раз, освобождая ударную волну, которая ломает кости и сбивает врагов с ног."/>
+	<entry name="Shoota" value="Стреляла"/>
+	<entry name="Skorcha" value="Выжигала"/>
+	<entry name="SkorchaFlavor" value="Любимая Орками поджигалами, Выжигала - огромный огнемет, который распыляет большие сгустки горящего топлива по  области нахождения цели. Выжигалы чаще всего монтируются на автомобилях Орка, хотя некоторые Меки, как известно, также встраивают их в комби-стрелялы."/>
+	<entry name="SkorchaMissile" value="Выжигала-ракета"/>
+	<entry name="SkorchaMissileFlavor" value="Выжигала-ракета - это оружие «выстрелил и забыл», используемое летунами Паджигала-бомбил, чтобы накрыть вражескую пехоту. Их боеголовки взрываются спреем химического пламени, которое горит белым, и от него не скрыться за самыми надежными укреплениями."/>
+	<entry name="SkyOfFallingStarsCoalescent" value="Небо падающих звезд (Коалесцентное)"/>
+	<entry name="SkyOfFallingStarsCoalescentFlavor" value="Свирепые красивые сферы из сияющего света стремительно падают из холодных глубин космоса, превращаясь в ревущих поток падающих звезд по мере приближения."/>
+	<entry name="SkyOfFallingStarsTranscendent" value="Небо падающих звезд (Трансцендентное)"/>
+	<entry name="SkyOfFallingStarsTranscendentFlavor" value="<string name='Weapons/SkyOfFallingStarsCoalescentFlavor'/>"/>
+	<entry name="SkyhammerMissileLauncher" value="Ракетная установка Небесный молот"/>
+	<entry name="SkyhammerMissileFlavor" value="Это оружие выпускает залп ракет, которое сокрушают цели с разрушительной силой. Оно идеально подходит для превращения бронированных машин в металлолом."/>
+	<entry name="SkyspearMissileLauncher" value="Ракетная установка Небесное копьё"/>
+	<entry name="SkyspearMissileLauncherFlavor" value="Ракетная пусковая установка Небесное копьё стреляет благословенными божественными боеголовками, каждая из которых сама по себе является реликвией, в которой хранятся останки выдающегося слуги Ордена. Мумифицированный мозг этого слуги усиливает автоприцеливание ракеты, позволяя ей распознавать пилотов - противник или свой - по еретическим выбросам испорченных машинных духов. Упорная погоня свирепой боеголовки и его жуткого пилота, оставляет мало шансов на выживание врагу, а танковый сервопогрузчик помогает поддерживать устойчивый темп стрельбы."/>
+	<entry name="SkystrikeMissile" value="Ракета небесный удар"/>
+	<entry name="SkystrikeMissileFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Slugga" value="Пуляла"/>
+	<entry name="SluggaFlavor" value="Этот уродливый грубой работы пистолет идеально подходит для своего уродливого и тупого владельца. Чтобы убить врага, Орк стреляет из него в упор в лицо, либо избивает им своего противника до смерти."/>
+	<entry name="Snazzgun" value="Шикуха"/>
+	<entry name="SnazzgunFlavor" value="Шикуха - это чудеса Орочьего знаю-што. Их владельцы прикручивают бесчисленное количество прибамбасов из дополнительных емкостей, барабанных магазинов и всевозможные штуковины и украшалки к своим ценным ружьям. Известно, что получившееся оружие стреляет облаками пылающих пуль, разрывами плазмы или залпами ракетных гранат."/>
+	<entry name="SoulBlaze" value="Пламя души"/>
+	<entry name="SoulBlazeFlavor" value="Некоторое психически пропитанное оружие заставляет душу пылать, поглощая несчастную жертву в облаках неземного огня."/>
+	<entry name="SpaceMarineShotgun" value="Дробовик Космодесанта"/>
+	<entry name="SpaceMarineShotgunFlavor" value=""/>
+	<entry name="SpineBanks" value="Пазухи с шипами"/>
+	<entry name="SpineBanksFlavor" value="Пазухи с взрывными шипами , встроены в панцири некоторых Карнифексов, и могут быть применены против врага, когда стреляет Тиранид."/>
+	<entry name="StaffOfLight" value="Посох света"/>
+	<entry name="StaffOfLightFlavor" value="Посох света - это оружие и символ власти. Его рукоятка на самом деле представляет собой замаскированный стержень электрогенератора, а гребень - тонко настроенное фокусирующее устройство, позволяющее владельцу выстреливать свои болты."/>
+	<entry name="StingerSalvo" value="Жалострельная батарея"/>
+	<entry name="StingerSalvoFlavor" value="Жалострельная батарея - это простое, но эффективное оружие, которое стреляет рядами длинномерных острых шипов."/>
+	<entry name="Stikkbomb" value="Шашка"/>
+	<entry name="StikkbombFlavor" value="<string name='Weapons/FragGrenadeFlavor'/>"/>
+	<entry name="Stomp" value="Топтать"/>
+	<entry name="StormBolter" value="Штормовой болтер"/>
+	<entry name="StormBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="StormstrikeMissile" value="Ракета Грозовой разряд"/>
+	<entry name="StormstrikeMissileFlavor" value="Ракета Грозовой разряд взрывается с громовым рокотом, который оставляет людей, попавших в радиус взрыва, оглушенными и дезориентированными."/>
+	<entry name="StranglethornCannon" value="Пушка-удавитель"/>
+	<entry name="StranglethornCannonFlavor" value="Это оружие стреляет коканами семян, которые вырастают до зрелого состояния в течении секунд, и разбрасывают свои крючковатые усики во всех направлениях."/>
+	<entry name="SupaLobba" value="Супир метало"/>
+	<entry name="SupaLobbaFlavor" value="Большинство Метал - большие, шумные минометы, которые обычно монтируются на баивые фуры."/>
+	<entry name="SuperHeavyExplosion" value="Супертяжелый взрыв"/>
+	<entry name="TankbustaBomb" value="Танкаломная бомба"/>
+	<entry name="TankbustaBombDescription" value="<string name='Weapons/MeltaBombDescription'/>"/>
+	<entry name="TankbustaBombFlavor" value="Танкаломная бомба - это прожигающие заряды, предназначенные для сжигания бронированного корпуса в считанные секунды."/>
+	<entry name="Tentaclids" value="Тентаклиды"/>
+	<entry name="TentaclidsFlavor" value="Эти живые ракеты ищут жертву в воздухе, цепляясь за неё колючими крюками, прежде чем излучить сильнейший биоэлектрический импульс."/>
+	<entry name="TeslaCarbine" value="Тесла-карабин"/>
+	<entry name="TeslaCarbineFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TeslaSphere" value="Тесла-Сфера"/>
+	<entry name="TeslaSphereFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="ThresherScythe" value="Коса-молотилка"/>
+	<entry name="ThresherScytheFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="ThunderfireCannon" value="Пушка Громобой"/>
+	<entry name="ThunderfireCannonFlavor" value="Пушка Громобой - колоссальное многорядное артиллерийское оружие. Она слишком велика для того, чтобы переноситься человеком, и поэтому движется в бою на множестве гусениц сопровождая стрелков Технодесанта."/>
+	<entry name="ToxicMiasma" value="Токсичные миазмы"/>
+	<entry name="ToxicMiasmaFlavor" value="Некоторые существа выделяют токсины, чтобы отравить атмосферу мира-жертвы."/>
+	<entry name="Toxinspike" value="Токсичный шип"/>
+	<entry name="ToxinspikeFlavor" value="<string name='Weapons/TailBiomorphFlavor'/>"/>
+	<entry name="TraktorKannon" value="Пушка-тигач"/>
+	<entry name="TraktorKannonFlavor" value="Пушка-тигач стреляет мощным пучком энергии в воздух. Экипаж из Гротов дико размахивает этим лучом, пока им не удастся упереть жужжащую энергетическую колонну в воздушную цель. Лишь на одно мгновение попав под этот луч, их несчастная жертва падает и разбивается на кусочки о землю."/>
+	<entry name="TransdimensionalThunderboltCoalescent" value="Трансразмерный Громовой болт (Коалесцентный)"/>
+	<entry name="TransdimensionalThunderboltCoalescentFlavor" value="Осколок К'тан проецирует потрескивающую болт энергию из своей протянутой ладони, повергая своего врага в забвение."/>
+	<entry name="TransdimensionalThunderboltTranscendent" value="Трансразмерный Громовой болт (Трансцендентный)"/>
+	<entry name="TransdimensionalThunderboltTranscendentFlavor" value="<string name='Weapons/TransdimensionalThunderboltCoalescentFlavor'/>"/>
+	<entry name="TwinLinkedAutocannon" value="Спаренная автопушка"/>
+	<entry name="TwinLinkedAutocannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedAssaultCannon" value="Спаренная Штурмовая пушка"/>
+	<entry name="TwinLinkedAssaultCannonFlavor" value="<string name='Weapons/AutoFlavor'/>"/>
+	<entry name="TwinLinkedBigShoota" value="Спариная б'ашая стриляла"/>
+	<entry name="TwinLinkedBigShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedBoltgun" value="Спаренный болтер"/>
+	<entry name="TwinLinkedBoltgunFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedGaussBlaster" value="Спаренный Гаусс-бластер"/>
+	<entry name="TwinLinkedGaussBlasterFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="TwinLinkedHeavyBolter" value="Спаренный тяжелый болтер"/>
+	<entry name="TwinLinkedHeavyBolterFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="TwinLinkedHeavyPhosphorBlaster" value="Спаренный тяжелый Фосфорный бластер"/>
+	<entry name="TwinLinkedHeavyPhosphorBlasterFlavor" value="<string name='Weapons/PhosphorFlavor'/>"/>
+	<entry name="TwinLinkedHydraAutocannon" value="Спаренная автопушка Гидра"/>
+	<entry name="TwinLinkedHydraAutocannonFlavor" value="По сути, это длинноствольный зенитный автомат. Автопушкой Гидра руководит интеллектуальный логический дух, заполняющий небеса линиями смертоносного огня."/>
+	<entry name="TwinLinkedLascannon" value="Спаренная Лазпушка"/>
+	<entry name="TwinLinkedLascannonFlavor" value="<string name='Weapons/LasFlavor'/>"/>
+	<entry name="TwinLinkedParticleBeamer" value="Спаренный атомный луч"/>
+	<entry name="TwinLinkedParticleBeamerFlavor" value="<string name='Weapons/ParticleFlavor'/>"/>
+	<entry name="TwinLinkedShoota" value="Спариная стриляла"/>
+	<entry name="TwinLinkedShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedSupaShoota" value="Спариная супир стриляла"/>
+	<entry name="TwinLinkedSupaShootaFlavor" value="<string name='Weapons/ShootaFlavor'/>"/>
+	<entry name="TwinLinkedTeslaDestructor" value="Спаренный Тесла-деструктор"/>
+	<entry name="TwinLinkedTeslaDestructorFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TyranidCity" value="<string name='Traits/Tyranids/CityDamage'/>"/>
+	<entry name="TyranidCityFlavor" value="<string name='Traits/Tyranids/CityDamageFlavor'/>"/>
+	<entry name="UrtySyringe" value="Боль-шприц"/>
+	<entry name="UrtySyringeFlavor" value="Застывший осадок, который Горепарень вводит в жертву в качестве свертывающего агента, оказывает фатальное воздействие на физиологию неоркоидов. Артерии забиваются растущим грибком, легкие вздуваются спорами, и жертва быстро превращается в кашицу."/>
+	<entry name="Voidblade" value="Лезвие пустоты"/>
+	<entry name="VoidbladeFlavor" value="Светящийся черный край Лезвия пустоты мерцает и исчезает, что приводит к тому, что молекулярные связи любого материала, с которым он соприкасается, мгновенно распадаются."/>
+	<entry name="WarpBlastBurst" value="Взрывная волна Варпа"/>
+	<entry name="WarpBlastLance" value="Фронт взрывной волны Варпа"/>
+	<entry name="Warscythe" value="Боевая коса"/>
+	<entry name="WarscytheFlavor" value="Боевая коса - это боевые ножи с энергетическим лезвием, и они были любимым оружием Лордов Некронов и их телохранителей на протяжении многих тысяч лет. Тяжелая и громоздкая, в руках меньшего существа она не будет представлять угрозу, но когда она попадает в руки Некрона обладающего неутомимой механической мускулатурой, коса становиться самым грозным оружием."/>
+	<entry name="WeirdboyStaff" value="Посох Чудилы"/>
+	<entry name="WeirdboyStaffFlavor" value="Яркие чары и звон колокольчиков, которые украшают посох Чудилы, не предполагают тот ужасный урон, который он может нанести в битве. Медный шест в его сердцевине позволяет владельцу заземлить необузданную Вааагх! энергию, которая иначе испепелит Чудилу, и это оружие испускает треск зеленых раззрывов от каждого удара его о землю."/>
+	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
+	<entry name="ZzapGun" value="Ззап пушка"/>
+	<entry name="ZzapGunFlavor" value="Ззап пушки стреляют нестабильными болт-молниями. Они могут пробить корпус даже самой тяжелой техники противника. Она испускает потрескивающий ливень искр, но имеет тенденцию к самоподрыву и электромутации стрелка."/>
+</language>

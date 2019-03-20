@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="(Turn)" value="(%1% ход)"/>
+	<entry name="(Turns)" value="(%1% ходов)"/>
+	<entry name="AchievementsDisabled" value="Достижения отключены."/>
+	<entry name="AI" value="ИИ"/>
+	<entry name="AITurn" value="Ход врагов"/>
+	<entry name="Actions" value="Действия"/>
+	<entry name="AddPlayerHint" value="Добавить игрока."/>
+	<entry name="Advanced" value="Расширенные"/>
+	<entry name="All" value="Все"/>
+	<entry name="Artefact" value="Артефакт"/>
+	<entry name="AttackEstimate" value="Прогноз атаки"/>
+	<entry name="Attributes" value="Атрибуты"/>
+	<entry name="Back" value="Назад"/>
+	<entry name="Basic" value="Базовые"/>
+	<entry name="Battle" value="Битва"/>
+	<entry name="Buildings" value="Здания"/>
+	<entry name="CannotDisembarkThisTurn" value="Нельзя выгрузить на этом ходе."/>
+	<entry name="Cancel" value="Отмена"/>
+	<entry name="Cargo" value="Груз"/>
+	<entry name="Charges" value="Атаки"/>
+	<entry name="Chat" value="Чат"/>
+	<entry name="ChooseResearch" value="Выбор исследования"/>
+	<entry name="ChooseResearchHint" value="Выбор цели исследования [Пробел]."/>
+	<entry name="CityResources" value="Ресурсы города"/>
+	<entry name="ClaimItemOnlyWithHero" value="Выберите подразделение героя перед тем, как использовать предмет."/>
+	<entry name="ClearNotifications" value="Нет действий"/>
+	<entry name="ClearNotificationsHint" value="Пропустить все действия [Пробел]."/>
+	<entry name="Compendium" value="Краткое руководство"/>
+	<entry name="Connect" value="Соединение"/>
+	<entry name="ConsumesAction" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Actions'/> Расходует действие<style color='Default'/>"/>
+	<entry name="ConsumesMovement" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Movement'/> Расходует движение<style color='Default'/>"/>
+	<entry name="Continue" value="Продолжить"/>
+	<entry name="Cooldown" value="Время перезарядки"/>
+	<entry name="Copy" value="Копировать"/>
+	<entry name="Cost" value="Цена"/>
+	<entry name="Credits" value="О создателях"/>
+	<entry name="Debug" value="Отладка"/>
+	<entry name="Defeated" value="Побежден"/>
+	<entry name="Delete" value="Удалить"/>
+	<entry name="DirectConnect" value="Прямое соединение"/>
+	<entry name="DisableBuildingHint" value="Отключить здание этого типа, освободив работников для других зданий."/>
+	<entry name="DisableTips" value="Отключить советы"/>
+	<entry name="DisableTipsHint" value="Не показывать всплывающие подсказки. Вы можете повторно включить их на панели настроек."/>
+	<entry name="DismissReports" value="Отклонить всё (%1%)"/>
+	<entry name="DLC" value="DLC"/>
+	<entry name="DLCNotInstalled" value="<style color='GUI/Red'/>%1% не установлено."/>
+	<entry name="Economy" value="Экономика"/>
+	<entry name="Edicts" value="Эдикты"/>
+	<entry name="Elite" value="Элита"/>
+	<entry name="EnableBuildingHint" value="Включите здание этого типа, выделив для него работников."/>
+	<entry name="EndTurn" value="Конец хода"/>
+	<entry name="EndTurnHint" value="Конец Вашего хода [Пробел]."/>
+	<entry name="Enter" value="Ввод"/>
+	<entry name="EstimatedCasualties" value="Прогноз %1%/%2% урона"/>
+	<entry name="Events" value="События"/>
+	<entry name="ExecuteQueuedOrders" value="Продолжить действия  (%1%)"/>
+	<entry name="ExecuteQueuedOrdersHint" value="Выполнять приказы, поставленные в очередь на предыдущем ходе [Пробел]."/>
+	<entry name="ForceEndTurnHint" value="Конец Вашего хода [Ctrl+Пробел]."/>
+	<entry name="ExitCity" value="Выход из города"/>
+	<entry name="ExitCityHint" value="Выход из экрана города [Пробел]."/>
+	<entry name="ExitToMainMenu" value="Выход в главное меню"/>
+	<entry name="ExitToDesktop" value="Выход на рабочий стол"/>
+	<entry name="Explored" value="Исследовано"/>
+	<entry name="Factions" value="Фракции"/>
+	<entry name="Features" value="Особенности  местности"/>
+	<entry name="Full" value="Полный"/>	
+	<entry name="GameBrowser" value="Игровой браузер"/>
+	<entry name="GameLobby" value="Лобби игры"/>
+	<entry name="Games" value="Игры"/>
+	<entry name="HoldKeyToKeepVisible" value="Удерживайте Ctrl, чтобы сохранить видимость."/>
+	<entry name="HoldKeyToShowOpponentAttack" value="Удерживайте Alt, чтобы показать атаки противника."/>
+	<entry name="Host" value="Хост"/>
+	<entry name="Inaccessible" value="Недоступный"/>
+	<entry name="IncompatibleVersion" value="Несовместимая версия"/>
+	<entry name="IntroductionGame" value="Учебная игра"/>
+	<entry name="IntroductionGameHint" value="Начните обучающую игру за Космический Десант на самой легкой сложности."/>
+	<entry name="InviteFriend" value="Пригласить друга"/>
+	<entry name="InviteFriendHint" value="<style color='GUI/Yellow'/>Steam может отправлять приглашение друзьям, только если настройки конфиденциальности вашего профиля (детали игры) не установлены на приватные."/>
+	<entry name="InviteFriendDisabledHint" value="Хост не работает со Steam версией или создание игры в Steam недоступно."/>
+	<entry name="Invulnerable" value="Неуязвимый"/>
+	<entry name="ItemShop" value="Магазин предметов"/>
+	<entry name="Items" value="Предметы"/>
+	<entry name="Join" value="Присоединиться"/>
+	<entry name="JustOneMoreTurn" value="Подождите! Еще пару... ходов"/>
+	<entry name="LastPing" value="Последний Пинг"/>
+	<entry name="LevelHint" value="%1%/%2% опыт<br/>(%3% значение опыта до смерти)"/>
+	<entry name="Load" value="Загрузить"/>
+	<entry name="LoadGame" value="Загрузить игру"/>
+	<entry name="MainMenu" value="Главное меню"/>
+	<entry name="Menu" value="Меню"/>
+	<entry name="Military" value="Военные силы"/>
+	<entry name="Minimap" value="Миникарта"/>
+	<entry name="Mixer" value="Смеситель"/>
+	<entry name="Mods" value="Моды"/>
+	<entry name="Multiplayer" value="Мультиплеер"/>
+	<entry name="Name" value="Имя"/>
+	<entry name="New" value="Новая"/>
+	<entry name="NewGame" value="Новая игра"/>
+	<entry name="NewGameHint" value="Выберите свою фракцию и настройте параметры мира."/>
+	<entry name="NewSavedGame" value="Новое сохранение"/>
+	<entry name="NoChargesRemaining" value="Не осталось зарядов."/>
+	<entry name="NoFreeItemSlots" value="Нет свободных слотов предметов."/>
+	<entry name="NoResearchSelected" value="Не выбрано исследование"/>
+	<entry name="NoValidTargets" value="Нет доступных целей."/>
+	<entry name="NotEnoughResources" value="Недостаточно ресурсов."/>
+	<entry name="NotReady" value="Не готов"/>
+	<entry name="Objectives" value="Задачи"/>
+	<entry name="ObjectivesCompleted" value="Задачи выполнены"/>
+	<entry name="OK" value="OK"/>
+	<entry name="OnCooldown" value="Время перезарядки."/>
+	<entry name="Operations" value="Действия"/>
+	<entry name="OrderCity" value="Действия в городах (%1%)"/>
+	<entry name="OrderCityHint" value="Выберите следующий город без производства [Пробел]."/>
+	<entry name="OrderUnits" value="Приказ подразделению (%1%)"/>
+	<entry name="OrderUnitsHint" value="Выберите следующее подразделение [Пробел]."/>
+	<entry name="Overwrite" value="Перезаписать"/>
+	<entry name="Parameters" value="Параметры"/>
+	<entry name="Passive" value="Пассивный"/>
+	<entry name="PassiveAction" value="Пассивное действие"/>
+	<entry name="Paste" value="Вставить"/>
+	<entry name="PatchNotes" value="Заметки о патче"/>
+	<entry name="Player" value="Игрок"/>
+	<entry name="Players" value="Игроки"/>
+	<entry name="PleaseWait" value="Пожалуйста, подождите..."/>
+	<entry name="PleaseWaitHint" value="Подождите других игроков."/>
+	<entry name="Quests" value="Квесты"/>
+	<entry name="RadiusTile" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радиус в плитках: %1%"/>
+	<entry name="RadiusTiles" value="<icon height='20' texture='Icons/Attributes/Radius'/> Радиус в плитках: %1%"/>
+	<entry name="Random" value="Рандом"/>
+	<entry name="Randomize" value="Рандомно"/>
+	<entry name="RangeSelf" value="<icon height='20' texture='Icons/Attributes/Range'/> Дальность: собственная"/>
+	<entry name="RangeTilesMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Дальность в плитках: %1%"/>
+	<entry name="RangeTilesMinMax" value="<icon height='20' texture='Icons/Attributes/Range'/> Дальность в плитках: %1% -- %2%"/>
+	<entry name="Ready" value="Готов"/>
+	<entry name="Refresh" value="Обновить"/>
+	<entry name="RemovePlayerHint" value="Удалить игрока."/>
+	<entry name="RenameHint" value="Переименовать."/>
+	<entry name="(Required)" value="(требуется %1%)"/>
+	<entry name="RequiredLevel" value="Требуемый уровень: %1%"/>
+	<entry name="Requires" value="Требует"/>
+	<entry name="RequiresAction" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Actions'/> Требуется действие<style color='Default'/>"/>
+	<entry name="RequiresMovement" value="<style color='GUI/Yellow'/><icon height='20' texture='Icons/Attributes/Movement'/> Требуется передвижение<style color='Default'/>"/>
+	<entry name="Research" value="Исследование"/>
+	<entry name="Resource" value="<icon texture='GUI/Bullet'/>%1%"/>
+	<entry name="ResourceAccumulated" value="<icon texture='GUI/Bullet'/>%1% накоплено"/>
+	<entry name="ResourceFromBuildings" value="    <icon texture='GUI/Bullet'/>%1% от зданий"/>
+	<entry name="ResourceFromCities" value="    <icon texture='GUI/Bullet'/>%1% от числа городов"/>
+	<entry name="ResourceFromDestruction" value="    <icon texture='GUI/Bullet'/>%1% от понесенного урона"/>
+	<entry name="ResourceFromDifficulty" value="    <icon texture='GUI/Bullet'/>%1% от сложности"/>
+	<entry name="ResourceFromFeatures" value="    <icon texture='GUI/Bullet'/>%1% от местности"/>
+	<entry name="ResourceFromLoyalty" value="    <icon texture='GUI/Bullet'/>%1% от лояльности"/>
+	<entry name="ResourceFromPopulation" value="    <icon texture='GUI/Bullet'/>%1% от населения"/>
+	<entry name="ResourceFromShortage" value="    <icon texture='GUI/Bullet'/>%1% от дефицита ресурсов"/>
+	<entry name="ResourceFromTiles" value="    <icon texture='GUI/Bullet'/>%1% от плиток"/>
+	<entry name="ResourceFromUnits" value="    <icon texture='GUI/Bullet'/>%1% от подразделений"/>
+	<entry name="ResourceLimit" value="<icon texture='GUI/Bullet'/>%1% от ограничений"/>
+	<entry name="ResourcePerTurn" value="<icon texture='GUI/Bullet'/>%1% за ход"/>
+	<entry name="ResourceShortageTitle" value="Недостаток ресурсов"/>
+	<entry name="ResourceShortage" value="<icon texture='GUI/Bullet'/><style color='GUI/Red'/>%1%%%<style color='Default'/> %2% дефицит"/>
+	<entry name="ResourceTotal" value="<icon texture='GUI/Bullet'/>%1% всего"/>
+	<entry name="RestartScenario" value="Рестарт сценария"/>
+	<entry name="Rewards" value="Награды"/>
+	<entry name="RewardsReceived" value="Полученные награды"/>
+	<entry name="QuickSelectFactionHint" value="Быстрый выбор фракции."/>
+	<entry name="Quit" value="Выход"/>
+	<entry name="Quests" value="Квесты"/>
+	<entry name="Save" value="Сохранить"/>
+	<entry name="SaveGame" value="Сохранить игру"/>
+	<entry name="Scenarios" value="Сценарии"/>
+	<entry name="Scores" value="Счет"/>
+	<entry name="SelectCityHint" value="Выбрать город."/>
+	<entry name="SelectColorHint" value="Выбрать цвет."/>
+	<entry name="SelectDifficultyHint" value="Выбрать сложность."/>
+	<entry name="SelectFaction" value="Выбрать фракцию"/>
+	<entry name="SelectFactionHint" value="Выбрать фракцию."/>
+	<entry name="SelectNextCityHint" value="Выбрать следующий город."/>
+	<entry name="SelectPreviousCityHint" value="Выбрать предыдущий город."/>
+	<entry name="SelectTeamHint" value="Выбрать команду."/>
+	<entry name="SelectUnitHint" value="Выбрать подразделение."/>
+	<entry name="Settings" value="Настройки"/>
+	<entry name="SinglePlayer" value="Одиночная игра"/>
+	<entry name="SkipCity" value="К следующему городу (1/%1%)"/>
+	<entry name="SkipCityHint" value="Пропустить этот город [Пробел].<br/>[Tab]: выбрать следующий город без производства.<br/>[Shift+Tab]: выберите предыдущий город без производства."/>
+	<entry name="SkipUnit" value="Следующее подраздел. (1/%1%)"/>
+	<entry name="SkipUnitHint" value="Пропустить это подразделение [Пробел].<br/>[Tab]: выбрать следующее подразделение.<br/>[Shift+Tab]: выбрать предыдущее подразделение."/>
+	<entry name="Start" value="Начать"/>
+	<entry name="Team" value="Команда"/>
+	<entry name="Team0" value="Нет команды"/>
+	<entry name="Team0Hint" value="Нет команды: играет в одиночку; а не частью альянса."/>
+	<entry name="Team1" value="Команда A"/>
+	<entry name="Team2" value="Команда B"/>
+	<entry name="Team3" value="Команда C"/>
+	<entry name="Team4" value="Команда D"/>
+	<entry name="Team5" value="Команда E"/>
+	<entry name="Team6" value="Команда F"/>
+	<entry name="Team7" value="Команда G"/>
+	<entry name="Team8" value="Команда H"/>
+	<entry name="Technology" value="Технологии"/>
+	<entry name="Tier" value="Уровень"/>
+	<entry name="Tip" value="Совет"/>
+	<entry name="Tips" value="Советы"/>
+	<entry name="Total" value="Общий"/>
+	<entry name="Traits" value="Особенности подразделений"/>
+	<entry name="Turn" value="Ход"/>
+	<entry name="UnitsKilled" value="%2% %1% убито на Гладиусе"/> <!-- E.g. "142 Tyranids killed on Gladius" -->
+	<entry name="UnitsKilledByPlayer" value="Вы убити: %2%"/>
+	<entry name="UnclaimedItems" value="Невостребованные предметы"/>
+	<entry name="Unexplored" value="Неизученный"/>
+	<entry name="Units" value="Подразделение"/>
+	<entry name="Unready" value="Не готов"/>
+	<entry name="Upgrades" value="Модернизация"/>
+	<entry name="Upkeep" value="Содержание"/>
+	<entry name="VS" value=":"/>
+	<entry name="Victorious" value="Победа"/>
+	<entry name="WaaaghLevelHint" value="<style name='Title'/>Уровень Вааагх!<style name='Default'/><br/>Каждый уровень Вааагх! увеличивает или уменьшает урон подразделений Орков на 5%% (в пределах +/-25%%). Уровень Вааагх! рассчитывается из накопленного влияния и потребляемого влияния, и он обновляется в начале хода.<br/><br/><icon texture='GUI/Bullet'/>%1%/%2% (%3%%% damage)<br/><br/><style name='Italic'/><string name='Traits/WaaaghFlavor'/>"/>
+	<entry name="Weapons" value="Оружие"/>
+	<entry name="XOutOfY" value="%1%/%2%"/>
+	<entry name="You" value="Вы"/>
+	<entry name="YourName" value="Ваше имя"/>
+</language>

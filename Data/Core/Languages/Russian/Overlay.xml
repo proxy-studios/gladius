@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Broken" value="<style name='Shadowed' color='GUI/Red'/>Мы разбиты!"/>
+	<entry name="LevelUp" value="<style name='Shadowed' color='GUI/Blue'/>Новый уровень!"/>
+	<entry name="Rallied" value="<style name='Shadowed' color='GUI/Turquoise'/>Мы сплотились!"/>
+	<entry name="Shaken" value="<style name='Shadowed' color='GUI/Yellow'/>Мы в нерешительности!"/>
+</language>

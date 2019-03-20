@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AccumulateInfluenceDescription" value="Накопить влияния (%1%/%2%)."/>
+	<entry name="AccumulateBiomassDescription" value="Накопить биомассу (%1%/%2%)."/>
+	<entry name="AccumulateResearchDescription" value="Накопить исследования (%1%/%2%)."/>
+	<entry name="ActivateUnitDescription" value="Активировать %1% (%2%/1)."/>
+	<entry name="ActivateTacticDescription" value="Активировать тактику Ордена (%1%/1)."/>
+	<entry name="CaptureUnitDescription" value="Захватить %1% (%2%/1)."/>
+	<entry name="ClearInfestationDescription" value="Уничтожить %1% (%2%/%3%)."/>
+	<entry name="ConstructBuildingDescription" value="Построить %1% (%2%/%3%)."/>
+	<entry name="ConstructFeatureDescription" value="Создать %1% (%2%/%3%)."/>
+	<entry name="ConsumeTileDescription" value="Поглотить плитку Малантропом (%2%/%3%)."/>
+	<entry name="ControlUnitDescription" value="Сохранить контроль над %1% (%2%/1)."/>
+	<entry name="DefendTileDescription" value="Защитить выделенную плиту."/>
+	<entry name="DefendTileWithTurnLimitDescription" value="Защитить выделенную плиту. (%1% ходов)."/>
+	<entry name="DefendTileWithEntranceWithTurnLimitDescription" value="Защитить вновь открывшийся проход %1% ходов (%2%/1)."/>
+	<entry name="DeployFortressDescription" value="Разместить %1% рядом со специальной плитой ресурса и удерживать периметр (%2%/1)."/>
+	<entry name="DestroySpawnedCityDescription" value="Уничтожить город Астра Милитарум (%1%/1)."/>
+	<entry name="ExploreDepthsEntryDescription" value="%1% (%2%/%3%)"/>
+	<entry name="ExploreDepthsDescription" value="Отправить подразделения в глубины планеты:"/>
+	<entry name="FoundCityDescription" value="Основать новый город (%1%/1)."/>
+	<entry name="FoundCityNearEntranceDescription" value="Основать новый город в пределах 3 плиток от недавно обнаруженного прохода (%1%/1)."/>
+	<entry name="FoundCityOnNecronTombDescription" value="Основать новый город на выделенной плитке (%1%/1)."/>
+	<entry name="GenerateResearchFromExperienceDescription" value="Убить вражеское подразделение в пределах 3 плиток от Малантропа (%1%/%2%)"/>
+	<entry name="InvokeRapidRiseOnWarriorDescription" value="Начать Быстрое пробуждение Воинов (%1%/1)."/>
+	<entry name="KeepUnitAliveDescription" value="Сохранить %1% живым (%2%/1)."/>
+	<entry name="KillCampDescription" value="Разрушить вражеский лагерь (%1%/1)."/>
+	<entry name="KillCampWithFortressOfRedemptionDescription" value="Уничтожить восставшую Крепость Искупления (%1%/1)."/>
+	<entry name="KillCampWithRebelNecronArmyDescription" value="Уничтожить восставшую армию Некронов (%1%/1)."/>
+	<entry name="KillCampWithTechpriestWithTurnLimitDescription" value="Уничтожить мятежника Техножреца и его элитных роботов за %2% ходов (%1%/1)."/>
+	<entry name="KillCampWithTurnLimitDescription" value="Разрушить вражеский лагерь (Осталось %1% ходов)."/>
+	<entry name="KillLordOfSkullsActiveDescription" value="Убить %1% за %4% хода(ов) (%2%/%3%)."/>
+	<entry name="KillLordOfSkullsInactiveDescription" value="Ожидается, что %1% вернётся в этот мир (0/1)."/>
+	<entry name="KillSpawnedUnitsDescription" value="Убить разрозненные подразделения (%1%/%2%)."/>
+	<entry name="KillUnitDescription" value="Убить %1% (%2%/%3%)."/>
+	<entry name="KillUnitNativeDescription" value="Убить местных Ксеносов (%1%/%2%)."/>
+	<entry name="ProduceUnitDescription" value="Создать %1% (%2%/%3%)."/>
+	<entry name="ProduceRequisitionsPerTurnDescription" value="Произвести %1% снабжения за ход (На данный момент %2%) (%3%/1)."/>
+	<entry name="ReachLevelDescription" value="Повысить уровень %2% с %1% (%3%/1)."/>
+	<entry name="ReclaimUnitDescription" value="Использовать любое производственное здание, чтобы утилизировать подразделение (%2%/%3%)."/>
+	<entry name="RecoverArcheotechDescription" value="Восстановит артефакт (%1%/%2%)."/>
+	<entry name="RecoverUnitDescription" value="Собрать разрозненные подразделения (%1%/%2%)."/>
+	<entry name="ResearchUpgradeDescription" value="Исследовать %1% (%2%/%3%)."/>
+	<entry name="ScanTilesDescription" value="Использовать %1% на выделенной плитке (%2%/%3%)."/>
+	<entry name="StartEdictDescription" value="Огласить городской эдикт (%1%/1)."/>
+	<entry name="SurviveInvasionDescription" value="Пережить вторжение (%1%/1)."/>
+	<entry name="SurviveInvasionWithTurnLimitDescription" value="Пережить вторжение %1% ходов (%2%/1)."/>
+	<entry name="VisitTileAndClearEnemiesDescription" value="Посетить выделенную плитку и защитить периметр (%4%/%2%)."/>
+	<entry name="VisitTileDescription" value="Посетить выделенную плитку (%1%/%2%)."/>
+	<entry name="VisitTileExoditeWithUnitTypeDescription" value="Посетить выделенную плитку подразделением %3% (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndClearEnemiesDescription" value="Посетить выделенную плитку подразделением %3% и защитить периметр (%4%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeAndTurnLimitDescription" value="Посетить подсвеченную плитку %3% за %5% ходов (%1%/%2%)."/>
+	<entry name="VisitTileWithUnitTypeDescription" value="Посетить выделенную плитку подразделением %3% (%1%/%2%)."/>
+</language>
