@@ -1,0 +1,990 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="Artefacts/Accuracy" value="<string name='Units/Neutral/Artefacts/Accuracy'/>"/>
+	<entry name="Artefacts/AccuracyDescription" value="Increases the accuracy."/>
+	<entry name="Artefacts/Armor" value="<string name='Units/Neutral/Artefacts/Armor'/>"/>
+	<entry name="Artefacts/ArmorDescription" value="Increases the armor."/>
+	<entry name="Artefacts/ArmorPenetration" value="<string name='Units/Neutral/Artefacts/ArmorPenetration'/>"/>
+	<entry name="Artefacts/ArmorPenetrationDescription" value="Increases the armor penetration."/>
+	<entry name="Artefacts/Damage" value="<string name='Units/Neutral/Artefacts/Damage'/>"/>
+	<entry name="Artefacts/DamageDescription" value="Increases the damage."/>
+	<entry name="Artefacts/Healing" value="<string name='Units/Neutral/Artefacts/Healing'/>"/>
+	<entry name="Artefacts/HealingDescription" value="Restores hitpoints each turn."/>
+	<entry name="Artefacts/Hitpoints" value="<string name='Units/Neutral/Artefacts/Hitpoints'/>"/>
+	<entry name="Artefacts/HitpointsDescription" value="Increases the hitpoints."/>
+	<entry name="Artefacts/Loyalty" value="<string name='Units/Neutral/Artefacts/Loyalty'/>"/>
+	<entry name="Artefacts/LoyaltyDescription" value="Increases the loyalty."/>
+	<entry name="Artefacts/Movement" value="<string name='Units/Neutral/Artefacts/Movement'/>"/>
+	<entry name="Artefacts/MovementDescription" value="Increases the movement."/>
+	<entry name="Artefacts/Sight" value="<string name='Units/Neutral/Artefacts/Sight'/>"/>
+	<entry name="Artefacts/SightDescription" value="Increases the sight."/>
+	
+	<entry name="Items/AdamantiumWeaveVest" value="<string name='Items/AdamantiumWeaveVest'/>"/>
+	<entry name="Items/AdamantiumWeaveVestDescription" value="<string name='Items/AdamantiumWeaveVestDescription'/>"/>
+	<entry name="Items/AdamantiumWeaveVestFlavor" value="<string name='Items/AdamantiumWeaveVestFlavor'/>"/>
+	<entry name="Items/ArmaplasBracers" value="<string name='Items/ArmaplasBracers'/>"/>
+	<entry name="Items/ArmaplasBracersDescription" value="<string name='Items/ArmaplasBracersDescription'/>"/>
+	<entry name="Items/ArmaplasBracersFlavor" value="<string name='Items/ArmaplasBracersFlavor'/>"/>
+	<entry name="Items/CombatStimulant" value="<string name='Items/CombatStimulant'/>"/>
+	<entry name="Items/CombatStimulantDescription" value="<string name='Items/CombatStimulantDescription'/>"/>
+	<entry name="Items/CombatStimulantFlavor" value="<string name='Items/CombatStimulantFlavor'/>"/>
+	<entry name="Items/ConcealedWeaponSystem" value="<string name='Items/ConcealedWeaponSystem'/>"/>
+	<entry name="Items/ConcealedWeaponSystemDescription" value="<string name='Items/ConcealedWeaponSystemDescription'/>"/>
+	<entry name="Items/ConcealedWeaponSystemFlavor" value="<string name='Items/ConcealedWeaponSystemFlavor'/>"/>
+	<entry name="Items/EnduranceImplant" value="<string name='Items/EnduranceImplant'/>"/>
+	<entry name="Items/EnduranceImplantDescription" value="<string name='Items/EnduranceImplantDescription'/>"/>
+	<entry name="Items/EnduranceImplantFlavor" value="<string name='Items/EnduranceImplantFlavor'/>"/>
+	<entry name="Items/LightningGauntlet" value="<string name='Items/LightningGauntlet'/>"/>
+	<entry name="Items/LightningGauntletDescription" value="<string name='Items/LightningGauntletDescription'/>"/>
+	<entry name="Items/LightningGauntletFlavor" value="<string name='Items/LightningGauntletFlavor'/>"/>
+	<entry name="Items/MourningBladeOfLazaerek" value="<string name='Items/MourningBladeOfLazaerek'/>"/>
+	<entry name="Items/MourningBladeOfLazaerekDescription" value="<string name='Items/MourningBladeOfLazaerekDescription'/>"/>
+	<entry name="Items/MourningBladeOfLazaerekFlavor" value="<string name='Items/MourningBladeOfLazaerekFlavor'/>"/>
+	<entry name="Items/PoweredGauntlet" value="<string name='Items/PoweredGauntlet'/>"/>
+	<entry name="Items/PoweredGauntletDescription" value="<string name='Items/PoweredGauntletDescription'/>"/>
+	<entry name="Items/PoweredGauntletFlavor" value="<string name='Items/PoweredGauntletFlavor'/>"/>
+	<entry name="Items/TemporaryShield" value="<string name='Items/TemporaryShield'/>"/>
+	<entry name="Items/TemporaryShieldDescription" value="<string name='Items/TemporaryShieldDescription'/>"/>
+	<entry name="Items/TemporaryShieldFlavor" value="<string name='Items/TemporaryShieldFlavor'/>"/>
+	<entry name="Items/VolcanisShroud" value="<string name='Items/VolcanisShroud'/>"/>
+	<entry name="Items/VolcanisShroudDescription" value="<string name='Items/VolcanisShroudDescription'/>"/>
+	<entry name="Items/VolcanisShroudFlavor" value="<string name='Items/VolcanisShroudFlavor'/>"/>
+	<entry name="Items/ZoatHideJerkin" value="<string name='Items/ZoatHideJerkin'/>"/>
+	<entry name="Items/ZoatHideJerkinDescription" value="<string name='Items/ZoatHideJerkinDescription'/>"/>
+	<entry name="Items/ZoatHideJerkinFlavor" value="<string name='Items/ZoatHideJerkinFlavor'/>"/>
+	
+	<entry name="AerialAttack" value="Aerial Attack"/>
+	<entry name="AerialAttackDescription" value="Can only target flyers."/>
+	<entry name="AmmoRunt" value="Ammo Runt"/>
+	<entry name="AmmoRuntDescription" value="Increases the ranged accuracy."/>
+	<entry name="AmmoRuntFlavor" value="<string name='Actions/AmmoRuntFlavor'/>"/>
+	<entry name="AndTheyShallKnowNoFear" value="And They Shall Know No Fear"/>
+	<entry name="AndTheyShallKnowNoFearDescription" value="The unit cannot be broken by morale and is immune to fear."/>
+	<entry name="AndTheyShallKnowNoFearFlavor" value="Some warriors refuse to surrender, fighting on whatever the odds."/>
+	<entry name="Animosity" value="Animosity"/>
+	<entry name="AnimosityDescription" value="Reduces the damage."/>
+	<entry name="AnimosityFlavor" value="When the tides of Waaagh! flow, the Orks are visibly larger and stronger -- but when the tides ebb, the Orks are weakened too."/>
+	<entry name="AntiGravUpwash" value="Anti-Grav Upwash"/>
+	<entry name="AntiGravUpwashDescription" value="Increases the movement when the health is above 66%."/>
+	<entry name="ApocalypticBarrage" value="Apocalyptic Barrage"/>
+	<entry name="ApocalypticBarrageDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticBarrageFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ApocalypticBlast" value="Apocalyptic Blast"/>
+	<entry name="ApocalypticBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ApocalypticMegaBlast" value="Apocalyptic Mega-Blast"/>
+	<entry name="ApocalypticMegaBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="ApocalypticMegaBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="ArmoriumCherub" value="<string name='Actions/ArmoriumCherub'/>"/>
+	<entry name="ArmoriumCherubDescription" value="Increases the accuracy."/>
+	<entry name="ArmoriumCherubFlavor" value="<string name='Actions/ArmoriumCherubFlavor'/>"/>
+	<entry name="Armourbane" value="Armourbane"/>
+	<entry name="ArmourbaneDescription" value="Increases the armour penetration."/>
+	<entry name="ArmourbaneFlavor" value="This weapon has been crafted with one aim in mind: to pierce the hides of armoured vehicles."/>
+	<entry name="Artefact" value="Artefact"/>
+	<entry name="Assault" value="Assault"/>
+	<entry name="AssaultDescription" value="Classification."/>
+	<entry name="AssaultDoctrine" value="Assault Doctrine"/>
+	<entry name="AssaultDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="AssaultDoctrineFlavor" value="<string name='Actions/AssaultDoctrineFlavor'/>"/>
+	<entry name="AssaultVehicle" value="Assault Vehicle"/>
+	<entry name="AssaultVehicleDescription" value="Disembarking does not consume movement."/>
+	<entry name="AssaultVehicleFlavor" value="This vehicle is specifically designed to disgorge troops into the thick of the fray."/>
+	<entry name="AstraMilitarum/BlastDamage" value="Improved Frag Casings"/>
+	<entry name="AstraMilitarum/BlastDamageDescription" value="Increases the damage."/>
+	<entry name="AstraMilitarum/BlastDamageFlavor" value="By using a more advanced engraving protocol on the casing, the lethality of explosive is much improved."/>
+	<entry name="AstraMilitarum/BoltDamage" value="Kraken Bolts"/>
+	<entry name="AstraMilitarum/BoltDamageDescription" value="Increases the damage."/>
+	<entry name="AstraMilitarum/BoltDamageFlavor" value="An Astartes-derived upgrade to the standard bolter, this kit allows a bolter to fire Kraken penetrator rounds, hard-tipped projectiles with a heavier explosive charge. These heavier rounds are much favoured by the Space Marine Deathwatch alien hunters."/>
+	<entry name="AstraMilitarum/CityTier2" value="Substructure Extension"/>
+	<entry name="AstraMilitarum/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="AstraMilitarum/CityTier2Flavor" value="One day, this will be a Hive City -- a billion people in one structure, towering over a poisoned world -- but first, this settlement needs to expand a little, to set the foundations for the galaxies' biggest conurbations."/>
+	<entry name="AstraMilitarum/CityTier3" value="Substructure Supply Tunnels"/>
+	<entry name="AstraMilitarum/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="AstraMilitarum/CityTier3Flavor" value="The Departmento Munitorum might be inefficient, but they can plan and the Techpriest Explorators and Servitors can build. These bunkered tunnels allow the Astra Militarum commander to oversee a much larger city area, without losing defensive control."/>
+	<entry name="AstraMilitarumAircraftProductionEdict" value="<string name='Actions/AstraMilitarumAircraftProductionEdict'/>"/>
+	<entry name="AstraMilitarumAircraftProductionEdictDescription" value="Increases the production output."/>
+	<entry name="AstraMilitarumAircraftProductionEdictFlavor" value="<string name='Actions/AstraMilitarumAircraftProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumDefenseEdict" value="<string name='Actions/AstraMilitarumDefenseEdict'/>"/>
+	<entry name="AstraMilitarumDefenseEdictDescription" value="Increases the armour."/>
+	<entry name="AstraMilitarumDefenseEdictFlavor" value="<string name='Actions/AstraMilitarumDefenseEdictFlavor'/>"/>
+	<entry name="AstraMilitarumEnergyEdict" value="<string name='Actions/AstraMilitarumEnergyEdict'/>"/>
+	<entry name="AstraMilitarumEnergyEdictDescription" value="Increases the energy output."/>
+	<entry name="AstraMilitarumEnergyEdictFlavor" value="<string name='Actions/AstraMilitarumEnergyEdictFlavor'/>"/>
+	<entry name="AstraMilitarumFoodEdict" value="<string name='Actions/AstraMilitarumFoodEdict'/>"/>
+	<entry name="AstraMilitarumFoodEdictDescription" value="Increases the food output."/>
+	<entry name="AstraMilitarumFoodEdictFlavor" value="<string name='Actions/AstraMilitarumFoodEdictFlavor'/>"/>
+	<entry name="AstraMilitarumGrowthEdict" value="<string name='Actions/AstraMilitarumGrowthEdict'/>"/>
+	<entry name="AstraMilitarumGrowthEdictDescription" value="Increases the growth rate."/>
+	<entry name="AstraMilitarumGrowthEdictFlavor" value="<string name='Actions/AstraMilitarumGrowthEdictFlavor'/>"/>
+	<entry name="AstraMilitarumInfantryProductionEdict" value="<string name='Actions/AstraMilitarumInfantryProductionEdict'/>"/>
+	<entry name="AstraMilitarumInfantryProductionEdictDescription" value="Increases the production output."/>
+	<entry name="AstraMilitarumInfantryProductionEdictFlavor" value="<string name='Actions/AstraMilitarumInfantryProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumInfluenceEdict" value="<string name='Actions/AstraMilitarumInfluenceEdict'/>"/>
+	<entry name="AstraMilitarumInfluenceEdictDescription" value="Increases the influence output."/>
+	<entry name="AstraMilitarumInfluenceEdictFlavor" value="<string name='Actions/AstraMilitarumInfluenceEdictFlavor'/>"/>
+	<entry name="AstraMilitarumLoyaltyEdict" value="<string name='Actions/AstraMilitarumLoyaltyEdict'/>"/>
+	<entry name="AstraMilitarumLoyaltyEdictDescription" value="Increases the loyalty output."/>
+	<entry name="AstraMilitarumLoyaltyEdictFlavor" value="<string name='Actions/AstraMilitarumLoyaltyEdictFlavor'/>"/>
+	<entry name="AstraMilitarumOreEdict" value="<string name='Actions/AstraMilitarumOreEdict'/>"/>
+	<entry name="AstraMilitarumOreEdictDescription" value="Increases the ore output."/>
+	<entry name="AstraMilitarumOreEdictFlavor" value="<string name='Actions/AstraMilitarumOreEdictFlavor'/>"/>
+	<entry name="AstraMilitarumPsykerProductionEdict" value="<string name='Actions/AstraMilitarumPsykerProductionEdict'/>"/>
+	<entry name="AstraMilitarumPsykerProductionEdictDescription" value="Increases the production output."/>
+	<entry name="AstraMilitarumPsykerProductionEdictFlavor" value="<string name='Actions/AstraMilitarumPsykerProductionEdictFlavor'/>"/>
+	<entry name="AstraMilitarumResearchEdict" value="<string name='Actions/AstraMilitarumResearchEdict'/>"/>
+	<entry name="AstraMilitarumResearchEdictDescription" value="Increases the research output."/>
+	<entry name="AstraMilitarumResearchEdictFlavor" value="<string name='Actions/AstraMilitarumResearchEdictFlavor'/>"/>
+	<entry name="AstraMilitarumVehicleProductionEdict" value="<string name='Actions/AstraMilitarumVehicleProductionEdict'/>"/>
+	<entry name="AstraMilitarumVehicleProductionEdictDescription" value="Increases the production output."/>
+	<entry name="AstraMilitarumVehicleProductionEdictFlavor" value="<string name='Actions/AstraMilitarumVehicleProductionEdictFlavor'/>"/>
+	<entry name="Barrage" value="Barrage"/>
+	<entry name="BarrageDescription" value="Requires no line of sight, but cannot overwatch."/>
+	<entry name="BarrageFlavor" value="<string name='Weapons/BarrageFlavor'/>"/>
+	<entry name="Beam" value="Beam"/>
+	<entry name="BeamDescription" value="Scales the damage with the group size of the target unit."/>
+	<entry name="Blast" value="Blast"/>
+	<entry name="BlastDescription" value="Increases the accuracy and scales the damage with the group size of the target unit."/>
+	<entry name="BlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Blighted" value="Blighted"/>
+	<entry name="BlightedDescription" value="Deals damage each turn."/>
+	<entry name="Blind" value="Blind"/>
+	<entry name="BlindDescription" value="Reduces the accuracy."/>
+	<entry name="BlindFlavor" value="This attack looses a brilliant flare of light, searing the sight of the victim and forcing him to fight blind for a few moments."/>
+	<entry name="Blinding" value="Blinding"/>
+	<entry name="BlindingDescription" value="Temporarily reduces the accuracy of the target unit."/>
+	<entry name="BolsterDefences" value="<string name='Actions/BolsterDefences'/>"/>
+	<entry name="BolsterDefencesDescription" value="Grants ranged damage reduction."/>
+	<entry name="BolsterDefencesFlavor" value="<string name='Actions/BolsterDefencesFlavor'/>"/>
+	<entry name="BoltWeapon" value="Bolt Weapon"/>
+	<entry name="BoltWeaponFlavor" value="<string name='Weapons/BoltFlavor'/>"/>
+	<entry name="BolterDrill" value="Bolter Drill"/>
+	<entry name="BolterDrillDescription" value="Increases the accuracy."/>
+	<entry name="BolterDrillFlavor" value="<string name='Actions/BolterDrillFlavor'/>"/>
+	<entry name="Bomb" value="Bomb"/>
+	<entry name="BombDescription" value=""/>
+	<entry name="Bosspole" value="Bosspole"/>
+	<entry name="BosspoleDescription" value="Reduces the hitpoint loss for losing morale."/>
+	<entry name="BosspoleFlavor" value="Ork Nobz often sport a trophy pole that shows they are not to be messed with. A Nob with a Bosspole often finds it comes in handy when cracking heads to restore some order in the heat of battle."/>
+	<entry name="BringItDown" value="&quot;Bring it Down!&quot;"/>
+	<entry name="BringItDownDescription" value="Increases the armour penetration."/>
+	<entry name="Broken" value="Broken"/>
+	<entry name="BrokenDescription" value="Reduces the accuracy and increases the damage taken."/>
+	<entry name="BruteShield" value="Brute Shield"/>
+	<entry name="BruteShieldDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="BruteShieldFlavor" value="These shields resemble large and resilient energised bucklers. They are carried by some Bullgryns, serving equally well in combat as a defensive measure and handy bludgeon."/>
+	<entry name="CamoNetting" value="Camo Netting"/>
+	<entry name="CamoNettingDescription" value="Grants ranged damage reduction to ground vehicles."/>
+	<entry name="CamoNettingFlavor" value="Whether rare cameleoline netting or crude webbing woven with local flora, camo netting helps conceal a vehicle from prying eyes."/>
+	<entry name="Capturable" value="Capturable"/>
+	<entry name="CapturableDescription" value="The unit can be captured by another adjacent unit."/>
+	<entry name="CeramitePlating" value="Ceramite Plating"/>
+	<entry name="CeramitePlatingDescription" value="Melta weapons do not gain extra armour penetration against this unit."/>
+	<entry name="CeramitePlatingFlavor" value="These hull plates are thrice-blessed by the Chapter's Techmarines and anointed with the seven sacred unguents of thermic warding to protect against the extreme conditions of orbital re-entry. Such precautions also serve to thwart the fury of certain weapons, absorbing and dispersing even the most extreme temperatures and microwave emissions."/>
+	<entry name="Chaff" value="Chaff"/>
+	<entry name="ChaffDescription" value="Grants ranged damage reduction."/>
+	<entry name="ChapterUnity" value="Chapter Unity"/>
+	<entry name="ChapterUnityDescription" value="Increases the loyalty output."/>
+	<entry name="ChapterUnityFlavor" value="The relics housed in the Great Hall remind the Adeptus Astartes of the heroes of the past, and that one day their armour, weapons and bones could also be revered here."/>
+	<entry name="City" value="City"/>
+	<entry name="CityDescription" value="Grants damage reduction, increases the healing rate and decreases the movement cost for allied units. Grants ranged damage reduction to infantry units."/>
+	<entry name="ClusterMines" value="<string name='Weapons/ClusterMines'/>"/>
+	<entry name="ClusterMinesDescription" value="Deals damage upon entering the tile."/>
+	<entry name="ClusterMinesFlavor" value="<string name='Weapons/ClusterMinesFlavor'/>"/>
+	<entry name="CombatShield" value="Combat Shield"/>
+	<entry name="CombatShieldDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="CombatShieldFlavor" value="A combat shield is a lighter version of the storm shield fitted to the wearer's vambrace, leaving their hand free to wield another weapon whilst providing protection from incoming attacks."/>
+	<entry name="CompendiumFlavor" value="If the warriors of the 41st millenium were identical, these wars would be a matter of sheer manpower -- and humanity would have won long ago. Instead, each race, troop type and soldier has their own traits, which make them ideal for certain situations -- and leave them horribly exposed in others."/>
+	<entry name="Concussion" value="Concussion"/>
+	<entry name="ConcussionDescription" value="Reduces the accuracy."/>
+	<entry name="Concussive" value="Concussive"/>
+	<entry name="ConcussiveDescription" value="Temporarily reduces the accuracy of the target unit."/>
+	<entry name="ConcussiveFlavor" value="Some weapons are designed to leave any foe that manages to survive their strike disoriented and easy to slay."/>
+	<entry name="ConvergentTargeting" value="Convergent Targeting"/>
+	<entry name="ConvergentTargetingDescription" value="Increases the accuracy when adjacent to an allied Thunderfire Cannon."/>
+	<entry name="CultAmbush" value="Cult Ambush"/>
+	<entry name="CultAmbushDescription" value="Increases the accuracy of overwatch attacks."/>
+	<entry name="CultAmbushFlavor" value="Genestealer Cults plan meticulously before each strike, their strategies honed to give every advantage when they rise up as one."/>
+	<entry name="Daemon" value="Daemon"/>
+	<entry name="DaemonDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="DaemonFlavor" value="The creatures of the Warp are many and foul, with infinite variety, but there are some characteristics that they all share."/>
+	<entry name="DeedsOfGlory" value="Deeds of Glory"/>
+	<entry name="DeedsOfGloryDescription" value="<string name='Actions/DeedsOfGloryDescription'/>"/>
+	<entry name="DestroyerWeapon" value="Destroyer Weapon"/>
+	<entry name="DestroyerWeaponDescription" value="Increases the damage."/>
+	<entry name="DevastatorDoctrine" value="Devastator Doctrine"/>
+	<entry name="DevastatorDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="DevastatorDoctrineFlavor" value="<string name='Actions/DevastatorDoctrineFlavor'/>"/>
+	<entry name="Discipline" value="Discipline"/>
+	<entry name="DisciplineDescription" value="Increases the accuracy."/>
+	<entry name="DisciplineFlavor" value="<string name='Actions/AuraOfDisciplineFlavor'/>"/>
+	<entry name="DogmaAstrates" value="Dogma Astartes"/>
+	<entry name="DogmaAstratesDescription" value="<string name='Actions/DogmaAstratesDescription'/>"/>
+	<entry name="DogmaAstratesFlavor" value="<string name='Actions/DogmaAstratesFlavor'/>"/>
+	<entry name="DozerBlade" value="Dozer Blade"/>
+	<entry name="DozerBladeDescription" value="Reduces the movement penalty in forests and imperial ruins."/>
+	<entry name="DozerBladeFlavor" value="Dozer blades are heavy ploughs, blades, rams, or scoops, used to clear obstacles from the vehicle's path."/>
+	<entry name="EavyArmour" value="'Eavy Armor"/>
+	<entry name="EavyArmourDescription" value="Increases the armour."/>
+	<entry name="EavyArmourFlavor" value="Ork 'eavy armour is hammered out of scrap iron, sheet metal and the looted battle-plate of fallen foes. Though its fit is dubious, 'eavy armour provides a solid defence for its wearer."/>
+	<entry name="Enslaved" value="Enslaved"/>
+	<entry name="EnslavedDescription" value="Kill Enslaver to free the unit."/>
+	<entry name="EreWeGo" value="'Ere We Go!"/>
+	<entry name="EreWeGoDescription" value="Increases the movement."/>
+	<entry name="EreWeGoFlavor" value="<string name='Actions/EreWeGoFlavor'/>"/>
+	<entry name="ExtraInfantryArmour" value="Extra Infantry Armour"/>
+	<entry name="ExtraInfantryArmourDescription" value="Increases the armour."/>
+	<entry name="ExtraMonstrousCreatureArmour" value="Extra Monstrous Creature Armour"/>
+	<entry name="ExtraMonstrousCreatureArmourDescription" value="Increases the armour."/>
+	<entry name="ExtraVehicleArmour" value="Extra Vehicle Armour"/>
+	<entry name="ExtraVehicleArmourDescription" value="Increases the armour."/>
+	<entry name="Fear" value="Fear"/>
+	<entry name="FearDescription" value="Reduces the melee damage."/>
+	<entry name="FearFlavor" value="<string name='Actions/AuraOfFearFlavor'/>"/>
+	<entry name="Fearless" value="Fearless"/>
+	<entry name="FearlessDescription" value="The unit is not affected by morale and immune to fear."/>
+	<entry name="FearlessFlavor" value="Fearless troops never give up and seldom take full use of cover -- even if it would be wiser to do so."/>
+	<entry name="FeelNoPain" value="Feel No Pain"/>
+	<entry name="FeelNoPainDescription" value="Grants feel no pain damage reduction."/>
+	<entry name="FeelNoPainFlavor" value="Whether through force of will, bionic augmentation or foul sorcery, this warrior can fight despite fearsome wounds."/>
+	<entry name="Fleet" value="Fleet"/>
+	<entry name="FleetDescription" value="Increases the movement."/>
+	<entry name="FleetFlavor" value="Preternaturally agile, these warriors can cover ground more quickly than their plodding foes."/>
+	<entry name="Fleshbane" value="Fleshbane"/>
+	<entry name="FleshbaneDescription" value="Increases the damage against infantry units."/>
+	<entry name="Flyer" value="Flyer"/>
+	<entry name="FlyerDescription" value="<icon texture='GUI/Bullet'/>Can fly over cliffs, water and enemy units.<br/><icon texture='GUI/Bullet'/>Cannot capture artefacts or outposts.<br/><icon texture='GUI/Bullet'/>Ignores zone of control of enemy ground units.<br/><icon texture='GUI/Bullet'/>Cannot be hit by ground melee weapons, and are hard to hit by ground weapons without skyfire.<br/><icon texture='GUI/Bullet'/>No penalty for heavy and ordnance weapons."/>
+	<entry name="FlyerFlavor" value="The airspace above a battle is thronged with activity. Fighters and bomber craft hurtle through the skies, duelling with one another providing fire support for the troops on the ground."/>
+	<entry name="Forest" value="Forest"/>
+	<entry name="ForestDescription" value="Grants ranged damage reduction to infantry units."/>
+	<entry name="ForestFlavor" value="<string name='Features/ForestFlavor'/>"/>
+	<entry name="ForestStealth" value="Forest Stealth"/>
+	<entry name="ForestStealthDescription" value="Increases the ranged damage reduction while in a forest."/>
+	<entry name="Fortification" value="Fortification"/>
+	<entry name="FortificationDescription" value="Stationary and heavily fortified unit that exerts control over adjacent outposts."/>
+	<entry name="FullThrottle" value="&quot;Full Throttle!&quot;"/>
+	<entry name="FullThrottleDescription" value="Increases the movement."/>
+	<entry name="FuelledByRage" value="Fuelled By Rage"/>
+	<entry name="FuelledByRageDescription" value="Increases the attacks when the unit's hitpoints decrease."/>
+	<entry name="FuriousCharge" value="Furious Charge"/>
+	<entry name="FuriousChargeDescription" value="Increases the melee damage."/>
+	<entry name="FuriousChargeFlavor" value="Some warriors use the impetus of the charge to fuel their own fury."/>
+	<entry name="GargantuanCreature" value="Gargantuan Creature"/>
+	<entry name="GargantuanCreatureDescription" value="Classification."/>
+	<entry name="GargantuanCreatureFlavor" value="Gargantuan creatures are of such immense size that they can take on entire armies. They tower over the battlefield, making the ground shudder as they advance upon the foe, crushing lesser creatures beneath their feet as they lumber forwards."/>
+	<entry name="Gauss" value="Gauss"/>
+	<entry name="GaussDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
+	<entry name="GaussFlavor" value="<string name='Weapons/GaussFlavor'/>"/>
+	<entry name="GaussDamage" value="Atomic Flayers"/>
+	<entry name="GaussDamageDescription" value="Increases the damage."/>
+	<entry name="GaussDamageFlavor" value="For a galaxy full of cruel, monstrous or insane weaponry, Gauss technology is particularly feared. A bolter shell will just explode inside you, but a Gauss weapon will flay you alive, atom by atom."/>
+	<entry name="GetsHot" value="Gets Hot"/>
+	<entry name="GetsHotDescription" value="The unit loses hitpoints each time the weapon fires."/>
+	<entry name="GetsHotFlavor" value="Some weapons are fuelled by unstable power sources and risk overheating with each shot -- often to the detriment of the wielder."/>
+	<entry name="Grenade" value="Grenade"/>
+	<entry name="GrotRiggers" value="Grot Riggers"/>
+	<entry name="GrotRiggersDescription" value="Restores hitpoints each turn."/>
+	<entry name="GrotRiggersFlavor" value="Whether hurriedly re-attaching gubbinz with rivet guns, or just getting out and pushing, a crew of grot riggers can help to keep an Ork vehicle in the fight long after it should have fallen apart."/>
+	<entry name="GroundAttack" value="Ground Attack"/>
+	<entry name="GroundAttackDescription" value="Can only target ground units."/>
+	<entry name="GunnersKillOnSight" value="&quot;Gunners, Kill on Sight!&quot;"/>
+	<entry name="GunnersKillOnSightDescription" value="Increases the damage."/>
+	<entry name="Immobilized" value="Immobilised"/>
+	<entry name="ImmobilizedDescription" value="The unit cannot move."/>
+	<entry name="ItWillNotDie" value="It Will Not Die"/>
+	<entry name="ItWillNotDieDescription" value="Restores hitpoints each turn."/>
+	<entry name="ItWillNotDieFlavor" value="In the dark corners of the galaxy, there are creatures that heal at a terrifying speed."/>
+	<entry name="HammerOfWrath" value="<string name='Actions/HammerOfWrath'/>"/>
+	<entry name="HammerOfWrathDescription" value="Increases the damage."/>
+	<entry name="HammerOfWrathFlavor" value="<string name='Actions/HammerOfWrathFlavor'/>"/>
+	<entry name="HarvestResourceFeatures" value="Harvest Resource Tiles"/>
+	<entry name="HarvestResourceFeaturesDescription" value="Harvests resources from adjacent special resource features."/>
+	<entry name="Headquarters" value="Headquarters"/>
+	<entry name="HeadquartersDescription" value="Destroying the headquarters unit destroys the entire city."/>
+	<entry name="HeavyWeapon" value="Heavy"/>
+	<entry name="HeavyWeaponDescription" value="Reduces the accuracy after moving."/>
+	<entry name="HellstormTemplate" value="Hellstorm Template"/>
+	<entry name="HellstormTemplateDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="HighPower" value="High Power"/>
+	<entry name="HighPowerDescription" value="Active before moving."/>
+	<entry name="HitAndRun" value="Hit & Run"/>
+	<entry name="HitAndRunDescription" value="Ignores enemy zone of control."/>
+	<entry name="HitAndRunFlavor" value="Some troops employ a flexible battle stance, engaging the foe at close quarters one moment, before peeling off to strike with renewed vigour the next."/>
+	<entry name="Hero" value="Hero"/>
+	<entry name="HeroDescription" value="Grants hero damage reduction to infantry units."/>
+	<entry name="HeroFlavor" value="What is it to be a hero? Many would define one as an unusually brave, smart or strong member of a species. In a universe of endless war, that sadly tends to mean someone who is very, very good at causing the deaths of their enemies, and somehow surviving."/>
+	<entry name="IgnoresCover" value="Ignores Cover"/>
+	<entry name="IgnoresCoverDescription" value="Ignores the ranged damage reduction of the target unit."/>
+	<entry name="IgnoresCoverFlavor" value="This weapon fires ammunition that cheats an enemy of his shelter."/>
+	<entry name="Illuminated" value="Illuminated"/>
+	<entry name="IlluminatedDescription" value="Reduces the ranged damage reduction of the target unit."/>
+	<entry name="ImperialRuin" value="<string name='Features/ImperialRuin'/>"/>
+	<entry name="ImperialRuinDescription" value="Grants ranged damage reduction to infantry units."/>
+	<entry name="ImperialRuinFlavor" value="<string name='Features/ImperialRuinFlavor'/>"/>
+	<entry name="ImperialSplendour" value="Imperial Splendour"/>
+	<entry name="ImperialSplendourDescription" value="Increases the influence."/>
+	<entry name="ImperialSplendourFlavor" value="A successful planetary governor will reflect his domain's newfound wealth with monuments to the Imperium -- mammoth plascrete basilica and statues of Space Marines, Primarchs and the Emperor."/>
+	<entry name="Infiltrate" value="Infiltrate"/>
+	<entry name="InfiltrateDescription" value="Prevents the unit from being a target of overwatch attacks."/>
+	<entry name="InfiltrateFlavor" value=""/>
+	<entry name="IronHalo" value="Iron Halo"/>
+	<entry name="IronHaloDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="IronHaloFlavor" value="The iron halo is an honour granted to Space Marine commanders and a symbol of their exceptional bravery and wisdom. Usually mounted upon the backpack or built into an armoured collar, it contains an energy field that wards against even the most potent of enemy weapons."/>
+	<entry name="IronWill" value="Iron Will"/>
+	<entry name="IronWillDescription" value="<string name='Actions/IronWillDescription'/>"/>
+	<entry name="IronWillFlavor" value="<string name='Actions/IronWillFlavor'/>"/>
+	<entry name="ItWillNotDie" value="It Will Not Die"/>
+	<entry name="ItWillNotDieDescription" value="Restores hitpoints each turn."/>
+	<entry name="Jetbike" value="Jetbike"/>
+	<entry name="JetbikeDescription" value="The unit can move over water and ignores the penalties of rivers and wire weed."/>
+	<entry name="JetbikeFlavor" value="The technology to make reliable and small fast skimmers is more difficult than it looks, and for many years only the Eldar had the technical know-how. More recently, the Orks have developed their own clunky version, the Deffkopta, and the emerging Necrons have brought with them unpredictable Tomb Blades."/>
+	<entry name="Jink" value="Jink"/>
+	<entry name="JinkDescription" value="Grants ranged damage reduction."/>
+	<entry name="JinkFlavor" value="<string name='Actions/JinkFlavor'/>"/>
+	<entry name="Killshot" value="Killshot"/>
+	<entry name="KillshotDescription" value="Increases the armour penetration against vehicles and fortifications, and damage against monstrous creatures when adjacent to an allied Predator."/>
+	<entry name="KillshotFlavor" value="There are few things that can stand before the combined might of a Predator Assassin Squadron -- a trio of Predators -- their Space Marine gunners creating interlocking kill-zones to bring down even massive xenos creatures or slab-sided war machines in a focussed barrage cannon fire."/>
+	<entry name="Lance" value="Lance"/>
+	<entry name="LanceDescription" value="Limits the armour of the target unit."/>
+	<entry name="LanceFlavor" value="The terror of tank commanders, a lance weapon fires a concentrated beam of energy that can bore through any armour, regardless of thickness."/>
+	<entry name="LargeBlast" value="Large Blast"/>
+	<entry name="LargeBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="LargeBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="LasDamage" value="Hotshot Power Packs"/>
+	<entry name="LasDamageDescription" value="Increases the damage."/>
+	<entry name="LasDamageFlavor" value="These superior modular packs convert the standard lasgun into a 'Hellgun', with improved range and power, but reduced power pack capacity and degraded reliability, requiring constant maintenance. Even units that already have dedicated Hotshot lasguns benefit from more reliable Hotshot power pack supplies."/>
+	<entry name="LastStand" value="Last Stand"/>
+	<entry name="LastStandDescription" value="Increases the morale."/>
+	<entry name="LastStandFlavor" value="&quot;Here we stand and here shall we die, unbroken and unbowed. Though the very hand of death itself come for us, we will spit our defiance to the end!&quot;<br/>  -- Chaplain Armand Titus of the Howling Griffons"/>
+	<entry name="LifeDrain" value="Life Drain"/>
+	<entry name="LifeDrainDescription" value="Increases damage against infantry."/>
+	<entry name="LifeSteal" value="Life Steal"/>
+	<entry name="LifeStealDescription" value="Converts damage into healing."/>
+	<entry name="LinebreakerBombardment" value="Linebreaker Bombardment"/>
+	<entry name="LinebreakerBombardmentDescription" value="Ignores the ranged damage reduction of the target unit when adjacent to an allied Vindicator."/>
+	<entry name="Luminagen" value="Luminagen"/>
+	<entry name="LuminagenDescription" value="Temporarily decreases the ranged damage reduction of the target unit."/>
+	<entry name="LocatorBeacon" value="Locator Beacon"/>
+	<entry name="LocatorBeaconDescription" value="Causes orbital deployment to not consume action points when deploying adjacent to this unit."/>
+	<entry name="LocatorBeaconFlavor" value="Locator beacons are often carried by Scout Bikers or mounted onto Drop Pods, and provide a signalling package, broad-spectrum communicators, and geo-positional tracking. When activated, the beacon uploads detailed positional information to the tactical grid, allowing precision reinforcement by reserve forces."/>
+	<entry name="LowPower" value="Low Power"/>
+	<entry name="LowPowerDescription" value="Active after moving."/>
+	<entry name="MachineEmpathy" value="Machine Empathy"/>
+	<entry name="MachineEmpathyDescription" value="Restores the hitpoints."/>
+	<entry name="MachineEmpathyFlavor" value="<string name='Actions/MachineEmpathyFlavor'/>"/>
+	<entry name="MassiveBlast" value="Masive Blast"/>
+	<entry name="MassiveBlastDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="MassiveBlastFlavor" value="<string name='Weapons/BlastFlavor'/>"/>
+	<entry name="Melee" value="Melee"/>
+	<entry name="MeleeDescription" value="Cannot overwatch."/>
+	<entry name="MeleeFlavor" value="<string name='Weapons/MeleeFlavor'/>"/>
+	<entry name="Melta" value="Melta"/>
+	<entry name="MeltaDescription" value="Increases the armour penetration at half range."/>
+	<entry name="MeltaFlavor" value="<string name='Weapons/MeltaFlavor'/>"/>
+	<entry name="MindControl" value="Mind Control"/>
+	<entry name="MindControlDescription" value="Reduces the morale each turn."/>
+	<entry name="Misfortune" value="<string name='Actions/Misfortune'/>"/>
+	<entry name="MisfortuneDescription" value="Increases the damage taken."/>
+	<entry name="MisfortuneFlavor" value="<string name='Actions/MisfortuneFlavor'/>"/>
+	<entry name="Missing" value="Missing"/>
+	<entry name="MobRule" value="Mob Rule"/>
+	<entry name="MobRuleDescription" value="The unit loses some hitpoints instead of morale."/>
+	<entry name="MobRuleFlavor" value="Orks are simplistic, brutal creatures who love to fight and draw confidence from possessing strength in numbers."/>
+	<entry name="MonstrousCreature" value="Monstrous Creature"/>
+	<entry name="MonstrousCreatureDescription" value="Classification."/>
+	<entry name="MoraleSoak" value="Morale Soak"/>
+	<entry name="MoraleSoakDescription" value="Reduces the damage by the target's morale."/>
+	<entry name="MoveThroughCover" value="Move Through Cover"/>
+	<entry name="MoveThroughCoverDescription" value="Negates the movement penalty of forests and imperial ruins."/>
+	<entry name="MoveThroughCoverFlavor" value="Some warriors are skilled at moving over broken and tangled terrain."/>
+	<entry name="Necrons/AircraftBuildingBonus" value="Orphic Starkness"/>
+	<entry name="Necrons/AircraftBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Necrons/AircraftBuildingBonusFlavor" value="This inhuman expanse of stone now seems to bend impossibly, filling more space than there is. The Necron flying machines stretch and flicker in and out of existence as they traverse it."/>
+	<entry name="Necrons/AttackCityBonus" value="Static Targetting"/>
+	<entry name="Necrons/AttackCityBonusDescription" value="Increases the accuracy against units in cities."/>
+	<entry name="Necrons/AttackCityBonusFlavor" value="The Necrons' technology may have been raised from dusty ancient tombs, but few races in the past 60 million years have matched their prowess in manipulating dimensional variables. No wall, bunker or laser grid is a defense against such weaponry."/>
+	<entry name="Necrons/BlastDamage" value="Dispersed Targetting"/>
+	<entry name="Necrons/BlastDamageDescription" value="Increases the damage."/>
+	<entry name="Necrons/BlastDamageFlavor" value="Human targeting systems tend to focus on accuracy, narrowing the dispersal of a weapon's shots. Counter-intuitively, the more advanced Necron targeting systems spread a weapon's attacks out, yet somehow still increase the chance of each shot to hit."/>
+	<entry name="Necrons/BloodyCrusade" value="<string name='Actions/Necrons/BloodyCrusade'/>"/>
+	<entry name="Necrons/BloodyCrusadeDescription" value="Increases the damage."/>
+	<entry name="Necrons/CityTier2" value="Preliminary Excavation"/>
+	<entry name="Necrons/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="Necrons/CityTier2Flavor" value="More of the ancient city has been uncovered by the digging slaves, who are now turned to restoring the long-buried buildings."/>
+	<entry name="Necrons/CityTier3" value="Unearthed City"/>
+	<entry name="Necrons/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="Necrons/CityTier3Flavor" value="The entirety of the buried necropolis has now been revealed, resplendent in its mind-bending horror."/>
+	<entry name="Necrons/ConstructionBuildingBonus" value="Slave Enrichment"/>
+	<entry name="Necrons/ConstructionBuildingBonusDescription" value="Increases the production output."/>
+	<entry name="Necrons/ConstructionBuildingBonusFlavor" value="Minor modifications to your slaves' bodies and minds enables them to sleep less and work more, for as long as their fragile bodies last."/>
+	<entry name="Necrons/CtanNecrodermis" value="C'tan Necrodermis"/>
+	<entry name="Necrons/CtanNecrodermisDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="Necrons/CtanNecrodermisBlast" value="C'tan Necrodermis Blast"/>
+	<entry name="Necrons/CtanNecrodermisBlastDescription" value="Damages nearby units when dying."/>
+	<entry name="Necrons/DefensiveProtocols" value="<string name='Actions/Necrons/DefensiveProtocols'/>"/>
+	<entry name="Necrons/DefensiveProtocolsDescription" value="Increases the armour."/>
+	<entry name="Necrons/DestructionProtocols" value="<string name='Actions/Necrons/DestructionProtocols'/>"/>
+	<entry name="Necrons/DestructionProtocolsDescription" value="Increases the damage taken."/>
+	<entry name="Necrons/Dynasty" value="<string name='Actions/Necrons/Dynasty'/>"/>
+	<entry name="Necrons/DynastyDescription" value="<string name='Actions/Necrons/DynastyDescription'/>"/>
+	<entry name="Necrons/EnergyBuildingBonus" value="Empyreal Accumulators"/>
+	<entry name="Necrons/EnergyBuildingBonusDescription" value="Increases the energy output."/>
+	<entry name="Necrons/EnergyBuildingBonusFlavor" value="Little has changed on the outside of this baroque sarcophagus -- yet, inside its unheimlich interior, dark Cryptek devices are stabilising a much improved device."/>
+	<entry name="Necrons/EntropicStrike" value="Entropic Strike"/>
+	<entry name="Necrons/EntropicStrikeDescription" value="Scales the minimum damage with the hitpoints of the target unit."/>
+	<entry name="Necrons/EternityGate" value="Eternity Gate"/>
+	<entry name="Necrons/EternityGateDescription" value="Necron units can teleport to adjacent tiles."/>
+	<entry name="Necrons/EternityGateFlavor" value="A Monolith's eternity gate is a dimensional corridor between the battlefield and a tomb world, allowing legions of Necron warriors to cross vast distances and enter the fray with a single step."/>
+	<entry name="Necrons/GloomPrism" value="<string name='Actions/Necrons/GloomPrism'/>"/>
+	<entry name="Necrons/GloomPrismDescription" value="Grants witchfire damage reduction."/>
+	<entry name="Necrons/GloomPrismFlavor" value="<string name='Actions/Necrons/GloomPrismFlavor'/>"/>
+	<entry name="Necrons/GravityPulse" value="<string name='Actions/Necrons/GravityPulse'/>"/>
+	<entry name="Necrons/GravityPulseDescription" value="Reduces the movement of and deals damage to adjacent flyers, jetbikes and skimmers."/>
+	<entry name="Necrons/GrowthBonus" value="Reanimation Rituals"/>
+	<entry name="Necrons/GrowthBonusDescription" value="Increases the growth rate."/>
+	<entry name="Necrons/GrowthBonusFlavor" value="Establishing more efficient protocols for recovering the long-buried Necrons from their tombs reduces the loss from clumsy slave excavators."/>
+	<entry name="Necrons/HousingBuildingBonus" value="Shelter Compression"/>
+	<entry name="Necrons/HousingBuildingBonusDescription" value="Increases the population limit."/>
+	<entry name="Necrons/HousingBuildingBonusFlavor" value="By altering the dimensional constraints of each shelter, many more Necrons can be accommodated for repair or maintenance."/>
+	<entry name="Necrons/ImmuneToNaturalLaw" value="Immune to Natural Law"/>
+	<entry name="Necrons/ImmuneToNaturalLawDescription" value="The unit can move over water and ignores the penalties of rivers and wire weed. Ignores enemy zone of control."/>
+	<entry name="Necrons/InfantryBuildingBonus" value="Core Refinements"/>
+	<entry name="Necrons/InfantryBuildingBonusDescription" value="Increases the production ouput."/>
+	<entry name="Necrons/InfantryBuildingBonusFlavor" value="With better tools and less constraints, the Crypteks and Canopteks are able to recover a higher proportion of the buried Necrons, faster."/>
+	<entry name="Necrons/InfluenceBuildingBonus" value="Haunting Inscriptions"/>
+	<entry name="Necrons/InfluenceBuildingBonusDescription" value="Increases the influence ouput."/>
+	<entry name="Necrons/InfluenceBuildingBonusFlavor" value="Woe betide any mortal man who gazes on these inscriptions -- their sharp edges seem to waver in the corner of the eye, driving fear into human hearts."/>
+	<entry name="Necrons/InvasionBeams" value="Invasion Beams"/>
+	<entry name="Necrons/InvasionBeamsDescription" value="Disembarking does not consume movement."/>
+	<entry name="Necrons/JetCharge" value="<string name='Actions/Necrons/JetCharge'/>"/>
+	<entry name="Necrons/JetChargeDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="Necrons/LivingMetal" value="Living Metal"/>
+	<entry name="Necrons/LivingMetalDescription" value="Restores hitpoints each turn."/>
+	<entry name="Necrons/LivingMetalFlavor" value="It's understandable why the Necrons build their vehicles from the same living metal as their own bodies, given how durable it is and how well-suited it is to repairing damage sustained in the field."/>
+	<entry name="Necrons/LoyaltyBuildingBonus" value="Baroque Covenant"/>
+	<entry name="Necrons/LoyaltyBuildingBonusDescription" value="Increases the loyalty ouput."/>
+	<entry name="Necrons/LoyaltyBuildingBonusFlavor" value="More of the Shrine's hidden tale is now revealed, though the story still ends before the Silent King can revenge himself on the voracious Star Gods that stripped his people of their souls."/>
+	<entry name="Necrons/MeleeDamage" value="Necrodermic Blades"/>
+	<entry name="Necrons/MeleeDamageDescription" value="Increases the damage."/>
+	<entry name="Necrons/MeleeDamageFlavor" value="Made from impossibly thin slices of the Necron's utilitarian living metal, these blades pass through most skin, bone and armour with disturbing ease."/>
+	<entry name="Necrons/Nebuloscope" value="Nebuloscope"/>
+	<entry name="Necrons/NebuloscopeDescription" value="Ignores enemy ranged damage reduction."/>
+	<entry name="Necrons/NebuloscopeFlavor" value="This arcane device allows the Tomb Blade's pilot to track his prey through different dimensions, leaving them no place to hide."/>
+	<entry name="Necrons/OreBuildingBonus" value="Trusted Slaves"/>
+	<entry name="Necrons/OreBuildingBonusDescription" value="Increases the ore ouput."/>
+	<entry name="Necrons/OreBuildingBonusFlavor" value="Putting some faith in the enslaved young races of Old One creation and improving their lot might seem foolish, but it increases productivity."/>
+	<entry name="Necrons/Chronometron" value="<string name='Actions/Necrons/Chronometron'/>"/>
+	<entry name="Necrons/ChronometronDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="Necrons/ChronometronFlavor" value="<string name='Actions/Necrons/ChronometronFlavor'/>"/>
+	<entry name="Necrons/QuantumShielding" value="<string name='Actions/Necrons/QuantumShielding'/>"/>
+	<entry name="Necrons/QuantumShieldingDescription" value="Increases the armour."/>
+	<entry name="Necrons/QuantumShieldingFlavor" value="<string name='Actions/Necrons/QuantumShieldingFlavor'/>"/>
+	<entry name="Necrons/ReanimationProtocols" value="Reanimation Protocols"/>
+	<entry name="Necrons/ReanimationProtocolsDescription" value="Restores hitpoints each turn."/>
+	<entry name="Necrons/ReanimationProtocolsFlavor" value="Necrons have sophisticated self-repair systems that return even critically damaged warriors to the fight"/>
+	<entry name="Necrons/Reaper" value="<string name='Actions/Necrons/Reaper'/>"/>
+	<entry name="Necrons/ReaperFlavor" value="<string name='Actions/Necrons/ReaperFlavor'/>"/>
+	<entry name="Necrons/ResearchBuildingBonus" value="Cryptek Datastyles"/>
+	<entry name="Necrons/ResearchBuildingBonusDescription" value="Increases the research ouput."/>
+	<entry name="Necrons/ResearchBuildingBonusFlavor" value="Dreaming up new technologies is the purview of the Crypteks -- and with Datastyles they can access shared information without the risks presented by a direct mind-to-mind connection."/>
+	<entry name="Necrons/ShieldVane" value="Shield Vane"/>
+	<entry name="Necrons/ShieldVaneDescription" value="Increases the armour."/>
+	<entry name="Necrons/ShieldVaneFlavor" value="Tomb Blades that are deployed directly into the midst of a world's defences are often equipped with additional armour panels."/>
+	<entry name="Necrons/SleepingSentry" value="<string name='Actions/Necrons/SleepingSentry'/>"/>
+	<entry name="Necrons/SleepingSentryDescription" value="Grants invulnerable damage reduction but prevents the unit from moving or taking an action."/>
+	<entry name="Necrons/TargetingRelay" value="<string name='Actions/Necrons/TargetingRelay'/>"/>
+	<entry name="Necrons/TargetingRelayDescription" value="Increases the ranged accuracy."/>
+	<entry name="Necrons/TargetingRelayFlavor" value="<string name='Actions/Necrons/TargetingRelayFlavor'/>"/>
+	<entry name="Necrons/Technomancer" value="Technomancer"/>
+	<entry name="Necrons/TechnomancerDescription" value="Grants feel no pain damage reduction."/>
+	<entry name="Necrons/VehiclesBuildingBonus" value="Canoptek Workers"/>
+	<entry name="Necrons/VehiclesBuildingBonusDescription" value="Increases the production ouput."/>
+	<entry name="Necrons/VehiclesBuildingBonusFlavor" value="Assigning Canoptek constructors to maintain and repair the various long-dormant war machines greatly speeds up their refurbishment."/>
+	<entry name="Necrons/VengeanceOfTheEnchained" value="Vengeance of the Enchained"/>
+	<entry name="Necrons/VengeanceOfTheEnchainedDescription" value="Death explosion causes extra damage."/>
+	<entry name="Necrons/WrithingWorldscape" value="<string name='Actions/Necrons/WrithingWorldscape'/>"/>
+	<entry name="NoEscape" value="No Escape"/>
+	<entry name="NoEscapeDescription" value="Increases the attacks against open-topped units."/>
+	<entry name="OpenTopped" value="Open-Topped"/>
+	<entry name="OpenToppedDescription" value="Classification."/>
+	<entry name="OpenToppedFlavor" value="Some vehicles have only a little armour, making them more vulnerable to damage because of their lightweight construction."/>
+	<entry name="OrationOfRestoration" value="Oration of Restoration"/>
+	<entry name="OrationOfRestorationDescription" value="Restores hitpoints."/>
+	<entry name="Ordnance" value="Ordnance"/>
+	<entry name="OrdnanceDescription" value="Increases the armour penetration against vehicles and fortifications. Not usable by infantry after moving."/>
+	<entry name="OrkoidFungus" value="Orkoid Fungus"/>
+	<entry name="OrkoidFungusDescription" value="Restores hitpoints each turn for ground Ork units."/>
+	<entry name="OrkoidFungusFlavor" value="Orks have a weirdly symbiotic relationship with the fungus that spreads across their planets -- it's genetically identical to them, Squigs and Grots, and all these species tend to emerge from it rather than being born. Ork units depleted by battle would be wise to retreat to these fields to acquire (literally) fresh recruits."/>
+	<entry name="OrkoidFungusBonusHealingRate" value="Fungal Forests"/>
+	<entry name="OrkoidFungusBonusHealingRateDescription" value="Restores hitpoints each turn for ground Ork units."/>
+	<entry name="OrkoidFungusBonusHealingRateFlavor" value="Once the Ork fungal spores are well-established across a planet, they can resemble forests -- albeit, comprised of immense mushrooms, spewing out feral Orks, Grots and Squigs."/>
+	<entry name="OrkoidFungusFood" value="Mushling Bloom"/>
+	<entry name="OrkoidFungusFoodDescription" value="Increases the food output."/>
+	<entry name="OrkoidFungusFoodFlavor" value="The tiny Snotlings, like all Orkoids, are derived from the same base fungus genetic structure. Unlike other Orkoids though, particularly lazy Snotlings can settle back into the fungus patch, and revert to become giant half-mushroom creatures, a particular delicacy for their larger Ork brethren."/>
+	<entry name="Orks/BigBoss" value="<string name='Actions/Orks/BigBoss'/>"/>
+	<entry name="Orks/BigBossDescription" value="Increases the hitpoints."/>
+	<entry name="Orks/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
+	<entry name="Orks/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
+	<entry name="Orks/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
+	<entry name="Orks/BoltDamage" value="Bigga Boltz"/>
+	<entry name="Orks/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="Orks/BoltDamageFlavor" value="Like the Space Marine Kraken bolts, this Mek barrel modification allows this Shoota to hold even larger calibre ammunition, letting the lucky recipient show off by toting an even larger gun that hits even harder."/>
+	<entry name="Orks/BonusBeastsProduction" value="Bigger Whips"/>
+	<entry name="Orks/BonusBeastsProductionDescription" value="Increases the production output of Runtherd Groundz."/>
+	<entry name="Orks/BonusBeastsProductionFlavor" value="&quot;We's gonna need a bigger whip.&quot;<br/>  -- Runtherd Gark Snotsmeer, shortly before a Squiggoth stepped on him"/>
+	<entry name="Orks/BonusColonizersProduction" value="Scrap Hammers"/>
+	<entry name="Orks/BonusColonizersProductionDescription" value="Increases the production output of Mek Bitz Yards."/>
+	<entry name="Orks/BonusColonizersProductionFlavor" value="When there isn't enough small-sized scrap to hand to build their ungainly creations, Mekboys acquire more by devising weird and wonderful machines which ravage the ruins and wreckage of their conquered worlds."/>
+	<entry name="Orks/BonusInfantryProduction" value="More Dakka"/>
+	<entry name="Orks/BonusInfantryProductionDescription" value="Increases the production output of Pile O' Dakkas."/>
+	<entry name="Orks/BonusInfantryProductionFlavor" value="&quot;Da best shoota I eva made, dat iz. Loadza barrulz, so dat it's ded shooty. 'Sept dat wun, 'cos dat's da skorcha, dat's burny insted. Yeah, good an' propa. An' da bullitz is 'splosiv...dey goez boom inna fings wot you'z shootin.' An' dat button dere...dat's da best bit. Wot it duz, see, iz...iz...oh, zog. Nah, it's nuffin' boss. Nah, you'z don't need ta see wot dat button duz...'onist. Don't push it!&quot;<br/>  -- Last words, Nazdakka Boomsnik, Mek"/>
+	<entry name="Orks/BonusVehiclesProduction" value="Bodge Jobs"/>
+	<entry name="Orks/BonusVehiclesProductionDescription" value="Increases the production output of Kults ov Speed."/>
+	<entry name="Orks/BonusVehiclesProductionFlavor" value="Most Ork technology shouldn't work -- vital components are often missing or the device is simply impossible. The Ork's single-minded belief -- realised in the form of the Waaagh! energy that surrounds them -- fills in the gaps. That's why speeding up the production of Ork vehicles and weaponry has almost no effect upon its quality..."/>
+	<entry name="Orks/BustHeads" value="<string name='Actions/Orks/BustHeads'/>"/>
+	<entry name="Orks/BustHeadsDescription" value="Reduces the morale loss."/>
+	<entry name="Orks/ChannelMentalEmissions" value="<string name='Actions/Orks/ChannelMentalEmissions'/>"/>
+	<entry name="Orks/ChannelMentalEmissionsDescription" value="Increases the research output."/>
+	<entry name="Orks/CityGrowth" value="Boss Speakers"/>
+	<entry name="Orks/CityGrowthDescription" value="Increases the growth rate."/>
+	<entry name="Orks/CityGrowthFlavor" value="&quot;Naw, I don't want zogging tweeterz. I want gorkawooferz... wunz that go up ta eleven!&quot;<br/>  -- Bleeding Ears Merfnik, Goff Warlord and Rocka"/>
+	<entry name="Orks/CityInfluence" value="Big Shinies"/>
+	<entry name="Orks/CityInfluenceDescription" value="Increases the influence output."/>
+	<entry name="Orks/CityInfluenceFlavor" value="&quot;I don't knows what dems is, but I wants 'em.&quot;-- Warboss Flashgrub Nitwiz, gazing upon the hammered gold doors of the Basilica Imperialis on Catiline VII"/>
+	<entry name="Orks/CityLoyalty" value="Trophy Poles"/>
+	<entry name="Orks/CityLoyaltyDescription" value="Increases the loyalty output."/>
+	<entry name="Orks/CityLoyaltyFlavor" value="There's nothing that so stirs up the vim of an Ork as the sight of their defeated enemies (or their remaining parts) strung up high for all to see."/>
+	<entry name="Orks/CityPopulationLimit" value="Deep Diggaz"/>
+	<entry name="Orks/CityPopulationLimitDescription" value="Increases the population limit."/>
+	<entry name="Orks/CityPopulationLimitFlavor" value="Using the Mek's latest contraptions, the Ork shacks and forges now extend deep beneath the city's surface. Sure, the occasional collapse drags Orks screaming into the depths, but it's worth it for the extra legroom."/>
+	<entry name="Orks/CityResearch" value="Finking Rooms"/>
+	<entry name="Orks/CityResearchDescription" value="Increases the research output."/>
+	<entry name="Orks/CityResearchFlavor" value="Given that technology is wired into the genes of normal Orks, a smart Warboss will find that dedicating space, manpower and time to locking his Mekz inside a small room full of scrap and ordering them come up with some really good Dakka invariably pays off."/>
+	<entry name="Orks/CityTier2" value="Slum Town"/>
+	<entry name="Orks/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="Orks/CityTier2Flavor" value="Outside each fortress' original walls, a slum town of Gretchin, Squigs, Snotlings and low-tier Orks has sprung up, whilst the insidious green fungus has spread everywhere, remaking this world in the Orks' genetic image."/>
+	<entry name="Orks/CityTier3" value="Shanty City"/>
+	<entry name="Orks/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="Orks/CityTier3Flavor" value="The Warboss' fame has spread across the entire planet, with the invisible Waaagh! energies paralleling its path. Wherever Orks are freshly-spawned, they feel the irresistible tugging towards the Warboss' cities, which are now sprawled across the nearby landscape in endless slums and shanties."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeath" value="Rapid Decomposition"/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathDescription" value="Causes units to create orkoid fungus when they die."/>
+	<entry name="Orks/CreateOrkoidFungusOnDeathFlavor" value="&quot;Exhibit 27: a single 'spore' of xenos species #0451 'Ork'. Acolytes, you should note the fungoid texture and microhomuncular structures. We theorise that these 'spores' generate new 'Orks' in any sufficiently fertile setting. When an Ork reaches maturity (typically 30 minutes after emergence) it emits these constantly -- but they are released en masse at the moment of death. Please don't drop it.&quot;<br/>  -- Lecture transcripts, Grigomen &quot;Orklover&quot; Delr, Rogue Trader and amateur Xenologist"/>
+	<entry name="Orks/CyborkImplants" value="<string name='Actions/Orks/CyborkImplants'/>"/>
+	<entry name="Orks/CyborkImplantsDescription" value="Increases the damage and grants feel no pain damage reduction."/>
+	<entry name="Orks/ExtraBitz" value="<string name='Actions/Orks/ExtraBitz'/>"/>
+	<entry name="Orks/ExtraBitzDescription" value="Reduces the food, ore and energy upkeep."/>
+	<entry name="Orks/ExperimentalProcedure" value="<string name='Actions/Orks/ExperimentalProcedure'/>"/>
+	<entry name="Orks/ExperimentalProcedureDescription" value="Increases the damage and grants feel no pain damage reduction."/>
+	<entry name="Orks/Flyboss" value="Flyboss"/>
+	<entry name="Orks/FlybossDescription" value="Increases the ranged accuracy."/>
+	<entry name="Orks/FlybossFlavor" value="Flybosses are ace pilots who have survived more dogfights than they can count (even when using their toes)."/>
+	<entry name="Orks/Gitfinda" value="Gitfinda"/>
+	<entry name="Orks/GitfindaDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
+	<entry name="Orks/GitfindaFlavor" value="These can be elaborate ocular bionics, monocular head-sets, oversized telescopes, or Mork knows what else. The function of a gitfinda is to improve the accuracy of its user to near-average levels."/>
+	<entry name="Orks/GreenTide" value="Green Tide"/>
+	<entry name="Orks/GreenTideDescription" value=""/>
+	<entry name="Orks/GreenTideFlavor" value="Orks are pretty damn hard to kill. Orks seemingly killed in one battle often return in the next, either fixed up by a Mad Dok or simply miraculously healed -- and tougher and stronger for the experience."/>
+	<entry name="Orks/GreenTideGrowth" value="<string name='Traits/Orks/GreenTide'/>"/>
+	<entry name="Orks/GreenTideGrowthDescription" value="Increases the growth rate."/>
+	<entry name="Orks/GreenTideGrowthFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
+	<entry name="Orks/GreenTideHealing" value="<string name='Traits/Orks/GreenTide'/>"/>
+	<entry name="Orks/GreenTideHealingDescription" value="Increases the healing rate."/>
+	<entry name="Orks/GreenTideHealingFlavor" value="<string name='Traits/Orks/GreenTideFlavor'/>"/>
+	<entry name="Orks/GrotGunner" value="Grot Gunner"/>
+	<entry name="Orks/GrotGunnerDescription" value="Increases the accuracy."/>
+	<entry name="Orks/MeleeDamage" value="Bigga Choppas"/>
+	<entry name="Orks/MeleeDamageDescription" value="Increases the damage."/>
+	<entry name="Orks/MeleeDamageFlavor" value="When Orks think about upgrades, they don't think very hard. Mega-armour, Gigashootas... and bigga choppas. If you can carry it, you can swing it, and if you can swing it, you can hit someone with it."/>
+	<entry name="Orks/MightMakesRight" value="Might Makes Right"/>
+	<entry name="Orks/MightMakesRightDescription" value="Grants influence when attacking."/>
+	<entry name="Orks/MightMakesRightFlavor" value="The Orks only really feel alive when they're in a Waaagh! and a Waaagh! can only thrive through constant battle. As long as Orks are fighting, the Waaagh! should grow."/>
+	<entry name="Orks/ProphetOfTheWaaagh" value="<string name='Actions/Orks/ProphetOfTheWaaagh'/>"/>
+	<entry name="Orks/ProphetOfTheWaaaghDescription" value="Grants influence based on the upkeep when attacking."/>
+	<entry name="Orks/Scavenger" value="Scavenger"/>
+	<entry name="Orks/ScavengerDescription" value="Grants ore when killing an enemy."/>
+	<entry name="Orks/ScavengerFlavor" value="Orks aren't known for their love of labour, preferring to sit around between battles picking bits of Squig out of their mouths and fighting each other. So rather than mine minerals from the ground, they tend to salvage them from, well, anywhere. Or rather their Grot underlings do."/>
+	<entry name="Orks/Warpath" value="<string name='Actions/Orks/Warpath'/>"/>
+	<entry name="Orks/WarpathDescription" value="<string name='Actions/Orks/WarpathDescription'/>"/>
+	<entry name="Orks/WarpathFlavor" value="<string name='Actions/Orks/WarpathFlavor'/>"/>
+	<entry name="Outpost" value="Outpost"/>
+	<entry name="OutpostDescription" value="Grants damage reduction and increases the healing rate for allied units. Grants ranged damage reduction to infantry units."/>
+	<entry name="Outflank" value="Outflank"/>
+	<entry name="OutflankDescription" value="Increases the accuracy when adjacent to an allied unit."/>
+	<entry name="OutflankFlavor" value="The best way to surprise an enemy is to strike from an unexpected quarter."/>
+	<entry name="Pinned" value="Pinned"/>
+	<entry name="PinnedDescription" value="Reduces the movement and ranged accuracy, grants ranged damage reduction and prevents the unit from doing overwatch attacks."/>
+	<entry name="PinnedFlavor" value="Coming under fire without knowing where the shots are coming from, or having ordnance rain down from the skies, can shake the resolve of even the bravest warriors, making them dive flat and cling to whatever cover presents itself."/>
+	<entry name="Pinning" value="Pinning"/>
+	<entry name="PinningDescription" value="Temporarily reduces the movement of the target fearful infantry unit and prevents it from doing overwatch attacks."/>
+	<entry name="PinningFlavor" value="<string name='Traits/PinnedFlavor'/>"/>
+	<entry name="Poisoned" value="Poisoned"/>
+	<entry name="PoisonedDescription" value="Increases the damage against infantry units."/>
+	<entry name="PoisonedFlavor" value="There are many virulent and lethal poisons in the dark future. It is simplicity itself to adapt such toxins for battlefield use. It does not matter whether they coat weapon-blades or bullets, or are secreted by alien monstrosities – all are lethal."/>
+	<entry name="PowerOfTheMachineSpirit" value="<string name='Actions/PowerOfTheMachineSpirit'/>"/>
+	<entry name="PowerOfTheMachineSpiritDescription" value="<string name='Actions/PowerOfTheMachineSpiritDescription'/>"/>
+	<entry name="PowerOfTheMachineSpiritFlavor" value="<string name='Actions/PowerOfTheMachineSpiritFlavor'/>"/>
+	<entry name="PrecisionShots" value="Precision Shots"/>
+	<entry name="PrecisionShotsDescription" value="Increases the accuracy."/>
+	<entry name="PreferredEnemy" value="Preferred Enemy"/>
+	<entry name="PreferredEnemyDescription" value="Increases the accuracy."/>
+	<entry name="PreferredEnemyFlavor" value="Many of the galaxy's warriors train hard to overcome a particular foe, allowing them to predict the enemy's battlestances and thus land a blow or shot with greater ease."/>
+	<entry name="PrimaryWeapon" value="Primary Weapon"/>
+	<entry name="PrimaryWeaponDescription" value="Increases the armour penetration."/>
+	<entry name="PsychicBlock" value="Psychic Block"/>
+	<entry name="PsychicBlockDescription" value="Blocks the damage and effects of the next enemy psychic power."/>
+	<entry name="PsychicHood" value="Psychic Hood"/>
+	<entry name="PsychicHoodDescription" value="Grants witchfire damage reduction."/>
+	<entry name="PsychicLash" value="Psychic Lash"/>
+	<entry name="PsychicLashDescription" value="Attacks penetrate all armour."/>
+	<entry name="PsychicPower" value="Psychic Power"/>
+	<entry name="PsychicPowerDescription" value="Classification."/>
+	<entry name="PsychneueinInfest" value="Psychneuein Infest"/>
+	<entry name="PsychneueinInfestDescription" value="Causes the target unit to spawn a Psychneuein when dying."/>
+	<entry name="PsychneueinInfestation" value="Psychneuein Infestation"/>
+	<entry name="PsychneueinInfestationDescription" value="Spawns a Psychneuein when dying."/>
+	<entry name="Psyker" value="Psyker"/>
+	<entry name="PsykerDescription" value="Classification."/>
+	<entry name="PsykerFlavor" value="Psykers are battlefield mystics who harness the power of the Warp."/>
+	<entry name="Rage" value="Rage"/>
+	<entry name="RageDescription" value="Increases the attacks."/>
+	<entry name="RageFlavor" value="Bloodlust is a powerful weapon on the battlefield, spurring a warrior to hack his foes apart in a flurry of mindless (but eminently satisfying) carnage."/>
+	<entry name="Rampage" value="Rampage"/>
+	<entry name="RampageDescription" value="Increases the attacks when there are more enemies than allies in adjacent tiles."/>
+	<entry name="RampageFlavor" value="For some warriors, being outnumbered is not a cause for despair, but a call to set about their foes with a berserk counter-attack."/>
+	<entry name="RapidFire" value="Rapid Fire"/>
+	<entry name="RapidFireDescription" value="Increases the attacks at half range."/>
+	<entry name="RecoveryGear" value="Recovery Gear"/>
+	<entry name="RecoveryGearDescription" value="Increases the healing rate."/>
+	<entry name="RecoveryGearFlavor" value="Many crews load their vehicles with collections of tools, tow cables and other useful kit that can make the difference between digging an immobilized vehicle out of a tight spot or having to abandon it to its fate."/>
+	<entry name="RedPaintJob" value="Red Paint Job"/>
+	<entry name="RedPaintJobDescription" value="Increases the damage."/>
+	<entry name="RedPaintJobFlavor" value="Orks believe that a vehicle painted red can outstrip a similar vehicle that isn't. As odd as it may seem, they're not wrong."/>
+	<entry name="RefractorField" value="Refractor Field"/>
+	<entry name="RefractorFieldDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="RefractorFieldFlavor" value="Often carried by high-ranking officers and Imperial heroes, shimmering refractor fields refract incoming energy around their bearer, batting aside blasts and swinging blades that would otherwise lay them low."/>
+	<entry name="Regeneration" value="Regeneration"/>
+	<entry name="RegenerationDescription" value="Restores hitpoints each turn."/>
+	<entry name="RegenerationFlavor" value="Some units have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
+	<entry name="Relentless" value="Relentless"/>
+	<entry name="RelentlessDescription" value="Negates the penalty for heavy and ordnance weapons."/>
+	<entry name="RelentlessFlavor" value="Relentless warriors are strong of arm -- nothing can slow their implacable advance."/>
+	<entry name="RelicPlating" value="Relic Plating"/>
+	<entry name="RelicPlatingDescription" value="Grants witchfire damage reduction."/>
+	<entry name="RelicPlatingFlavor" value="Occasionally a crew will achieve an empathic relationship with the machine spirit of their battle tank. When such a crew perishes, their remains may be interred within their vehicle, spirits lingering protectively to drive away the baleful energies of the void."/>
+	<entry name="Rending" value="Rending"/>
+	<entry name="RendingDescription" value="Increases the damage and armour penetration."/>
+	<entry name="RendingFlavor" value="Some weapons can inflict critical strikes against which no armour can protect."/>
+	<entry name="RepulsorGrid" value="Repulsor Grid"/>
+	<entry name="RepulsorGridDescription" value="Grants ranged damage reduction."/>
+	<entry name="RitesOfWar" value="Rites of War"/>
+	<entry name="RitesOfWarDescription" value="Increases the damage."/>
+	<entry name="Rosarius" value="Rosarius"/>
+	<entry name="RosariusDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="RosariusFlavor" value="A rosarius is worn by Space Marine Chaplains for protection and as a symbol of office. It emits a protective energy field around the wearer capable of deflecting blows and shots that would smash a ferrocrete bunker. It is said that the stronger the bearer's belief in the might of the Emperor, the stronger a rosarius' force field will be."/>
+	<entry name="Salvo" value="Salvo"/>
+	<entry name="SalvoDescription" value="Increases the attacks at half range if the unit has not moved."/>
+	<entry name="SavantInterlocution" value="Savant Interlocution"/>
+	<entry name="SavantInterlocutionDescription" value="Increases the ranged accuracy against flyers and skimmers when adjacent to an allied Hunter."/>
+	<entry name="SavantLock" value="Savant Lock"/>
+	<entry name="SavantLockDescription" value="Increases the accuracy against flyers, jetbikes and skimmers."/>
+	<entry name="Seeking" value="Seeking"/>
+	<entry name="SeekingDescription" value="Increases the ranged accuracy against flyers."/>
+	<entry name="Shaken" value="Shaken"/>
+	<entry name="ShakenDescription" value="Reduces the accuracy and increases the damage taken."/>
+	<entry name="Shop" value="Shop"/>
+	<entry name="ShopDescription" value="Allows hero units to purchase and sell items."/>
+	<entry name="Shrouded" value="Shrouded"/>
+	<entry name="ShroudedDescription" value="Grants ranged damage reduction."/>
+	<entry name="ShroudedFlavor" value="The source of the darkness around these warriors matters not -- only a lucky shot has any chance of piercing the shroud that hides them from view."/>
+	<entry name="SiegeMasters" value="Siege Masters"/>
+	<entry name="SiegeMastersDescription" value="Increases the damage against enemy units in cities and fortifications."/>
+	<entry name="SiegeShield" value="Siege Shield"/>
+	<entry name="SiegeShieldDescription" value="Increases the armour and reduces the movement penalty in forests and imperial ruins."/>
+	<entry name="SiegeShieldFlavor" value="Many Vindicators are equipped with an enormous bulldozer blade, allowing them to shoulder aside battlefield detritus without risk."/>
+	<entry name="Signum" value="Signum"/>
+	<entry name="SignumDescription" value="Increases the ranged accuracy."/>
+	<entry name="SignumFlavor" value="<string name='Actions/SignumFlavor'/>"/>
+	<entry name="Skimmer" value="Skimmer"/>
+	<entry name="SkimmerDescription" value="The unit can move over water and ignores the penalties of rivers and wire weed."/>
+	<entry name="SkimmerFlavor" value="Some highly advanced vehicles are fitted with anti-gravity drives that allow them to skim swiftly over tough terrain and intervening troops, making them perfect for surprise flanking attacks."/>
+	<entry name="SkullsForTheSkullThrone" value="Skulls for the Skull Throne"/>
+	<entry name="SkullsForTheSkullThroneDescription" value="Grants damage reduction."/>
+	<entry name="SkullsForTheSkullThroneFlavor" value="Khorne respects only the strong and boundlessly murderous."/>	
+	<entry name="Skyfire" value="Skyfire"/>
+	<entry name="SkyfireDescription" value="Increases the accuracy against flyers and skimmers, reduces the accuracy against ground units."/>
+	<entry name="SkyfireFlavor" value="Skyfire weapons excel at shooting down enemy aircraft and skimmers."/>
+	<entry name="Slowed" value="Slowed"/>
+	<entry name="SlowedDescription" value="Reduces the movement and accuracy."/>
+	<entry name="Smash" value="Smash"/>
+	<entry name="SmashDescription" value="Increases the melee armour penetration."/>
+	<entry name="SmashFlavor" value="For the most fearsome of creatures, a single blow is sufficient to breach a tank's armour or crush a living creature to bloody pulp."/>
+	<entry name="SmokeScreen" value="Smoke Screen"/>
+	<entry name="SmokeScreenDescription" value="Grants ranged damage reduction."/>
+	<entry name="SmokeScreenFlavor" value="<string name='Actions/CreateSmokeScreenFlavor'/>"/>
+	<entry name="SoulBlaze" value="Soul Blaze"/>
+	<entry name="SoulBlazeDescription" value="Deals damage each turn."/>
+	<entry name="SoulBlazed" value="Soul Blazed"/>
+	<entry name="SoulBlazedDescription" value="<string name='Traits/SoulBlazeDescription'/>"/>
+	<entry name="SpaceMarines/BlastDamage" value="<string name='Traits/AstraMilitarum/BlastDamage'/>"/>
+	<entry name="SpaceMarines/BlastDamageDescription" value="<string name='Traits/AstraMilitarum/BlastDamageDescription'/>"/>
+	<entry name="SpaceMarines/BlastDamageFlavor" value="<string name='Traits/AstraMilitarum/BlastDamageFlavor'/>"/>
+	<entry name="SpaceMarines/BoltDamage" value="<string name='Traits/AstraMilitarum/BoltDamage'/>"/>
+	<entry name="SpaceMarines/BoltDamageDescription" value="<string name='Traits/AstraMilitarum/BoltDamageDescription'/>"/>
+	<entry name="SpaceMarines/BoltDamageFlavor" value="<string name='Traits/AstraMilitarum/BoltDamageFlavor'/>"/>
+	<entry name="SpaceMarines/CityTier2" value="Fortress Expansion"/>
+	<entry name="SpaceMarines/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="SpaceMarines/CityTier2Flavor" value="The second stage of the Fortress' construction has started. With the core facilities established, the Techmarines are authorised to expand their operations and create a second defensive line."/>
+	<entry name="SpaceMarines/CityTier3" value="Advanced Redoubts"/>
+	<entry name="SpaceMarines/CityTier3Description" value="Increases the tile acquisition radius."/>
+	<entry name="SpaceMarines/CityTier3Flavor" value="The third stage of the Fortress construction involves the creation of independent garrisons and buttresses along an additional line of city walls. In the shadow of those cyclopean barriers, Servitors and serfs spend their lives, scurrying from one task to another."/>
+	<entry name="SpaceMarines/CityTier4" value="Fortress Supreme"/>
+	<entry name="SpaceMarines/CityTier4Description" value="Increases the tile acquisition radius."/>
+	<entry name="SpaceMarines/CityTier4Flavor" value="With this expansion, the Master Artificer declares the fortress complete. Now it rivals in scale a Hive City. Inside its impregnable walls, you could be anywhere in the Imperium. Outside, the local tribes come from enormous distances to pay tribute, whilst their finest warriors hope to be accepted for the lethal trials that might lead to their being modified into a Space Marine."/>
+	<entry name="SpaceMarines/MeleeDamage" value="Close Combat Mastery"/>
+	<entry name="SpaceMarines/MeleeDamageDescription" value="Increases the damage."/>
+	<entry name="SpaceMarines/MeleeDamageFlavor" value="Certain Adeptus Astartes chapters -- the Space Wolves, the Blood Drinkers, the Minotaurs -- are renowned for their mastery of close-quarters combat. To come to blows with even the lowliest Scout Marine from such a chapter is to fight generations of knowledge and training."/>
+	<entry name="SpaceSlip" value="<string name='Actions/SpaceSlip'/>"/>
+	<entry name="SpaceSlipDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="Stealth" value="Stealth"/>
+	<entry name="StealthDescription" value="Increases the ranged damage reduction."/>
+	<entry name="StealthFlavor" value="Some warriors are masters of disguise and concealment, able to fade into the ruin of a battlefield until they are ready to strike."/>
+	<entry name="StrafingRun" value="Strafing Run"/>
+	<entry name="StrafingRunDescription" value="Increases the ranged accuracy against ground units."/>
+	<entry name="StrafingRunFlavor" value="This vehicle is designed as a ground attack craft, the spread and convergence distance of its weapons keyed to maximise carnage on the foes below."/>
+	<entry name="Strikedown" value="Strikedown"/>
+	<entry name="StrikedownDescription" value="Temporarily reduces the movement and accuracy of target infantry unit."/>
+	<entry name="StrikedownFlavor" value="A sufficiently powerful blow can knock even the mightiest warrior off his feet."/>
+	<entry name="Stubborn" value="Stubborn"/>
+	<entry name="StubbornDescription" value="The unit cannot be broken by morale."/>
+	<entry name="StubbornFlavor" value="Many warriors live and die according to the principle of 'death before dishonour'. Seldom do such warriors take a backward step in the face of danger."/>
+	<entry name="Stunned" value="Stunned"/>
+	<entry name="StunnedDescription" value="Prevents the unit from moving or acting."/>
+	<entry name="Summon" value="Summon"/>
+	<entry name="SummonDescription" value="Classification."/>
+	<entry name="SuperHeavy" value="Super-Heavy"/>
+	<!-- <entry name="SuperHeavyDescription" value="Super-Heavy vehicles explode on death, damaging all adjacent units."/> -->
+	<entry name="SuperHeavyFlavor" value="Huge armour-clad constructions that each carry enough firepower to vaporise, smash or incinerate an entire army."/>
+	<entry name="Supersonic" value="Supersonic"/>
+	<entry name="SupersonicDescription" value="Increases the movement."/>
+	<entry name="SupersonicFlavor" value="Supersonic vehicles are supremely fast, even by the normal standards of aircraft, making them exceptionally mobile in battle."/>
+	<entry name="Swarms" value="Swarms"/>
+	<entry name="SwarmsDescription" value="Damage taken is spread evenly across the whole unit group, but the group takes additional damage against blast and template weapons."/>
+	<entry name="SwarmsFlavor" value="These creatures are so multitudinous that they cannot be picked out individually and must be fought as a group."/>
+	<entry name="Swiftstrike" value="Swiftstrike"/>
+	<entry name="SwiftstrikeDescription" value="Increases the attacks."/>
+	<entry name="TacticalDoctrine" value="Tactical Doctrine"/>
+	<entry name="TacticalDoctrineDescription" value="Increases the accuracy."/>
+	<entry name="TacticalDoctrineFlavor" value="<string name='Actions/TacticalDoctrineFlavor'/>"/>
+	<entry name="Tank" value="Tank"/>
+	<entry name="TankDescription" value="Classification."/>
+	<entry name="TankFlavor" value="Tanks can use their mass as a weapon, driving right into and through densely packed enemies. This often throws the opposing battle line into disarray, as having some monstrous metal behemoth coming straight at you is unnerving for anybody."/>
+	<entry name="TankHunters" value="Tank Hunters"/>
+	<entry name="TankHuntersDescription" value="Increases the armour penetration against enemy vehicles."/>
+	<entry name="TankHuntersFlavor" value="These veterans of armoured warfare are able to identify the weak points of enemy vehicles and target their fire appropriately."/>
+	<entry name="TelekineDome" value="Telekine Dome"/>
+	<entry name="TelekineDomeDescription" value="Grants ranged damage reduction."/>
+	<entry name="TelekineDomeFlavor" value="<string name='Actions/TelekineDomeFlavor'/>"/>
+	<entry name="TeleportHomer" value="Teleport Homer"/>
+	<entry name="TeleportHomerDescription" value="Causes orbital deployment to not consume action points when deploying Terminators adjacent to this unit."/>
+	<entry name="TeleportHomerFlavor" value="Teleport homers emit a powerful signal enabling orbiting Strike Cruisers to lock onto them with their teleportation equipment. By matching the exact coordinates of this signal, the risk of missing the intended mark is greatly reduced."/>
+	<entry name="Template" value="Template"/>
+	<entry name="TemplateDescription" value="<string name='Traits/BlastDescription'/>"/>
+	<entry name="TerminatorArmour" value="Terminator Armour"/>
+	<entry name="TerminatorArmourDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="TerminatorArmourFlavor" value="Terminator armour is the best protection a Space Marine can be equipped with. It is even said that Terminator armour can withstand the titanic energies at a plasma generator's core and that this was, in fact, the armour's original purpose."/>
+	<entry name="Tesla" value="Tesla"/>
+	<entry name="TeslaDescription" value="Increases the attacks."/>
+	<entry name="TeslaFlavor" value="<string name='Weapons/TeslaFlavor'/>"/>
+	<entry name="TeslaDamage" value="Viridian Discharge"/>
+	<entry name="TeslaDamageDescription" value="Increases the damage."/>
+	<entry name="TeslaDamageFlavor" value="The luminous green lightning discharged by these exotic and ancient Necron weapons crackles with life, writhing and seemingly clawing at any target it hits, moving as if it had a mind of its own."/>
+	<entry name="TheFleshIsWeak" value="The Flesh Is Weak"/>
+	<entry name="TheFleshIsWeakDescription" value="Grants feel no pain damage reduction."/>
+	<entry name="TheFleshIsWeakFlavor" value="<string name='Actions/TheFleshIsWeakFlavor'/>"/>
+	<entry name="TrainedSentinelPilots" value="Trained Sentinel Pilots"/>
+	<entry name="TrainedSentinelPilotsDescription" value="Increases the damage."/>
+	<entry name="TrainedSentinelPilotsFlavor" value="Sentinels are used in a wide variety of roles throughout the Imperium of man -- from power lifters used to load starship weaponry to open-canopy scouts. Some Sentinels are equipped with improved armour and stabilisers to carry heavier weaponry. This changes the Sentinel's role from support and reconnaissance to that of a heavy fire platform."/>
+	<entry name="Traktor" value="Traktor"/>
+	<entry name="TraktorDescription" value="Temporarily reduces the movement and accuracy of flyers."/>
+	<entry name="Transport" value="Transport"/>
+	<entry name="TransportDescription" value="Allows transportation of infantry units."/>
+	<entry name="TurboBoost" value="Turbo-Boost"/>
+	<entry name="TurboBoostDescription" value="Increases the movement."/>
+	<entry name="Tusked" value="Tusked"/>
+	<entry name="TuskedDescription" value="Increases the attacks of melee weapons."/>
+	<entry name="Tyranids/AcidBlood" value="Acid Blood"/>
+	<entry name="Tyranids/AcidBloodDescription" value="Enemies attacking this unit in melee take damage."/>
+	<entry name="Tyranids/AcidBloodFlavor" value="The alien blood spilt from certain Tyranids is so corrosive that it can eat through ceramite armour and dissolve flesh in mere moments."/>
+	<entry name="Tyranids/AdaptiveBiology" value="<string name='Actions/Tyranids/AdaptiveBiology'/>"/>
+	<entry name="Tyranids/AdaptiveBiologyDescription" value="Increases the feel no pain damage reduction."/>
+	<entry name="Tyranids/AdaptiveBiologyFlavor" value="<string name='Actions/Tyranids/AdaptiveBiologyFlavor'/>"/>
+	<entry name="Tyranids/AlphaWarrior" value="<string name='Actions/Tyranids/AlphaWarrior'/>"/>
+	<entry name="Tyranids/AlphaWarriorDescription" value="Increases the accuracy."/>
+	<entry name="Tyranids/AlphaWarriorFlavor" value="<string name='Actions/Tyranids/AlphaWarriorFlavor'/>"/>
+	<entry name="Tyranids/Biomorph" value="Biomorph"/>
+	<entry name="Tyranids/BiomorphDescription" value="Classification."/>
+	<entry name="Tyranids/BiomorphDamage" value="Biomorph Adaptation"/>
+	<entry name="Tyranids/BiomorphDamageDescription" value="Increases the damage."/>
+	<entry name="Tyranids/BiomorphDamageFlavor" value="Far from being born perfectly ready for every situation, Tyranids have variable amounts of adaptability inherent in their DNA. Ramping this capability up is expensive in terms of resources, but allows them to change their behaviour and physical capabilities in the field."/>
+	<entry name="Tyranids/BoundingLeap" value="Bounding Leap"/>
+	<entry name="Tyranids/BoundingLeapDescription" value="Negates the movement penalty of rivers."/>
+	<entry name="Tyranids/BroodProgenitor" value="<string name='Actions/Tyranids/BroodProgenitor'/>"/>
+	<entry name="Tyranids/BroodProgenitorDescription" value="Increases the attacks."/>
+	<entry name="Tyranids/BroodProgenitorFlavor" value="<string name='Actions/Tyranids/BroodProgenitorFlavor'/>"/>
+	<entry name="Tyranids/ChameleonicSkin" value="Chameleonic Skin"/>
+	<entry name="Tyranids/ChameleonicSkinDescription" value="Increases the ranged damage reduction."/>
+	<entry name="Tyranids/CityDamage" value="The Spiders' Parlour"/>
+	<entry name="Tyranids/CityDamageDescription" value="Deals damage each turn."/>
+	<entry name="Tyranids/CityDamageFlavor" value="To enter into a mature Tyranid city, is to walk inside giants -- hostile, biologically-crafted giants, determined to consume you. Toxin-coated villi lash infantry, valleys sprout teeth and close like maws, and town square-sized sphincters open suddenly, dumping entire unwary armies into acidic reclamation pools."/>
+	<entry name="Tyranids/CityGrowth" value="Aggressive Expansion"/>
+	<entry name="Tyranids/CityGrowthDescription" value="Increases the growth rate."/>
+	<entry name="Tyranids/CityGrowthFlavor" value="Tyranid cities place little value on size, but focus instead on productivity. As long as a city is efficiently churning out troops, it doesn't matter if it occupies land. But when a city must expand, it can do it extremely rapidly -- from sphincters fly hooked tendons, dragging seed pods out to the landscape, where they erupt like Barbed Stranglers. In moments the land is occupied, rapidly gestating a new structure."/>
+	<entry name="Tyranids/CityLoyalty" value="Grey Matter Dispersion"/>
+	<entry name="Tyranids/CityLoyaltyDescription" value="Decreases the loyalty penalty from city amount."/>
+	<entry name="Tyranids/CityLoyaltyFlavor" value="Throughout the hive, from the great producer organisms, to the smaller maintenance creatures, to the substrate itself, small packages of grey matter are dispersed, increasing the ease with which swarm creatures can be controlled."/>
+	<entry name="Tyranids/CityPopulationLimit" value="Biogenesis Organelles"/>
+	<entry name="Tyranids/CityPopulationLimitDescription" value="Increases the population limit."/>
+	<entry name="Tyranids/CityPopulationLimitFlavor" value="Nothing truly “lives” in a Tyranid city-hive. Mindless ‘organelle' creatures spawn and perform crucial functions before being reassimilated. Alterations to the city structure can be made, enabling these organisms to be spawned and reabsorbed in much shorter windows, allowing for their overall population to increase."/>
+	<entry name="Tyranids/CityProduction" value="Propulsive Parturition"/>
+	<entry name="Tyranids/CityProductionDescription" value="Increases the production output."/>
+	<entry name="Tyranids/CityProductionFlavor" value="Waiting for Tyranid newborns to leave their respective mother-buildings is relatively inefficient. Genetors have sighted certain adapted buildings, however, which eject the newborn creature from its birthing sac with an convulsive electric impulse, enabling it to be rapidly re-used."/>
+	<entry name="Tyranids/CityTier2" value="Ripper Dispersion"/>
+	<entry name="Tyranids/CityTier2Description" value="Increases the tile acquisition radius."/>
+	<entry name="Tyranids/CityTier2Flavor" value="As the hive matures, the Rippers no longer need to swarm together in such huge numbers for safety. Dispersing them, allows the hive mind to co-ordinate their reclamation behaviour over a wider range."/>
+	<entry name="Tyranids/Dominion" value="<string name='Actions/Tyranids/Dominion'/>"/>
+	<entry name="Tyranids/DominionDescription" value="Increases the loyalty output."/>
+	<entry name="Tyranids/DominionFlavor" value="<string name='Actions/Tyranids/DominionFlavor'/>"/>
+	<entry name="Tyranids/ExploitWeaknesses" value="<string name='Actions/Tyranids/ExploitWeaknesses'/>"/>
+	<entry name="Tyranids/ExploitWeaknessesDescription" value="Reduces the armour."/>
+	<entry name="Tyranids/ExploitWeaknessesFlavor" value="<string name='Actions/Tyranids/ExploitWeaknessesFlavor'/>"/>
+	<entry name="Tyranids/FeederBeast" value="Feeder-Beast"/>
+	<entry name="Tyranids/FeederBeastDescription" value="Damage caused by this unit is converted into healing."/>
+	<entry name="Tyranids/GraspingTail" value="<string name='Actions/Tyranids/GraspingTail'/>"/>
+	<entry name="Tyranids/GraspingTailDescription" value="Reduces the attacks."/>
+	<entry name="Tyranids/GraspingTailFlavor" value="<string name='Actions/Tyranids/GraspingTailFlavor'/>"/>
+	<entry name="Tyranids/HiveCommander" value="<string name='Actions/Tyranids/HiveCommander'/>"/>
+	<entry name="Tyranids/HiveCommanderDescription" value="Increases the damage and damage reduction."/>
+	<entry name="Tyranids/HiveCommanderFlavor" value="<string name='Actions/Tyranids/HiveCommanderFlavor'/>"/>
+	<entry name="Tyranids/IndescribableHorror" value="<string name='Actions/Tyranids/IndescribableHorror'/>"/>
+	<entry name="Tyranids/IndescribableHorrorDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/IndescribableHorrorFlavor" value="<string name='Actions/Tyranids/IndescribableHorrorFlavor'/>"/>
+	<entry name="Tyranids/InfantryUpkeep" value="Gaunt Instincts"/>
+	<entry name="Tyranids/InfantryUpkeepDescription" value="Reduces the biomass upkeep."/>
+	<entry name="Tyranids/InfantryUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything save for unconscious actions -- but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeed" value="Instinctive Behaviour (Feed)"/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedDescription" value="The unit loses hitpoints each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourFeedFlavor" value="Unless controlled or coordinated by the domineering will of the Hive Mind, many Tyranid organisms will revert to their baser instincts."/>
+	<entry name="Tyranids/InstinctiveBehaviourHunt" value="Instinctive Behaviour (Hunt)"/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntDescription" value="The unit loses movement each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourHuntFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurk" value="Instinctive Behaviour (Lurk)"/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkDescription" value="The unit loses morale each turn while not in range of a synapse creature."/>
+	<entry name="Tyranids/InstinctiveBehaviourLurkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverride" value="Override Instinctive Behaviour"/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideDescription" value="The unit's instinctive behaviour is overriden."/>
+	<entry name="Tyranids/InstinctiveBehaviourOverrideFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/LivingBatteringRam" value="<string name='Actions/Tyranids/LivingBatteringRam'/>"/>
+	<entry name="Tyranids/LivingBatteringRamDescription" value="Increases the damage."/>
+	<entry name="Tyranids/LivingBatteringRamFlavor" value="<string name='Actions/Tyranids/LivingBatteringRamFlavor'/>"/>
+	<entry name="Tyranids/LongRangedDamage" value="Ocular Proliferation"/>
+	<entry name="Tyranids/LongRangedDamageDescription" value="Increases the damage."/>
+	<entry name="Tyranids/LongRangedDamageFlavor" value="Targeting enemies at range can be difficult with simple binocular vision. A sensible adaptation is to increase the variety and number of ocular sensors available to the organism, to improve the targeting of all enemy types."/>
+	<entry name="Tyranids/MassIncubation" value="<string name='Actions/Tyranids/MassIncubation'/>"/>
+	<entry name="Tyranids/MassIncubationDescription" value="<string name='Actions/Tyranids/MassIncubationDescription'/>"/>
+	<entry name="Tyranids/MassIncubationFlavor" value="<string name='Actions/Tyranids/MassIncubationFlavor'/>"/>
+	<entry name="Tyranids/MeleeDamage" value="Bioweapon Symbiosis"/>
+	<entry name="Tyranids/MeleeDamageDescription" value="Increases the damage."/>
+	<entry name="Tyranids/MeleeDamageFlavor" value="When the Tyranids were first encountered, particularly their forerunners the Zoats, their weaponry was typically a range of separate organisms. As time has gone by, the Tyranids and their weapons have grown closer together."/>
+	<entry name="Tyranids/Onslaught" value="<string name='Actions/Tyranids/Onslaught'/>"/>
+	<entry name="Tyranids/OnslaughtDescription" value="Increases the movement."/>
+	<entry name="Tyranids/OnslaughtFlavor" value="<string name='Actions/Tyranids/OnslaughtFlavor'/>"/>
+	<entry name="Tyranids/Paroxysm" value="<string name='Actions/Tyranids/Paroxysm'/>"/>
+	<entry name="Tyranids/ParoxysmDescription" value="Reduces the accuracy."/>
+	<entry name="Tyranids/ParoxysmFlavor" value="<string name='Actions/Tyranids/ParoxysmFlavor'/>"/>
+	<entry name="Tyranids/PreyAdaptation" value="Prey Adaptation"/>
+	<entry name="Tyranids/PreyAdaptationDescription" value="The Hive mind gains research when the Malanthrope gains experience."/>
+	<entry name="Tyranids/PreyAdaptationFlavor" value="The Malanthrope doesn't just garner new genetic data from fallen corpses -- it is also quite capable of observing the learned patterns communicated by creatures to one another, whether parent or teacher, and retaining that for encoding into the Hive Mind's creatures."/>
+	<entry name="Tyranids/ProductionBuildingUpkeep" value="Birthing Canals"/>
+	<entry name="Tyranids/ProductionBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
+	<entry name="Tyranids/ProductionBuildingUpkeepFlavor" value="A simple shift in the structure of the great organisms that make up the Tyranid hive, birthing canals are something like biological production lines, enabling many creatures to be produced in parallel without the direct oversight of the Hive Mind."/>
+	<entry name="Tyranids/RakingStrike" value="Raking Strike"/>
+	<entry name="Tyranids/RakingStrikeDescription" value="Increases the Hive Crone's melee attacks. Additionally increases the melee attacks against flyers."/>
+	<entry name="Tyranids/RakingStrikeFlavor" value="Lengthening and hardening the bladed spurs on a Hive Crone's underside allows it to perform lethal fly-by strikes against enemies. In addition, sharpened wingtips enable the Crone to accurately target enemy pilots."/>
+	<entry name="Tyranids/RapaciousHunger" value="<string name='Actions/Tyranids/RapaciousHunger'/>"/>
+	<entry name="Tyranids/RapaciousHungerDescription" value="Increases the attacks."/>
+	<entry name="Tyranids/RapaciousHungerFlavor" value="<string name='Actions/Tyranids/RapaciousHungerFlavor'/>"/>
+	<entry name="Tyranids/Reclamation2" value="Synapse Archevores"/>
+	<entry name="Tyranids/Reclamation2Description" value="Reduces the influence cost."/>
+	<entry name="Tyranids/Reclamation2Flavor" value="Reclamation pools may seem the simplest of Tyranid organisms -- bubbling digestive pits to render down biomass -- but given their core function to the Tyranid lifecycle, they have doubtless seen generations of design refinement. This particular adaptation places control synapses at each pool's edge to manage digestion with less Hive Mind oversight."/>
+	<entry name="Tyranids/Reclamation3" value="Assimilation Accelerants"/>
+	<entry name="Tyranids/Reclamation3Description" value="Removes the cooldown."/>
+	<entry name="Tyranids/Reclamation3Flavor" value="Reclamation has to be an efficient process to best serve the Hive Mind -- every basis point of biomass that has to be abandoned could spell defeat. This adaptation makes reclamation a continuous process, which enables high percentage biomass recovery."/>
+	<entry name="Tyranids/Regeneration" value="Regeneration"/>
+	<entry name="Tyranids/RegenerationDescription" value=""/>
+	<entry name="Tyranids/RegenerationFlavor" value="Some Tyranids have the ability to recover from horrendous wounds and injuries that should have proven fatal."/>
+	<entry name="Tyranids/ResourceBuildingUpkeep" value="Scavenger Adaptation"/>
+	<entry name="Tyranids/ResourceBuildingUpkeepDescription" value="Reduces the influence upkeep."/>
+	<entry name="Tyranids/ResourceBuildingUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions -- but by loosening that control, the smaller organisms can be allowed just enough agency to forage for themselves."/>
+	<entry name="Tyranids/ScourgeOfTheBrood" value="<string name='Actions/Tyranids/ScourgeOfTheBrood'/>"/>
+	<entry name="Tyranids/ScourgeOfTheBroodDescription" value="Reduces the armour."/>
+	<entry name="Tyranids/ScourgeOfTheBroodFlavor" value="<string name='Actions/Tyranids/ScourgeOfTheBroodFlavor'/>"/>
+	<entry name="Tyranids/ShadowInTheWarp" value="<string name='Actions/Tyranids/ShadowInTheWarp'/>"/>
+	<entry name="Tyranids/ShadowInTheWarpDescription" value="Reduces the morale each turn."/>
+	<entry name="Tyranids/ShadowInTheWarpFlavor" value="<string name='Actions/Tyranids/ShadowInTheWarpFlavor'/>"/>
+	<entry name="Tyranids/ShortRangedDamage" value="Gigaborer Hives"/>
+	<entry name="Tyranids/ShortRangedDamageDescription" value="Increases the damage."/>
+	<entry name="Tyranids/ShortRangedDamageFlavor" value="The unique and disgusting Borer nest is comprised of a compact nest of Borer beetles, acidic insectoids that launch themselves in a frenzy from the weapon. Gigaborer Hives contain fewer, much larger beetles, simply enabling more damage."/>
+	<entry name="Tyranids/SporeCloud" value="<string name='Actions/Tyranids/SporeCloud'/>"/>
+	<entry name="Tyranids/SporeCloudDescription" value="Grants ranged damage reduction."/>
+	<entry name="Tyranids/SporeCloudFlavor" value="<string name='Actions/Tyranids/SporeCloudFlavor'/>"/>
+	<entry name="Tyranids/SymbioticTargeting" value="Symbiotic Targeting"/>
+	<entry name="Tyranids/SymbioticTargetingDescription" value="Increases the ranged accuracy if the unit remains stationary."/>
+	<entry name="Tyranids/SynapseLink" value="Synapse Link"/>
+	<entry name="Tyranids/SynapseLinkDescription" value="The unit is not affected by morale, is immune to fear and is not subject to instinctive behaviour."/>
+	<entry name="Tyranids/SynapseLinkFlavor" value="<string name='Traits/Tyranids/InstinctiveBehaviourFeedFlavor'/>"/>
+	<entry name="Tyranids/SynapticBacklash" value="Synaptic Backlash"/>
+	<entry name="Tyranids/SynapticBacklashDescription" value="Termagants in the area take damage when the Tervigon dies."/>
+	<entry name="Tyranids/SynapticBacklashFlavor" value="Though Tyranids have no affection one another -- they will watch calmly as their nest-mates die or walk into the reclamation pool -- the psychic trauma a Tervigon's brood suffers at the moment of its death is odd, particularly given the Hive Mind's seeming inability to eliminate it. Perhaps it is a legacy of whatever long-dead race the Tervigon's genetic data was based on -- and a symbol that the Hive Mind rarely innovates, but mostly plagiarises."/>
+	<entry name="Tyranids/ToxinSacs" value="Toxin Sacs"/>
+	<entry name="Tyranids/ToxinSacsDescription" value="Increases the damage against infantry units."/>
+	<entry name="Tyranids/ToxinSacsFlavor" value="These parasitic glands secrete vile fluids, coating the Tyranid's claws, fangs and talons with a lethal variety of alien poisons."/>
+	<entry name="Tyranids/Tunnel2" value="Echiurean Walls"/>
+	<entry name="Tyranids/Tunnel2Description" value="Increases the hitpoints."/>
+	<entry name="Tyranids/Tunnel2Flavor" value="Broodhive walls are grown rapidly, meaning they tend to be relatively flimsy creatures, for the Tyranids. Genetors have observed adaptations that grow more slowly, but accrete muscle mass over time, and generally are more resilient to enemy action."/>
+	<entry name="Tyranids/VehiclesUpkeep" value="Megaunt Instincts"/>
+	<entry name="Tyranids/VehiclesUpkeepDescription" value="Reduces the biomass upkeep."/>
+	<entry name="Tyranids/VehiclesUpkeepFlavor" value="The Hive Mind typically maintains close control over its swarm, directing everything but unconscious actions, save for its alpha creatures -- but by loosening that control, larger organisms can direct or predate on the smaller organisms, enabling them to survive without direct control."/>
+	<entry name="Tyranids/WarpField" value="Warp Field"/>
+	<entry name="Tyranids/WarpFieldDescription" value="Grants invulnerable damage reduction."/>
+	<entry name="Tyranids/WarpFieldFlavor" value="Zoanthropes are vital nodes for harnessing the Hive Mind's psychic might and are created with a powerful sense of self-preservation. Therefore, they instinctively project a potent Warp field to protect themselves in battle – a mental shield that is invisible but for a slight shimmer when small-arms and heavy-weapons fire alike patters harmlessly against it."/>
+	<entry name="TwinLinked" value="Twin-Linked"/>
+	<entry name="TwinLinkedDescription" value="Increases the accuracy."/>
+	<entry name="TwinLinkedFlavor" value="These weapons are grafted to the same targeting system for greater accuracy."/>
+	<entry name="Unwieldy" value="Unwieldy"/>
+	<entry name="UnwieldyDescription" value="Reduces the accuracy."/>
+	<entry name="UnwieldyFlavor" value="This weapon is very large, and more than a little clumsy, making swift blows all but impossible to achieve."/>
+	<entry name="VectoredAfterburners" value="Vectored Afterburners"/>
+	<entry name="VectoredAfterburnersDescription" value="Increases the movement and grants ranged damage reduction."/>
+	<entry name="Vehicle" value="Vehicle"/>
+	<entry name="VehicleDescription" value="Negates the penalty for heavy and ordnance weapons."/>
+	<entry name="VehicleFlavor" value="War is not a trade solely for living soldiers, but also for mighty war engines and tanks."/>
+	<entry name="VoxCaster" value="Vox-Caster"/>
+	<entry name="VoxCasterDescription" value="Reduces the morale loss."/>
+	<entry name="VoxCasterFlavor" value="A vox-caster is a reliable communications array connected to the tactical command net via tight-beam transmitters."/>
+	<entry name="Waaagh" value="Waaagh!"/>
+	<entry name="WaaaghDescription" value="Increases the damage."/>
+	<entry name="WaaaghFlavor" value="The Waaagh! is joie de vivre, crusade, immense psychic power, a tangible belief aura and perhaps the Ork gods themselves, all rolled into one teeth-rattling, gut-wrenching roar of delighted aggression pushing the Orks across the galaxy and into battle. It is the core of being an Ork."/>
+	<entry name="Weakened" value="Weakened"/>
+	<entry name="WeakenedDescription" value="Reduces the movement and damage."/>
+	<entry name="WireWeed" value="<string name='Features/WireWeed'/>"/>
+	<entry name="WireWeedDescription" value="Deals damage each turn."/>
+	<entry name="WireWeedFlavor" value="<string name='Features/WireWeedFlavor'/>"/>
+	<entry name="Witchfire" value="Witchfire"/>
+	<entry name="WitchfireDescription" value="Classification."/>
+	<entry name="Zzap" value="Zzap"/>
+	<entry name="ZzapDescription" value=""/>
+	<entry name="ZzapFlavor" value="Zzap guns fire unstable bolts of lightning. They have the potential to punch through the hull of even the heaviest enemy vehicle amid crackling showers of sparks, but have a tendency to overload and electrocute the operating gunner."/>
+	<entry name="Zealot" value="Zealot"/>
+	<entry name="ZealotDescription" value="Increases the morale and melee damage as well as grants immunity to fear."/>
+	<entry name="ZealotFlavor" value="Zealots fight on regardless of their casualties or the terrors of war; they are driven forwards by their conviction."/>
+</language>

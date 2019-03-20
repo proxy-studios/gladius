@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum0" value="Veterans of Miral"/>
+	<entry name="AstraMilitarum1" value="Kathur Irregulars"/>
+	<entry name="AstraMilitarum2" value="Guard of the Nurth Wastes"/>
+	<entry name="AstraMilitarum3" value="Iron Fist of Stygia"/>
+	<entry name="AstraMilitarum4" value="Stone Legion of Praedis-Zeta"/>
+	<entry name="AstraMilitarum5" value="Highlanders of Hamman's World"/>
+	<entry name="AstraMilitarum6" value="Scholar of Perlia"/>
+	<entry name="AstraMilitarum7" value="Avenger of Cadia"/>
+	<entry name="AstraMilitarum8" value="Tanith Remembrancer"/>
+	<entry name="AstraMilitarum9" value="Ioline's Own"/>
+	<entry name="AstraMilitarum10" value="Besiegers of Lelithar"/>
+	<entry name="AstraMilitarum11" value="Men of Tourmalid"/>
+	<entry name="AstraMilitarumCount" value="12"/>
+	<entry name="Necrons0" value="Ancient Pathfinders"/>
+	<entry name="Necrons1" value="Golden Harpies"/>
+	<entry name="Necrons2" value="High Guard"/>
+	<entry name="Necrons3" value="The Overlord's Chosen"/>
+	<entry name="Necrons4" value="The Anatomists "/>
+	<entry name="Necrons5" value="Iota of the Endless Swarm"/>
+	<entry name="Necrons6" value="Tongues of the Deceiver"/>
+	<entry name="Necrons7" value="Doom of the Flayer"/>
+	<entry name="Necrons8" value="Embers of the Burning One"/>
+	<entry name="Necrons9" value="Shadows of the Outsider"/>
+	<entry name="Necrons10" value="Dawn of the Nightbringer"/>
+	<entry name="NecronsCount" value="11"/>
+	<entry name="Orks0" value="Da Weird Mob"/>
+	<entry name="Orks1" value="Mork's Madboyz"/>
+	<entry name="Orks2" value="Sneaky Gitz"/>
+	<entry name="Orks3" value="Da Big Boyz"/>
+	<entry name="Orks4" value="Da Despoiler"/>
+	<entry name="Orks5" value="Gorky Boyz"/>
+	<entry name="Orks6" value="Goff Guard"/>
+	<entry name="Orks7" value="Blood Axe Gorkas"/>
+	<entry name="Orks8" value="Deathskull Graftas"/>
+	<entry name="Orks9" value="Bad Moon Flash Mob"/>
+	<entry name="Orks10" value="Snakebite Wyrm Killas"/>
+	<entry name="Orks11" value="Evil Sunz Speed Freeks"/>
+	<entry name="OrksCount" value="12"/>
+	<entry name="SpaceMarines0" value="Indomitable Guard"/>
+	<entry name="SpaceMarines1" value="Honoured Tacticians"/>
+	<entry name="SpaceMarines2" value="Venerated Veterans"/>
+	<entry name="SpaceMarines3" value="Honorbound Wardens"/>
+	<entry name="SpaceMarines4" value="Defender of Gladius"/>
+	<entry name="SpaceMarines5" value="The Immortals"/>
+	<entry name="SpaceMarines6" value="Crux Terminatus"/>
+	<entry name="SpaceMarines7" value="Laurels Imperialis"/>
+	<entry name="SpaceMarines8" value="Marksman's Honour"/>
+	<entry name="SpaceMarines9" value="Prime Helix"/>
+	<entry name="SpaceMarines10" value="Purity Seal"/>
+	<entry name="SpaceMarines11" value="Machina Opus"/>
+	<entry name="SpaceMarinesCount" value="12"/>
+	<entry name="Tyranids0" value="The Purestrains"/>
+	<entry name="Tyranids1" value="Eyes of the Norn"/>
+	<entry name="Tyranids2" value="Cnidocyst Spawn"/>
+	<entry name="Tyranids3" value="Autophagic Harvesters"/>
+	<entry name="Tyranids4" value="Acrosomic Pack"/>
+	<entry name="Tyranids5" value="Lysosomic Throng"/>
+	<entry name="Tyranids6" value="Flagelloid Horrors"/>
+	<entry name="Tyranids7" value="Hooked Piloids"/>
+	<entry name="Tyranids8" value="Thylakoid Idlers"/>
+	<entry name="Tyranids9" value="Ripper Symbiotes"/>
+	<entry name="Tyranids10" value="Lean Hunters"/>
+	<entry name="Tyranids11" value="The Inspired Myriad"/>
+	<entry name="TyranidsCount" value="12"/>
+</language>

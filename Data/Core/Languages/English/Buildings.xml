@@ -1,0 +1,202 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="AstraMilitarum/Aircraft" value="Voidport"/>
+	<entry name="AstraMilitarum/AircraftDescription" value="Building that produces aircraft as well as generates ore and influence."/>
+	<entry name="AstraMilitarum/AircraftFlavor" value="This landing field was designed for larger craft -- almost up to the intra-system scale -- but with the endless warpstorms, it's been repurposed to house the Imperial air forces. Much like a Skyshield landing pad, it has limited field generators to protect grounded aircraft from incoming fire."/>
+	<entry name="AstraMilitarum/Construction" value="Labour Corps"/>
+	<entry name="AstraMilitarum/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
+	<entry name="AstraMilitarum/ConstructionFlavor" value="Whilst the Administratum runs the entire Empire of man, the Departmento Munitorum is tasked solely with supplying the manpower and supplies for the Astra Militarum. Among their many tasks is the construction of large facilities, such as airfields or orbital stations. The poor grunts who have to do the work are the Labour Corps, indentured or penal workers and mind-wiped servitors."/>
+	<entry name="AstraMilitarum/Energy" value="Plasma Ioniser"/>
+	<entry name="AstraMilitarum/EnergyDescription" value="Building that generates energy."/>
+	<entry name="AstraMilitarum/EnergyFlavor" value="Whilst the ancients may have split the atom, the Empire's Techpriests have had millennia to perfect the rituals by which they draw up power. The open-core Plasma Ioniser uses coolant-infusion systems to maintain an output of around 100 petawatts for up to a hundred days at a time -- around 10,000 times that of the largest historical fission plant."/>
+	<entry name="AstraMilitarum/Food" value="Soylens Farm"/>
+	<entry name="AstraMilitarum/FoodDescription" value="Building that harvests food."/>
+	<entry name="AstraMilitarum/FoodFlavor" value="Soylens viridians might be filling, nutritious and easy to grow in great vats -- but as a foodstuff it has some drawbacks. First, it's utterly bland and flavourless. Second, it looks like green gloop. Third, it's made from any available organic matter. Persistent rumour has it that human corpses are not excluded."/>
+	<entry name="AstraMilitarum/Loyalty" value="Sanctum Imperialis"/>
+	<entry name="AstraMilitarum/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="AstraMilitarum/LoyaltyFlavor" value="The local seat of the Imperial Cult may appear dark and gothic, but is in fact a hallowed place. Adorned by statues of saints, it is a venerated local symbol of the Emperor's godlike will, and provides inspiration to the nearby populace."/>
+	<entry name="AstraMilitarum/Headquarters" value="Basilica Administratum"/>
+	<entry name="AstraMilitarum/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="AstraMilitarum/HeadquartersFlavor" value="The central administrative building of any Imperial colony, the magnificent Basilica is a temple to bureaucracy. Generations of plain-clad clerks live and die amidst tottering tomes, deciding the fate of star systems with the feeble thump of their stamps. As the saying goes, the Inquisition may burn you, the Astartes smite you -- but only the Adeptus Administratum can torment you for your entire life."/>
+	<entry name="AstraMilitarum/Heroes" value="Shrine of the Aquila"/>
+	<entry name="AstraMilitarum/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="AstraMilitarum/HeroesFlavor" value="Far more than a mere statue, this great metal eagle was cast from the molten remains of space-faring vessels, and serves as an inspiration for those nearby. The Imperial troops that fight under the Aquila's ceaseless vigil find a new determination welling in their hearts, knowing that they are the last in a line of heroes that stretches across the stars."/>
+	<entry name="AstraMilitarum/Housing" value="Hab Block"/>
+	<entry name="AstraMilitarum/HousingDescription" value="Building that increases population limit."/>
+	<entry name="AstraMilitarum/HousingFlavor" value="The classic Imperial structure, these identikit city buildings are seen all over the Empire. They provide the minimum amount of shelter and comfort required for the people of the Imperium to eke out their short lives. At a colony's founding, sometimes they're built in situ -- but more often, on remote planets, they're dropped directly from any colonising spaceships."/>
+	<entry name="AstraMilitarum/Infantry" value="Imperial Barracks"/>
+	<entry name="AstraMilitarum/InfantryDescription" value="Building that produces infantry as well as increases population limit and loyalty."/>
+	<entry name="AstraMilitarum/InfantryFlavor" value="Whilst the training of recruits to the Imperial Guard has none of the harrowing horrors suffered by Astartes initiates, the Munitorum still has to drill the strictures of the Empire into the tithed men and women that make up most Guard regiments. Here, at the Barracks, a planet's unpromising conscripts are turned into the true Astra Militarum -- by giving them uniforms, guns and perhaps even some training."/>
+	<entry name="AstraMilitarum/Influence" value="Cogitator Station"/>
+	<entry name="AstraMilitarum/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="AstraMilitarum/InfluenceFlavor" value="Though artificial intelligence is an abomination, long abhorred since the fall of the Men of Iron, the archaic data looms of the Adeptus Administratum bear little resemblance to ancient computers or even to the slim microprocessors used by the Techpriests of Mars. Cogitators functions are purely bureaucratic, their form immobile. Still, their capabilities are prized by every Imperial world purely for their inhuman memory."/>
+	<entry name="AstraMilitarum/Ore" value="Ore Extractor"/>
+	<entry name="AstraMilitarum/OreDescription" value="Building that harvests ore."/>
+	<entry name="AstraMilitarum/OreFlavor" value="Depending on the planet, extraction of metal ores and valuable minerals is undertaken by anything ranging from ancient-tech machinery barely controlled by its Techpriest magos to thousands of Labour Corp workers, playing their part in the war to save mankind."/>
+	<entry name="AstraMilitarum/Psykers" value="Psyker Coven"/>
+	<entry name="AstraMilitarum/PsykersDescription" value="Building that produces psykers as well as generates energy and influence."/>
+	<entry name="AstraMilitarum/PsykersFlavor" value="Whilst the warpstorm rages, the peacetime use of psykers -- as astropaths, for long-range communication -- is pointless. Similarly, without being able to reach the Black Ships, unwanted psykers can't be transported to Terra for sacrifice at the Golden Throne. Instead, most are executed, with a select few drafted into Imperial service as Sanctioned Psykers."/>
+	<entry name="AstraMilitarum/Research" value="Officio Tactica"/>
+	<entry name="AstraMilitarum/ResearchDescription" value="Building that generates research."/>
+	<entry name="AstraMilitarum/ResearchFlavor" value="Learning to be an officer of the Astra Militarum is a thankless, often lethal task. One of the safest postings is to the Officio Tactica, where the smartest tactical minds analyse ongoing military manouevres and refer to the copious texts of the Tactica Imperialis for well-tested advice. They also record their current campaigns, so that future generations might learn from them."/>
+	<entry name="AstraMilitarum/Upgrades" value="Cult Mechanicus"/>
+	<entry name="AstraMilitarum/UpgradesDescription" value="Building that produces Techpriest Enginseers and generates research."/>
+	<entry name="AstraMilitarum/UpgradesFlavor" value="The Techpriests worship of 'the Omnissiah', a machine-god, would surely be frowned upon, were it not for their usefulness. Instead, a tacit agreement is in place; the Techpriests acknowledge publicly that the Emperor was the Omnissiah and the Administratum agrees not to pry too closely."/>
+	<entry name="AstraMilitarum/Vehicles" value="Manufactorum"/>
+	<entry name="AstraMilitarum/VehiclesDescription" value="Building that produces ground vehicles as well as generates ore and research."/>
+	<entry name="AstraMilitarum/VehiclesFlavor" value="To call an Imperial Manufactorum a 'factory' is akin to calling a Catachan Devil an insect. These cyclopean structures are huge, forbidding temples to the Machine God, wherein his miracles -- here vehicles of war -- are created. Inside them, lowly menials are doomed to never see the planet's surface, as they ceaselessly minister to the blessed engines of Mars."/>
+	<entry name="CompendiumFlavor" value="From the shanty town huts of the Orks, to the billion-person hives of the Imperium, to the space-faring Craftworlds of the Eldar, to the ancient mastaba of the Necrons, almost every race produces structures to satisfy their needs -- whether that's construction, shelter, or merely pride. Perhaps only the Tyranids, in their insatiable search for new biological materials, lack permanent structures, instead relying on a range of semi-mobile birthing organisms..."/>
+	<entry name="Necrons/Aircraft" value="Nameless Causeway"/>
+	<entry name="Necrons/AircraftDescription" value="Building that produces aircraft as well as generates energy, research, influence and increases loyalty."/>
+	<entry name="Necrons/AircraftFlavor" value="If the Necron are dreaded across the known universe, their aircraft are doubly feared. The Doom Scythe and Night Scythe are fast, hardy and deadly to armoured opponents. Launching from a bleak expanse of stone, they devastate enemies with their irresistible assaults."/>
+	<entry name="Necrons/Construction" value="Slave Mastaba"/>
+	<entry name="Necrons/ConstructionDescription" value="Building that constructs new buildings as well as generates influence and increases loyalty."/>
+	<entry name="Necrons/ConstructionFlavor" value="Everyone has a place in Necron society. The weak-fleshed races of the Old Ones live out their days under crude shelters, where they scrape together their own food, before being sent out to excavate the Necron's long-buried tombs and retrieve the sleeping Necrons."/>
+	<entry name="Necrons/Energy" value="Energy Core"/>
+	<entry name="Necrons/EnergyDescription" value="Building that generates energy."/>
+	<entry name="Necrons/EnergyFlavor" value="Whatever the baroque technology is that the Necron use in their great Energy Cores, it outshines even the Imperial Plasma Ioniser for sheer power -- and it needs to, given that the Necron dynasty depends upon its power supplies as other races do on water or food."/>
+	<entry name="Necrons/Loyalty" value="Baroque Shrine"/>
+	<entry name="Necrons/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="Necrons/LoyaltyFlavor" value="While the Stelae talk of the ancient Necrontyr's victories and glories, this Shrine tells a darker story. It details their conversion to metal and subjugation by the C'tan, and of Szarekh the Silent King and his long-planned betrayal and destruction of the soul-eating Star Gods. Even amongst the soulless Necrons, this inspires reverence."/>
+	<entry name="Necrons/Headquarters" value="Royal Court"/>
+	<entry name="Necrons/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="Necrons/HeadquartersFlavor" value="The seat of the Necron Phaeron and his court is a great bleak building, one of the few great Necron buildings not originally built to venerate the dead. Instead, its shielding walls are a symbolic reflection of the intense radiation the Necrons suffered under, long ago, on their original homeworld, when they were still weak creatures of flesh and bone."/>
+	<entry name="Necrons/Heroes" value="Royal Pyramid"/>
+	<entry name="Necrons/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="Necrons/HeroesFlavor" value="The tomb of the Phaeron, Overlord or Lord and his court, this is where all the most loyal and important retainers retreated to sleep away the centuries until the universe was ready again. Even now, great heroes still lie sleeping in its core, awaiting their Lords' call."/>
+	<entry name="Necrons/Housing" value="Shelters"/>
+	<entry name="Necrons/HousingDescription" value="Building that increases population limit."/>
+	<entry name="Necrons/HousingFlavor" value="Given the average Necron's lack of need for water, food or entertainment, these shelters don't resemble a human shelter or even an Ork shack. Instead, they're partway between a barracks, a tomb and a workshop, where the Crypteks and Canoptek constructs move between dormant Necron warriors, endless maintaining and repairing them."/>
+	<entry name="Necrons/Infantry" value="Summoning Core"/>
+	<entry name="Necrons/InfantryDescription" value="Building that produces infantry and creatures as well as generates research and influence."/>
+	<entry name="Necrons/InfantryFlavor" value="Awakening the long-deactivated troops of a Necron dynasty is slow work, as is repairing those who fall in the field. The Canopteks and Crypteks of the Summoning Core diligently save those who recall to the city -- and dismantle the rest for their rare Necrodermis."/>
+	<entry name="Necrons/Influence" value="Stelae"/>
+	<entry name="Necrons/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="Necrons/InfluenceFlavor" value="Imposing, sky-piercing columns of ancient stone and metal, each Stela records the reign of a long-ago Phaeron of the Necron dynasty. To see the records of millennia of implacable domination makes even the most stolid citizen of the Empire quail."/>
+	<entry name="Necrons/Ore" value="Al-Khemic Quarry"/>
+	<entry name="Necrons/OreDescription" value="Building that harvests ore."/>
+	<entry name="Necrons/OreFlavor" value="To find the rare materials the Crypteks need to maintain and repair the living metal necrodermis and weaponry of the Necron troops, slaves live and die in their Al-Khemic quarries and smelters. Only a tiny fraction of the output is used -- but it's critical to the Necrons' survival."/>
+	<entry name="Necrons/Research" value="Forbidden Archive"/>
+	<entry name="Necrons/ResearchDescription" value="Building that generates research."/>
+	<entry name="Necrons/ResearchFlavor" value="Before the fall, Necron Crypteks were already masters of eldritch technology, able to manipulate matter and energy in ways that seemed magical to lesser races. With immortality came generations of learning, and the Cryptek conclaves become more powerful than ever -- yet the millenia have made them stagnant. In these archives, the Conclave digs for the wisdom of the ancients, rather discovering the secrets of the universe anew."/>
+	<entry name="Necrons/Vehicles" value="Hypostyle Temple"/>
+	<entry name="Necrons/VehiclesDescription" value="Building that produces ground vehicles as well as increases loyalty."/>
+	<entry name="Necrons/VehiclesFlavor" value="This high-roofed building is lined with pillars inside. Between them rest or float the great war machines of the Necrons. Deactivated Doomsday Arks, Annihilation Barges, Monoliths and Obelisks wait in serried ranks for the day when a Lord calls for their repair and they can lead his armies once more."/>
+	<entry name="Orks/Beasts" value="Runtherd Groundz"/>
+	<entry name="Orks/BeastsDescription" value="Building that produces beasts, generates food and influence as well as increases loyalty."/>
+	<entry name="Orks/BeastsFlavor" value="Runtherds do much of the heavy lifting in Ork society, overseeing the Grots who build everything, the Squigs who supply almost all resources and the tiny Snots who are both carers and food for the Squigs. However, on these grounds they also oversee larger projects -- like training Grotz gun crews and rearing the giant Squiggoths."/>
+	<entry name="Orks/Colonizers" value="Mek Bitz Yard"/>
+	<entry name="Orks/ColonizersDescription" value="Building that produces Meks and Mek Gunz as well as generates research."/>
+	<entry name="Orks/ColonizersFlavor" value="A Mek never knows when inspiration is going to hit and he suddenly needs a Thingummy or a Whatyamacallit for his latest invention. For this reason, a Mek's yard is full of broken-up vehicles, machines and tools in case he needs anything suddenly to hand, with teams of lugubrious Grotz endlessly hauling more stuff in."/>
+	<entry name="Orks/Construction" value="Scrap Shedz"/>
+	<entry name="Orks/ConstructionDescription" value="Building that constructs new buildings, generates ore and influence as well as increases population limit."/>
+	<entry name="Orks/ConstructionFlavor" value="Ork buildings are inelegant constructions of waste materials and any scrap that the Meks don't need. The Grotz aren't known to be good architects, but the Orks don't care so long as they get a good fight."/>
+	<entry name="Orks/Energy" value="Powwa Gubbinz"/>
+	<entry name="Orks/EnergyDescription" value="Building that generates energy."/>
+	<entry name="Orks/EnergyFlavor" value="It doesn't pay an Ork to look too closely at the generators that power their world. That's because much of the technology that Ork Meks produce is missing key parts and shouldn't actually work -- but the massed psychic belief of Orks somehow overrides this."/>
+	<entry name="Orks/Food" value="Squig Herdz"/>
+	<entry name="Orks/FoodDescription" value="Building that harvests food."/>
+	<entry name="Orks/FoodFlavor" value="Squigz are essential to the survival of the Ork species. A huge variety of these small creatures accompany every Ork, and fill an array of social and technological niches -- from acting as wigs, to providing oil, to being eaten as food."/>
+	<entry name="Orks/Loyalty" value="Fighting Pitz"/>
+	<entry name="Orks/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="Orks/LoyaltyFlavor" value="Orks don't establish dominance by persuasion, but by brute force. A Nob or Warboss is simply a bigger Ork -- and the longer they fight, the bigger they get. Fights for dominance or disputes are often worked out in the ritual pits, entertaining the whole Warband in the process. (It's an unfortunate Ork that confuses these pits with the identical looking 'drops' -- the Ork toilets.)"/>
+	<entry name="Orks/Headquarters" value="Boss Tower"/>
+	<entry name="Orks/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="Orks/HeadquartersFlavor" value="Once a Warboss has amassed an army of a certain size, he can no longer command with the simple cudgelling and swearing his boyz have grown to love. The Boss Tower doubles up as a place for the boss to live and a bully pulpit from which he can bellow at his hordes."/>
+	<entry name="Orks/Heroes" value="Kommando Kamp"/>
+	<entry name="Orks/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="Orks/HeroesFlavor" value="The Blood Axe Clan of Orks are somewhat shunned by their brethren, for not being 'real Orks'. This is because they've adapted to the proximity of humans over the long-millenia and adopted some very un-Orky behaviour, like Taktiks and Runnin Away. Blood Axe Kommandos have gone one step further, using camouflage to surprise their enemies."/>
+	<entry name="Orks/Housing" value="Grotz Hutz"/>
+	<entry name="Orks/HousingDescription" value="Building that increases population limit."/>
+	<entry name="Orks/HousingFlavor" value="Curiously, the Grotz' Hutz are better than those of the Boyz. Sure, from the outside they look even more ramshackle and run-down, while the inside is  still built from garbage festooned with mushrooms, squigs and snotlings. But there's a certain pride and personalisation in the squalor that the Boyz' shacks lack."/>
+	<entry name="Orks/Infantry" value="Pile O' Dakka"/>
+	<entry name="Orks/InfantryDescription" value="Building that produces infantry and walkers as well as generates influence."/>
+	<entry name="Orks/InfantryFlavor" value="'What's better than a gun?' asks an Ork. 'A bigga gun', answers another. Shortly before the fight starts, they agree that, even better than the biggest gun, is a big pile of big guns. That's exactly what we have here -- Mek-made guns of all shapes and sizes, loosely stacked, ready for a Boy or Killa Kan to grab when the fighting starts."/>
+	<entry name="Orks/Influence" value="Weirdboyz Pole"/>
+	<entry name="Orks/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="Orks/InfluenceFlavor" value="The Ork psykers known as Weirdboyz are a peril at the quietest of times, given their endless accumulation of Waaagh! energy -- and in the middle of a horde, a brain bursting chain reaction is normal. This giant metal pole is the Orks' ingenious answer, earthing the psykers' psychic blasts as long as they're tied to it."/>
+	<entry name="Orks/Ore" value="Diggaz and Smeltaz"/>
+	<entry name="Orks/OreDescription" value="Building that harvests ore."/>
+	<entry name="Orks/OreFlavor" value="When Orks can't get scrap, they'll instead order their Grot serfs to dig up ore-rich rocks. Whilst the Snakebites are happy to use manual labour and whips, most clans' Meks come up with preposterous and crude inventions for extracting the ore, which have varying degrees of lethality for their unlucky Grot operators."/>
+	<entry name="Orks/Research" value="Fink Tank"/>
+	<entry name="Orks/ResearchDescription" value="Building that generates research."/>
+	<entry name="Orks/ResearchFlavor" value="One of the more persistent myths of the Orks is about their long-vanished creators, the 'Brainboyz', who they believe encoded highly advanced technology into the Orks' genes aeons ago. Meks, Doks and Runtherdz are Orks who display this knowledge -- and the Fink Tank is a good place to lock 'em until they remember another good idea."/>
+	<entry name="Orks/Vehicles" value="Kult ov Speed"/>
+	<entry name="Orks/VehiclesDescription" value="Building that produces wheeled vehicles and aircraft as well as generates research and influence."/>
+	<entry name="Orks/VehiclesFlavor" value="Though they still love war and big explosions, the Orks known as Speed Freeks love velocity even more. They will extensively and obsessively customise their bikes and aircraft, removing all the safety features, to the point where they're sitting on a giant engine -- painted crimson because 'red wunz go fasta'."/>
+	<entry name="SpaceMarines/Aircraft" value="Launch Pads"/>
+	<entry name="SpaceMarines/AircraftDescription" value="Building that produces aircraft as well as generates requisitions and influence."/>
+	<entry name="SpaceMarines/AircraftFlavor" value="Staging area for the Chapter's aerial assault craft and transports, from whence battle-brothers may embark upon their endless crusade. The fortress-monastery's active gunships, interceptors, landing craft and even its mighty Thunderhawks are housed in a hive of hangars below the launch pads."/>
+	<entry name="SpaceMarines/Construction" value="Orbital Relay"/>
+	<entry name="SpaceMarines/ConstructionDescription" value="Building that constructs new buildings and generates influence."/>
+	<entry name="SpaceMarines/ConstructionFlavor" value="In normal times, the various Teleportaria would be used to transport troops to and from nearby starships. In these warptorn times, the Orbital Relay serves a more important function, communicating with the low-orbiting Battle Barge and calling down important requisitions for rapid surface deployment."/>
+	<entry name="SpaceMarines/Energy" value="Generatorum"/>
+	<entry name="SpaceMarines/EnergyDescription" value="Building that generates energy."/>
+	<entry name="SpaceMarines/EnergyFlavor" value="Though the light of the Emperor is the true source of every Chapter's strength, a physical power source is also required. The exact nature of its Generatorum differs from Chapter to Chapter. The Space Wolves, for instance, have driven immense crystal shafts deep into the surface of the planet Fenris, transforming subterranean heat into the endless energy their fortress-monastery demands."/>
+	<entry name="SpaceMarines/GeneseedBunker" value="Geneseed Bunker"/>
+	<entry name="SpaceMarines/GeneseedBunkerDescription" value="Building that stores the geneseed of your chapter and generates influence."/>
+	<entry name="SpaceMarines/GeneseedBunkerFlavor" value="Using all of the secrets of the machine spirits, Techmarines have designed these bunkers to be shielded in every possible way -- physically, electromagnetically and psychically. It will take the labour of hundreds of heavy Servitors, but even if a Chapter's warriors die to a man, the Apothecaries and geneseed in these bunkers will be able to resurrect it... eventually."/>
+	<entry name="SpaceMarines/Headquarters" value="Great Hall"/>
+	<entry name="SpaceMarines/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="SpaceMarines/HeadquartersFlavor" value="Every fortress-monastery contains myriad halls large enough to house several armies, but most have too a Great Hall, centerpiece of a Chapter's home. Trophies, relics and even its most revered spacecraft may be housed within the Great Hall. If the sight of the Great Hall does not reduce a visitor to dumbfounded silence, then it has failed in its purpose."/>
+	<entry name="SpaceMarines/Heroes" value="Reclusiam"/>
+	<entry name="SpaceMarines/HeroesDescription" value="Building that produces heroes as well as generates influence and increases loyalty."/>
+	<entry name="SpaceMarines/HeroesFlavor" value="For those rare ceremonies that require the attendance of every Battle Brother, the vastness of the Reclusiam allows the entire Chapter to gather. This is the most precious place in a fortress-monastery -- home to its most sacred relics and, in a rare few, the very body of its Primarch. It is also the seat of the chapter's commanders and heroes."/>
+	<entry name="SpaceMarines/Housing" value="Dormitories"/>
+	<entry name="SpaceMarines/HousingDescription" value="Building that increases population limit."/>
+	<entry name="SpaceMarines/HousingFlavor" value="Though each Battle-Brother receives his own personal cell, those members of a Chapter who do not directly enforce the will of the Emperor share communal quarters spread across the fortress-monastery. Support staff including servants, nurses and technicians call these stark dormitories home."/>
+	<entry name="SpaceMarines/Infantry" value="Apothecarion"/>
+	<entry name="SpaceMarines/InfantryDescription" value="Building that produces infantry as well as generates research and increases loyalty."/>
+	<entry name="SpaceMarines/InfantryFlavor" value="The Apothecarion provides medical support for wounded Battle-Brothers, and plays a vital role in the elevation of an Aspirant to a Space Marine. Both these functions pale into insignificance against the Apothecarion's other purpose -- the preservation of its Chapter's unique gene-seed, from which new Space Marines are created. If the gene-seed is lost, so too is the Chapter."/>
+	<entry name="SpaceMarines/Influence" value="Assimularum"/>
+	<entry name="SpaceMarines/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="SpaceMarines/InfluenceFlavor" value="An immense and high-ceilinged gathering-place, wherein every member of the Chapter may assemble to attend briefings, ceremonies and even feasts of particular import. In most fortress-monasteries, the Great Hall is the only room to exceed the sheer size of the Assimularum."/>
+	<entry name="SpaceMarines/Loyalty" value="Company Chapel"/>
+	<entry name="SpaceMarines/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="SpaceMarines/LoyaltyFlavor" value="Here the Chaplains tend to the spiritual well-being of their charges, ensuring the discipline of every Marine and keeping their minds and spirits pure. In order to accommodate this, each of the Chapter's ten Companies has its own dedicated chapel. Greater ceremonies take place in the Reclusiam itself."/>
+	<entry name="SpaceMarines/Requisitions" value="Refectory"/>
+	<entry name="SpaceMarines/RequisitionsDescription" value="Building that generates requisitions."/>
+	<entry name="SpaceMarines/RequisitionsFlavor" value="The Chapter's mammoth dining halls and kitchens are contained within its Refectories. The Space Marine diet is a spartan affair, augmented with a cocktail of bio-chemical supplements to ensure constant battle-readiness. The Battle-Brothers consume this repast in complete silence."/>
+	<entry name="SpaceMarines/Research" value="Librarium"/>
+	<entry name="SpaceMarines/ResearchDescription" value="Building that generates research."/>
+	<entry name="SpaceMarines/ResearchFlavor" value="Though also a store for extensive written histories of its Chapter, the Librarium is first and foremost its central command, communications and defence station. Here, Astropaths manage external and intra-base comms, while Librarians and psykers pore over, protect and update the Chapter's centuries of wisdom."/>
+	<entry name="SpaceMarines/Vehicles" value="Armoury"/>
+	<entry name="SpaceMarines/VehiclesDescription" value="Building that produces ground vehicles as well as generates requisitions and research."/>
+	<entry name="SpaceMarines/VehiclesFlavor" value="Home to anything that a Marine might employ to purge the battlefield of xenos and heretics, from the simplest combat knife to the most redoubtable of relics. The Master of Ordnance keeps a close watch upon the Chapter's wargear -- only his gene-print can grant access to this titanic underground repository of weapons and vehicles."/>
+	<entry name="Tyranids/Aircraft" value="Capillary Tower"/>
+	<entry name="Tyranids/AircraftDescription" value="Building that produces flying monstrous creatures and generates research as well as increases the loyalty and population limit."/>
+	<entry name="Tyranids/AircraftFlavor" value="Tall as a human Hive City, Capillary Towers are the backbone of Tyranid conquest. Here, the resources of the planet are siphoned from Reclamation Pools and fed up through the troposphere to meet the umbilical tongues of orbiting Hive ships. On Gladius, the Towers have no Hive Ships to feed. Instead, Gargoyles and Hive Crones crawl from birthing sacs on the Tower's sides and wait for their newborn wings to stiffen so they can join the war."/>
+	<entry name="Tyranids/Biomass" value="Reclamation Pool"/>
+	<entry name="Tyranids/BiomassDescription" value="Building that generates biomass."/>
+	<entry name="Tyranids/BiomassFlavor" value="A Reclamation Pool is one of the core structures of a Tyranid invasion, a wide bubbling cartilaginous pit bubbling with acids and enzymes. Irrespective of the war raging around it, the Hive's swarming rippers bring collected biomass to the Reclamation Pool where it is dissolved. In a normal situation, it would be fed through Capillary Towers up to the waiting Hive Fleet; on Gladius, the biomass is stored or used in the creation of more troops."/>
+	<entry name="Tyranids/Construction" value="Megafauna Sac"/>
+	<entry name="Tyranids/ConstructionDescription" value="Building that constructs new buildings as well as generates biomass and increases the population limit."/>
+	<entry name="Tyranids/ConstructionFlavor" value="Nothing reflects the inhumanity of a hive more than the Megafauna Sac. To a human eye, its smooth membranous dome is reminiscent of a design for a museum. However, when it tears itself asunder to reveal another giant biostructure, pulsating and screaming in its birth throes -- when that building is half-dragged, half-crawls its towering flesh into position -- when the Sac gums itself back together and ripper swarms consume its afterbirth -- the human mind then sees it as truly alien."/>
+	<entry name="Tyranids/Headquarters" value="Norn Cyst"/>
+	<entry name="Tyranids/HeadquartersDescription" value="Headquarters building that generates resources."/>
+	<entry name="Tyranids/HeadquartersFlavor" value="The organising organism of a Tyranid's hive, the Norn Cyst is always the first biostructure to be placed. The Malanthrope places the hive in a suitable location and tends its exponential growth as the hive manages and defends any connected biostructures. When the hive's use has passed, the Malanthrope strips the Cyst's living connections and carries to a new source of biomass. The remaining redundant structure sloughs itself back into the nearest reclamation pool. Soon, the hive is completely gone."/>
+	<entry name="Tyranids/Heroes" value="Alpha Ovipository"/>
+	<entry name="Tyranids/HeroesDescription" value="Building that produces heroes as well as generates biomass and increases loyalty."/>
+	<entry name="Tyranids/HeroesFlavor" value="Whilst the Anthropia emerge solely from the Aedanthropum's long-gestation sacs, the most complex synapse creatures take even more of the Hive Mind's resources and, crucially, focus. Each Tyrant, Tervigon and Prime requires careful design from the Mind, to give it that balance between total control and useful independence. The concentrated sensoria of the Ovipository enable that focus."/>
+	<entry name="Tyranids/Housing" value="Hibernation Marsupia"/>
+	<entry name="Tyranids/HousingDescription" value="Building that increases population limit."/>
+	<entry name="Tyranids/HousingFlavor" value="Excess biomass and genetic data are simply stored in the thickened walls of the biostructures or flow twitching between them. But when a creature has been grown, sometimes the Hive Mind deems it more efficient to retain it but shut down its functions, stored in serried ranks of marsupia."/>
+	<entry name="Tyranids/Infantry" value="Brood Nest"/>
+	<entry name="Tyranids/InfantryDescription" value="Building that produces infantry and beasts as well as generates biomass."/>
+	<entry name="Tyranids/InfantryFlavor" value="While a Norn Queen normally produces all the creatures of a Tyranid invasion, in the circumstances that a brood is physically isolated from the Hive Fleet, certain specialised structures are used. Smaller creatures like Termagants are gestated in the pods of this nest, fed and warmed by the unthinking structures."/>
+	<entry name="Tyranids/Influence" value="Synapse Node"/>
+	<entry name="Tyranids/InfluenceDescription" value="Building that generates influence."/>
+	<entry name="Tyranids/InfluenceFlavor" value="The Hive Mind's capabilities aren't spread evenly throughout its structures -- somewhere, there needs to be concentrated systems for thought. In the Hive Fleet, these are the Norn Queens. On the ground, these synapses act as temporary back-ups to the network effect from its individual creatures, allowing the Mind to focus on more objectives than simply controlling the swarm."/>
+	<entry name="Tyranids/Loyalty" value="Coherence Node"/>
+	<entry name="Tyranids/LoyaltyDescription" value="Building that increases loyalty."/>
+	<entry name="Tyranids/LoyaltyFlavor" value="An Imperial scholar, might make an analogy between a coherence node and something like a radio tower -- and, certainly, it's orchid-ear appearance fits -- but it doesn't transmit but receives. The node's folded surfaces track the locations of the Hive Mind's creatures for the most efficient deployment of its synapses, to prevent the Hive swarms falling into anarchy and chaos."/>
+	<entry name="Tyranids/Research" value="Genetic Epicure"/>
+	<entry name="Tyranids/ResearchDescription" value="Building that generates research."/>
+	<entry name="Tyranids/ResearchFlavor" value="Though the Malanthropes are responsible for physically collecting genetic data from a planet's population, the Epicure is the structure that processes those samples. Inside the Epicure's fluted mass, delicate structures pare and sort the genetic samples, testing them on a microscopic scale for useful innovations. When something is discovered, it is immediately communicated to the Norn Cyst and hence onto the Hive Mind."/>
+	<entry name="Tyranids/Thropes" value="Aedanthropum"/>
+	<entry name="Tyranids/ThropesDescription" value="Building that produces Thropes and generates research."/>
+	<entry name="Tyranids/ThropesFlavor" value="Not all Tyranid creatures are equal; whilst Termagants and Hormagaunts require little focus and unspecialised resources, the construction and gestation of more complex creatures can take more care. In isolated hives like that of Gladius, the diverse support creatures the Imperium calls Anthropia -- Venomthropes, Zoanthropes and Malanthropes -- all emerge from a specialised biostructure of gristly columns, podia and caverns."/>
+	<entry name="Tyranids/Vehicles" value="Brood Haunt"/>
+	<entry name="Tyranids/VehiclesDescription" value="Building that produces ground-based monstrous creatures and generates biomass."/>
+	<entry name="Tyranids/VehiclesFlavor" value="Some of the Hive Mind's creations are produced by separate biostructures because of the care and resources taken in their rendering. Others are simply large. The Brood Haunt houses those brutish giants that are far too big for the Brood Nest. Inside this high-spined haunt, womb-caverns of bone filled with suspensory fluid allow the layering of muscle and bone for these monstrous giants."/>
+</language>

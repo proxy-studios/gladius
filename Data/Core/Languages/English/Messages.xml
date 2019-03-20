@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<language>
+	<entry name="ConnectingToServer" value="Connecting to server ..."/>
+	<entry name="ConnectionLost" value="Connection lost."/>
+	<entry name="GameLoaded" value="Game loaded"/>
+	<entry name="GameSaved" value="Game saved"/>
+	<entry name="IncompatibleVersion" value="Incompatible game version."/>
+	<entry name="Kicked" value="You have been kicked from the server."/>
+	<entry name="MasterServerUnreachable" value="Could not connect to master server."/>
+	<entry name="MissingDLC" value="Missing DLC."/>
+	<entry name="NetworkError" value="Network Error"/>
+	<entry name="NoFreeSlots" value="No free slot available on the server."/>
+	<entry name="NoGames" value="No public games are currently open.<br/>Why not start one?"/>
+	<entry name="NoValidTargets" value="<style color='GUI/Red'/>No valid targets"/>
+	<entry name="PlayerJoined" value="%1% has joined."/>
+	<entry name="PlayerLeft" value="%1% has left."/>
+	<entry name="PleaseEnterYourName" value="Please enter your name."/>
+	<entry name="PleaseWait" value="<style color='GUI/Red'/>Please wait"/>
+	<entry name="ReceivingInfo" value="Receiving info ..."/>
+	<entry name="RetrievingServerList" value="Retrieving server list ..."/>
+	<entry name="ScreenShotSaved" value="Screen shot saved"/>
+	<entry name="ScreenShotSaveError" value="Error saving screen shot"/>
+	<entry name="ServerInfo" value="Server Info"/>
+	<entry name="ServerUnreachable" value="Could not connect to server.<br/><br/>To improve connectivity, ensure you have disabled your firewalls and enabled UPnP on your router or forwarded TCP port %1% to your local machine."/>
+	<entry name="SelectTarget" value="Select target"/>
+</language>
